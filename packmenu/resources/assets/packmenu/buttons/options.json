@@ -1,0 +1,24 @@
+{
+    "x": 20,
+    "y": 30,
+    "width": 80,
+    "height": 20,
+    "text": {
+        "key": "menu.options",
+        "y_offset": -3
+    },
+    "icon": {
+        "texture": "packmenu:icon/options",
+        "width": 120,
+        "height": 30
+    },
+    "hover_icon": {
+        "texture": "packmenu:icon/options_highlighted",
+        "width": 120,
+        "height": 30
+    },
+    "action": {
+        "type": "packmenu:open_screen",
+        "screen": "options"
+    }
+}

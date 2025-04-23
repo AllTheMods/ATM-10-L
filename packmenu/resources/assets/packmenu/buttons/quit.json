@@ -1,0 +1,23 @@
+{
+    "x": -40,
+    "y": 90,
+    "width": 80,
+    "height": 20,
+    "text": {
+        "key": "menu.quit",
+        "y_offset": -3
+    },
+    "icon": {
+        "texture": "packmenu:icon/quit",
+        "width": 120,
+        "height": 30
+    },
+    "hover_icon": {
+        "texture": "packmenu:icon/quit_highlighted",
+        "width": 120,
+        "height": 30
+    },
+    "action": {
+        "type": "packmenu:quit"
+    }
+}

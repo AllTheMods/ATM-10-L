@@ -1,0 +1,15 @@
+{
+    "x": 70,
+    "y": 90,
+    "width": 20,
+    "height": 20,
+    "icon": {
+        "texture": "minecraft:icon/accessibility",
+        "width": 15,
+        "height": 15
+    },
+    "action": {
+        "type": "packmenu:open_screen",
+        "screen": "accessibility"
+    }
+}

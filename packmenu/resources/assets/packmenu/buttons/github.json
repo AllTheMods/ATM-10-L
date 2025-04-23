@@ -1,0 +1,25 @@
+{
+    "x": 20,
+    "y": 60,
+    "width": 80,
+    "height": 20,
+    "text": {
+        "key": "packmenu.github",
+        "y_offset": -3,
+        "x_offset": 5
+    },
+    "icon": {
+        "texture": "packmenu:icon/github",
+        "width": 120,
+        "height": 30
+    },
+    "hover_icon": {
+        "texture": "packmenu:icon/github_highlighted",
+        "width": 120,
+        "height": 30
+    },
+    "action": {
+        "type": "packmenu:open_url",
+        "url": "https://github.com/AllTheMods/ATM-10-L/issues"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "x": -100,
+    "y": 60,
+    "width": 80,
+    "height": 20,
+    "text": {
+        "key": "packmenu.akliz",
+        "y_offset": -3,
+        "x_offset": 5
+    },
+    "icon": {
+        "texture": "packmenu:icon/akliz",
+        "width": 120,
+        "height": 30
+    },
+    "hover_icon": {
+        "texture": "packmenu:icon/akliz_highlighted",
+        "width": 120,
+        "height": 30
+    },
+    "action": {
+        "type": "packmenu:open_url",
+        "url": "https://www.akliz.net/allthemods"
+    }
+}
