@@ -1,0 +1,118 @@
+{
+	id: "64E6D6A658988648"
+	loot_size: 1
+	order_index: 30
+	rewards: [
+		{
+			id: "1A8AB64B57C67197"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mysticalagriculture:tertium_farmland"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "0E9A766F43348BD8"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mysticalagriculture:tertium_essence"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "2C0A9EBE8858545D"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mysticalagriculture:tertium_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 2.5f
+		}
+		{
+			id: "3AA9844D65360926"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mysticalagriculture:tertium_gemstone"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "73A247464B466D41"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mysticalagriculture:tertium_block"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "00CBE03AE16DBE68"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mysticalagradditions:tertium_apple"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "1044FC1AF033F8D2"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mysticalagradditions:tertium_coal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 2.5f
+		}
+		{ id: "491583A0C3F58F6E", item: { components: { "ftbquests:missing_item": "mysticalagriculture:copper_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "73D8AE215F1B7E28", item: { components: { "ftbquests:missing_item": "mysticalagriculture:iron_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "781E81610EFE022D", item: { components: { "ftbquests:missing_item": "mysticalagriculture:nether_quartz_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "219794BF86976DC1", item: { components: { "ftbquests:missing_item": "mysticalagriculture:redstone_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "749D317BA62604A0", item: { components: { "ftbquests:missing_item": "mysticalagriculture:glowstone_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "00CCDC29FA342D2F", item: { components: { "ftbquests:missing_item": "mysticalagriculture:obsidian_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "60C816CE7A0EFFB1", item: { components: { "ftbquests:missing_item": "mysticalagriculture:tin_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "547F77013994EB9B", item: { components: { "ftbquests:missing_item": "mysticalagriculture:bronze_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6B6228D03C455CE3", item: { components: { "ftbquests:missing_item": "mysticalagriculture:zinc_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2C38D7E7B05E27F7", item: { components: { "ftbquests:missing_item": "mysticalagriculture:silver_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6570E6B37AFDFBD9", item: { components: { "ftbquests:missing_item": "mysticalagriculture:lead_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "38DD8CEC1EC9BB21", item: { components: { "ftbquests:missing_item": "mysticalagriculture:graphite_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "65EAE4457E707AFF", item: { components: { "ftbquests:missing_item": "mysticalagriculture:sky_stone_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "169E4322AFBE24F7", item: { components: { "ftbquests:missing_item": "mysticalagriculture:certus_quartz_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1A5BDD02FD876AF1", item: { components: { "ftbquests:missing_item": "mysticalagriculture:brass_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "41CAAB4971923F18", item: { components: { "ftbquests:missing_item": "mysticalagriculture:prismarine_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "14CE7D5D9216E14E", item: { components: { "ftbquests:missing_item": "mysticalagriculture:zombie_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2FE264BC6636CCAA", item: { components: { "ftbquests:missing_item": "mysticalagriculture:creeper_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6DFE20F200A9B71A", item: { components: { "ftbquests:missing_item": "mysticalagriculture:spider_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "56D9C363A37F4CAD", item: { components: { "ftbquests:missing_item": "mysticalagriculture:skeleton_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "776883BC39C2A17A", item: { components: { "ftbquests:missing_item": "mysticalagriculture:rabbit_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7399126CCFA0ECCF", item: { components: { "ftbquests:missing_item": "mysticalagriculture:darkstone_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "55BAF1878B6DA324", item: { components: { "ftbquests:missing_item": "mysticalagriculture:azure_silver_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6BC61CD7E23C094D", item: { components: { "ftbquests:missing_item": "mysticalagriculture:crimson_iron_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "25A2437EE679B267", item: { components: { "ftbquests:missing_item": "mysticalagriculture:redstone_alloy_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "31E80459C7053AB4", item: { components: { "ftbquests:missing_item": "mysticalagriculture:steeleaf_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6E90E338772DF6B8", item: { components: { "ftbquests:missing_item": "mysticalagriculture:xychorium_gem_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2E18B3D90551AE42", item: { components: { "ftbquests:missing_item": "mysticalagriculture:copper_alloy_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5CE46A464C05F4F9", item: { components: { "ftbquests:missing_item": "mysticalagriculture:conductive_alloy_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "005D7D46B0012AE0", item: { components: { "ftbquests:missing_item": "mysticalagriculture:ironwood_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1CFA4D7AE76960CE", item: { components: { "ftbquests:missing_item": "mysticalagriculture:black_quartz_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+	use_title: true
+}

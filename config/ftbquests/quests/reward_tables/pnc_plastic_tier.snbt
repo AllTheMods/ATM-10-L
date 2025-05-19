@@ -1,0 +1,308 @@
+{
+	id: "5A138D1EDF8AA0C1"
+	loot_size: 1
+	order_index: 23
+	rewards: [
+		{
+			count: 5
+			id: "626D3ADF74F221A1"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_black"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "72CE04965B3A4405"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_blue"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "40995E5CAC368AFD"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_brown"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "32344067B6DA9534"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_cyan"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "6BE776E4754DFC94"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_gray"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "52D90D62C5F55C7F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_green"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "1000451F32424628"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_light_blue"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "0CA9C326707F169E"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_light_gray"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "3A7952346A509E5C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_lime"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "57AA8F87316683D2"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_magenta"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "2F1FE4C779B8464A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_orange"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "7FFF7C280062DF8B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_pink"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "7C423CEE4F67684F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_purple"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "209F1740427D239B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_red"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "3D7385652FEBA19F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_white"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "4780C6E587AD39E5"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic_brick_yellow"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "70D1E71BED5FB779"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:plastic"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+		}
+		{
+			id: "4B5A98E45AB92D05"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:elevator_base"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "6570F297CB89BD66"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:elevator_caller"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 5
+			id: "5AA8CFBBF2BF58ED"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:elevator_frame"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+		}
+		{
+			id: "46367BB4AB03F60D"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:pneumatic_door"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "2CB0804D83700D2B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:pneumatic_door_base"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 2
+			id: "4134D87E3C7ACA65"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:empty_pcb"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "6A67B270E75D9C5C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:pcb_blueprint"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{ id: "69714C437B93466D", item: { components: { "ftbquests:missing_item": "pneumaticcraft:solar_wafer" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+	use_title: true
+}

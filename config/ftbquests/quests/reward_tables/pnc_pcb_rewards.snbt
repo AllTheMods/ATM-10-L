@@ -1,0 +1,50 @@
+{
+	id: "43C220CBD5447FE6"
+	loot_size: 1
+	order_index: 25
+	rewards: [
+		{ id: "067E5DD3D06BD01E", item: { components: { "ftbquests:missing_item": "pneumaticcraft:unassembled_pcb" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "715845EFB1CFCEA8"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:printed_circuit_board"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{ id: "4D222252EF30746F", item: { components: { "ftbquests:missing_item": "pneumaticcraft:failed_pcb" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "6CD2EB0E23E6437C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:micromissiles"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{ id: "6FEF6CD16C260A22", item: { components: { "ftbquests:missing_item": "pneumaticcraft:drone" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1EA68313E5FF643A", item: { components: { "ftbquests:missing_item": "pneumaticcraft:drone_interface" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "042EE0A2FD991BC0", item: { components: { "ftbquests:missing_item": "pneumaticcraft:programmer" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5429B6014612B1FB", item: { components: { "ftbquests:missing_item": "pneumaticcraft:security_station" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "721A62F5EF4E9634", item: { components: { "ftbquests:missing_item": "pneumaticcraft:smart_chest" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "13ECDAF952881997", item: { components: { "ftbquests:missing_item": "pneumaticcraft:smart_chest_kit" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 4
+			id: "33241F1050EEA385"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:programming_puzzle"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+		}
+	]
+	use_title: true
+}

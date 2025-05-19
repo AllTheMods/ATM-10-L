@@ -1,0 +1,42 @@
+{
+	id: "5832C9BCFDB476AF"
+	loot_size: 1
+	order_index: 27
+	rewards: [
+		{
+			count: 3
+			id: "3FBBFAAAEE8689BB"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ars_nouveau:source_gem"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 5
+			id: "597B826FAB549707"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ars_nouveau:source_berry_pie"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 5
+			id: "0F923611F6957564"
+			item: {
+				components: {
+					"ftbquests:missing_item": "ars_nouveau:source_berry_roll"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "6F2F44E8CF4DA8C0", item: { components: { "ftbquests:missing_item": "ars_nouveau:source_jar" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+	use_title: true
+}

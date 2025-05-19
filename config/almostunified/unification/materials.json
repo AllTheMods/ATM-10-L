@@ -1,0 +1,56 @@
+{
+  "mod_priorities": [
+    "minecraft",
+    "alltheores",
+    "allthemodium",
+    "kubejs",
+    "mekanism",
+    "occultism",
+    "industrialforegoing",
+    "ae2",
+    "utilitarian",
+    "oreberriesreplanted"
+  ],
+  "priority_overrides": {},
+  "stone_variants": [
+    "stone",
+    "andesite",
+    "deepslate",
+    "diorite",
+    "granite",
+    "nether",
+    "end",
+    "ancient"
+  ],
+  "tags": [
+    "c:dusts/{material}",
+    "c:gears/{material}",
+    "c:gems/{material}",
+    "c:ingots/{material}",
+    "c:nuggets/{material}",
+    "c:ores/{material}",
+    "c:plates/{material}",
+    "c:raw_materials/{material}",
+    "c:rods/{material}",
+    "c:storage_blocks/raw_{material}",
+    "c:storage_blocks/{material}",
+    "c:wires/{material}",
+    "c:clumps/{material}",
+    "c:crystals/{material}",
+    "c:dirty_dusts/{material}",
+    "c:shards/{material}",
+    "c:silicon",
+    "atm10:tiny_coals",
+    "atm10:tiny_charcoals"
+  ],
+  "ignored_tags": [],
+  "ignored_items": [
+  ],
+  "ignored_recipe_types": [
+    "cucumber:shaped_tag"
+  ],
+  "ignored_recipe_ids": [],
+  "recipe_viewer_hiding": true,
+  "loot_unification": false,
+  "ignored_loot_tables": []
+}

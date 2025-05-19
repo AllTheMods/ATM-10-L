@@ -1,0 +1,323 @@
+{
+	id: "57002573D954732E"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{
+			count: 10
+			id: "1971F97DDF8A759B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:ingot_iron_compressed"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 1.5f
+		}
+		{
+			count: 10
+			id: "671B368C9776BB83"
+			item: {
+				components: {
+					"ftbquests:missing_item": "securitycraft:reinforced_stone"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 1.5f
+		}
+		{
+			count: 5
+			id: "62F072B82E267AF4"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:pressure_tube"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 1.5f
+		}
+		{
+			count: 10
+			id: "7F9D944025121D32"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:reinforced_bricks"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+			weight: 1.5f
+		}
+		{
+			count: 5
+			id: "559604A35ABCC296"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:compressed_stone"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 10
+		}
+		{ id: "7B523E39C682BA15", item: { components: { "ftbquests:missing_item": "pneumaticcraft:air_compressor" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "7B5DDD8204127CC1"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:gun_ammo"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "2ED3E674FEEEAF15"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:compressed_iron_block"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			count: 2
+			id: "3D02D8EF0CFAC4B6"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:speed_upgrade"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+			weight: 0.75f
+		}
+		{ id: "10C3FDF0E26364DA", item: { components: { "ftbquests:missing_item": "pneumaticcraft:crop_support" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1BD6739FD0AAD53A", item: { components: { "ftbquests:missing_item": "pneumaticcraft:tube_junction" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "1F89CC6FFA9C0D31"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:gun_ammo_ap"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "3D2E08418A448CB2"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:gun_ammo_explosive"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "6590082CFE5FBBB4"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:gun_ammo_freezing"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "42AD7377415294C8"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:gun_ammo_incendiary"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "3FD19DF9B335C0D5"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:gun_ammo_weighted"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 10
+			id: "487D510D3B364794"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:pressure_chamber_wall"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+		}
+		{
+			id: "59CBD16CFBBFCED5"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:pressure_chamber_valve"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+		}
+		{ id: "58C982FDC56FD1BB", item: { components: { "ftbquests:missing_item": "pneumaticcraft:pressure_chamber_interface" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 5
+			id: "75BFFE4C6F14A09A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:pressure_chamber_glass"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 5
+		}
+		{ id: "2BCFA12DA1E2F3C8", item: { components: { "ftbquests:missing_item": "pneumaticcraft:reinforced_chest" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "5C5E6C4456E57343"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:logistics_frame_active_provider"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "1A906BA0FB2FC0EE"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:logistics_frame_default_storage"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "3056D81D94D4EB8B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:logistics_frame_passive_provider"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "081BF83B0B67A143"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:logistics_frame_requester"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "39A83DC6809CBBCE"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:logistics_frame_storage"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "16F4D96FC14F662A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:logistics_core"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+		}
+		{ id: "0C5045652DA2ED00", item: { components: { "ftbquests:missing_item": "pneumaticcraft:logistics_module" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 2
+			id: "5CBAF428B2D2C60C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:small_tank"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "01CCCFE529FF86DF", item: { components: { "ftbquests:missing_item": "pneumaticcraft:pressure_gauge" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "0713CD4511065D73"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:safety_tube_module"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{ id: "2DA8C9A62EA1ED6C", item: { components: { "ftbquests:missing_item": "pneumaticcraft:liquid_compressor" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "132244CB82AA0984", item: { components: { "ftbquests:missing_item": "pneumaticcraft:thermal_compressor" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7138B26B68AF2669", item: { components: { "ftbquests:missing_item": "pneumaticcraft:vortex_tube" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3CCF1554D8A85AFB", item: { components: { "ftbquests:missing_item": "pneumaticcraft:omnidirectional_hopper" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "40E256670EA0AF38", item: { components: { "ftbquests:missing_item": "pneumaticcraft:liquid_hopper" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "106B7D10E34E9D6B", item: { components: { "ftbquests:missing_item": "pneumaticcraft:transfer_gadget" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 2
+			id: "6DF41F4FF82F8246"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:air_canister"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "36C0E34C1B787B64"
+			item: {
+				components: {
+					"ftbquests:missing_item": "pneumaticcraft:manual_compressor"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 1.5f
+		}
+	]
+	use_title: true
+}

@@ -1,4 +1,4 @@
-All The Mods 9
+All The Mods 10 Lite
 ======
 This is the official repository and issue-tracker for All The Mods 10 Lite 1.21
 

@@ -1,0 +1,25 @@
+[
+  {"version":2},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"mekanism:creative_chemical_tank"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"mekanism:creative_fluid_tank"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"mekanism:creative_bin"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"ae2:creative_storage_cell"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"rftoolspower:dimensionalcell_creative"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"ftbquests:stage_barrier"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"ftbquests:barrier"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:dirty_iron","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:clean_iron","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:clean_gold","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:dirty_gold","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:dirty_osmium","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:clean_osmium","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:dirty_copper","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:clean_copper","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:dirty_tin","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:clean_tin","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:dirty_lead","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:clean_lead","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:dirty_uranium","type":"mekanism.api.chemical.ChemicalStack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:clean_uranium","type":"mekanism.api.chemical.ChemicalStack"}}
+
+]
