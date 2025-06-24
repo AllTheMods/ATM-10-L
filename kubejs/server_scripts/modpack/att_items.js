@@ -1,114 +1,165 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
+// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10 LITE.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-/*
+
 ServerEvents.recipes(allthemods => {
-  // Dragon Soul
-  allthemods.shaped('allthetweaks:dragon_soul', ['CDA', 'SNI', 'BGE'], {
-    C: 'apothic_enchanting:infused_breath',
-    D: 'occultism:soul_gem',
-    A: 'occultism:spawn_egg/familiar_dragon',
-    S: 'productivetrees:socotra_dragon_sapling',
-    N: ['hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1255]', 'hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1254]'],
-    I: 'allthemodium:piglich_heart_block',
-    B: 'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:soul_lava"}]',
-	  G: 'cataclysm:abyssal_sacrifice',
-    E: 'eternal_starlight:chain_of_souls'
-  }).id('allthemods:allthetweaks/dragon_soul')
+// Dragon Soul
+allthemods.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 400000,
+  "input": {
+    "item": "extendedcrafting:ultimate_singularity"
+  },
+  "ingredients": [
+    {"item": 'apothic_enchanting:infused_breath'},
+    {"item": 'occultism:soul_gem'},
+    {"item": 'occultism:spawn_egg/familiar_dragon'},
+    {"item": 'minecraft:bedrock'},
+    {"item": ['hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1255]', 'hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1254]']},    {"item": 'allthemodium:piglich_heart_block'},
+    {"item": 'minecraft:bedrock'},
+	  {"item": 'minecraft:bedrock'},
+    {"item": 'minecraft:bedrock'}
+  ],
+  "result": {"id": "allthetweaks:dimensional_seed"}
+}).id('allthemods:pedistal/allthetweaks/dimensional_seed')
 
- // Improbable Probability Device
- allthemods.shaped('allthetweaks:improbable_probability_device', ['ABA', 'CGC', 'FDF'], {
-  A: 'mekanism:pellet_antimatter',
-  B: 'ae2:singularity',
-  C: Ingredient.of(['megacells:portable_item_cell_256m', 'modern_industrialization:blastproof_casing']),
-  D: 'pneumaticcraft:aerial_interface',
-  F: 'ironfurnaces:million_furnace', 
-  G: 'irons_spellbooks:lightning_upgrade_orb'
-  }).id('allthemods:allthetweaks/improbable_probability_device')
+// Improbable Probability Device/
+allthemods.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 400000,
+  "input": {
+    "item": "extendedcrafting:ultimate_singularity"
+  },
+  "ingredients": [
+    {"item": 'irons_spellbooks:lightning_upgrade_orb'},
+    {"item": 'ironfurnaces:million_furnace'},
+    {"item": 'minecraft:bedrock'},
+    {"item": 'megacells:portable_item_cell_256m'},
+    {"item": 'ae2:singularity'},
+    {"item": 'mekanism:pellet_antimatter'},
+  ],
+  "result": {"id": "allthetweaks:improbable_probability_device"}
+}).id('allthemods:pedistal/allthetweaks/improbable_probability_device')
 
-  // Dimensional Seed Recipe
-  allthemods.shaped('allthetweaks:dimensional_seed', ['ABC', 'DEF', 'GHI'], {
-    A: 'allthecompressed:netherrack_6x',
-    B: 'allthecompressed:dirt_6x',
-    C: 'allthecompressed:obsidian_5x',
-    D: 'allthetweaks:mini_exit',
-    E: 'allthetweaks:mini_nether',
-    F: 'allthetweaks:mini_end',
-    G: 'allthecompressed:end_stone_5x',
-    H: 'allthecompressed:emerald_block_4x',
-    I: 'allthecompressed:diamond_block_4x'
-  }).id('allthemods:allthetweaks/dimensional_seed')
+// Dimensional Seed/
+allthemods.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 400000,
+  "input": {
+    "item": "extendedcrafting:ultimate_singularity"
+  },
+  "ingredients": [
+    {"item": 'allthecompressed:netherrack_3x'},
+    {"item": 'allthecompressed:dirt_3x'},
+    {"item": 'allthecompressed:obsidian_3x'},
+    {"item": 'allthetweaks:mini_exit'},
+    {"item": 'allthetweaks:mini_nether'},
+    {"item": 'allthetweaks:mini_end'},
+    {"item": 'allthecompressed:end_stone_3x'},
+    {"item": 'allthecompressed:emerald_block_3x'},
+    {"item": 'allthecompressed:diamond_block_3x'}
+  ],
+  "result": {"id": "allthetweaks:dimensional_seed"}
+}).id('allthemods:pedistal/allthetweaks/dimensional_seed')
 
-  // Withers Compass
-  allthemods.shaped('allthetweaks:withers_compass', ['ABC', 'DEF', 'GHI'], {
-    A: 'productivebees:configurable_comb[productivebees:bee_type="productivebees:withered"]',
-    B: 'industrialforegoing:wither_builder',
-    C: 'deeperdarker:heart_of_the_deep',
-    D: 'generatorgalore:netherstar_generator_64x',
-    E: 'irons_spellbooks:scroll[irons_spellbooks:spell_container={data:[{id:"irons_spellbooks:wither_skull",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}]',
-    F: 'mysticalagriculture:witherproof_bricks',
-    G: 'minecraft:tipped_arrow[potion_contents={potion:"apothic_attributes:long_wither"}]',
-    H: 'ars_nouveau:glyph_wither',
-    I: 'mysticalagradditions:nether_star_crux'
-  }).id('allthemods:allthetweaks/withers_compass')
+// Withers Compass
+allthemods.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 400000,
+  "input": {
+    "item": "extendedcrafting:ultimate_singularity"
+  },
+  "ingredients": [
+    {"item": "minecraft:bedrock"},
+    {"item": 'irons_spellbooks:scroll[irons_spellbooks:spell_container={data:[{id:"irons_spellbooks:wither_skull",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}]'},
+    {"item": 'minecraft:tipped_arrow[potion_contents={potion:"apothic_attributes:long_wither"}]'},
+    {"item": "industrialforegoing:wither_builder"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"}
+  ],
+  "result": {"id": "allthetweaks:withers_compass"}
+}).id('allthemods:pedistal/allthetweaks/withers_compass')
 
-  // Philosopher's Fuel
-  allthemods.shaped('allthetweaks:philosophers_fuel', ['ABC', 'DEF', 'GHI'], {
-  A: 'generatorgalore:ender_generator',
-	B: 'ironfurnaces:rainbow_coal'  ,
-	C: 'bigreactors:insanite_block' ,
-	D: Ingredient.of(['modern_industrialization:uranium_fuel_rod_quad','create:blaze_burner']),
-	E: 'mysticalagradditions:insanium_coal_block',
-  F: 'forbidden_arcanus:smelter_prism',
-	G: 'mysticalagriculture:awakened_supremium_ingot_block',
-	H: 'generatorgalore:magmatic_generator_64x',
-  I: 'evilcraft:dark_tank[cyclopscore:fluid_content={amount:16000,id:"justdirethings:refined_t4_fluid_source"}]'
-  }).id('allthemods:allthetweaks/philosophers_fuel')
+// Philosopher's Fuel/
+allthemods.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 400000,
+  "input": {
+    "item": "extendedcrafting:ultimate_singularity"
+  },
+  "ingredients": [
+    {"item": "ironfurnaces:rainbow_coal"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"}
+  ],
+  "result": {"id": "allthetweaks:philosophers_fuel"}
+}).id('allthemods:pedistal/allthetweaks/philosophers_fuel')
 
- // Nexium Emitter
- allthemods.shaped('allthetweaks:nexium_emitter', ['A B', ' CF', 'GED'], {
-  A: 'powah:player_transmitter_nitro',
-  B: 'ae2wtlib:wireless_universal_terminal[ae2wtlib:has_ex_pattern_access_terminal={},ae2wtlib:has_pattern_encoding_terminal={},ae2wtlib:has_crafting_terminal={},ae2wtlib:has_pattern_access_terminal={},ae2:stored_energy=6400000.0d]',
-  F: [Item.of('mekanism:module_gravitational_modulating_unit')],
-  D: Ingredient.of(['modern_industrialization:large_advanced_motor',"create:mechanical_arm"]),
-  E: 'immersiveengineering:tesla_coil',
-  C: 'advanced_ae:quantum_multi_threader',
-  G: 'aeinfinitybooster:infinity_card'
-}).id('allthemods:allthetweaks/nexium_emitter')
+// Nexium Emitter/
+allthemods.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 400000,
+  "input": {
+    "item": "extendedcrafting:ultimate_singularity"
+  },
+  "ingredients": [
+    {"item": "powah:player_transmitter_nitro"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "ae2wtlib:wireless_universal_terminal"},
+    {"item": "mekanism:module_gravitational_modulating_unit"},
+    {"item": "aeinfinitybooster:infinity_card"}
+  ],
+  "result": {"id": "allthetweaks:nexium_emitter"}
+}).id('allthemods:pedestal/allthetweaks/nexium_emitter')
 
-// Oblivion Shard
-allthemods.shaped('allthetweaks:oblivion_shard', ['DAB', 'ECF', 'BGD'], {
-  A: 'forbidden_arcanus:eternal_stella',
-  C: 'evilcraft:mace_of_destruction[cyclopscore:fluid_content={amount:4000,id:"evilcraft:blood"}]',
-  B: 'evilcraft:piercing_vengeance_focus',
-  D: 'stevescarts:module_galgadorian_drill',
-  E: 'cataclysm:meat_shredder',
-  G: 'twilightforest:snow_queen_trophy',
-  F: 'cataclysm:void_forge'
-}).id('allthemods:allthetweaks/oblivion_shard')
+// Oblivion Shard/
+allthemods.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 400000,
+  "input": {
+    "item": "extendedcrafting:ultimate_singularity"
+  },
+  "ingredients": [
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"}
+  ],
+  "result": {"id": "allthetweaks:oblivion_shard"}
+}).id('allthemods:pedestal/allthetweaks/oblivion_shard')
 
-
-// Pulsating Black Hole
-allthemods.shaped('allthetweaks:pulsating_black_hole', ['ABC', 'DEF', 'GHI'], {
-  A: 'irons_spellbooks:fire_upgrade_orb',
-  B: 'ae2:quantum_ring'  ,
-  C: 'pneumaticcraft:micromissiles' ,
-  D: 'justdirethings:paradoxmachine',
-  E: 'pocketstorage:psu_4',
-  F: 'occultism:stable_wormhole',
-  G: 'rootsclassic:crystal_staff',
-  H: 'industrialforegoing:mycelial_explosive',
-  I: 'evilcraft:lightning_bomb'
-}).id('allthemods:pressure/allthetweaks/pulsating_black_hole')
-
-  // Creative Essence
-  allthemods.shaped('mysticalagradditions:creative_essence', ['CAC', 'ABA', 'CAC'], {
-    A: 'mysticalagradditions:insanium_block',
-    C: 'mysticalagradditions:insanium_gemstone_block',
-    B: 'mysticalagriculture:master_infusion_crystal'
-  }).id('allthemods:allthetweaks/creative_essence')
+// Pulsating Black Hole/
+allthemods.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 400000,
+  "input": {
+    "item": "extendedcrafting:ultimate_singularity"
+  },
+  "ingredients": [
+    {"item": "irons_spellbooks:fire_upgrade_orb"},
+    {"item": "ae2:quantum_ring"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "minecraft:bedrock"},
+    {"item": "occultism:stable_wormhole"},
+    {"item": "minecraft:bedrock"},
+    {"item": "industrialforegoing:mycelial_explosive"},
+    {"item": "minecraft:bedrock"}
+  ],
+  "result": {"id": "allthetweaks:pulsating_black_hole"}
+}).id('allthemods:pedestal/allthetweaks/pulsating_black_hole')
 
 })
-*/
 
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
+// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10 LITE.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
