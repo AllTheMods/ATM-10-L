@@ -1626,14 +1626,6 @@
 	]
 	quest.13D401048A926A74.title: "Welcome to &aBotania&r"
 	quest.13E5783AD64E3BC2.quest_desc: ["Breaking spawners will now drop &9Spawner Scraps&r."]
-	quest.1409C17773B6A131.quest_desc: [
-		"To make your pipes extract more power, you'll want to make it an upgrade. "
-		""
-		"Once you've shift+right-clicked a pipe to set it to extract, you can insert a pipe upgrade into it by right-clicking the pipe with the upgrade. You can also right-click with an empty hand and add it using the GUI! "
-		""
-		"To be able to set filters, you'll need at least an &9Advanced Pipe Upgrade&r. "
-	]
-	quest.1409C17773B6A131.title: "Upgrading our Pipez"
 	quest.140DE53DC0FCD9F4.quest_desc: [
 		"The &bME Annihilation Plane&f can be used to automatically break any blocks in front of it and return anything dropped by the block directly to the ME network. "
 		""
@@ -5991,14 +5983,6 @@
 		""
 		"This version produces 105.6FE/t. It also can be used to add extra heat to Thermal Evaporation Plants."
 	]
-	quest.4EEAB467C722ECE7.quest_desc: [
-		"These are simple pipes that can be upgraded with Pipe Upgrades. "
-		""
-		"To 'extract' power from a block, place the pipe down next to the block, and on the side that is connected, shift+right-click with the pipe wrench to set the pipe to extract. "
-		""
-		"The &9Pipez&r mod also offers ways to transport items, gases, and liquids as well! Or you can make an All-In-One Pipe called the &aUniversal Pipe&r. "
-	]
-	quest.4EEAB467C722ECE7.title: "&9Using Pipez:&r &aEnergy Pipe&r"
 	quest.4EEFECB9D741B371.quest_desc: [
 		"As previously stated, alloys are going to continue to increase in complexity, as it should be expected."
 		""
@@ -8320,13 +8304,6 @@
 		""
 		"You need a higher tier cutter to cut the higher tier chips to achieve higher tiers of power"
 	]
-	quest.6D6E07564D8FDD8D.quest_desc: [
-		"&9Extreme Reactors&r offers multi-block reactors that are completely customizable in size, efficiency, and more. "
-		""
-		"To learn more about getting started with Extreme Reactors, check out the questline for the mod!"
-	]
-	quest.6D6E07564D8FDD8D.quest_subtitle: "Customizable Reactors!"
-	quest.6D6E07564D8FDD8D.title: "Extreme Reactors"
 	quest.6D750A38944E9B68.quest_desc: [
 		"The &9Infusion Altar&r is the bread and butter of creating &aSeeds&r in the mod. You'll need to create the Altar itself, as well as 8 Pedestals. "
 		""

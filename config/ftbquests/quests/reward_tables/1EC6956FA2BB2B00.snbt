@@ -1,7 +1,7 @@
 {
 	id: "1EC6956FA2BB2B00"
 	loot_size: 1
-	order_index: 38
+	order_index: 19
 	rewards: [
 		{
 			count: 3
@@ -53,18 +53,6 @@
 			random_bonus: 1
 			weight: 1.5f
 		}
-		{
-			count: 2
-			id: "035791A1CC2639D4"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:oak_1"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 1
-		}
 		{ id: "09AEBD67369F6FF7", item: { count: 1, id: "minecraft:chest_minecart" } }
 		{
 			id: "7C2FF93221715446"
@@ -76,7 +64,6 @@
 			weight: 1.5f
 		}
 		{ id: "185EB7E09EAFBB69", item: { count: 1, id: "sophisticatedstorage:packing_tape" } }
-		{ id: "3AA1435E1D7007F8", item: { components: { "ftbquests:missing_item": "trashcans:item_trash_can" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "02BA8DC1689E6AB0", item: { count: 1, id: "minecraft:oak_chest_boat" } }
 		{
 			count: 2

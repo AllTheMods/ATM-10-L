@@ -50,7 +50,7 @@
 			y: 4.0d
 		}
 	]
-	order_index: 3
+	order_index: 6
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -760,37 +760,6 @@
 			]
 			x: 6.5d
 			y: -2.5d
-		}
-		{
-			dependencies: ["7574A782DCFB87CE"]
-			hide_until_deps_complete: true
-			id: "1A96C595CBA42840"
-			optional: true
-			rewards: [
-				{
-					count: 8
-					id: "540D42ACD0129963"
-					item: {
-						count: 1
-						id: "xycraft_world:kivi"
-					}
-					random_bonus: 8
-					type: "item"
-				}
-				{
-					id: "4EC4A33E7744B01B"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "circle"
-			tasks: [{
-				id: "23AEF92B0F4BD3E9"
-				item: { components: { "ftbquests:missing_item": "mysticalagriculture:kivi_seeds" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -1.5d
 		}
 		{
 			id: "16B4A00948D1F60D"

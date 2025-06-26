@@ -111,9 +111,9 @@
 	quests: [
 		{
 			icon: {
-				id: "croptopia:starfruit_sapling"
+				id: "croptopia:starfruit"
 			}
-			icon_scale: 1.5d
+			icon_scale: 1.3d
 			id: "1827DEEA2DF1B144"
 			rewards: [
 				{
@@ -345,11 +345,8 @@
 				{
 					id: "634BD1679C226F35"
 					item: {
-						components: {
-							"ftbquests:missing_item": "pamhc2foodcore:friedchickenitem"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "croptopia:fried_chicken"
 					}
 					type: "item"
 				}

@@ -448,7 +448,7 @@
 					id: "292F484BF4813BC8"
 					item: {
 						count: 1
-						id: "mekanism:ultimate_universal_cable"
+						id: "mekanism:advanced_universal_cable"
 					}
 					type: "item"
 				}
@@ -472,12 +472,12 @@
 			id: "4869C413646CC4CC"
 			rewards: [
 				{
-					count: 3
 					id: "082D932BDF87998A"
 					item: {
 						count: 1
 						id: "minecraft:redstone_block"
 					}
+					random_bonus: 1
 					type: "item"
 				}
 				{
@@ -489,7 +489,7 @@
 			shape: "square"
 			tasks: [{
 				id: "1960B985B54B9FBD"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mekanism:basic_universal_cable)item(pipez:energy_pipe)item(powah:energy_cable_basic))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(powah:energy_cable_starter)item(powah:energy_cable_basic)item(mekanism:basic_universal_cable))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 8.0d
@@ -964,7 +964,7 @@
 			]
 			tasks: [{
 				id: "4DB11C6F180743E9"
-				item: { components: { "ftbfiltersystem:filter": "or(item(powah:magmator_basic)item(powah:magmator_starter)item(generatorgalore:magmatic_generator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(powah:magmator_starter)item(powah:magmator_basic)item(powah:thermo_generator_starter)item(powah:thermo_generator_basic)item(mekanismgenerators:heat_generator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 5.5d

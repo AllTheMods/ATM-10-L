@@ -15,31 +15,6 @@
 			}
 			random_bonus: 4
 		}
-		{
-			id: "311549F4802AED6F"
-			item: {
-				components: {
-					"ftbquests:missing_item": "pipez:advanced_upgrade"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 1
-			weight: 3.0f
-		}
-		{
-			count: 8
-			id: "41B8E73CF883EF82"
-			item: {
-				components: {
-					"ftbquests:missing_item": "pipez:universal_pipe"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 16
-			weight: 10.0f
-		}
 		{ id: "3C49601F199E6602", item: { count: 1, id: "mekanism:advanced_tier_installer" } }
 		{
 			id: "14E3E72B0DD5CA88"
@@ -58,17 +33,6 @@
 			weight: 5.0f
 		}
 		{ id: "699A72490DE8D9A5", item: { count: 1, id: "minecraft:netherite_ingot" } }
-		{
-			id: "4D14D65B3F3F0D08"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:gold_upgrade"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 2.0f
-		}
 		{
 			count: 3
 			id: "2B0D8F8D205E3F81"
@@ -201,28 +165,6 @@
 			weight: 5.0f
 		}
 		{
-			id: "5E6A9820088B9C68"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:compacting_drawer"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 10.0f
-		}
-		{
-			id: "25E90078E7511C00"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:storage_controller"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 3.0f
-		}
-		{
 			count: 4
 			id: "3E2C50BD2583841D"
 			item: {
@@ -262,31 +204,6 @@
 			weight: 15.0f
 		}
 		{
-			count: 4
-			id: "64CB2AC31D6DE53A"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:oak_1"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 4
-			weight: 10.0f
-		}
-		{
-			id: "27AA5AFCF44F582B"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:void_upgrade"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 2
-			weight: 10.0f
-		}
-		{
 			id: "3603B3D0952F4C54"
 			item: {
 				count: 1
@@ -318,9 +235,6 @@
 			}
 			weight: 10.0f
 		}
-		{ id: "5102BE3B38E122DC", item: { components: { "ftbquests:missing_item": "productivelib:upgrade_simulator" }, count: 1, id: "ftbquests:missing_item" } }
-		{ id: "73064A3A4E00D8EA", item: { components: { "ftbquests:missing_item": "productivelib:upgrade_time" }, count: 1, id: "ftbquests:missing_item" } }
-		{ id: "45DBE03B8D8EFBE1", item: { components: { "ftbquests:missing_item": "productivelib:upgrade_child" }, count: 1, id: "ftbquests:missing_item" } }
 	]
 	use_title: true
 }

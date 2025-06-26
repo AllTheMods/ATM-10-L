@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "basic_power"
-	group: "49AECADBA9E79A3B"
+	group: "2B51AC12041E3F89"
 	icon: {
 		id: "mekanism:creative_energy_cube"
 	}
@@ -36,24 +36,6 @@
 			}]
 			x: 0.0d
 			y: 0.0d
-		}
-		{
-			dependencies: ["5E41363F9AE243F3"]
-			hide_dependency_lines: false
-			id: "6D6E07564D8FDD8D"
-			rewards: [{
-				id: "1C7FBA6844D50ABA"
-				type: "xp"
-				xp: 10
-			}]
-			shape: "rsquare"
-			tasks: [{
-				id: "39CEB20C5018F460"
-				item: { count: 1, id: "alltheores:uranium_ingot" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 2.0d
 		}
 		{
 			dependencies: ["42D173B9FF8D16E4"]
@@ -126,44 +108,6 @@
 		}
 		{
 			dependencies: ["1F81EA5E45424308"]
-			id: "4EEAB467C722ECE7"
-			rewards: [
-				{
-					count: 8
-					id: "08460933939CF881"
-					item: {
-						components: {
-							"ftbquests:missing_item": "pipez:energy_pipe"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "4A14E1A2F4FAB17A"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "rsquare"
-			tasks: [
-				{
-					id: "467584E3BB06E9CD"
-					item: { components: { "ftbquests:missing_item": "pipez:energy_pipe" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "5299A78587A00044"
-					item: { components: { "ftbquests:missing_item": "pipez:wrench" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
-			x: -7.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["1F81EA5E45424308"]
 			id: "5C47935A3B2877FF"
 			rewards: [
 				{
@@ -187,8 +131,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(mekanism:basic_universal_cable)item(mekanism:advanced_universal_cable)item(mekanism:elite_universal_cable)item(mekanism:ultimate_universal_cable))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 0.0d
+			x: -4.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["4AB0DD227471FDBF"]
@@ -351,8 +295,8 @@
 				item: { count: 1, id: "powah:uraninite" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 3.0d
+			x: 3.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["4AB0DD227471FDBF"]
@@ -372,31 +316,6 @@
 			}]
 			x: 0.0d
 			y: 4.0d
-		}
-		{
-			dependencies: ["4EEAB467C722ECE7"]
-			hide_until_deps_visible: true
-			id: "1409C17773B6A131"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2C5A013A4D52E1A4"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "468EF1A091C92102"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [{
-				id: "098F1B932F851616"
-				item: { components: { "ftbfiltersystem:filter": "or(item(pipez:basic_upgrade)item(pipez:improved_upgrade)item(pipez:advanced_upgrade)item(pipez:ultimate_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -8.0d
-			y: 0.0d
 		}
 		{
 			dependencies: ["477B411F84342EEA"]

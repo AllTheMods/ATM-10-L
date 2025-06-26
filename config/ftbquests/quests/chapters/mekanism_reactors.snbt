@@ -132,7 +132,7 @@
 		}
 		{
 			height: 1.0d
-			image: "factory_blocks:block/fan/malfunction"
+			image: "mob_grinding_utils:block/fan_front"
 			rotation: -45.0d
 			width: 1.0d
 			x: 9.5d
@@ -140,44 +140,11 @@
 		}
 		{
 			height: 1.0d
-			image: "factory_blocks:block/fan/malfunction"
+			image: "mob_grinding_utils:block/fan_front"
 			rotation: -45.0d
 			width: 1.0d
 			x: 9.5d
 			y: 2.5d
-		}
-		{
-			height: 1.0d
-			image: "ftbquests:block/screen_side"
-			order: -1
-			rotation: 0.0d
-			width: 5.0d
-			x: 11.0d
-			y: -5.0d
-		}
-		{
-			height: 5.0d
-			image: "laserio:textures/misc/laser.png"
-			rotation: 90.0d
-			width: 0.5d
-			x: 11.0d
-			y: -5.0d
-		}
-		{
-			height: 1.0d
-			image: "securitycraft:block/ani_laser"
-			rotation: 0.0d
-			width: 0.021739130434782608d
-			x: 10.5d
-			y: -3.5d
-		}
-		{
-			height: 1.0d
-			image: "securitycraft:block/ani_laser"
-			rotation: 0.0d
-			width: 0.021739130434782608d
-			x: 11.5d
-			y: -3.0d
 		}
 		{
 			height: 0.3d
@@ -197,7 +164,7 @@
 			y: -1.0999999999999996d
 		}
 	]
-	order_index: 2
+	order_index: 4
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

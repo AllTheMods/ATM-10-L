@@ -15,8 +15,6 @@
 	chapter.23983F4DC524B14B.title: "메커니즘"
 	chapter.29EFE8220836C79A.title: "&a2장&r: &6ATM의 별"
 	chapter.2A6EBEEBAB882679.title: "파와"
-	chapter.3DEB33F78398EAD6.chapter_subtitle: ["그리고 레이저IO"]
-	chapter.3DEB33F78398EAD6.title: "기본 물류"
 	chapter.415BA265E2C00859.title: "시작하기"
 	chapter.4293754F9B2D05F0.title: "&a챕터 2&r: &e올더모듐"
 	chapter.4791C8461B1B4D5F.title: "기본 갑옷"
@@ -40,8 +38,6 @@
 	chapter_group.22FB35B0FEF1343D.title: "도구 및 무기"
 	chapter_group.295BE417292024EC.title: "모던 인더스트리얼라이제이션"
 	chapter_group.2B51AC12041E3F89.title: "기술"
-	chapter_group.3D4E23B1100491AB.title: "물류"
-	chapter_group.49AECADBA9E79A3B.title: "힘"
 	chapter_group.6614EE2378B8AFB9.title: "자원"
 	chapter_group.68BDE5700A9B0002.title: "도구 및 장비"
 	file.0000000000000001.title: "올 더 모드 10"
@@ -1931,8 +1927,6 @@
 		"{image:atm:textures/questpics/iron_spells/spells_mountaintower.png width:200 height:100 align:center}"
 	]
 	quest.13F77C38AC015E9F.title: "&b산 타워"
-	quest.1409C17773B6A131.quest_desc: ["모든 업그레이드는 &e&l파이프&r의 이동량을 증가시키지만, 각각 &e&l파이프&r와 함께 사용할 수 있는 더 많은 옵션을 제공합니다.\\n\\n기본 업그레이드를 통해 &e&l파이프&r로 레드스톤 활성화를 할 수 있습니다.\\n\\n향상된 업그레이드를 통해 다음 배포 방식 중 하나로 변경할 수 있습니다: 가장 가까운 곳 우선, 가장 먼 곳 우선, 라운드 로빈 또는 랜덤.\\n\\n고급 업그레이드는 필터를 추가할 수 있는 옵션을 제공합니다.\\n\\n최고급 업그레이드는 새로운 기능을 제공하지 않지만 이동량이 매우 많습니다!"]
-	quest.1409C17773B6A131.title: "&9Pipez: &a업그레이드"
 	quest.140DADB32EF10D58.quest_desc: ["드래곤 알 시드는 그로우하기 위해 아래에 드래곤 알 크룩스가 놓여 있어야 합니다."]
 	quest.140DADB32EF10D58.quest_subtitle: "티어: &56"
 	quest.140DE53DC0FCD9F4.quest_desc: [
@@ -2424,7 +2418,6 @@
 	quest.18F88DE24EFBA7A7.title: "우리 화로의 연료"
 	quest.18F948FF9FE015FB.quest_subtitle: "바닐라 벌에게 TNT를 먹이세요"
 	quest.18F948FF9FE015FB.title: "크리비"
-	quest.18FAD56CDE05646A.quest_desc: ["이전에는 &7&l채굴 차원&r의 채석장에서 모든 것을 채굴했지만 &6올더모듐 광석&r은 남겨두었습니다. \\n\\n이제 &6올더모듐&r을 채굴하지만 drops...을 무효화하므로 이제 채석장을 사용할 때 주의해야 할 수도 있습니다!\\n\\n&6올더모듐&r만 찾고 있다면 광석 감지 물약으로 채굴하는 것을 추천합니다!"]
 	quest.18FEFB1BC6DFE49C.quest_desc: ["더 많은 전력 출력을 변전소에 공급하여 장비가 계속 작동하도록 하는 데 큰 도움이 될 것입니다!"]
 	quest.18FEFB1BC6DFE49C.quest_subtitle: "변전소 티어 상승!"
 	quest.1906C5D1C80035E4.quest_desc: [
@@ -2568,8 +2561,6 @@
 		"{image:atm:textures/questpics/cataclysm/cataclysm_prison.png width:200 height:100 align:center}"
 	]
 	quest.1A8F438DB8508276.title: "&3서리 감옥&r: &3&l말레딕투스의 집"
-	quest.1A96C595CBA42840.quest_desc: ["키위 시드는 키위 라텍스를 재배하는 데 사용할 수 있으며, 키위에서 제작할 수 있습니다!"]
-	quest.1A96C595CBA42840.title: "키위 자동화"
 	quest.1AA81C41431FD145.quest_desc: ["Pull..! Pull..! Pull..!\\n\\n풀러는 센더의 반대이며, 인벤토리에서 아이템을 라우터의 버퍼로 끌어당깁니다.\\n\\n인벤토리는 라우터에 인접해야 합니다."]
 	quest.1AADF0A1B42AD511.quest_desc: ["지금까지 모은 모든 재료를 사용하여 &6별&r을 향한 여정에 필요한 첫 번째 &d레일건&r 부품을 만들 수 있습니다!"]
 	quest.1AAF0B31B47AF23D.quest_desc: ["개별 ME 장치는 레드스톤 신호에 반응하도록 설정할 수도 있습니다. &b레드스톤 카드&f로 상위 버전으로 변환하면 장치가 레드스톤으로 동력을 공급받을 때 또는 필요에 따라 작동하도록 설정할 수 있습니다.\\n\\n이러한 작동 방식은 &bME 토글 버스&f를 사용하여 ME 네트워크의 &o섹션&r 전체에 적용할 수도 있습니다. 이렇게 하면 버스의 다른 쪽에 있는 네트워크 섹션이 버스가 레드스톤에 의해 동력을 공급받을 때만 온라인 상태가 되거나, &e반전된&f 토글 버스를 사용하는 경우 오프라인 상태가 될 수 있습니다."]
@@ -4908,8 +4899,6 @@
 		""
 		"이것은 또한 많은 양의 바이오 디젤을 생산하며, 특히 세탄 강화 디젤을 만들 경우 환상적인 연료 근원이 될 수 있습니다."
 	]
-	quest.32ECD93A8F2FAB8F.quest_desc: ["&6제트팩&r은 이동하는 데 매우 유용한 방법입니다.\\n\\n제작을 시작하려면 먼저 &6나무 제트팩&r부터 시작해야 합니다! 이것은 &5크리에이티브 제트팩&r까지 상위 버전으로 변환할 수 있습니다.\\n\\n많은 버전이 있지만 모두 똑같이 작동합니다. 모두 흉갑 슬롯, 또는 등 큐리오, 또는 큐리오 큐리오에 장착할 수 있습니다.\\n\\n또한 모두 작동하려면 FE가 필요하며, 모든 아이템 충전기를 사용하여 충전할 수 있습니다! 비행하는 데 FE를 사용하며 에너지가 부족하면 추락합니다.\\n비행하려면 엔진을 켜고(V), Space를 누르고 있으면 위로 날아오르고 놓으면 추락합니다.\\n\\n추락하는 것을 좋아하지 않는 사람들을 위해 호버(바인딩 해제됨)를 켤 수 있습니다. 켜면 같은 고도로 날 수 있습니다. (Space)로 더 높이 올라갈 수 있고 (Shift)로 더 낮게 내려갈 수 있습니다.\\n\\n비행 속도를 조정하려면 스로틀을 변경하십시오. 기본적으로 줄이는 것은 (,)이고 늘리는 것은 (.)입니다!"]
-	quest.32ECD93A8F2FAB8F.title: "&l&6철 제트팩"
 	quest.32FDC5FFA000DAF8.quest_desc: ["당신이 가진 꿀벌이 자랑스러우신가요?\\n\\n꿀벌을 병에 넣어 자랑하고 싶으신가요?\\n\\n꿀벌 병을 내려놓고 파이프나 호퍼를 사용하여 우리에 갇힌 꿀벌을 병에 넣으세요."]
 	quest.32FDC5FFA000DAF8.quest_subtitle: "벌 표시 중"
 	quest.32FE0C0475BB45C6.quest_desc: ["만드신 오스미리듐을 가져다가 가는 전선으로 가공해 봅시다. 이것과 자화된 사마륨 긴 막대를 합치면 중요한 진전을 이룰 수 있습니다!"]
@@ -7762,8 +7751,6 @@
 	quest.4EDD96EB60EF5814.quest_desc: ["이 상위 버전으로 변환하는 것이 가치가 있는지 궁금하다면, 대답은 '예'입니다.\\n\\n이 버전은 써멀 증발 플랜트에 추가적인 열을 더하는 데 사용할 수 있습니다."]
 	quest.4EDD96EB60EF5814.quest_subtitle: "약 410FE/t를 생성합니다"
 	quest.4EE482B9D61B5933.quest_desc: ["물론 &2바닐라&r는 저희의 최대치가 아니며, 모드가 적용된 세계에는 훨씬 더 많고 더 희귀한 것들이 있습니다!"]
-	quest.4EEAB467C722ECE7.quest_desc: ["이것들은 파이프 상위 버전으로 변환할 수 있는 단순한 파이프입니다.\\n\\n블록에서 힘을 '추출'하려면 블록 옆에 파이프를 놓고 연결된 면에서 파이프 렌치로 shift+오른손 클릭하여 파이프를 추출로 설정하십시오.\\n\\n&e&lPipez&r 모드는 아이템, 기체 및 액체를 운반하는 방법도 제공합니다! 또는 &a범용 파이프&r라는 올인원 파이프를 만들 수도 있습니다.\\n\\n다른 렌치도 &e&lPipez&r와 함께 작동합니다!"]
-	quest.4EEAB467C722ECE7.title: "&9Pipez: &a에너지 파이프"
 	quest.4EEFECB9D741B371.quest_desc: [
 		"앞서 언급했듯이, 합금은 예상대로 계속해서 복잡성이 증가할 것입니다."
 		""
@@ -10838,9 +10825,6 @@
 		""
 		"더 높은 티어의 힘을 얻으려면 더 높은 티어의 절단기로 더 높은 티어의 칩을 잘라야 합니다."
 	]
-	quest.6D6E07564D8FDD8D.quest_desc: ["&a익스트림 리액터&r는 크기, 효율 등에서 완전히 사용자 지정 가능한 멀티 블록 원자로를 제공합니다.\\n\\n익스트림 리액터 시작에 대해 더 자세히 알아보려면 해당 모드의 퀘스트 챕터를 확인하세요!"]
-	quest.6D6E07564D8FDD8D.quest_subtitle: "사용자 지정이 가능한 원자로!"
-	quest.6D6E07564D8FDD8D.title: "&9익스트림 리액터: &a원자로"
 	quest.6D738730B371B152.quest_desc: ["&l&7채굴 차원&r은 표면에 아무것도 없는 완전한 평지 세계입니다.\\n\\n표면 아래에는 거의 모든 광물이 있습니다.\\n\\n&7&l채굴 차원&r에는 동굴도, 몹 스폰도, 방해되는 것도 없습니다. 오직 돌 유형과 광물만 있습니다!\\n\\n광물 스폰은 &7&l채굴 차원&r의 Y 레벨과 레이어에 따라 다릅니다.\\n\\n채석기를 설치하는 것을 권장합니다."]
 	quest.6D738730B371B152.title: "&l&7채굴 차원"
 	quest.6D750A38944E9B68.quest_desc: [
@@ -12753,23 +12737,12 @@
 	reward_table.04285B94275AB879.title: "파와: 막대와 케이블"
 	reward_table.047C4C58EC06DBF3.title: "파와: 강화"
 	reward_table.06C4634E81851A6C.title: "보상: 일반"
-	reward_table.08F142CC52B97FF5.title: "황혼의 숲: 보상"
 	reward_table.0A18991D9745743A.title: "AE2: 기본 보상"
-	reward_table.0A4D0C6441DBF319.title: "몰입감 넘치는: 자원"
-	reward_table.0C83C7A93ED80A36.title: "자연의 오라: 보상"
-	reward_table.0CFCEDF988F211F3.title: "몰입감 넘치는: 합금 및 부품"
-	reward_table.11204745E52B4C0C.title: "통나무 \\\\\\\\& 묘목"
 	reward_table.13DF975BE0A23373.title: "파와: 나이트로"
-	reward_table.1AE4A39086CA5564.title: "MA: 티어 4 씨앗 가방"
 	reward_table.1C750D27FEF7C386.title: "파와: 블레이징"
-	reward_table.1DB1EEDA7B79672B.title: "레일크래프트: 레일"
 	reward_table.1EC6956FA2BB2B00.title: "기본 저장소: 보상"
-	reward_table.21B1896C13F84C09.title: "MA: 2티어 씨앗 가방"
-	reward_table.2A2E3EFEF58354A9.title: "몰입감 넘치는: 건축 블록"
-	reward_table.37F912BDB7C8E6B6.title: "1x1 나무 서랍"
 	reward_table.3A3BDBA4E9AD13C4.title: "보상: 언커먼"
 	reward_table.3AC97B13FF3E4FD3.title: "파와: 스타터"
-	reward_table.43C220CBD5447FE6.title: "PNC: PCB 티어"
 	reward_table.471CE0CD88F57EDC.title: "IF: 기본 보상"
 	reward_table.481E10AEAC95C550.title: "보상: 전설 등급"
 	reward_table.4B19C9059B3AA9AC.title: "파와: 기본"
@@ -12777,23 +12750,9 @@
 	reward_table.4E550B6FE754E446.title: "파와: 나이오틱"
 	reward_table.517CB2DAB0515A50.title: "AE2: 고급 보상"
 	reward_table.51D32A776892238B.title: "파와: 스피릿"
-	reward_table.57002573D954732E.title: "PNC: 기본 티어"
-	reward_table.5832C9BCFDB476AF.title: "아르스 누보: 보상"
-	reward_table.5A138D1EDF8AA0C1.title: "PNC: 플라스틱 티어"
-	reward_table.5AF0FD7302DEC2B1.title: "MA: 1티어 씨앗 가방"
-	reward_table.611A165B35847A5A.title: "범블존: 보상"
-	reward_table.617F6D802ED0FD00.title: "보상: 에픽"
-	reward_table.636C0F2A58AD8FC1.title: "MA: 기본 보상"
 	reward_table.63E11953DD289422.title: "Mekanism: 보상"
-	reward_table.64E6D6A658988648.title: "MA: 3티어 씨앗 가방"
-	reward_table.67D8094B10FAA687.title: "이블크래프트: 보상"
 	reward_table.73E94318B401E916.title: "IF: 고급 보상"
 	reward_table.74164DBBE7919A3B.title: "Mekanism 원자로: 보상"
-	reward_table.75FE7CDF68581EDE.title: "레일크래프트: 랜덤"
-	reward_table.7609CF2A167B45C8.title: "신성 마법: 소금"
-	reward_table.779C873798AE0A92.title: "마법: 가루들"
-	reward_table.79C7738D7CEDABD4.title: "MA: 5단계 씨앗 가방"
-	reward_table.7FB97C5850827C71.title: "PNC: 고급 티어"
 	task.00648047034C9531.title: "암석 분쇄기"
 	task.00A904FBEDE80712.title: "마카우의 지붕"
 	task.00C6A5CB44392D7E.title: "AllRightsReserved"
@@ -12830,7 +12789,6 @@
 	task.06D8E0295DAE3C50.title: "기계와 당신"
 	task.06F2EC3901908BF1.title: "플라스틱 건설 벽돌"
 	task.06FC3AA435F90AF6.title: "AllTheMods의 퀘스트"
-	task.073D1C45B3018BBA.title: "상자"
 	task.0740BC10E4D2568F.title: "리전스 언익스플로어드 돌"
 	task.074BDA389D0FB989.title: "금 간 구리"
 	task.083086610639994F.title: "&9에버브라이트&r를 위하여!"
@@ -13356,7 +13314,6 @@
 	task.6D9DBD885FE4C94C.title: "AllRightsReserved"
 	task.6DE94C2C7F4B9AC7.title: "증류탑 관찰 완료"
 	task.6E0961A56194F0A8.title: "땅파기 벌"
-	task.6E44925E265DC7E2.title: "일터"
 	task.6E75525A5D88EF23.title: "가열기"
 	task.6F07606E3F7BE160.title: "점프 시작"
 	task.6F475689ED4EDF59.title: "마카우 모드 아이템"

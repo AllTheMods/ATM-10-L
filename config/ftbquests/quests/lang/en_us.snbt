@@ -15,8 +15,6 @@
 	chapter.23983F4DC524B14B.title: "Mekanism"
 	chapter.29EFE8220836C79A.title: "&aChapter 2&r: &6The ATM Star"
 	chapter.2A6EBEEBAB882679.title: "Powah"
-	chapter.3DEB33F78398EAD6.chapter_subtitle: ["And LaserIO"]
-	chapter.3DEB33F78398EAD6.title: "Basic Logistics"
 	chapter.415BA265E2C00859.title: "Getting Started"
 	chapter.4293754F9B2D05F0.title: "&aChapter 2&r: &eAllthemodium"
 	chapter.4791C8461B1B4D5F.title: "Basic Armor"
@@ -35,16 +33,14 @@
 	chapter.7AF827D2D101D343.title: "Artifacts"
 	chapter_group.02FE661031A105D8.title: "Magic"
 	chapter_group.15E5B587D291A4AA.title: "Tools and Gear"
-	chapter_group.1AC60211DE7427FC.title: "Storage"
+	chapter_group.1AC60211DE7427FC.title: "Storage \\& Logistics"
 	chapter_group.2084F3F6FB861C5B.title: "Main Questline"
 	chapter_group.22FB35B0FEF1343D.title: "Tools and Weapons"
 	chapter_group.295BE417292024EC.title: "Modern Industrialization"
 	chapter_group.2B51AC12041E3F89.title: "Tech"
-	chapter_group.3D4E23B1100491AB.title: "Logistics"
-	chapter_group.49AECADBA9E79A3B.title: "Power"
 	chapter_group.6614EE2378B8AFB9.title: "Resources"
 	chapter_group.68BDE5700A9B0002.title: "Tools and Gear"
-	file.0000000000000001.title: "All The Mods 10"
+	file.0000000000000001.title: "All The Mods 10 - LITE"
 	quest.00075A5F9AC120ED.quest_desc: ["This will take the items out of your input chest."]
 	quest.00075A5F9AC120ED.quest_subtitle: "Always Required"
 	quest.000C1ECD781F3F81.quest_desc: ["&2&lNature&r is made for using the Earth to our advantage by &2Poisoning&r and &2Weakening&r our enemies! Just like what Big Corporations do to the Earth itself! \\n&2&lNature's&r Focus Material is &2Poisonous Potato&r. \\n\\nThe &2Scrolls&r are &aLight Green&r with &2Dark Green&r text."]
@@ -823,7 +819,7 @@
 	quest.088FCB5267CB7A89.quest_desc: ["This belt will give random positive potion effects for a short duration. These will vary in strength."]
 	quest.08903890F577D43A.quest_desc: ["In order to get more fun little Mahou Tsukai weapons, you'll need a Scroll of Strengthening. To get one, place down a Spell Cloth, then do the ritual of strengthening on top of it and pick up the cloth."]
 	quest.08903890F577D43A.title: "Scroll of Strengthening"
-	quest.0893EFCAC7031FEA.quest_desc: ["Time to bake a cake, if you've got some milk and eggs ready."]
+	quest.0893EFCAC7031FEA.quest_desc: ["Time to bake a Cake, if you've got some Milk and Eggs ready."]
 	quest.0893EFCAC7031FEA.quest_subtitle: "Have your Cake and Eat it too"
 	quest.0894EB1F3FCFCECA.quest_desc: ["&3Draugrs&r are similar to &5Deeplings&r as they have rankings. The &3Draugr&r rankings are: &3Draugr&r, &3Royal Draugr&r, and &3Elite Draugr&r. \\n\\nNormal &3Draugr&r have 14 &4Hearts&r and carry Black Steel Swords and Axes. These drop Rotten Flesh, Bones, and rarely Black Steel Nuggets. \\n\\nNext in line are &3Royal Draugr&r. These have 15 &4Hearts&r and carry Black Steel Targes along with the Swords and Axes. They drop the same Items as normal &3Draugrs&r. \\n\\nLast is the &3Elite Draugr&r. These switch between Black Steel Swords and Crossbows, depending on how far you are from them. They have 16 &4Hearts&r and drop, of course, the same loot!"]
 	quest.0894EB1F3FCFCECA.title: "&3Draugrs"
@@ -1942,8 +1938,6 @@
 		"{image:atm:textures/questpics/iron_spells/spells_mountaintower.png width:200 height:100 align:center}"
 	]
 	quest.13F77C38AC015E9F.title: "&bMountain Tower"
-	quest.1409C17773B6A131.quest_desc: ["All Upgrades increase the amount the &e&lPipez&r move but each grant more options to use with the &e&lPipe&r. \\n\\nBasic Upgrade allows Redstone Activation with &e&lPipez&r.\\n\\nImproved Upgrade allows you to change distribution either:Closest First, Farthest First, Round-Robin, or Random.\\n\\nAdvanced Upgrade gives you option to add Filters.\\n\\nUltimate doesn't grant anything new it just moves a lot!"]
-	quest.1409C17773B6A131.title: "&9Pipez: &aUpgrades"
 	quest.140DADB32EF10D58.quest_desc: ["Dragon Egg Seeds require a Dragon Egg Crux placed below in order for them to grow."]
 	quest.140DADB32EF10D58.quest_subtitle: "Tier: &56"
 	quest.140DE53DC0FCD9F4.quest_desc: [
@@ -2440,7 +2434,6 @@
 	quest.18F88DE24EFBA7A7.title: "Fuel for our Furnace"
 	quest.18F948FF9FE015FB.quest_subtitle: "Feed a Vanilla Bee TNT"
 	quest.18F948FF9FE015FB.title: "CreeBee"
-	quest.18FAD56CDE05646A.quest_desc: ["Before Quarries in the &7&lMining Dimension&r used to mine everything but leave &6Allthemodium Ore&r. \\n\\nNow it will Mine &6Allthemodium&r but Void the drops... might want to be careful with your Quarries now! \\n\\nI recommend Mining with Ore Sight Potions if you are looking strictly for &6Allthemodium&r!"]
 	quest.18FEFB1BC6DFE49C.quest_desc: ["Bringing more power output to our Substations, which as we progress will help immensely in ensuring our equipment stays running!"]
 	quest.18FEFB1BC6DFE49C.quest_subtitle: "Substation Tier up!"
 	quest.1906C5D1C80035E4.quest_desc: [
@@ -2584,8 +2577,6 @@
 		"{image:atm:textures/questpics/cataclysm/cataclysm_prison.png width:200 height:100 align:center}"
 	]
 	quest.1A8F438DB8508276.title: "&3Frosted Prison&r: Home of the &3&lMaledictus"
-	quest.1A96C595CBA42840.quest_desc: ["Kivi Seeds can be used to grow Kivi Essence which can be crafted in Kivi!"]
-	quest.1A96C595CBA42840.title: "Kivi Automation"
 	quest.1AA81C41431FD145.quest_desc: ["Pull..! Pull..! Pull..! \\n\\nThe Puller is the opposite of the Sender, it pulls items from Inventories into the Router's Buffer. \\n\\nThe Inventory has to be adjacent to the Router."]
 	quest.1AADF0A1B42AD511.quest_desc: ["Using all of the materials we've gathered so far, we can make the first piece of the &dRailgun&r needed for the &6Star&r!"]
 	quest.1AAF0B31B47AF23D.quest_desc: ["Individual ME devices can also be configured to respond to redstone signals. When upgraded with a &bRedstone Card&f, a device can be configured to do work only when powered with redstone or otherwise as needed.\\n\\nThis behavior can also apply to entire &osections&r of an ME network by using an &bME Toggle Bus&f. This allows a section of the network on the other side of the bus to come online only when the bus is powered by redstone, or to go offline if using an &einverted&f toggle bus."]
@@ -4137,7 +4128,7 @@
 		"{image:atm:textures/questpics/forbidden/forbidden_experience.png width:135 height:100 align:center}"
 	]
 	quest.2ADA491A2485061C.title: "&aExperience"
-	quest.2AEBE3F28996A6ED.quest_desc: ["With our new metals, we can upgrade our Furnace using the mod &aIron Furnaces&r!\\n\\nIron Furnaces (furnaces from the mod itself, not just the Iron version) allow you to add &aAugments&r to upgrade its speed, change the function of the furnace, and more!\\n\\nThese furnaces make automation easier by allowing you to auto-pull or push from the sides using the config on the left of the interface."]
+	quest.2AEBE3F28996A6ED.quest_desc: ["With our new metals, we can upgrade our Furnace using the mod &aIron Furnaces&r!\\n\\nIron Furnaces (Furnaces from the mod itself, not just the Iron version) allow you to add &aAugments&r to upgrade its speed, change the function of the furnace, and more!\\n\\nThese furnaces make automation easier by allowing you to auto-pull or push from the sides using the config on the left of the interface."]
 	quest.2AEBE3F28996A6ED.title: "&aFurnace Upgrades&r!"
 	quest.2AECDD9E2DEA708C.quest_subtitle: "Tier: &a2"
 	quest.2AED15E3AC0346FE.quest_desc: [
@@ -4239,7 +4230,7 @@
 	quest.2BC325DEBDD2F5CA.quest_subtitle: "Tier: &bMagical"
 	quest.2BCB788924BBD849.quest_desc: ["My personal favorite and one of the most powerful. \\n\\nThe &bIncinerator&r can be used just like a normal Sword and Enchanted like one! \\nBut when Holding Right Click it does something no normal Sword does. When you Hold and let go of Right Click for a few seconds, massive flames will strike out of the ground in the direction you are looking at, then they will explode. \\n\\nIt is also massive, which not just looks cool, but also gives better Range!"]
 	quest.2BCB788924BBD849.title: "&bThe Incinerator"
-	quest.2BD077EFE77B8EBB.quest_desc: ["Zombies have different varients that spawn in other Biomes. \\n\\nHusks- spawn in Deserts. \\nDrowned- spawn Underwater. \\nGelid- spawn in Cold Biomes. \\nThickets- spawn in Jungles."]
+	quest.2BD077EFE77B8EBB.quest_desc: ["Zombies have different varients that spawn in other Biomes.\\n\\nHusks - spawn in deserts.\\nDrowned - spawn underwater."]
 	quest.2BD077EFE77B8EBB.title: "Zombie Variants"
 	quest.2BD4E8494F2F43E9.title: "Alloy Shovel"
 	quest.2BE364CCE684AD45.quest_desc: ["One block stop for powering your multiblocks at IV!"]
@@ -4933,8 +4924,6 @@
 		""
 		"This also makes a load of Bio Diesel, which can be a fantastic fuel source, especially if you make it Cetane Boosted Diesel"
 	]
-	quest.32ECD93A8F2FAB8F.quest_desc: ["&6Jetpacks&r are a beloved way of getting around. \\n\\nTo start making them you'll need to start with a &6Wood Jetpack&r! This can be upgraded all the way to a &5Creative Jetpack&r. \\n\\nWhile it does have many versions each work all the same. They all can be placed in your Chestplate Slot, or Back Curio, or Curio Curio. \\n\\nAll of them also need FE to work, you can use any Item Charger to charge them! They will use FE to fly and yes you will drop if you run out of Energy. \\nTo fly you'll need to turn on your Engine (V), then when you hold Space you'll fly up and drop when you let go. \\n\\nFor those who don't enjoy dropping, then you can turn on Hover (Unbinded), when set on you will Fly at the same altitude; being able to go higher with (Space) and lower with (Shift). \\n\\nTo adjust how fast you fly, change your Throttle. Decreasing it is (,) by default and increasing it is (.) by default!"]
-	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
 	quest.32FDC5FFA000DAF8.quest_desc: ["Proud of the Bees you have?\\n\\nWanna put them into a jar to show it off?\\n\\nPlace a Bee Jar down and use a Pipe or Hopper to insert the caged Bee into the jar."]
 	quest.32FDC5FFA000DAF8.quest_subtitle: "Showing Off Bees"
 	quest.32FE0C0475BB45C6.quest_desc: ["Lets take the Osmiridium  you made and process it into some Fine Wires. This plus the Magnetized Samarium Long Rods will net us some important progress!"]
@@ -5043,7 +5032,7 @@
 	quest.34592A8F4B661D8D.quest_subtitle: "This Goes Boom Too"
 	quest.3459CAEB59CBD60E.quest_desc: ["Looks like someone flipped the ON switch this time! \\n\\n&4The Prowler&r is a miniboss guarding the &4Ancient Factory&r. He has 640 &4Hearts&r. \\n\\nHe has 3 attacks. The Saw for close up Enemies. And for farther Enemies he has Shoulder Missiles, similar to the WASW, and a Laser from his eye. \\n\\nOn death he'll drop Redstone and Iron. \\n(Tip he's also weak to the EMP attacks)"]
 	quest.3459CAEB59CBD60E.title: "&4The Prowler&r"
-	quest.346860B8EBC4C28C.quest_desc: ["Now that you have all this lava what will you do with it? More early game power! "]
+	quest.346860B8EBC4C28C.quest_desc: ["Now that you have all this Lava what will you do with it? More early game power! "]
 	quest.346860B8EBC4C28C.title: "Lava Power"
 	quest.346A926E23840EF7.quest_desc: [
 		"The options for ZPM tier cables arent the best when it comes to Amperage loss. "
@@ -5717,8 +5706,8 @@
 	quest.3BB0926C4C00BE1D.title: "&5&lCreative Jetpack"
 	quest.3BB3AA6C29285837.quest_desc: ["Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)"]
 	quest.3BB3AA6C29285837.title: "&2Prudentium Apple"
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 is a kitchensink pack that allows you to explore the world of modded Minecraft in your own way!\\n\\nIf you have any questions or issues, feel free to join the ATM discord!"]
-	quest.3BC0A50886A3222B.title: "&dWelcome to All The Mods 10 LITE!"
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 is a kitchensink pack that allows you to explore the world of modded Minecraft in your own way!\\n\\nThis modpack is a version of ATM10 built to have a similar experience as the main pack, while also focusing heavily on performance, so it can be run on lower-end systems.\\n\\nIf you have any questions or issues, feel free to join the ATM discord!"]
+	quest.3BC0A50886A3222B.title: "&dWelcome to All The Mods 10 - LITE!"
 	quest.3BC94B0B922C0708.quest_desc: ["These are crafting ingredients for stuff that does importing, whether it be items, fluids, or energy."]
 	quest.3BD304D851F49EC0.quest_subtitle: "Elderberry + Silver Fir"
 	quest.3BD5C517AD024A45.quest_desc: ["The last Superconductor we made was a while back. But now each tier's Superconductor will become more important, as well as allow us to have no Amperage loss cabling!"]
@@ -7038,13 +7027,7 @@
 	]
 	quest.48600733998CA349.quest_subtitle: "Fluids and more"
 	quest.486060882E507CF1.quest_subtitle: "Spawns from a Dirt Nest"
-	quest.4869C413646CC4CC.quest_desc: [
-		"Transferring power out of your generators is probably a good idea, but how can you do it? "
-		""
-		"To start, you can use &cEnergy Pipes&r from the &aPipez&r mod, or you can use the &9Powah&r &cEnergy Cables&r if you have already started using that mod. "
-		""
-		"Or if you want a throwback, this pack has &6EnderIO&r and you can use the &6Energy Conduits&r from it."
-	]
+	quest.4869C413646CC4CC.quest_desc: ["Transferring power out of your generators is probably a good idea, but how can you do it?\\n\\nTo start, you can use cables from &9Mekanism&r, or you can use the &9Powah&r &cEnergy Cables&r if you have already started using that mod. "]
 	quest.486B5A605D79EA10.quest_desc: ["These we can actually farm for! Milk that &cPyromancer&r!"]
 	quest.486B5A605D79EA10.title: "&cFire&r Upgrade Orb"
 	quest.487275B970530E3F.quest_desc: ["An upgrade to our Will storage. This will hold a max of 256 Will."]
@@ -7802,8 +7785,6 @@
 	quest.4EDD96EB60EF5814.quest_desc: ["If you're wondering if it is worth making this upgrade, the answer is yes.\\n\\nThis version can be used to add extra heat to Thermal Evaporation Plants."]
 	quest.4EDD96EB60EF5814.quest_subtitle: "Generates about 410FE/t"
 	quest.4EE482B9D61B5933.quest_desc: ["Of course &2Vanilla&r isn't our max, there's much more and much rarer in Modded! "]
-	quest.4EEAB467C722ECE7.quest_desc: ["These are simple pipes that can be upgraded with Pipe Upgrades.\\n\\nTo 'extract' power from a block, place the pipe down next to the block, and on the side that is connected, shift+right-click with the pipe wrench to set the pipe to extract.\\n\\nThe &e&lPipez&r mod also offers ways to transport items, gases, and liquids as well! Or you can make an All-In-One Pipe called the &aUniversal Pipe&r.\\n\\nOther Wrenches work with &e&lPipez&r as well!"]
-	quest.4EEAB467C722ECE7.title: "&9Pipez: &aEnergy Pipes"
 	quest.4EEFECB9D741B371.quest_desc: [
 		"As previously stated, alloys are going to continue to increase in complexity, as it should be expected."
 		""
@@ -10898,9 +10879,6 @@
 		""
 		"You need a higher tier cutter to cut the higher tier chips to achieve higher tiers of power"
 	]
-	quest.6D6E07564D8FDD8D.quest_desc: ["&aExtreme Reactors&r offers multi-block Reactors that are completely customizable in size, efficiency, and more.\\n\\nTo learn more about getting started with Extreme Reactors, check out the quest chapter for the mod!"]
-	quest.6D6E07564D8FDD8D.quest_subtitle: "Customizable Reactors!"
-	quest.6D6E07564D8FDD8D.title: "&9Extreme Reactors: &aReactors"
 	quest.6D738730B371B152.quest_desc: ["The &l&7Mining Dimension&r is a Superflat world with absolutely nothing on the surface. \\n\\nBelow the surface is almost every single Ore. \\n\\nThe &7&lMining Dimension&r has no Caves, no Mob Spawns, and nothing to get in your way. It's just Stone types and Ores! \\n\\nOre spawns differ for the Y Level and layer in the &7&lMining Dimension&r.\\n\\nI recommend setting up a Quarry."]
 	quest.6D738730B371B152.title: "&l&7Mining Dimension"
 	quest.6D750A38944E9B68.quest_desc: [
@@ -12817,23 +12795,12 @@
 	reward_table.04285B94275AB879.title: "Powah: Rods and Cables"
 	reward_table.047C4C58EC06DBF3.title: "Powah: Hardened"
 	reward_table.06C4634E81851A6C.title: "Reward: Common"
-	reward_table.08F142CC52B97FF5.title: "Twilight Forest: Rewards"
 	reward_table.0A18991D9745743A.title: "AE2: Basic Rewards"
-	reward_table.0A4D0C6441DBF319.title: "Immersive: Resources"
-	reward_table.0C83C7A93ED80A36.title: "Nature's Aura: Rewards"
-	reward_table.0CFCEDF988F211F3.title: "Immersive: Alloys and Parts"
-	reward_table.11204745E52B4C0C.title: "Logs \\& Saplings"
 	reward_table.13DF975BE0A23373.title: "Powah: Nitro"
-	reward_table.1AE4A39086CA5564.title: "MA: Tier 4 Seed Bag"
 	reward_table.1C750D27FEF7C386.title: "Powah: Blazing"
-	reward_table.1DB1EEDA7B79672B.title: "RailCraft: Rails"
 	reward_table.1EC6956FA2BB2B00.title: "Basic Storage: Rewards"
-	reward_table.21B1896C13F84C09.title: "MA: Tier 2 Seed Bag"
-	reward_table.2A2E3EFEF58354A9.title: "Immersive: Building Block"
-	reward_table.37F912BDB7C8E6B6.title: "1x1 Wooden Drawers"
 	reward_table.3A3BDBA4E9AD13C4.title: "Reward: Uncommon"
 	reward_table.3AC97B13FF3E4FD3.title: "Powah: Starter"
-	reward_table.43C220CBD5447FE6.title: "PNC: PCB Tier"
 	reward_table.471CE0CD88F57EDC.title: "IF: Basic Rewards"
 	reward_table.481E10AEAC95C550.title: "Reward: Legendary"
 	reward_table.4B19C9059B3AA9AC.title: "Powah: Basic"
@@ -12841,23 +12808,9 @@
 	reward_table.4E550B6FE754E446.title: "Powah: Niotic"
 	reward_table.517CB2DAB0515A50.title: "AE2: Advanced Rewards"
 	reward_table.51D32A776892238B.title: "Powah: Spirited"
-	reward_table.57002573D954732E.title: "PNC: Basic Tier"
-	reward_table.5832C9BCFDB476AF.title: "Ars Nouveau: Rewards"
-	reward_table.5A138D1EDF8AA0C1.title: "PNC: Plastic Tier"
-	reward_table.5AF0FD7302DEC2B1.title: "MA: Tier 1 Seed Bag"
-	reward_table.611A165B35847A5A.title: "Bumblezone: Rewards"
-	reward_table.617F6D802ED0FD00.title: "Reward: Epic"
-	reward_table.636C0F2A58AD8FC1.title: "MA: Basic Rewards"
 	reward_table.63E11953DD289422.title: "Mekanism: Rewards"
-	reward_table.64E6D6A658988648.title: "MA: Tier 3 Seed Bag"
-	reward_table.67D8094B10FAA687.title: "EvilCraft: Rewards"
 	reward_table.73E94318B401E916.title: "IF: Advanced Rewards"
 	reward_table.74164DBBE7919A3B.title: "Mekanism Reactors: Rewards"
-	reward_table.75FE7CDF68581EDE.title: "RailCraft: Random"
-	reward_table.7609CF2A167B45C8.title: "Theurgy: Salt"
-	reward_table.779C873798AE0A92.title: "Mahou: Powders"
-	reward_table.79C7738D7CEDABD4.title: "MA: Tier 5 Seed Bag"
-	reward_table.7FB97C5850827C71.title: "PNC: Advanced Tier"
 	task.00648047034C9531.title: "Rock Crusher"
 	task.00A904FBEDE80712.title: "Macaw's Roofs"
 	task.00C6A5CB44392D7E.title: "AllRightsReserved"
@@ -12894,7 +12847,6 @@
 	task.06D8E0295DAE3C50.title: "Machines and You"
 	task.06F2EC3901908BF1.title: "Plastic Construction Bricks"
 	task.06FC3AA435F90AF6.title: "Quests By AllTheMods"
-	task.073D1C45B3018BBA.title: "Chests"
 	task.0740BC10E4D2568F.title: "Regions Unexplored Stones"
 	task.074BDA389D0FB989.title: "Chipped Copper"
 	task.083086610639994F.title: "To &9Everbright&r!"
@@ -12925,6 +12877,7 @@
 	task.0D4AE8FBAA953732.title: "Example Moderators"
 	task.0D5203048B6E068C.title: "Trapped Trader Carpets"
 	task.0D7C60D7BFBD8CF0.title: "AllRightsReserved"
+	task.0E10D7B0A7A97D29.title: "Job Sites"
 	task.0E28075B4E87FE2E.title: "Bronze Ingot"
 	task.0E6876A34D1975EB.title: "AllRightsReserved"
 	task.0E7E336483AFA69C.title: "Vibranium Mage Armor"
@@ -13253,6 +13206,7 @@
 	task.4CC5C3088A4F5C7D.title: "Voltage Loss"
 	task.4CCB830CFDD43B5E.title: "AllRightsReserved"
 	task.4DA6445DB5F3B85E.title: "Lumium Comb"
+	task.4DB11C6F180743E9.title: "Lava Powered Generators"
 	task.4DFDEAD81868CEF4.title: "Chocolate Mining Bee"
 	task.4E04F8F091D18EA4.title: "Observe Fissile Fuel in a Machine"
 	task.4E28970476CABACD.title: "Chipped Lights"
@@ -13423,7 +13377,6 @@
 	task.6D9DBD885FE4C94C.title: "AllRightsReserved"
 	task.6DE94C2C7F4B9AC7.title: "Observe completed Distillation Tower"
 	task.6E0961A56194F0A8.title: "Digger Bee"
-	task.6E44925E265DC7E2.title: "Job Sites"
 	task.6E75525A5D88EF23.title: "Heaters"
 	task.6F07606E3F7BE160.title: "Jump Start"
 	task.6F475689ED4EDF59.title: "Macaw's mods items"
@@ -13490,6 +13443,7 @@
 	task.7D9A58EBADE91F54.title: "Inferium Tools"
 	task.7DE03D4A420D1028.title: "Visit a Dark Temple"
 	task.7E0D9E6342295AB0.title: "Foreword on Channels"
+	task.7E9BA5673EC1220F.title: "Chests"
 	task.7EA0E7DF4C5C4858.title: "AE2 Pickaxes"
 	task.7F08D4E77359BF4A.title: "Wool"
 	task.7F17E48ACE65C84E.title: "Data Models"

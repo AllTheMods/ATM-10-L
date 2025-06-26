@@ -123,12 +123,6 @@
 	quest.313F5AFF459201EB.title: "Kamienie &l&5Eternal Starlight&r"
 	quest.31B0267C47DB9D98.quest_desc: ["Te zadania zostały stworzone przez &6Ekipę AllTheMods&r, a także &2Współtwórcy społeczności&r do użycia w paczce AllTheMods. \\n\\nPodobnie jak inne paczki &6AllTheMods&r zalicencjonowane pod &eAll Rights Reserved&r, nie pozwalamy by nasze zadania były wykorzystane w żadnej innej publicznej paczce nieopublikowanej przez &6Ekipę AllTheMods&r bez uwczesnego pozwolenia. \\n\\nTe zadanie zostało specjalnie ukryte, jeśli to czytasz oznacza to że jesteś w trybie edycji."]
 	quest.31B0267C47DB9D98.title: "WszelkiePrawaZastrzeżone"
-	quest.32ECD93A8F2FAB8F.quest_desc: [
-		"&6Jetpacki&r to moja ulubiona metoda podróżowania. \\n\\nBy zacząć przygodę z nimi, potrzebujesz stworzyć swój pierwszy &6Wood Jetpack&r! Ten później możemy przerobić nawet w &5Creative Jetpack&r. \\n\\nMimo że ma tak wiele wersji każdy działa na tej samej zasadzie. Mogą być włożone na miejsce napierśnika, miejsca na plecy Curio, lub po prostu miejsca Curio. \\n\\nKażdy z nich wymaga naładowania energią, możesz użyć dowolnej ładowarki by je naładować! Używają energii FE tylko wtedy gdy lecisz i tak, gdy prąd się skończy to po prostu zaczniesz spadać. \\nBy latać, musisz uruchomić silnik (domyślnie V), A następnie przytrzymaj spację by polecieć do góry a puść gdy chcesz spadać w dół. \\n\\nDla tych którzy nie lubią spadać, zalecamy tryb Hover(Domyślnie Nieprzypisane), gdy jest uruchomiony będziesz unosił się ciągle na tym samym poziomie; mogąc lecieć wyżej lub niżej za pomocą klawisza Spacji i Lewego Shifta. "
-		"{@pagebreak}"
-		"By dostosować jak szybko chcesz lecieć, zmień swój przepust, domyślnie zmniejszanie jest pod klawiszem (,) a zwiększanie pod (.)!"
-	]
-	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
 	quest.3371F9248D403664.title: "&l&cZlecenia Piekielne:&r&e Witherowe Szkielety"
 	quest.3497C2E05DF5A87C.quest_desc: ["&cRedstone&r, &9Lapis&r, Kwarc, &5Ametyst&r, &aSzmaragd&r i &bDiamenty&r to wspaniałe kryształy. \\n\\nWięc oczywistym jest że zmieniamy je w bloki, bardzo piękne i na dodatek drogie!"]
 	quest.3497C2E05DF5A87C.title: "&l&bChipped&r Kryształowe Bloki"
@@ -304,7 +298,6 @@
 	task.1B12C1A4AC759504.title: "Zabij 1x Mushroom Fieldsowego Endermana"
 	task.1B54BDEF7517778E.title: "Zabij 1x Ice Spikeowego Endermana"
 	task.1D136D138EF82DA9.title: "Zabij 2x Lamy Handlarza"
-	task.1F2F14A414E02FF8.title: "Zabij 1x Murka"
 	task.2038156A13C07BFC.title: "Zabij 100x Płomyków"
 	task.2270A75156F454C2.title: "Zabij 1x Tułacza"
 	task.22FEA0AE155F815A.title: "Zabij 1x Windswept Hillowego Endermana"
@@ -318,9 +311,7 @@
 	task.2F28B803C75DA3B2.title: "Zabij 1x Prastrażnika"
 	task.33107949548BC22D.title: "Zabij 10x Witherowych Szkieletów"
 	task.38E34F997A59FDC3.title: "Zabij 1x Starlight Golema"
-	task.3938CDF8DF2C1766.title: "Zabij 1x Gelida"
 	task.3AD10C31CB6BA4C2.title: "Zabij 10x Zombie"
-	task.3D59A3B7F940F8D0.title: "Zabij 1x Thicketa"
 	task.3D9CA8869A46294A.title: "Zabij 1x Ciemnodębowego Creepera"
 	task.3FAE09970BADAF9C.title: "Zabij 1x Flower Fieldsowego Endermana"
 	task.404D3420276BD963.title: "Zabij 50x Płomyków"
@@ -362,7 +353,6 @@
 	task.69678CAC075C8EA5.title: "Zabij 1x Nadzorca"
 	task.697D13BE679C255C.title: "Zabij 1x Oceanicznego Creepera"
 	task.6BA6847A172C8DD7.title: "Zabij 50x Endermanów"
-	task.6E0C2317F20C947C.title: "Zabij 1x Verdanta"
 	task.6E3ACC74E0987981.title: "Osiągnięcie: &eŁowca Potworów&r"
 	task.70FE879E07048556.title: "Zabij 1x Bagniaka"
 	task.710A9E28A01EAE55.title: "Zabij 1x Wyżynnego Creepera"
