@@ -1,7 +1,7 @@
 {
 	id: "481E10AEAC95C550"
 	loot_size: 1
-	order_index: 8
+	order_index: 6
 	rewards: [
 		{ id: "1DEE92FAC91278BB", item: { count: 1, id: "mekanism:pellet_antimatter" } }
 		{

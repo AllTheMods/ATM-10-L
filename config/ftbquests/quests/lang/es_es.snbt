@@ -14,8 +14,6 @@
 	chapter.282448C70744895F.title: "Encantando con Apotheosis"
 	chapter.2A6EBEEBAB882679.title: "Powah"
 	chapter.34E8FF3196478229.title: "Forbidden and Arcanus"
-	chapter.3DEB33F78398EAD6.chapter_subtitle: ["And LaserIO"]
-	chapter.3DEB33F78398EAD6.title: "Basic Logistics"
 	chapter.4293754F9B2D05F0.title: "&aCapitulo 2&r: &eAllTheModium"
 	chapter.44E9C52B25D280CB.title: "Mahou Tsukai"
 	chapter.4C507C004144BFEE.title: "Occultism"
@@ -31,7 +29,6 @@
 	chapter_group.2084F3F6FB861C5B.title: "Misiones Principales"
 	chapter_group.22FB35B0FEF1343D.title: "Armaduras y Herramientas"
 	chapter_group.2B51AC12041E3F89.title: "Tecnologia"
-	chapter_group.3D4E23B1100491AB.title: "Logistics"
 	chapter_group.6614EE2378B8AFB9.title: "Recursos"
 	chapter_group.752CDE464613A1ED.title: "Exploracion"
 	quest.00075A5F9AC120ED.quest_desc: ["Esto sacará los artículos de tu cofre de entrada."]
@@ -1553,14 +1550,6 @@
 	quest.13E5783AD64E3BC2.quest_desc: ["Breaking spawners will now drop &9Spawner Scraps&r."]
 	quest.13F68CA518CD287C.quest_desc: ["El &3Diesel&r se puede usar para fabricar más Kerosene o para hacer Lubricant."]
 	quest.13F68CA518CD287C.title: "Diesel"
-	quest.1409C17773B6A131.quest_desc: [
-		"To make your pipes extract more power, you'll want to make it an upgrade. "
-		""
-		"Once you've shift+right-clicked a pipe to set it to extract, you can insert a pipe upgrade into it by right-clicking the pipe with the upgrade. You can also right-click with an empty hand and add it using the GUI! "
-		""
-		"To be able to set filters, you'll need at least an &9Advanced Pipe Upgrade&r. "
-	]
-	quest.1409C17773B6A131.title: "Upgrading our Pipez"
 	quest.140DE53DC0FCD9F4.quest_desc: ["El &bME Panel de Absorción&f se puede usar para romper automáticamente cualquier bloque frente a él y devolver cualquier cosa que el bloque suelte directamente a la red ME. \\\\n \\\\n Como beneficio adicional, el Plano de Aniquilación se puede encantar de la misma manera que una herramienta de excavación regular, afectando las gotas de bloques de la misma manera que lo haría esa herramienta encantada. Esto lo hace ideal para procesar bloques de mineral cuando se encante con Fortuna, por ejemplo. Cualquier encantamiento adicional aumenta significativamente la cantidad de energía utilizada por el plano cada vez que se rompe un bloque. Encantar el plano con &eEficiencia&f disminuirá el uso general de energía incurrido por todos los demás encantamientos, mientras que el encantamiento &eIrrompible&f le da al plano la posibilidad de usar energía solo algunas veces, de manera similar a Irrompible en herramientas regulares."]
 	quest.140DE53DC0FCD9F4.quest_subtitle: "ENTRA"
 	quest.140DE53DC0FCD9F4.title: "ME Panel de Absorción"
@@ -3081,8 +3070,6 @@
 	quest.32C3E14578D48E6C.quest_subtitle: "Tubos de presión mejorados"
 	quest.32E52AD6EF194A60.quest_desc: ["El Pilón de Expulsión funciona como una forma de mantener a la gente fuera de tu terreno. Cuando se coloca, evitará que cualquier jugador que no esté en la lista blanca entre en una cantidad determinada de Chunks a su alrededor. Los Chunks se configuran en su interfaz en la parte superior izquierda, en 1x1, 3x3, o 5x5 Chunks. Y no, no se puede colocar demasiado cerca del Spawn. ¡Sabemos lo que quieren los trolls y no se los vamos a dar! Para poner jugadores en la lista blanca, ¡consulta la Misión del Filtro de Jugadores!"]
 	quest.32E52AD6EF194A60.quest_subtitle: "Fuera de mi patio!"
-	quest.32ECD93A8F2FAB8F.quest_desc: ["Los &6Jetpacks&r son una forma muy querida de desplazarse.\\n\\nPara comenzar a fabricarlos, necesitarás empezar con un &6Jetpack de Madera&r. ¡Este puede mejorarse hasta llegar al &5Jetpack Creativo&r!\\n\\nAunque tienen muchas versiones, todas funcionan de la misma manera. Se pueden colocar en tu ranura de pechera, o en la de Back Curio, o Curio Curio (algo confuso, lo se).\\n\\nTodos necesitan FE para funcionar. Puedes usar cualquier cargador de ítems para realizar esta tarea. Utilizarán FE para volar, y sí, caerás si te quedas sin energía. \\nPara volar, necesitarás encender el motor (V). Luego, al mantener presionado Espacio, volarás hacia arriba y caerás al soltarlo.\\n\\nPara quienes no disfrutan de caer, puedes activar el modo Hover (sin asignar por defecto). Al activarlo, volarás a la misma altitud, pudiendo subir con (Espacio) y bajar con (Shift).\\n\\nPara ajustar la velocidad de vuelo, cambia el acelerador. Disminuirlo es (,) por defecto y aumentarlo es (.) por defecto."]
-	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
 	quest.3331EBE1BB4BF64D.quest_desc: ["Reactores Nucleares pueden ser muy aterradores para alguien con efectos especialmente nocivos. \\n\\nAfortunadamente la unica cosa aterradora de &a&lExtreme Reactors&r es lo confuso que puede ser seguir las recetas! \\n\\nNo la parte explosiva,estos no explotan."]
 	quest.3334D15766A47A46.quest_desc: ["Usando un Assembly Line con Láser, puedes acelerar la producción de &3Unassembled PCBs&r. Simplemente coloca un Empty PCB en el cofre de entrada, añade presión y espera."]
 	quest.3334D15766A47A46.title: "Automatizando PCBs"
@@ -4908,14 +4895,6 @@
 		"Esta versión produce 105.6FE/t. También se puede usar para agregar calor adicional a las Plantas de Evaporación Térmica."
 	]
 	quest.4EDD96EB60EF5814.quest_subtitle: "Genera alrededor de 410FE/t"
-	quest.4EEAB467C722ECE7.quest_desc: [
-		"These are simple pipes that can be upgraded with Pipe Upgrades. "
-		""
-		"To 'extract' power from a block, place the pipe down next to the block, and on the side that is connected, shift+right-click with the pipe wrench to set the pipe to extract. "
-		""
-		"The &9Pipez&r mod also offers ways to transport items, gases, and liquids as well! Or you can make an All-In-One Pipe called the &aUniversal Pipe&r. "
-	]
-	quest.4EEAB467C722ECE7.title: "&9Using Pipez:&r &aEnergy Pipe&r"
 	quest.4EEFECB9D741B371.quest_desc: [
 		"As previously stated, alloys are going to continue to increase in complexity, as it should be expected."
 		""

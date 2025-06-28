@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: true
 	default_quest_shape: "square"
 	filename: "modular_router"
-	group: "3D4E23B1100491AB"
+	group: "1AC60211DE7427FC"
 	icon: {
 		id: "modularrouters:modular_router"
 	}
@@ -81,7 +81,7 @@
 			y: -6.5d
 		}
 	]
-	order_index: 1
+	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

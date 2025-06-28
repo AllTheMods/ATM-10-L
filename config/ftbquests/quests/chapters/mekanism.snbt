@@ -25,7 +25,7 @@
 			y: 0.5d
 		}
 	]
-	order_index: 1
+	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -1914,7 +1914,7 @@
 			]
 			tasks: [{
 				id: "16DAFC5C5846015A"
-				item: { components: { "ftbquests:missing_item": "cookingforblockheads:sink" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "cookingforblockheads:sink" }
 				type: "item"
 			}]
 			x: -2.0d

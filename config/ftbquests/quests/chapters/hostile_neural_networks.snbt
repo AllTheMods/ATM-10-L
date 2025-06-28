@@ -188,7 +188,7 @@
 				item: { count: 1, id: "hostilenetworks:overworld_prediction" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.0d
 			y: 5.0d
 		}
 		{
@@ -217,7 +217,7 @@
 				item: { count: 1, id: "hostilenetworks:nether_prediction" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: 0.0d
 			y: 5.0d
 		}
 		{
@@ -246,7 +246,7 @@
 				item: { count: 1, id: "hostilenetworks:end_prediction" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: 5.0d
 		}
 		{
@@ -535,8 +535,8 @@
 				match_components: "strict"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 8.5d
+			x: 2.0d
+			y: 14.5d
 		}
 		{
 			dependencies: ["14B3542ECB59869C"]
@@ -565,7 +565,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 12.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["14B3542ECB59869C"]
@@ -954,7 +954,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 14.5d
+			y: 8.5d
 		}
 		{
 			dependencies: ["14B3542ECB59869C"]

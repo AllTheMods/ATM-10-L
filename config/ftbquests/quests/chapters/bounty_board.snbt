@@ -400,12 +400,6 @@
 			y: 0.0d
 		}
 		{
-			icon: {
-				components: {
-					"ftbquests:icon": "minecraft:textures/entity_icon/enderdragon/dragon.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
 			id: "728BE1816DA23DC0"
 			rewards: [
 				{
@@ -434,15 +428,9 @@
 				value: 1L
 			}]
 			x: -1.5d
-			y: 2.5d
+			y: 2.25d
 		}
 		{
-			icon: {
-				components: {
-					"ftbquests:icon": "minecraft:textures/entity_icon/wither/wither.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
 			id: "09C82CDDA800D8C9"
 			rewards: [
 				{
@@ -471,15 +459,9 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: 2.5d
+			y: 2.25d
 		}
 		{
-			icon: {
-				components: {
-					"ftbquests:icon": "minecraft:textures/entity_icon/wandering_trader.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
 			id: "0F55D0B4D5094EDB"
 			optional: true
 			rewards: [
@@ -517,7 +499,7 @@
 				}
 			]
 			x: 0.0d
-			y: 4.0d
+			y: 3.75d
 		}
 		{
 			id: "17F3AC15ADCFB175"
@@ -1155,12 +1137,6 @@
 			y: -7.0d
 		}
 		{
-			icon: {
-				components: {
-					"ftbquests:icon": "minecraft:textures/entity_icon/warden/warden.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
 			id: "0E20A9B79D1C6637"
 			rewards: [
 				{
@@ -1189,7 +1165,7 @@
 				value: 1L
 			}]
 			x: 1.5d
-			y: 2.5d
+			y: 2.25d
 		}
 		{
 			id: "08B60D8A25008CCC"
@@ -1240,18 +1216,6 @@
 					type: "kill"
 					value: 1L
 				}
-				{
-					entity: "variantsandventures:gelid"
-					id: "3938CDF8DF2C1766"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:thicket"
-					id: "3D59A3B7F940F8D0"
-					type: "kill"
-					value: 1L
-				}
 			]
 			x: -7.0d
 			y: -1.0d
@@ -1260,24 +1224,11 @@
 			dependencies: ["42822B1E8A53D051"]
 			hide_until_deps_complete: true
 			id: "6827836C8E675A94"
-			rewards: [
-				{
-					id: "4DBB5B2919BC0D99"
-					item: {
-						components: {
-							"ftbquests:missing_item": "mysticalagriculture:inferium_bow"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "4E90D5E8646C1C81"
-					type: "xp"
-					xp: 100
-				}
-			]
+			rewards: [{
+				id: "4E90D5E8646C1C81"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [
 				{
 					entity: "minecraft:stray"
@@ -1288,18 +1239,6 @@
 				{
 					entity: "minecraft:bogged"
 					id: "70FE879E07048556"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:murk"
-					id: "1F2F14A414E02FF8"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:verdant"
-					id: "6E0C2317F20C947C"
 					type: "kill"
 					value: 1L
 				}

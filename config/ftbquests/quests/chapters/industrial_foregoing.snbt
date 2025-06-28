@@ -166,7 +166,7 @@
 		}
 		{
 			height: 1.0d
-			image: "chipped:block/acacia_log/firewood_acacia_log"
+			image: "minecraft:block/acacia_log"
 			rotation: 0.0d
 			width: 1.0d
 			x: 0.4399659863945189d
@@ -268,7 +268,7 @@
 			y: 5.9d
 		}
 	]
-	order_index: 0
+	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

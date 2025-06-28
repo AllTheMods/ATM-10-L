@@ -4,8 +4,6 @@
 	chapter.18A429E7F56AF5A9.title: "Ödül Panosu"
 	chapter.1BE666F01EFFC00D.title: "İpuçları ve Püf Noktaları"
 	chapter.1DB294A8F8686321.title: "Temel Depolama"
-	chapter.3DEB33F78398EAD6.chapter_subtitle: ["Ve LaserIO"]
-	chapter.3DEB33F78398EAD6.title: "Temel Lojistik"
 	chapter.4293754F9B2D05F0.title: "&aBölüm 2&r: &eAllTheModium"
 	chapter.4791C8461B1B4D5F.title: "Zırhlar"
 	chapter.4B9D26E0087CD163.title: "Aletler"
@@ -19,8 +17,6 @@
 	chapter_group.1AC60211DE7427FC.title: "Depolama"
 	chapter_group.2084F3F6FB861C5B.title: "Ana Görevler"
 	chapter_group.2B51AC12041E3F89.title: "Teknoloji"
-	chapter_group.3D4E23B1100491AB.title: "Lojistik"
-	chapter_group.49AECADBA9E79A3B.title: "Güç"
 	chapter_group.6614EE2378B8AFB9.title: "Kaynaklar"
 	quest.002B8F2DE2CB4D2C.quest_desc: ["Diğer elinde Kalkan ve ana elinde &7Güçleniş Parşomeni&r tut ve Sağ Tık'a basılı tut."]
 	quest.002B8F2DE2CB4D2C.title: "Güçlü Kalkan"
@@ -335,7 +331,6 @@
 	quest.18EADBAFC932F864.quest_desc: ["Koyun kırkmak için makas gerekir, başka türlü yün elde edemezsin... değil mi?"]
 	quest.18EADBAFC932F864.quest_subtitle: "Pasifist Yolu"
 	quest.18EADBAFC932F864.title: "Kırpma Zamanı"
-	quest.18FAD56CDE05646A.quest_desc: ["Daha önce &7&lMadencilik Boyutundaki&r Maden Ocakları her şeyi çıkarır ama &6AllTheModium Cevheri&r bırakırdı. \\n\\nŞimdi &6AllTheModium&r'u kazacak ama düşenleri geçersiz kılacak... işte şimdi Maden Ocaklarına dikkat etmek isteyebilirsin! \\n\\nEğer kesinlikle &6AllTheModium&r arıyorsan Cevher Görme İksirleri ile Madencilik yapmanı tavsiye ederim!"]
 	quest.1972B36F72808D55.quest_desc: ["Bu taşların sadece bazıları yontulmuştur."]
 	quest.1972B36F72808D55.title: "&l&bChipped&r Taşları"
 	quest.1985CFD1F0425E88.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
@@ -612,7 +607,6 @@
 	quest.32AE664113F01CF7.quest_subtitle: "Yıkık Geçitler, Nether Kaleleri ve Bastion'larda Bulunur"
 	quest.32E52AD6EF194A60.quest_desc: ["Expulsion Pylon, insanları arazinden uzak tutmanın bir yolu olarak işlev görür. \\n\\nYerleştirildiğinde, beyaz listede olmayan tüm Oyuncuları etrafındaki belirli miktardaki Yığın'dan uzak tutacaktır. \\n\\nYığınlar, sol üstteki GUI'de 1x1, 3x3 veya 5x5 Yığın olarak ayarlanır. \\n\\nAyrıca hayır, Başlangıç Noktasına çok yakın ayarlanamaz. Siz trollerin ne istediğini biliyoruz ve bunu size sunmayacağız! \\n\\nOyuncuları beyaz listeye almak için Player Filter Görevini kontrol et!"]
 	quest.32E52AD6EF194A60.quest_subtitle: "Arazimden defol!"
-	quest.32ECD93A8F2FAB8F.quest_desc: ["&6Jetpack&r'ler etrafta dolaşmanın sevilen bir yöntemidir. \\n\\nBunları yapmaya başlamak için &6Wood Jetpack&r ile başlaman gerekecek! Bu, &5Creative Jetpack&r'e kadar yükseltilebilir. \\n\\nBirçok çeşidi olsa da her biri aynı şekilde çalışır. Hepsi Göğüs Zırhı Yuvana, Sırt Curio'na veya Curio Curio'na yerleştirilebilir. \\n\\nAyrıca hepsinin çalışması için FE'ye ihtiyacı vardır, onları şarj etmek için herhangi bir Eşya Şarj Cihazını kullanabilirsin! Uçmak için FE kullanırlar ve evet, Enerjin biterse düşersin. \\nUçmak için Motorunu (V) açman gerekecek, ardından Boşluk'u basılı tuttuğunda yukarı uçacak ve bıraktığında düşeceksin. \\n\\nDüşmekten hoşlanmıyorsan, Hover'ı (Tuş Bağlantısı yok) açabilirsin, ayarlandığında aynı yükseklikte Uçacaksın; (Boşluk) ile daha yükseğe ve (Shift) ile daha alçağa gidebileceksin. \\n\\nNe kadar hızlı uçacağını ayarlamak için Gaz Ayarını(Throttle) değiştir. Azaltmak için varsayılan olarak (,) ve artırmak için varsayılan olarak (.) kullanılabilirsin!"]
 	quest.3331EBE1BB4BF64D.quest_desc: ["Nükleer Reaktörler, özellikle tehlikeli etkileri nedeniyle bazıları için oldukça korkutucu olabilir! \\n\\nNeyse ki &a&lExtreme Reactors&r ile ilgili korkutucu olan tek şey tarifleri takip etmenin ne kadar kafa karıştırıcı olabileceğidir! \\n\\nPatlama kısmı değil, onlar bunu yapmaz."]
 	quest.3371F9248D403664.title: "&l&cNether Ödülü:&r&e Wither İskeletleri"
 	quest.33816AF0E699F19F.quest_desc: ["Bu blok, şarj edilmiş herhangi bir eşyadan FE'yi boşaltacaktır."]
@@ -1617,7 +1611,6 @@
 	task.05256FE880D981D5.title: "Vibranium Aletler"
 	task.064B1841F9288CC3.title: "Bloklar"
 	task.06F2EC3901908BF1.title: "Plastik Yapı Tuğlaları"
-	task.073D1C45B3018BBA.title: "Sandıklar"
 	task.0740BC10E4D2568F.title: "Regions Unexplored Taşları"
 	task.074BDA389D0FB989.title: "Chipped Bakır"
 	task.08DA73B1AC17E5F5.title: "Üretim Depolaması"
@@ -1755,7 +1748,6 @@
 	task.6C974DF242CFDB8E.title: "Antik Piramit Bul"
 	task.6CAD0E4CF3577BEB.title: "1 Muhafız Öldür"
 	task.6D2E8755BB3463FF.title: "Railcraft Renkli Bloklar"
-	task.6E44925E265DC7E2.title: "İş Yerleri"
 	task.6F475689ED4EDF59.title: "Macaw's modlarının eşyaları"
 	task.70367F545A9CB4D0.title: "Yataklar"
 	task.70972BAFF5896EA8.title: "Mystical Agriculture Kazmaları"

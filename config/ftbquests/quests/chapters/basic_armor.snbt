@@ -38,7 +38,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_7.png"
 			rotation: 0.0d
 			width: 0.8059701492537313d
-			x: -8.0d
+			x: -4.5d
 			y: -7.5d
 		}
 		{
@@ -46,7 +46,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_15.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
-			x: 0.0d
+			x: 2.0d
 			y: -8.5d
 		}
 		{
@@ -70,7 +70,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_32.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
-			x: 14.5d
+			x: 14.0d
 			y: -7.5d
 		}
 		{
@@ -78,7 +78,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_40.png"
 			rotation: 0.0d
 			width: 2.0d
-			x: 17.5d
+			x: 17.0d
 			y: -7.5d
 		}
 		{
@@ -86,7 +86,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.0d
+			x: -5.5d
 			y: -7.5d
 		}
 		{
@@ -94,7 +94,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -1.0d
+			x: 1.0d
 			y: -8.5d
 		}
 		{
@@ -118,7 +118,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 13.5d
+			x: 13.0d
 			y: -7.5d
 		}
 		{
@@ -126,7 +126,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 16.25d
+			x: 15.5d
 			y: -7.5d
 		}
 		{
@@ -134,7 +134,7 @@
 			image: "atm:textures/questpics/basicarmor/armor_11.png"
 			rotation: 0.0d
 			width: 1.3880597014925373d
-			x: -4.0d
+			x: -1.5d
 			y: -7.5d
 		}
 		{
@@ -142,7 +142,7 @@
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -5.0d
+			x: -2.5d
 			y: -7.5d
 		}
 		{
@@ -268,7 +268,7 @@
 					type: "item"
 				}
 			]
-			x: -8.5d
+			x: -5.0d
 			y: -6.0d
 		}
 		{
@@ -302,7 +302,7 @@
 					type: "item"
 				}
 			]
-			x: -2.5d
+			x: 0.0d
 			y: -6.0d
 		}
 		{
@@ -336,7 +336,7 @@
 					type: "item"
 				}
 			]
-			x: -4.5d
+			x: -2.0d
 			y: -6.0d
 		}
 		{
@@ -369,7 +369,7 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
+			x: 2.0d
 			y: -6.0d
 		}
 		{
@@ -501,7 +501,7 @@
 					type: "item"
 				}
 			]
-			x: 14.0d
+			x: 13.5d
 			y: -6.0d
 		}
 		{
@@ -534,7 +534,7 @@
 					type: "item"
 				}
 			]
-			x: 17.0d
+			x: 16.5d
 			y: -6.0d
 		}
 		{
@@ -600,7 +600,7 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
+			x: 2.0d
 			y: -7.5d
 		}
 		{
@@ -963,7 +963,7 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
+			x: -3.5d
 			y: -6.0d
 		}
 		{
@@ -1062,7 +1062,7 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
+			x: 12.0d
 			y: -6.0d
 		}
 		{
@@ -1490,7 +1490,7 @@
 				type: "item"
 			}]
 			x: 10.5d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			id: "3AA836E8EDB52097"
@@ -1506,7 +1506,7 @@
 				type: "item"
 			}]
 			x: 11.5d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			id: "4DF683461225690F"
@@ -1521,8 +1521,8 @@
 				item: { count: 1, id: "minecraft:iron_ingot" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 3.5d
+			x: 15.5d
+			y: 2.0d
 		}
 		{
 			id: "3685B52446DEC809"
@@ -1537,8 +1537,8 @@
 				item: { count: 1, id: "minecraft:gold_ingot" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: 3.5d
+			x: 16.5d
+			y: 2.0d
 		}
 		{
 			id: "211FD55DEB635A98"
@@ -1553,8 +1553,8 @@
 				item: { count: 1, id: "minecraft:copper_ingot" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 3.5d
+			x: 14.5d
+			y: 2.0d
 		}
 		{
 			id: "1D91E37BFD8CC911"
@@ -1569,8 +1569,8 @@
 				item: { count: 1, id: "minecraft:emerald" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: 2.5d
+			x: 19.5d
+			y: 2.0d
 		}
 		{
 			id: "6B671CB07D046BEC"
@@ -1585,8 +1585,8 @@
 				item: { count: 1, id: "minecraft:diamond" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 2.5d
+			x: 18.5d
+			y: 2.0d
 		}
 		{
 			id: "1EABF2E7AE7B8F22"
@@ -1601,8 +1601,8 @@
 				item: { count: 1, id: "minecraft:netherite_ingot" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: 3.5d
+			x: 17.5d
+			y: 2.0d
 		}
 		{
 			id: "3FCEF8FF45E51608"
@@ -1618,7 +1618,7 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			id: "452DC5EB02D592B8"
@@ -1634,7 +1634,7 @@
 				type: "item"
 			}]
 			x: 13.5d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			id: "5E7CCDE9229A646A"
@@ -1649,8 +1649,8 @@
 				item: { count: 1, id: "allthemodium:allthemodium_ingot" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 1.5d
+			x: 14.0d
+			y: 3.0d
 		}
 		{
 			id: "5A9C646718EE92C2"
@@ -1666,7 +1666,7 @@
 				type: "item"
 			}]
 			x: 15.0d
-			y: 2.5d
+			y: 3.0d
 		}
 		{
 			id: "7279700A93E8630B"
@@ -1681,8 +1681,8 @@
 				item: { count: 1, id: "allthemodium:unobtainium_ingot" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 3.5d
+			x: 16.0d
+			y: 3.0d
 		}
 		{
 			id: "1C27C74722A19FC1"

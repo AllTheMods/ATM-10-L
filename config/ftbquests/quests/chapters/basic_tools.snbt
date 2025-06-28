@@ -78,7 +78,7 @@
 			image: "minecraft:item/wooden_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.0d
+			x: 1.5d
 			y: -2.0d
 		}
 		{
@@ -86,7 +86,7 @@
 			image: "minecraft:item/iron_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.0d
+			x: 1.5d
 			y: -3.0d
 		}
 		{
@@ -94,7 +94,7 @@
 			image: "minecraft:item/netherite_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.0d
+			x: 1.5d
 			y: -4.0d
 		}
 		{
@@ -102,7 +102,7 @@
 			image: "minecraft:item/stone_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
-			x: 5.0d
+			x: 2.5d
 			y: -2.5d
 		}
 		{
@@ -110,7 +110,7 @@
 			image: "minecraft:item/diamond_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
-			x: 5.0d
+			x: 2.5d
 			y: -3.5d
 		}
 		{
@@ -118,7 +118,7 @@
 			image: "allthemodium:item/alloy_pick"
 			rotation: 0.0d
 			width: 1.0d
-			x: 5.0d
+			x: 2.5d
 			y: -4.5d
 		}
 		{
@@ -587,7 +587,7 @@
 				item: { count: 1, id: "mekanismtools:osmium_sword" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -1.0d
 			y: 6.0d
 		}
 		{
@@ -604,8 +604,8 @@
 				item: { count: 1, id: "allthemodium:allthemodium_sword" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 9.5d
+			x: -2.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -621,8 +621,8 @@
 				item: { count: 1, id: "allthemodium:vibranium_sword" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 11.0d
+			x: -1.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -638,8 +638,8 @@
 				item: { count: 1, id: "allthemodium:unobtainium_sword" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 11.5d
+			x: -2.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -689,7 +689,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(ae2:fluix_pickaxe)item(ae2:certus_quartz_pickaxe)item(ae2:nether_quartz_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.5d
+			x: -1.5d
 			y: -3.0d
 		}
 		{
@@ -706,7 +706,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(occultism:infused_pickaxe)item(occultism:iesnium_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.5d
+			x: -0.5d
 			y: -3.0d
 		}
 		{
@@ -808,7 +808,7 @@
 				item: { count: 1, id: "mekanismtools:steel_sword" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -1.0d
 			y: 5.0d
 		}
 		{
@@ -825,8 +825,8 @@
 				item: { count: 1, id: "allthemodium:alloy_sword" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 12.0d
+			x: -1.5d
+			y: 10.5d
 		}
 		{
 			id: "16AAC61729C44881"
@@ -844,7 +844,7 @@
 				}
 			]
 			x: 0.0d
-			y: -1.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
@@ -860,7 +860,7 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:counterspell", index: 0, level: 1, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:spellbreaker" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -2.0d
 			y: 7.0d
 		}
 	]

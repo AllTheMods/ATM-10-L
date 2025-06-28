@@ -4,7 +4,7 @@
 	}
 	id: "3602F483568B92BA"
 	loot_size: 1
-	order_index: 21
+	order_index: 16
 	rewards: [
 		{
 			count: 4
@@ -37,7 +37,6 @@
 		{ id: "411B037B718D798C", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:looting": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
 		{ id: "68577939B052AD66", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:looting": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
 		{ id: "3F56AAEEE7B4829B", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:blast_protection": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
-		{ id: "361691F79EC5CB6D", item: { components: { "ftbquests:missing_item": "chipped:chisel" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "725C502A18E14F81", item: { count: 1, id: "ironfurnaces:upgrade_copper" } }
 		{
 			count: 64
@@ -85,8 +84,8 @@
 			}
 		}
 		{ id: "06D2A4E15D28E567", item: { count: 1, id: "mekanism:personal_chest" } }
-		{ id: "28FE168D0366D40F", item: { components: { "ftbquests:missing_item": "chisel:chisel" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "542842FD5155A559", item: { count: 1, id: "minecraft:lava_bucket" } }
+		{ id: "131EA4CF6E03E71E", item: { count: 1, id: "rechiseled:chisel" } }
 	]
 	use_title: true
 }

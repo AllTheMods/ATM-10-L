@@ -1621,14 +1621,6 @@
 	]
 	quest.13D401048A926A74.title: "Bem-vindo ao &aBotania&r"
 	quest.13E5783AD64E3BC2.quest_desc: ["Os spawners quebrados agora irão dropar &9Spawner Scraps&r."]
-	quest.1409C17773B6A131.quest_desc: [
-		"Para fazer com que seus canos extraiam mais energia, você vai querer fazer um upgrade. "
-		""
-		"Depois de clicar com shift+clique com o botão direito em um pipe para configurá-lo para extração, você pode inserir uma atualização de pipe nele clicando com o botão direito do mouse no pipe com a atualização. Você também pode clicar com o botão direito com a mão vazia e adicioná-lo usando a GUI! "
-		""
-		"Para poder definir filtros, você precisará de pelo menos um &9Advanced Pipe Upgrade&r."
-	]
-	quest.1409C17773B6A131.title: "Atualizando nosso Pipez"
 	quest.140DE53DC0FCD9F4.quest_desc: [
 		"O &bME Annihilation Plane&f pode ser usado para quebrar automaticamente qualquer bloco à sua frente e retornar qualquer coisa deixada cair pelo bloco diretamente para a rede ME. "
 		""
@@ -5986,14 +5978,6 @@
 		""
 		"Esta versão produz 105,6FE/t. Também pode ser usado para adicionar calor extra às Plantas de Evaporação Térmica."
 	]
-	quest.4EEAB467C722ECE7.quest_desc: [
-		"Estes são pipes simples que podem ser atualizados com Pipe Upgrades. "
-		""
-		"Para 'extrair' energia de um bloco, coloque o tubo próximo ao bloco e, no lado que está conectado, pressione Shift+clique com o botão direito com a chave de tubos para configurar o tubo para extração. "
-		""
-		"O mod &9Pipez&r também oferece maneiras de transportar itens, gases e líquidos! Ou você pode fazer um tubo multifuncional chamado &aUniversal Pipe&r."
-	]
-	quest.4EEAB467C722ECE7.title: "&9Usando Pipez:&r &aEnergy Pipe&r"
 	quest.4EEFECB9D741B371.quest_desc: [
 		"Como afirmado anteriormente, as ligas continuarão a aumentar em complexidade, como era de se esperar."
 		""
@@ -8318,13 +8302,6 @@
 		""
 		"Você precisa de um cortador de nível superior para cortar os cavacos de nível superior e obter níveis mais altos de potência"
 	]
-	quest.6D6E07564D8FDD8D.quest_desc: [
-		"&9Extreme Reactors&r oferece reatores multibloco que são totalmente personalizáveis ​​em tamanho, eficiência e muito mais. "
-		""
-		"Para saber mais sobre como começar a usar Extreme Reactors, confira a série de missões do mod!"
-	]
-	quest.6D6E07564D8FDD8D.quest_subtitle: "Reatores personalizáveis!"
-	quest.6D6E07564D8FDD8D.title: "Reatores Extremos"
 	quest.6D750A38944E9B68.quest_desc: [
 		"O &9Infusion Altar&r é o pão com manteiga para criar &aSeeds&r no mod. Você precisará criar o próprio Altar, bem como 8 pedestais. "
 		""

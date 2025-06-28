@@ -21,24 +21,11 @@
 	quests: [
 		{
 			id: "722978AC0C1B2649"
-			rewards: [
-				{
-					id: "145F9B3A17676EAA"
-					item: {
-						components: {
-							"ftbquests:missing_item": "pipez:fluid_pipe"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "1159FE6CDF262C46"
-					type: "xp"
-					xp: 10
-				}
-			]
+			rewards: [{
+				id: "1159FE6CDF262C46"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "6855AE257D62AA37"
 				item: { count: 1, id: "cookingforblockheads:sink" }
@@ -94,8 +81,8 @@
 				item: { count: 1, id: "toolbelt:belt" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 1.0d
+			x: 1.5d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -104,7 +91,6 @@
 				"378C95C18798D413"
 				"3B4BF42C55C8BBBF"
 				"0E9CE6241CDBC420"
-				"32ECD93A8F2FAB8F"
 				"6E17595887A051C2"
 			]
 			hide_dependency_lines: true
@@ -247,7 +233,7 @@
 			]
 			tasks: [{
 				id: "0D5203048B6E068C"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(the_bumblezone:bee_queen/dedicated_trade_tags/modded/utilitarian_trapped_soliciting_carpets)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(utilitarian:white_trapped_soliciting_carpet)item(utilitarian:orange_trapped_soliciting_carpet)item(utilitarian:magenta_trapped_soliciting_carpet)item(utilitarian:light_blue_trapped_soliciting_carpet)item(utilitarian:yellow_trapped_soliciting_carpet)item(utilitarian:lime_trapped_soliciting_carpet)item(utilitarian:pink_trapped_soliciting_carpet)item(utilitarian:gray_trapped_soliciting_carpet)item(utilitarian:light_gray_trapped_soliciting_carpet)item(utilitarian:cyan_trapped_soliciting_carpet)item(utilitarian:purple_trapped_soliciting_carpet)item(utilitarian:blue_trapped_soliciting_carpet)item(utilitarian:brown_trapped_soliciting_carpet)item(utilitarian:green_trapped_soliciting_carpet)item(utilitarian:red_trapped_soliciting_carpet)item(utilitarian:black_trapped_soliciting_carpet))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -275,29 +261,6 @@
 			}]
 			x: -2.0d
 			y: 2.5d
-		}
-		{
-			id: "32ECD93A8F2FAB8F"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5E4447BBFFFE970F"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "12BED4D8DA2BCE0A"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [{
-				id: "2EA9242315E51EDA"
-				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:wood" }, count: 1, id: "ironjetpacks:jetpack" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: 2.0d
 		}
 		{
 			id: "0E9CE6241CDBC420"
@@ -353,8 +316,8 @@
 				}
 			]
 			tasks: [{
-				id: "6E44925E265DC7E2"
-				item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:forge_hammer)item(ae2:charger)item(actuallyadditions:coffee_machine)item(ars_nouveau:arcane_core)item(biomeswevegone:foragers_table)item(railcraft:manual_rolling_machine)item(railcraft:powered_rolling_machine)item(immersiveengineering:craftingtable)item(immersiveengineering:workbench)item(immersiveengineering:circuit_table)item(immersiveengineering:turntable)item(minecraft:white_banner)item(pneumaticcraft:charging_station)item(sawmill:sawmill)item_tag(productivebees:advanced_beehives))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "0E10D7B0A7A97D29"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:villager_job_sites)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d

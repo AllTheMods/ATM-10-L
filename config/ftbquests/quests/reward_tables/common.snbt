@@ -15,41 +15,6 @@
 			weight: 5.0f
 		}
 		{
-			id: "482D00118478C3B8"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:copper_upgrade"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 5.0f
-		}
-		{
-			id: "5160D76EAE564D7D"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:oak_1"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 2
-			weight: 7.0f
-		}
-		{
-			id: "53673D52BECCA5EF"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:void_upgrade"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 3.0f
-		}
-		{ id: "2B30C1CDC2E318AF", item: { components: { "ftbquests:missing_item": "functionalstorage:storage_controller" }, count: 1, id: "ftbquests:missing_item" } }
-		{
 			id: "75ED90D1C539B2D9"
 			item: {
 				count: 1
@@ -65,17 +30,6 @@
 				id: "waystones:warp_plate"
 			}
 			weight: 3.0f
-		}
-		{
-			id: "70FD0DBC97773222"
-			item: {
-				components: {
-					"ftbquests:missing_item": "cookingforblockheads:sink"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 5.0f
 		}
 		{
 			id: "3A9A8D2CC2F88F03"
@@ -102,19 +56,6 @@
 			weight: 3.0f
 		}
 		{
-			count: 8
-			id: "068F40A46B8FD109"
-			item: {
-				components: {
-					"ftbquests:missing_item": "pipez:universal_pipe"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 8
-			weight: 5.0f
-		}
-		{
 			id: "30B2567CC9436642"
 			item: {
 				count: 1
@@ -122,17 +63,6 @@
 			}
 			random_bonus: 2
 			weight: 3.0f
-		}
-		{
-			id: "2844067F153CA56B"
-			item: {
-				components: {
-					"ftbquests:missing_item": "pipez:basic_upgrade"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 7.0f
 		}
 		{
 			id: "02944E22246B9CE9"
@@ -157,17 +87,6 @@
 				id: "mekanism:upgrade_energy"
 			}
 			weight: 3.0f
-		}
-		{
-			id: "549F2A5F1ABF40B7"
-			item: {
-				components: {
-					"ftbquests:missing_item": "productivebees:sturdy_bee_cage"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 5.0f
 		}
 		{ id: "3C5931B7D819BF0C", item: { count: 1, id: "modularrouters:modular_router" } }
 		{
@@ -394,30 +313,6 @@
 			weight: 7.0f
 		}
 		{
-			id: "2398AC6769DBCDE2"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:oak_2"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 2
-			weight: 5.0f
-		}
-		{
-			id: "6262C2CB8F1F3536"
-			item: {
-				components: {
-					"ftbquests:missing_item": "functionalstorage:oak_4"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 2
-			weight: 5.0f
-		}
-		{
 			id: "58566B400B981B92"
 			item: {
 				count: 1
@@ -460,18 +355,6 @@
 			weight: 7.0f
 		}
 		{
-			id: "0282D911303C1E5D"
-			item: {
-				components: {
-					"ftbquests:missing_item": "productivebees:honey_treat"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			random_bonus: 2
-			weight: 5.0f
-		}
-		{
 			id: "4E37B04696E64AA7"
 			item: {
 				count: 1
@@ -479,21 +362,9 @@
 			}
 			weight: 7.0f
 		}
-		{
-			id: "234C555CECE8F7B5"
-			item: {
-				components: {
-					"ftbquests:missing_item": "productivebees:advanced_oak_beehive"
-				}
-				count: 1
-				id: "ftbquests:missing_item"
-			}
-			weight: 5.0f
-		}
 		{ id: "3A1FB1ADEE7D8AB1", item: { count: 1, id: "ae2:flawless_budding_quartz" } }
 		{ id: "5A55996E58FE7BAF", item: { count: 1, id: "powah:magmator_basic" } }
 		{ id: "113B408EA25E7981", item: { count: 1, id: "powah:furnator_basic" } }
-		{ id: "395FD75CF3DB8FCF", item: { components: { "ftbquests:missing_item": "productivelib:upgrade_base" }, count: 1, id: "ftbquests:missing_item" } }
 	]
 	use_title: true
 }

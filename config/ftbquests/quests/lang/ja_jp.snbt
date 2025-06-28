@@ -15,8 +15,6 @@
 	chapter.23983F4DC524B14B.title: "Mekanism"
 	chapter.29EFE8220836C79A.title: "&aチャプター2&r: &6ATM のスター"
 	chapter.2A6EBEEBAB882679.title: "Powah"
-	chapter.3DEB33F78398EAD6.chapter_subtitle: ["そして LaserIO"]
-	chapter.3DEB33F78398EAD6.title: "基本的な物流"
 	chapter.415BA265E2C00859.title: "スタートガイド"
 	chapter.4293754F9B2D05F0.title: "&aチャプター2&r: &eオールザモディウム"
 	chapter.4791C8461B1B4D5F.title: "基本的な防具"
@@ -39,8 +37,6 @@
 	chapter_group.22FB35B0FEF1343D.title: "ツールと防具"
 	chapter_group.295BE417292024EC.title: "Modern Industrialization"
 	chapter_group.2B51AC12041E3F89.title: "テクノロジー"
-	chapter_group.3D4E23B1100491AB.title: "物流"
-	chapter_group.49AECADBA9E79A3B.title: "パワー"
 	chapter_group.6614EE2378B8AFB9.title: "リソース"
 	chapter_group.68BDE5700A9B0002.title: "ツールと装備"
 	file.0000000000000001.title: "All The Mods 10"
@@ -2145,14 +2141,6 @@
 		"{image:atm:textures/questpics/iron_spells/spells_mountaintower.png width:200 height:100 align:center}"
 	]
 	quest.13F77C38AC015E9F.title: "&b山の塔"
-	quest.1409C17773B6A131.quest_desc: [
-		"パイプからもっとパワーを引き出すには、アップグレードが必要です！"
-		""
-		"パイプをシフト+右クリックして抽出設定をしたら、アップグレードを右クリックでパイプに挿入できます。手ぶらで右クリックしてGUIを使って追加することもできますよ！"
-		""
-		"フィルターを設定するには、少なくとも&9Advanced Pipe Upgrade&rが必要です"
-	]
-	quest.1409C17773B6A131.title: "パイプをアップグレードする"
 	quest.140DADB32EF10D58.quest_desc: ["ドラゴンエッグの種は成長するために下にドラゴンエッグ Crux を設置する必要があります"]
 	quest.140DADB32EF10D58.quest_subtitle: "ティア: &56"
 	quest.140DE53DC0FCD9F4.quest_desc: [
@@ -2750,13 +2738,6 @@
 	quest.18F88DE24EFBA7A7.title: "私たちのかまどの燃料"
 	quest.18F948FF9FE015FB.quest_subtitle: "バニラミツバチにTNTを与える！"
 	quest.18F948FF9FE015FB.title: "クリービー（蜂）"
-	quest.18FAD56CDE05646A.quest_desc: [
-		"以前は&7&lマイニングディメンション&rのクォーリーはすべてを採掘しましたが、&6オールザモディウム鉱石&rは残していました"
-		""
-		"今では&6オールザモディウム&rを採掘しますが、ドロップは消えてしまいます...クォーリーの使用には注意が必要かもしれません！"
-		""
-		"&6オールザモディウム&rを探している場合は、鉱石探知のポーションを使用して採掘することをお勧めします！"
-	]
 	quest.18FEFB1BC6DFE49C.quest_desc: ["進歩するにつれて、私たちの設備が稼働し続けるのを大いに助けるために、私たちの変電所の出力を増やします！"]
 	quest.18FEFB1BC6DFE49C.quest_subtitle: "変電所のティアアップ！"
 	quest.1906C5D1C80035E4.quest_desc: [
@@ -2899,8 +2880,6 @@
 	quest.1A806C1A54B26EB5.quest_desc: ["すべてのものが大きな範囲で動作することを望まないですか？真空装置がワールドにアイテムをドロップするスペースを残すことを望みますか？その場合は、範囲を下げることができます"]
 	quest.1A8F2408970BFCCF.quest_desc: ["&eエレクトラム&r は &e金&r と &7銀&r から作られる合金です。\n\n名前から推測できるように、これは電気関連のあらゆるものに大量に使用されます。ワイヤー、コネクター、トランスフォーマーなど！"]
 	quest.1A8F2408970BFCCF.title: "&eエレクトラムインゴット&r"
-	quest.1A96C595CBA42840.quest_desc: ["Kivi Seeds は Kivi Essence を育てるのに使用でき、それは Kivi にクラフトできます！"]
-	quest.1A96C595CBA42840.title: "Kivi 自動化"
 	quest.1AA81C41431FD145.quest_desc: ["引く..！引く..！引く..！\n\nPuller は Sender の反対で、インベントリからアイテムを Router のバッファーに引き込みます。\n\nインベントリは Router に隣接している必要があります"]
 	quest.1AADF0A1B42AD511.quest_desc: ["これまでに集めた材料をすべて使用して、スターに必要な &dRailgun&r の最初の部品を作成できます！"]
 	quest.1AAF0B31B47AF23D.quest_desc: [
@@ -5488,8 +5467,6 @@
 		""
 		"これはまた大量のバイオディーゼルを作り出し、それをセタンブーストディーゼルにすると特に素晴らしい燃料源になります"
 	]
-	quest.32ECD93A8F2FAB8F.quest_desc: ["&6Jetpack&r は愛される移動手段です。\\n\\n作り始めるには &6Wood Jetpack&r から始める必要があります！これは &5Creative Jetpack&r まで段階的にアップグレードできます。\\n\\n多くのバージョンがありますが、すべて同じように機能します。すべてチェストプレートスロット、Back Curio、または Curio Curio に装備できます。\\n\\nすべての Jetpack は動作に FE が必要で、任意のアイテムチャージャーで充電できます！飛行には FE を消費し、エネルギーが切れると落下します。\\n\\n飛行するにはエンジンをオン（V）にし、スペースキーを押している間上昇し、離すと降下します。\\n\\n落下が好ましくない場合は、ホバーモード（未割り当て）をオンにできます。オンにすると同じ高度で飛行し、スペースキーで上昇、シフトキーで下降できます。\\n\\n飛行速度を調整するには、スロットルを変更します。デフォルトでは（,）キーで減速、（.）キーで加速します！"]
-	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
 	quest.32FDC5FFA000DAF8.quest_desc: [
 		"自分のミツバチを誇りに思いますか？"
 		""
@@ -8688,14 +8665,6 @@
 	]
 	quest.4EDD96EB60EF5814.quest_subtitle: "約410FE/tを生成"
 	quest.4EE482B9D61B5933.quest_desc: ["もちろん&2バニラ&rが最高ではありません。Modではもっと多くの、もっとレアなものがあります！"]
-	quest.4EEAB467C722ECE7.quest_desc: [
-		"これらはPipe Upgradesでアップグレードできるシンプルなパイプです。 "
-		""
-		"ブロックからパワーを'抽出'するには、ブロックの隣にパイプを置き、接続されている側でパイプレンチをシフト+右クリックしてパイプを抽出に設定します。 "
-		""
-		"&9Pipez&r modは、アイテム、ガス、液体を輸送する方法も提供しています！または、&aUniversal Pipe&rと呼ばれるオールインワンパイプを作ることもできます"
-	]
-	quest.4EEAB467C722ECE7.title: "&9Pipezの使用:&r &aエネルギーパイプ&r"
 	quest.4EEFECB9D741B371.quest_desc: [
 		"以前に述べたように、合金は複雑さを増していくことが予想されます"
 		""
@@ -12148,13 +12117,6 @@
 		""
 		"高ティアのチップを切るには、高ティアのカッターが必要だよ"
 	]
-	quest.6D6E07564D8FDD8D.quest_desc: [
-		"&9Extreme Reactors&rは、サイズ、効率などを完全にカスタマイズできるマルチブロックリアクターを提供します"
-		""
-		"Extreme Reactorsの始め方についてもっと学ぶには、MODのクエストラインをチェックしてください！"
-	]
-	quest.6D6E07564D8FDD8D.quest_subtitle: "カスタマイズ可能なリアクター！"
-	quest.6D6E07564D8FDD8D.title: "エクストリームリアクター"
 	quest.6D738730B371B152.quest_desc: ["&l&7マイニングディメンション&r は地表に何もないスーパーフラットのワールドです。\\n\\n地表の下にはほぼすべての鉱石があります。\\n\\n&7&lマイニングディメンション&r には洞窟もなく、モブのスポーンもなく、邪魔なものは何もありません。石の種類と鉱石だけです！\\n\\n&7&lマイニングディメンション&r では、Y座標とレイヤーによって鉱石の生成が異なります。\\n\\nクアーリーの設置をお勧めします"]
 	quest.6D738730B371B152.title: "&l&7マイニングディメンション"
 	quest.6D750A38944E9B68.quest_desc: ["&9インフュージョンアルター&r はこのMODで &aSeeds&r を作るための基本的な装置です。アルター本体と8つの儀式の台座を作る必要があります。\\n\\nまずアルターを置くと、儀式の台座を置く場所が表示されます。種をクラフトするには、各儀式の台座に必要な素材を置き、アルターにレッドストーン信号を送ります"]
@@ -14291,23 +14253,12 @@
 	reward_table.04285B94275AB879.title: "Powah: Rods と Cables"
 	reward_table.047C4C58EC06DBF3.title: "Powah: Hardened"
 	reward_table.06C4634E81851A6C.title: "報酬: 一般"
-	reward_table.08F142CC52B97FF5.title: "Twilight Forest: 報酬"
 	reward_table.0A18991D9745743A.title: "AE2: 基本報酬"
-	reward_table.0A4D0C6441DBF319.title: "Immersive: 資源"
-	reward_table.0C83C7A93ED80A36.title: "Nature's Aura: 報酬"
-	reward_table.0CFCEDF988F211F3.title: "Immersive: 合金とパーツ"
-	reward_table.11204745E52B4C0C.title: "原木と苗木"
 	reward_table.13DF975BE0A23373.title: "Powah: Nitro"
-	reward_table.1AE4A39086CA5564.title: "MA: Tier 4 シードバッグ"
 	reward_table.1C750D27FEF7C386.title: "Powah: Blazing"
-	reward_table.1DB1EEDA7B79672B.title: "RailCraft: レール"
 	reward_table.1EC6956FA2BB2B00.title: "基本ストレージ: 報酬"
-	reward_table.21B1896C13F84C09.title: "MA: Tier 2 シードバッグ"
-	reward_table.2A2E3EFEF58354A9.title: "Immersive: 建材"
-	reward_table.37F912BDB7C8E6B6.title: "1x1 木製ドロワー"
 	reward_table.3A3BDBA4E9AD13C4.title: "報酬: レア"
 	reward_table.3AC97B13FF3E4FD3.title: "Powah: スターター"
-	reward_table.43C220CBD5447FE6.title: "PNC: PCB Tier"
 	reward_table.471CE0CD88F57EDC.title: "IF: 基本報酬"
 	reward_table.481E10AEAC95C550.title: "報酬: レジェンダリー"
 	reward_table.4B19C9059B3AA9AC.title: "Powah: ベーシック"
@@ -14315,23 +14266,9 @@
 	reward_table.4E550B6FE754E446.title: "Powah: Niotic"
 	reward_table.517CB2DAB0515A50.title: "AE2: 上級報酬"
 	reward_table.51D32A776892238B.title: "Powah: Spirited"
-	reward_table.57002573D954732E.title: "PNC: ベーシック Tier"
-	reward_table.5832C9BCFDB476AF.title: "アルス・ヌーヴォー: 報酬"
-	reward_table.5A138D1EDF8AA0C1.title: "PNC: プラスチック Tier"
-	reward_table.5AF0FD7302DEC2B1.title: "MA: Tier 1 シードバッグ"
-	reward_table.611A165B35847A5A.title: "Bumblezone: 報酬"
-	reward_table.617F6D802ED0FD00.title: "報酬: エピック"
-	reward_table.636C0F2A58AD8FC1.title: "MA: 基本報酬"
 	reward_table.63E11953DD289422.title: "Mekanism: 報酬"
-	reward_table.64E6D6A658988648.title: "MA: Tier 3 シードバッグ"
-	reward_table.67D8094B10FAA687.title: "EvilCraft: 報酬"
 	reward_table.73E94318B401E916.title: "IF: 上級報酬"
 	reward_table.74164DBBE7919A3B.title: "Mekanism Reactors: 報酬"
-	reward_table.75FE7CDF68581EDE.title: "RailCraft: ランダム"
-	reward_table.7609CF2A167B45C8.title: "Theurgy: 塩"
-	reward_table.779C873798AE0A92.title: "Mahou: パウダー"
-	reward_table.79C7738D7CEDABD4.title: "MA: Tier 5 シードバッグ"
-	reward_table.7FB97C5850827C71.title: "PNC: 上級 Tier"
 	task.00648047034C9531.title: "ロッククラッシャー"
 	task.00A904FBEDE80712.title: "Macaw's Roofs"
 	task.00C6A5CB44392D7E.title: "AllRightsReserved"
@@ -14368,7 +14305,6 @@
 	task.06D8E0295DAE3C50.title: "Machines and You"
 	task.06F2EC3901908BF1.title: "Plastic Construction Bricks"
 	task.06FC3AA435F90AF6.title: "Quests By AllTheMods"
-	task.073D1C45B3018BBA.title: "チェスト"
 	task.0740BC10E4D2568F.title: "Regions Unexplored Stones"
 	task.074BDA389D0FB989.title: "Chipped Copper"
 	task.083086610639994F.title: "&9エバーブライト&rへ！"
@@ -14882,7 +14818,6 @@
 	task.6D9DBD885FE4C94C.title: "AllRightsReserved"
 	task.6DE94C2C7F4B9AC7.title: "完成した蒸留タワーを観察"
 	task.6E0961A56194F0A8.title: "ディガーミツバチ"
-	task.6E44925E265DC7E2.title: "職場"
 	task.6E75525A5D88EF23.title: "ヒーター"
 	task.6F07606E3F7BE160.title: "ジャンプスタート"
 	task.6F475689ED4EDF59.title: "Macaw's mods アイテム"
