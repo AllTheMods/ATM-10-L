@@ -1,0 +1,5 @@
+version:3955
+entityDistanceScaling:1.0
+guiScale:2
+renderDistance:8
+simulationDistance:6

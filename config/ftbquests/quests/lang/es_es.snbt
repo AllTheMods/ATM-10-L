@@ -48,8 +48,6 @@
 	quest.00611844AFD5C31E.quest_desc: ["Mientras que el Inscriber y el Cargador aceptarán RF/FE de forma nativa, la gran mayoría de una red ME utiliza su propio sistema de energía dedicado llamado AE. \\\\n \\\\n RF/FE se puede convertir en el AE nativo a una proporción de 2:1 RF:AE, ya sea directamente a través de un ME Controlador, o a través del &bAceptador de Energía&f, que se puede conectar a cualquier parte de la red."]
 	quest.00611844AFD5C31E.quest_subtitle: "Conectar"
 	quest.00611844AFD5C31E.title: "Aceptador de Energia"
-	quest.00AC7CC291A3E590.quest_desc: ["Probablemente (definitibamente) haz visto estructuras alrededor del mundo con lo que parece ser faros salir de estas. Estan hechas de roca, tienen 4 patas de soporte, un poco alejado de tierra! \\n\\nPosiblemente sabras que se llaman &8Templos Oscuros&r (Dark Temples) Y tienen un &aEnviromental Accumulator&r que necesitamos. \\n\\nTendras que esperar a una tormente electrica para llenar tu &2Contenedor ambiental&r(Weather Container). Luego,podrás hacer tu &3Bomba de rayo&r(Lightning Bomb)!"]
-	quest.00AC7CC291A3E590.title: "&3Bomba de rayo"
 	quest.00D7BCC68D971A53.quest_desc: ["Las criaturas vivas cercanas serán rastreadas automáticamente, incluso a través de las paredes. Si se trata de un mob agresivo, recibirás una advertencia cuando te ataque."]
 	quest.011F787E620DE9E8.quest_desc: [
 		"Para filtrar esta tarjeta simplemente lo que tendras que hacer darle click derecho al mob con el Mob Filter o Filtro de Mob. "
@@ -62,8 +60,6 @@
 	quest.01F3F0C25BA72BDA.quest_desc: ["Además del almacenamiento de ítems y fluidos, AE2 también proporciona una forma nativa de almacenar &eestructuras&f enteras dentro de celdas de almacenamiento, no muy diferente del mod Compact Machines. \\\\n \\\\n El &bPuerto E/S Espacial&f permite que las estructuras contenidas dentro de una &bEstructura de Contención Espacial&f se capturen dentro de una celda de almacenamiento especialmente diseñada, activada a través de una señal de redstone. \\\\n \\\\n Si un mob o jugador se encuentra dentro de la ECS mientras el espacio se está capturando, ellos también serán transportados a donde va el resto del espacio, es decir, a una dimensión dedicada. Solo asegúrate de tener una forma de salir y entrar si eres tú quien se está capturando."]
 	quest.01F3F0C25BA72BDA.title: "Puerto E/S Espacial"
 	quest.02057E81D8139BAE.title: "&aPreparándose&r"
-	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden Arcanus&r se trata de usar rituales Arcanos junto a la Forja para ser incluso mas fuerte! \\n\\nO tambíen podrias hacer la Eternal Stella la cual sirve para hacer &6&lLa Estrella&r. Sabes, hay mas cosas de este mod tambien! "]
-	quest.022C38096F79EF07.title: "&6&lForbidden Arcanus"
 	quest.0251FD45582C3164.quest_subtitle: "No Huelas Esto"
 	quest.02643BAD1AE747C6.quest_desc: ["El &3Advanced Liquid Compressor&r funciona igual que el Liquid Compressor, ¡pero mucho mejor!"]
 	quest.027084AE2DF5EBA6.quest_desc: [
@@ -282,8 +278,6 @@
 		"Eventually, you'll be able to make an Infusion Crystal that works for all tiers and doesn't break!"
 	]
 	quest.05618FE80F2E0372.title: "&9The Infusion Crystal&r"
-	quest.0573B6F1BE5110FD.quest_desc: ["Las Abjeas de &2&lMinecraft&r son adorables, pero las cosas limitadas que la miel nos puede dar no justifica todo el esfuerzo que es necesario para conseguirla. \\n\\nSi tan solo fuera posible conseguir otros Objetos de las Abjeas todo seria más facil... Espera, con &eProductive Bees&r todo es posible!"]
-	quest.0573B6F1BE5110FD.title: "&e&lAbejas Productivas!&r"
 	quest.0583862ED0114442.quest_subtitle: "&f4&r &4Damage&r"
 	quest.05850541675B2493.quest_desc: ["Si, lo has hecho. \\n\\nHas creado &6&lLa Estrella ATM&r, has vencido este modpack!\\n\\nPero... Que es lo siguiente?"]
 	quest.05850541675B2493.quest_subtitle: "Esto significa que ganaste?"
@@ -606,8 +600,6 @@
 		"When used to kill mobs, it will fill &aTest Tubes&r with &cBlood&r."
 	]
 	quest.09D18512037386C1.quest_desc: ["Para poner efectos de poción, necesitarás llenar un Filtro de Poción. Para hacerlo: ten un efecto de poción activo en ti, luego haz clic derecho con el Filtro de Poción para eliminarlo de ti y agregarlo al filtro. Repite hasta que esté lleno y activo. Esto también funciona con efectos de pociones de mods o con aquellos que normalmente no se pueden obtener a través de pociones, como Prisa o Resistencia."]
-	quest.09D76E9B8CABC31E.quest_desc: ["Para la &5&lEsencia de Creativo&r(Creative Essence) necesitarás 4 bloques de &5Insanium Essence&r. Cada bloque es 9 de &5Esencia&r ahora, unos cálculos rápidos...\\n\\Será necesario 9,216 &aInferium Essence&r para obtener solo estos bloques."]
-	quest.09D76E9B8CABC31E.title: "4 Bloques de &5Insanium"
 	quest.09EF804D70C856FB.quest_desc: [
 		"We'll need a &dRail Gun&r from the mod &aImmersive Engineering&r to create the &6Star&r! "
 		""
@@ -775,9 +767,6 @@
 		"To learn more about each, follow the corner quests!"
 	]
 	quest.0C78FB6EB275960B.title: "Sheldonite Vein"
-	quest.0C7D96DB3573EF9C.quest_desc: [""]
-	quest.0C7D96DB3573EF9C.quest_subtitle: "&oHabilidad de Crear Vida"
-	quest.0C7D96DB3573EF9C.title: "&5&lCreative Essence"
 	quest.0C856BBB1679A7DD.quest_desc: ["En esta página, encontrarás algunos elementos e información útiles para ayudarte en tu viaje!"]
 	quest.0C856BBB1679A7DD.quest_subtitle: "Y otros items utiles!"
 	quest.0C856BBB1679A7DD.title: "Tips y Trucos!"
@@ -1765,8 +1754,6 @@
 	quest.166DF03D93BC11F1.title: "Mesa de Retemplado (Mejorada)"
 	quest.167E1474644C9908.quest_desc: ["The Quartz makes whatever the other item does, it does the opposite for the Spawner. With Quartz in your offhand and the other Spawner Modification item in your main it will do the opposite of its role. With Quartz and Blaze Rods instead of increasing Spawn Range it will decrease it. With Quartz and Ghast Tears it'll decrease Max Entities."]
 	quest.167E1474644C9908.title: "Opposite Day"
-	quest.1682CED78D9D4BA7.quest_desc: ["&9&lTwilight Forest&r es uno de los Mods mas reconocidos, y es por una buena razón, Practicamente es el pionero de Mod de aventura! \\n\\nPara llegar a esta dimensión, tienes que hacer una piscina de 2x2 llena de agua, rodeala con Flores y lanza un Diamante al agua! \\n\\nAsi se abrira el portal, y podras acceder al &l&9Twilight Forest&r. \\n\\nAhí tendras que seguir un orden específico de jefes para conquistar y progresar!"]
-	quest.1682CED78D9D4BA7.title: "&9&lTwilight Forest"
 	quest.1697CC05D08B388D.title: "The Chickens Must Go"
 	quest.16A6C47E35F3B9D0.quest_desc: [
 		"Once we have an &9Isotopic Centrifuge&r, we can run our &2Uranium Hexafluoride&r in and create &3Fissile Fuel&r!"
@@ -1812,8 +1799,6 @@
 	quest.17542D7633FBF098.quest_desc: [""]
 	quest.17542D7633FBF098.quest_subtitle: "&oLastima que Bob Esponja no es una estrella."
 	quest.17542D7633FBF098.title: "&d&lPatricio &aEstrella&r"
-	quest.17598C171E610752.quest_desc: ["No se que decirte para esto. Me estoy perdiendo viendo todas las recetas. Prefiero hacer una lista del Arbol Familiar de &l&2Productive Trees&r. \\n\\nSupongo que obten &6Advanced Motors&r de alguna manera y combinalos con &dTitanium Rods&r junto a una &9Processing Unit&r para hacer el &6Large Advacnced Motor&r."]
-	quest.17598C171E610752.title: "&6Large Advanced Motor"
 	quest.17671346C7940CA8.quest_desc: ["The next evolution of our CPU wafers. These futuristic Wafers usher in the Quantum Age!"]
 	quest.17671346C7940CA8.quest_subtitle: "How many Qubits do you have?"
 	quest.176ACC61DC206E55.quest_subtitle: "Feed a Shroombee a Crimson Fungus!"
@@ -2348,8 +2333,6 @@
 	quest.1E9B2D814F50A265.quest_desc: ["The &n&5Encased Fan&r is used to pull/push items and entities if you spin it. The arrow will show you the direction it's facing and the rotation direction will determine if it pushes or pulls."]
 	quest.1E9BD4B74DAEA9FC.quest_desc: ["To attract Bees to this nest, you'll need Popped Chorus Fruit instead of Honey Treats."]
 	quest.1E9BD4B74DAEA9FC.quest_subtitle: "Lures in Ender Bees when placed in the End"
-	quest.1EB04FE105ACA4BE.quest_desc: ["Cuando un &9Warden&r muere, tiene una posibilidad de soltar un &9Corazón de lo profundo&r(Heart of the Deep). \\n\\nEsto puede ser usado para &6&lLa Estrella&r, O para activar el portal a la Ciudad Antigua(Ancient City)! \\n\\nAsegurate que nada obstruya el portal, eso incluye &9Sculk&r!"]
-	quest.1EB04FE105ACA4BE.title: "&9Corazón de lo profundo"
 	quest.1EBD5E4410A6DF34.quest_subtitle: "Feed a Ghostly Bee a Soulium Dagger!"
 	quest.1EBD5E4410A6DF34.title: "Soulium Bee"
 	quest.1EF7664F5D8C5FF1.quest_desc: [
@@ -2449,8 +2432,6 @@
 		"También es un ítem de fabricación importante en Mekanism."
 	]
 	quest.1FC7E9DBF92BE6AA.quest_subtitle: "Batería Portátil"
-	quest.1FCC474860587169.quest_desc: ["Para recetas posteriores, probablemente necesitarás un &6Prisma de fundición&r(Smelter Prism) ,No te preocuopes solo necesitaras una forja de nivel 1! \\n\\nPuedes revisar que tanto de cada estadistica se necesita en el JEI! Además necesitarás 4 &6Polvo de blaze&r, 2 &8Carbón&r y un &bCristal Arcano&r(Arcane Crystal). \\n\\nPara terminar, necesitarás &9Elementarium&r que puede ser encontrado en Templos de Jungla, Pirámides del desierto y ruinas bajo el agua!"]
-	quest.1FCC474860587169.title: "&6Prisma de fundición"
 	quest.1FD4C32B3937E1C7.quest_desc: [
 		"&6Allthemodium&r is one of the strongest metals in the ATM packs. However, the ore is incredibly rare to find in the Overworld. "
 		""
@@ -2579,8 +2560,6 @@
 	]
 	quest.212EF8601746C500.title: "&9Imperium Apple&r"
 	quest.213FFA67A680E534.quest_desc: ["Creates an infinite water source when placed between two water source blocks."]
-	quest.215AD616E6847E9A.quest_desc: ["Cada uno de &5Insanium Gemstone&r es 2 &5Insanium Essence&r. Así que cada Bloque de &5Gemstone&r son 18 &5Insanium Essence&r. \\n\\nAsi que para hacerlo, necesitamos 9,216 &aInferium Essence&r para los Bloques de &5Insanium&r y duplicalo para obtener 18,432 &aInferium Essence&r tán solo para los 4 Bloques de &5Insanium Gemstone&r."]
-	quest.215AD616E6847E9A.title: "4 Bloques de &5Insanium Gemstone "
 	quest.21624A6500545C42.quest_desc: [
 		"Se pueden colocar &3Crop Supports&r sobre tus cultivos para hacer que crezcan más rápido."
 		""
@@ -2597,8 +2576,6 @@
 	quest.2162EA0216E27D68.title: "Transferring Mana from Pools"
 	quest.216DA9782EBDFF34.quest_desc: ["Creo que este Mod es es poco realista. No importa que tipo de Objetos o Libros uses, No creo que lo Demonico va a seguir tu voluntad como esclavos para cada cosa que les digas. \\n\\nIgualmente, hay un Capítulo entero para hacerlo."]
 	quest.216DA9782EBDFF34.title: "&b&lOccultismo"
-	quest.2171DC0B13C4BD43.quest_desc: ["&a&lRoots Classic&r puede que se vea sencillo en el JEI , pero te puedo prometer que tiene más de lo que parece! \\n\\nRoots se trata de usar los regalos de la naturaleza para hacer rituales.\\n\\nConfía en mi, encontrarás estos objetos en todo lugar!"]
-	quest.2171DC0B13C4BD43.title: "&a&lRoots Classic"
 	quest.21770049843DD275.quest_desc: ["The UV Sensor is the second part of 2 very important blocks. We will go over these blocks later."]
 	quest.21770049843DD275.quest_subtitle: "Part 2 of 2"
 	quest.217DF3B66A07A8DE.quest_desc: [""]
@@ -2636,8 +2613,6 @@
 	quest.219C80DAFBAB36B8.quest_subtitle: "El jefe final del VAPOR"
 	quest.21A0FD474FBB49F7.quest_desc: ["Another structure to cover the barren &5End&r, the &dRuined Citadel&r. Don't worry this ones on the ground! In it you'll find &dEndmaptera&r, &dEnder Golem&r, and the Altar of Void. Thankfully you don't need to sacrifice anything to summon the &dEnder Guardian&r, just get to the Altar of Void."]
 	quest.21A0FD474FBB49F7.title: "&dRuined Citadel&r: Home of the &dEnder Guardian&r"
-	quest.21AB14A8553896E9.quest_desc: ["Debe haber un error, recuerdo haber dicho &e&lProductive Bees&r! Oh , espera es otro mod! \\n\\nEste esta relacionado con &e&lProductive Bees&r ya que seran necesarias las Abjeas para crear nuevos Arboles. \\n\\nNo, los arboles no usan fertilizante o trigo para reproducirse, necesitan Abejas. \\n\\n&oLos Arboles y las Abejas&r."]
-	quest.21AB14A8553896E9.title: "&2&lArboles Productivos!"
 	quest.21EE522DDBF0BF72.quest_desc: ["The last sets of Shelves you'll need are &dEndshelves&r, to get them you need Infused Dragon's Breath. This one was hard to get but you need atleast &a40%% Eterna&r, &c15%%-25%% Quanta&r, and atleast &560%% Arcana&r. It has to be between &c15%%-25%% Quanta&r to get that you can try &99 Echoing Skulkshelves&r and 4 Melonshelves or &92 Echoing Skulkshelves&r and &b10 Heart-Forged Seashelves&r."]
 	quest.21EE522DDBF0BF72.title: "&dEndshelf&r"
 	quest.21F5EED683499B71.quest_desc: [
@@ -2800,7 +2775,7 @@
 	]
 	quest.23ADD20D9B1AE0F3.quest_desc: ["¡Usa una &bMargarita Pura&r para convertir Piedra en Piedra Viviente!"]
 	quest.23ADD20D9B1AE0F3.title: "&7Piedra Viviente"
-	quest.23AE395433AED3C0.quest_desc: ["&6&lLa Estrella ATM&r necesita algunos Bloques para contener todos los Objetos, y para hacer la forma de estrella! \\n\\nLos primeros bloques son de &5Unobtainium&r - &6AllTheModium&r &5Alloy&r &6Blocks&r. Necesitarás el Aparato de Encantar(Enchanting Apparatus) de &d&lArs Nouveau&r para hacerlos! Exactamente 28. \\n\\nPara 17 X3 Bloques de Estella del Nether(Netherstar Blocks) necesitarás 111,537 Estrellas del Nether. (Te lo ruego, usa el Mod &l&bHNN&r, no invoques 111,537 Withers, no suena como una buena idea!)\\n\\n(Nota: \"&l&bHNN&r\" se refiere a Hostile Neural Networks)"]
+	quest.23AE395433AED3C0.quest_desc: ["&6&lLa Estrella ATM&r necesita algunos Bloques para contener todos los Objetos, y para hacer la forma de estrella! \\n\\nLos primeros bloques son de &5Unobtainium&r - &6AllTheModium&r &5Alloy&r &6Blocks&r. Necesitarás el Aparato de Encantar(Enchanting Apparatus) de &d&lArs Nouveau&r para hacerlos! Exactamente 28. \\n\\nPara 17 X3 Bloques de Estella del Nether(Netherstar Blocks) necesitarás 12,393 Estrellas del Nether. (Te lo ruego, usa el Mod &l&bHNN&r, no invoques 12,393 Withers, no suena como una buena idea!)\\n\\n(Nota: \"&l&bHNN&r\" se refiere a Hostile Neural Networks)"]
 	quest.23AE395433AED3C0.title: "La carcasa de &6&lLa Estrella&r"
 	quest.23B55A8C7D6482FF.quest_desc: [
 		"Grab your tools and open up the maintenance hatch, there are problems to fix!"
@@ -2876,8 +2851,6 @@
 	]
 	quest.24C9BA6DC32CFAD9.quest_subtitle: "Cocina esos troncos!"
 	quest.24C9BA6DC32CFAD9.title: "Energía de Carbón"
-	quest.24F3E90C14BFD1B4.quest_desc: ["&7&lModern Industrialization&r es un nombre tán grande como su nombre! \\n\\nTiene multiples Niveles de maquinas y afortunadamente, no tenemos que hacer el ultimo Nivel para poder hacer &6&lLa Estrella&r."]
-	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
 	quest.258B387107AEB2EB.title: "&eGranjas de Mobs Compactas&r"
 	quest.2598273041353196.quest_desc: [
 		"Cuando estemos construyendo la &aReprocesadora&r, necesitas un &eRecolector&r y un &9Inyector&r."
@@ -2908,10 +2881,6 @@
 	]
 	quest.263220DCCDB90E29.quest_subtitle: "Fabrica Tier 2"
 	quest.263220DCCDB90E29.title: "Nuestro Acomodo Hasta Ahora"
-	quest.263C9A0FC04472AB.quest_desc: ["Este puede comer &cLava&r como ningun otro, o puede ser usado para &6&lLa Estrella&r. \\n\\nAunque es un poco complicado, Me gusta ver &cLava&r desaparecer, en vez de caerse y ver que mis cosas caigan en &cLava&r."]
-	quest.263C9A0FC04472AB.title: "&464x Magmatic Generator"
-	quest.268EA2DEC8840D13.quest_desc: ["Cuando trabajas con &4Computadoras&r, especialmente Cuánticas, las herramientas en la mesa de Trabajo no son las adecuadas para fabricar lo que necesitamos, es necesario un &bCrystal Assembler&r. \\n\\nPara esto, necesitaremos montones de &9Singularidades&r(Singularities)!"]
-	quest.268EA2DEC8840D13.title: "&4Computadora Cuántica multihilo"
 	quest.26BEA64C80ECE1A6.quest_desc: ["Cada &3Logistic Frame&r se puede usar para diferentes tipos de automatización."]
 	quest.272CB4EDED35C47B.title: "Sistemas Digitales Amplios"
 	quest.2745297337E13E9E.quest_desc: ["El &3Advanced Air Compressor&r funciona de la misma manera que el Air Compressor, ¡pero mucho mejor!"]
@@ -2934,10 +2903,6 @@
 	quest.28E60192912BEBAD.quest_subtitle: "Aldeanos ya no ser molestos"
 	quest.28E60192912BEBAD.title: "&aAldeanos&r"
 	quest.291C76140DE97E3C.quest_subtitle: "Mejor que la Netherita?!?!?!"
-	quest.29D28983E0200A3C.quest_desc: ["&l&dArs Nouveau&r es un mod que usa Glifos en Libros de Hechizo para lanzarlos como hechizos!"]
-	quest.29D28983E0200A3C.title: "&d&lArs Nouveau"
-	quest.2A72B262AF4F11C9.quest_desc: ["Para obetener el Brote de &6Socotra Dragon&r necesitarás juntar &7Wenge&r con &4Cocobolo&r. \\n\\nPara obtener el Brote de &7Wenge&r necesitarás juntar &4Cocobolo&r con &fBalsa&r. \\n\\nPara obtener el Brote de &4Cocobolo&r necesitarás juntar &fBalsa&r con &8Roble Oscuro&r. \\n\\nPara obtener &fBalsa&r necesitarás juntar &cAcacia&r con &eTeak&r. \\n\\nPara obtener &fTeak&r necesitarás juntar &2Jungla&r con &8Roble Oscuro&r."]
-	quest.2A72B262AF4F11C9.title: "Brote de &6Socotra Dragon&r"
 	quest.2AEBE3F28996A6ED.quest_desc: [
 		"Con nuestros nuevos metales, podemos actualizar nuestro Horno usando el mod &aIron Furnaces&r!"
 		""
@@ -2955,12 +2920,8 @@
 	quest.2AED15E3AC0346FE.title: "Actualizaciones simples"
 	quest.2B05A29C62676EB2.quest_subtitle: "Acaba con 5 Zombies"
 	quest.2B05A29C62676EB2.title: "&l&9Caceria del Overworld:&r&e Zombies"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&aUranium Quad Fuel Rods&r son una combinacion de materiales radioactivos y multiples aleaciones a prueba de Explociones y Radiacion. \\n\\nTodos estos se juntaran para hacer nuestro increible combustible del reactor! O para hacer &c&lCombustible del Filósofo&r(Philosphers Fuel)!  "]
-	quest.2B0C3AAAA6D0B0D2.title: "&aUranium Quad Fuel Rods"
 	quest.2B31E6C1707D8195.quest_desc: ["Lo siguiente que debes hacer para permitir el acceso inalámbrico a la red es el &bPunto de Acceso Inalámbrico ME&f. El Punto de Acceso se utiliza para abrir la red a través de un &eterminal inalámbrico&f, y tiene un rango (finito) establecido dependiendo de cuántos &bAmplificadores Inalámbricos&f se insertan en el punto de acceso."]
 	quest.2B31E6C1707D8195.title: "ME Punto de Acesso Inalambrico"
-	quest.2B57C8D2F98A9279.quest_desc: ["El &l&7Almacenamiento de Bolsillo&r(Pocket Storage) es un mod que agrega equipaje de mano. \\n\\nHaz Click Derecho para abrir el almacenamiento y poder guardar tus Objetos preciados. Tienen un máximo de Objetos que pueden guardar, y cualquier otro Objeto que se almacene despues de que pases este límite si tratas de guardar cosas, se Borrarán. Tambien sirve para recoger Objetos del suelo. \\n\\nTambien hay maneras de almacenar tus cosas en Cofres o sacarlas de Cofres rápidamente. \\n\\nHay diferentes Niveles que aumentan la cantidad de Objetos unicos que puede almacenar y la cantidad de cada uno."]
-	quest.2B57C8D2F98A9279.title: "&l&7Pocket Storage"
 	quest.2BD077EFE77B8EBB.quest_desc: ["Dependiendo del bioma, saldra una variante unica de los zombies. \\n\\nDisecados- aparecen el desierto. \\nAhogados- aparecen debajo del agua. \\nGelid- aparece en junglas. \\nThickets- aparecen en pantanos."]
 	quest.2BD077EFE77B8EBB.title: "Variantes de Zombies"
 	quest.2BD4E8494F2F43E9.title: "Pala de Aleacion"
@@ -2990,11 +2951,8 @@
 		"&o&n&8no lo suficiente como para mantener 100 maquinas :c&f&r "
 	]
 	quest.2CCAA7C0FEDEB573.title: "Energía Eólica"
-	quest.2CECCA9D05D3EF12.quest_desc: ["&2Eternal Stella&r es bastante caro. Necesitarás una forja de nivel 3! \\n\\nLuego es necesario &7Stellarite Piece&r los cuales puedes minar.Y tambien necesitarás 3 &aXpetried Orbs&r que no podras minar. Encambio, tendras que alimentar un agujero negro &aEXP&r(Experiencia) para obtenerlo! \\n\\nFinalmente , necesitarás 1 &6AllTheModium Ingot&r para conseguir &2Eternal Stella&r. Tiene sentido por qué es tan caro, ya que puede ser combinado con cualquier herramienta para hacerla Invencible!"]
-	quest.2CECCA9D05D3EF12.title: "&2Eternal Stella"
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3Vibranio&r combinado con &5Unobtainio&r!"]
 	quest.2CF6EA138B53CE1B.title: "Lingote de Aleación de &5Unobtainio&r - &3Vibranio&r"
-	quest.2D474F8075E9DBD0.quest_desc: ["Primero, sera necesario colocar el Casting Altar y Standing Stones en un patrón indicado por el JEI. \\n\\nLuego, habra que colocar un Bloque de Diamante, un Palo y Polvo de blaze en el Altar. \\n\\nDespues, es necesario colocar 4 Incense Blaziers rodeando el Altar y colocar un Bloque de Carbón en uno,Acacia Bark en otro, Verdant Bark en el tercero y Birch Bark en el ultimo y Enciendelas todas con un Mechero! \\n\\nFinalmente, haz Shift Click Derecho para empezarel Ritual! Si no funciona, revisa la posicion de las Standing Stones."]
 	quest.2D64EF8D803AF9DA.quest_desc: ["La parte mas cara de este Portal se puede fabricar. Primero, necesitamos muchos &dHuevos de Dragón&r(Dragon Eggs) , No es necesario torturar al &dDragón&r ya que puedes usar &l&bHNN&r o &l&2MA&r para obtenerlos o hacer un Extractor para hacer más! \\n\\nLuego necesitarás &dAliento de dragón infundido&r(Infused Dragon's Breath) que puedes obtener Encantando. \\n\\nDespues, sera necesario &9Soul-Touched Sculkshelves&r para Encantarlas y hacer el Portal. \\n\\nSi te preguntas por qué no funciona el Portal, es porque ya estas en el &2&lOverworld&r! Era broma, no lo puedes usar!\\n\\n(Nota: \"&l&bHNN&r\" se refiere a Hostile Neural Networks y \"&l&2MA&r\" a Mystical Agriculture)"]
 	quest.2D64EF8D803AF9DA.title: "Portal de Salida Miniatura"
 	quest.2D8026E10FBA7A72.quest_desc: ["Un pico muy rapido."]
@@ -3013,7 +2971,6 @@
 		""
 		"Es mucho."
 	]
-	quest.2E88CCBC7B97A1F0.quest_desc: ["Si tan solo ese portal gigante en la Ciudad Antigua (Ancient City) llevase a algun lugar.... Oh espera! con el &9&lDeeper and Darker&r puede que funcione! \\n\\nSolo necesitas un..."]
 	quest.2E8F851A4E98F741.quest_desc: [
 		"La &3Pneumatic Armor&r por sí sola es bastante buena, sin embargo, si quieres que esta armadura sea increíble, necesitarás instalar mejoras. Presiona 'U' por defecto para abrir la GUI de Mejoras; algunas mejoras usan presión, otras no."
 		"Al igual que al mejorar otras herramientas en PneumaticCraft, para mejorar la &3Pneumatic Armor&r necesitarás una Charging Station con presión."
@@ -3042,8 +2999,6 @@
 	quest.2FB231069D2E4E77.quest_desc: ["Cada celda individual tiene una cierta capacidad dictada por el &ecomponente&f con el que se ha elaborado la celda. \\\\n \\\\n El primero de los componentes es el &bComponente de Almacenamiento ME de 1k&f, que proporciona &e1024&f 'bytes' de almacenamiento para una celda dada. Más sobre eso más adelante."]
 	quest.2FB231069D2E4E77.quest_subtitle: "El primer kilobyte."
 	quest.2FB231069D2E4E77.title: "Creando tu Primer componente de Almacenamiento"
-	quest.309B0B2898893B4E.quest_desc: ["&b&lSteve's Carts&r es un mod que tiene de todo tipo de mejoras para....tus Vagonetas! \\n\\nQué tipo de mejoras?, practicamente todo... exceptuando un lavamanos! \\n\\nDesde taladros y armas hasta maquinas de Arcade! Que otra cosa necesitas para tus Vagonetas?"]
-	quest.309B0B2898893B4E.title: "&l&bSteve's Carts"
 	quest.30AD7B15682E4D0E.quest_desc: [
 		"Un cartel inteligente que puede almacenar y mostrar cantidades arbitrarias de texto, ajustado para que el texto siempre se ajuste."
 		""
@@ -3058,8 +3013,6 @@
 	quest.30E853CE699E669B.title: "Unidad de Trabajos"
 	quest.312331F6DB0CE5F4.quest_desc: ["Va más rápido que el Nivel I."]
 	quest.312331F6DB0CE5F4.quest_subtitle: "Max: 1"
-	quest.3145B847A15F97F2.quest_desc: ["Pudes combinar Esencias &2&lMystical Agriculture&r para hacer... &8Carbón&r. \\n\\nObiamente funciona increiblemente como combustible, pero me parece &5Insanium Coal&r es demasiado."]
-	quest.3145B847A15F97F2.title: "Bloque de &5Carbón de Insanium"
 	quest.3195A7AA874163CD.quest_desc: ["La &bTarjeta de Distribución Equivalente&f es una mejora para las celdas de almacenamiento que preasigna una cierta cantidad de ítems que pueden ser ocupados por cualquier tipo individual. \\\\n \\\\n Este comportamiento es comparable a algo como un cajón de Functional Storage, en el que cada compartimento contiene un número determinado de pilas en lugar de permitir que los ítems de un compartimento se filtren en los otros y llenen otros tipos de ítems."]
 	quest.3195A7AA874163CD.title: "Tarjeta de Distribucion Equivalente"
 	quest.31B73D16C0199785.title: "Obsidiana Refinada"
@@ -3070,7 +3023,6 @@
 	quest.32C3E14578D48E6C.quest_subtitle: "Tubos de presión mejorados"
 	quest.32E52AD6EF194A60.quest_desc: ["El Pilón de Expulsión funciona como una forma de mantener a la gente fuera de tu terreno. Cuando se coloca, evitará que cualquier jugador que no esté en la lista blanca entre en una cantidad determinada de Chunks a su alrededor. Los Chunks se configuran en su interfaz en la parte superior izquierda, en 1x1, 3x3, o 5x5 Chunks. Y no, no se puede colocar demasiado cerca del Spawn. ¡Sabemos lo que quieren los trolls y no se los vamos a dar! Para poner jugadores en la lista blanca, ¡consulta la Misión del Filtro de Jugadores!"]
 	quest.32E52AD6EF194A60.quest_subtitle: "Fuera de mi patio!"
-	quest.3331EBE1BB4BF64D.quest_desc: ["Reactores Nucleares pueden ser muy aterradores para alguien con efectos especialmente nocivos. \\n\\nAfortunadamente la unica cosa aterradora de &a&lExtreme Reactors&r es lo confuso que puede ser seguir las recetas! \\n\\nNo la parte explosiva,estos no explotan."]
 	quest.3334D15766A47A46.quest_desc: ["Usando un Assembly Line con Láser, puedes acelerar la producción de &3Unassembled PCBs&r. Simplemente coloca un Empty PCB en el cofre de entrada, añade presión y espera."]
 	quest.3334D15766A47A46.title: "Automatizando PCBs"
 	quest.3371F9248D403664.quest_subtitle: "Acaba con 5 Esqueletos de Wither"
@@ -3167,8 +3119,6 @@
 	quest.39F142224D5210A9.quest_desc: ["El &3Biodeisel&r se puede usar para fabricar &3Lubricant&r y &3Molten Plastic&r."]
 	quest.39F142224D5210A9.quest_subtitle: "Bio/Diesel"
 	quest.39F142224D5210A9.title: "Biodeisel"
-	quest.39F9C825B03DA317.quest_desc: ["La &8Aerial Interface&r sinve como una conexion entre tu inventario y su propio almacenamiento interno. Basicamente, todo lo que entra, va directamente a tu Inventario. \\n\\nNecesitarás toda una linea de ensamblaje para esto! , Afortunadamente, hay un capítulo para guiarte."]
-	quest.39F9C825B03DA317.title: "&8Aerial Interface"
 	quest.3A1D07AED2A841E4.quest_subtitle: "Auto-smelt items in the backpack."
 	quest.3A1D07AED2A841E4.title: "&eAuto-Smelting Upgrade&r"
 	quest.3A20210242A1C865.quest_desc: [
@@ -3210,8 +3160,6 @@
 		"Im sure you dont want to get an infection from it."
 	]
 	quest.3AA49DDE45705233.quest_subtitle: "Infectious"
-	quest.3AAB71E9BDFD4C1E.quest_desc: ["Sin presión! Bueno, realmente sera necesario mucha Presión para usar &4&lPneumaticCraft&r. \\n\\nEs todo de lo que el Mod trata..."]
-	quest.3AAB71E9BDFD4C1E.title: "&4&lPneumaticCraft"
 	quest.3AADA53EC01FB0ED.quest_desc: [
 		"With the Lava Sigil in hand, if you right-click, you'll create a source block of lava for the low low cost of 1,000 LP."
 		""
@@ -3300,8 +3248,6 @@
 	]
 	quest.3BDB94F17765EE77.quest_subtitle: "More Power Than You'll Need"
 	quest.3BDB94F17765EE77.title: "End Game Power Options"
-	quest.3BE5CD0C7CC4BCC6.quest_desc: ["Soul Lava hace parte de &6&lAllTheModium&r. Puede ser encontrada en &b&lEl otro&r raramente bajo tierra , o comunmente en Aldeas de Piglich!\\n\\nNecesitaremos alimentar una Abeja Fantasmal(Ghostly Bee) un cubo de &9Soul Lava&r Para hacer una &9Abeja de Soul Lava&r.\\n\\nLuego, se necesitará aplastarlas o sacar su ADN para hacer un Huevo y generar más abejas!  "]
-	quest.3BE5CD0C7CC4BCC6.title: "Huevo de &9Abeja de Soul Lava&r"
 	quest.3BEDF19CD79D53D5.quest_desc: [
 		"The &aDistillation Tower&r serves as the foundation for &dOil Processing&r which can turn oil into many more useful forms"
 		""
@@ -3363,8 +3309,6 @@
 	]
 	quest.3C49F2EEDCCAF1DF.quest_subtitle: "Esto es mucho, lo sé."
 	quest.3C49F2EEDCCAF1DF.title: "Resumen de la Fábrica de Procesamiento de Minerales de Nivel 4"
-	quest.3C7C9EE57AD00A76.quest_desc: ["PUEDES FABRICAR ESTOS?!?!?! Siempre los buscaba en Aventuras. \\n\\nSon geniales! Puedes cambiar si son teledirigidos o que vuelen recto. Cuando activas los misiles teledirigidos, puedes configurar su &cVelocidad&r, &6Poder&r, y &aVelocidad de Giro&r."]
-	quest.3C7C9EE57AD00A76.title: "&cMicromisiles"
 	quest.3C84D684B3A5D7B6.quest_desc: ["Using Mana, the &2Terra Truncator&r will feel entire trees in one fell swoop."]
 	quest.3C8724C3A9459507.quest_desc: ["Crafted from Alpha Yeti Fur."]
 	quest.3C8724C3A9459507.title: "Yeti Armor"
@@ -3625,7 +3569,6 @@
 	]
 	quest.3F5010269469EBE0.title: "Inside the Reactor: Fuel Control"
 	quest.3F56A5253D477B97.title: "Fletching Blueprint"
-	quest.3F5B5D6B788E0A73.quest_desc: ["Sangre, carne, rituales, Si es malvado, puedes apostar que es el &4&lEvilCraft&r! "]
 	quest.3F663416E824720C.quest_desc: ["&n&5Casings&r are used as a crafting ingredient for most blocks."]
 	quest.3F69CB46311A37C8.title: "Pitchblende Vein"
 	quest.3F810160E8B58BD2.quest_desc: ["Gelatin is a protein made from animal collagen, usually from cows and pigs."]
@@ -3941,8 +3884,6 @@
 	quest.42951D14ADCD9332.quest_desc: ["¿Podría obtener eso con algo de puré de guisantes y un acompañamiento de frijoles en tostadas, por favor, señor?"]
 	quest.42951D14ADCD9332.quest_subtitle: "¿Te apetece un poco de Fish \\& Chips?"
 	quest.42951D14ADCD9332.title: "Fish \\& Chips!"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["Puedes hacer &2Blastproof Alloy&r combinando los tres Metales mas solidos disponibles. &5Tungsten&r, &dTitanium&r y &7Stainless Steel&r. Si, es importante que no se pueda manchar aparentemente. \\n\\nCon estos materiales puedes combinarlos para hacer &2Blastproof Casing"]
-	quest.42AF4EBDA5D6CC36.title: "&2Blastproof Casing"
 	quest.42CDD69527871332.quest_desc: [
 		"Performing the &cPathway to the Endless Realm&r ritual will give you access to the proper Demon Realm."
 		""
@@ -4441,8 +4382,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"
 	]
 	quest.4A079D40C0AF6BC3.title: "&5Lingote de Unobtainio&r"
-	quest.4A0DA7FC43EDC532.quest_desc: ["Aventurandote al pantano, puede que sientas un ligero aumento en la temperatura... Eso se debe a la &9Hydra&r que se encuentra ahí! \\n\\nUna vez sea derrotada de alguna manera, podras obrener su &eTrofeo&r. \\n\\nBuena Suerte &oHercules&r!"]
-	quest.4A0DA7FC43EDC532.title: "&eTrofeo &rde la &9Hydra "
 	quest.4A198E875A6B0A64.quest_desc: ["An upgraded crafter that holds more patterns and has an increased crafting speed."]
 	quest.4A198E875A6B0A64.title: "&eGold Crafter&r"
 	quest.4A3DF999B969C875.quest_desc: ["With everything we've made so far, you'll be able to craft the final item we need: the &dRailgun&r!"]
@@ -4687,7 +4626,6 @@
 	quest.4CA17B0A80020B2F.quest_desc: ["El &3Manometer&r se usa para mostrar información adicional sobre una máquina."]
 	quest.4CA17B0A80020B2F.quest_subtitle: "¡Necesito más información!"
 	quest.4CADD50E7E83CD0E.title: "Bloque de Esmeralda 4X"
-	quest.4CB488E5CF10F3A4.quest_desc: ["Solo los generadores mas caros y poderosos de &c&lGenerator Galore&r. \\n\\nNecesitarás un &9Echo Shard&r, un &bConduit&r y una tonelada de Generadores de estrella del nether (Netherstar Generators)!"]
 	quest.4CC46A4E71320140.quest_desc: ["Refer to the &aLexica Botania&r on how to use this lens."]
 	quest.4CD83943865018EA.quest_desc: [
 		"The &9Exporter&r is used to push items from your system into a block from your Network storage. "
@@ -4703,8 +4641,6 @@
 	quest.4CED346215DDBAC0.quest_desc: ["Significantly increases the amount of time a Mana Burst can go without starting to lose Mana, but slows it down as well."]
 	quest.4D07B0A4A2E77CDA.quest_desc: ["Max entities is the amount of mobs that can be spawned by a spawner and kept. If it's only 6 max entities when 6 mobs are already spawned no more will spawned until they're dead or moved. Each Ghast Tear brings it up or down 2 Entities. Max of 16 Entities and Minimum of 1."]
 	quest.4D07B0A4A2E77CDA.title: "Max Entities"
-	quest.4D135CE350C59120.quest_desc: ["El &dHuevo de Dragón&r es íconico de &2&lMinecraft&r... Espera, este esta vacio? \\n\\nPuedes obtener el &5Huevo de Dragón Inactivo&r con los Objetos que obtenemos de las &5Abejas Draconicas&r(Draconic Bees). Necesitarán &dHuevos de Dragón&r como Flores; a no ser de que vivan en &d&lEl End&r. \\n\\nAhí puedes usar &dAliento de Dragón&r para hacer &dHuevos de Dragón&r normales, O usarlo para crear &6&lLa Estrella&r."]
-	quest.4D135CE350C59120.title: "&5Huevo de Dragón inactivo"
 	quest.4D160570DC0C8898.quest_desc: [
 		"Situated past the edge of the End, is the Beyond, a completely unavoidable space for those builders that want a lot of clear area to work in. "
 		""
@@ -5345,8 +5281,6 @@
 	quest.54B1A876E9F6707A.quest_desc: [""]
 	quest.54B1A876E9F6707A.quest_subtitle: "&oPoder y destruccion incomparable!"
 	quest.54B1A876E9F6707A.title: "&5&lFragmento del Olvido"
-	quest.54BAF833344F0AAE.quest_desc: ["Este tiene 2 partes! Primero, necesitarás un &8Tanque oscuro&r(Dark Tank). Una receta simple, solo necesita &8Gemas oscuras&r(Dark Gems), hierro y cristal. \\n\\nLuego, necesitarás &7Eclipse Ember Fuel&r. Pero no es tan simple... \\n\\nPara hacer que funcione, lanza un &7Eclipse Ember&r a &3Combustible liquido Voidflame&r(Liquid Voidflame Fuel) para convertirlo a &7Eclipse Ember sin refinar&r(Unrefined Eclipse Ember). Luego, necesitarás &9Shadowpulse Goo&r que lo infecte para hacerlo &7Combustible ember eclipse&r(Eclipse Ember Fuel) \\n\\nPor cierto, necesitarás 16 cubetas de esto!"]
-	quest.54BAF833344F0AAE.title: "&8Tanque oscuro&r lleno de &7Eclipse Ember Fuel"
 	quest.54BEC01D84237DBC.quest_desc: ["A little hydrogen and chlorine together in a &echemical reactor&r will result in some HCl"]
 	quest.54D3D6806C1F33F3.quest_subtitle: "&f5&r &4Damage&r"
 	quest.54D6F7F8FE859729.quest_desc: [
@@ -5427,8 +5361,6 @@
 		"En este caso, este certificado sera más que suficiente. Oficialmente, Ya no Eres Un Noob!"
 	]
 	quest.55ACA94C7837FF5E.quest_subtitle: "Certificados!"
-	quest.55BF254B1831359B.quest_desc: ["Los &5Galadorian Drills&r son los mejores taladros que podemos unir a nuestras Vagonetas. \\n\\nPor su grán útilidad, puede que la receta sea un poco compleja... \\nPuede que necesites una buena cantidad de &3Metal Estabilizado&r(Stabilized Metal)! Sigue las recetas!"]
-	quest.55BF254B1831359B.title: "&5Galadorian Drills"
 	quest.55C47B868C5ECF54.quest_desc: ["Need help finding ores? Make yourself one of these and charge it up by placing it in any machine's energy slot"]
 	quest.55C8DD9A754545BD.quest_desc: ["The Pulverizer breaks raw ores into dusts, and also has a 25% chance to create an extra dust."]
 	quest.55C8DD9A754545BD.quest_subtitle: "Breaks Ores into Dusts"
@@ -5448,8 +5380,6 @@
 		"That being said, getting an early start on processing them will greatly benefit you later on."
 	]
 	quest.56180F60F8E3D879.quest_subtitle: "Reactor Resources"
-	quest.561B5FB009744D2B.quest_desc: ["Para obtener &aInsanite Blocks&r necesitaras 8 &aInsanite Ingots&r y 1 &cBlock of Inanite&r. Si, Se que es confuso con solo un letra de diferencia. \\n\\nPara obtener &aInsanite Ingots&r ncesitaras reprocesar &bBenitoite&r junto a &4Rossinite&r en un Reprocesador (Reprocessor). \\n\\n&bBenitoite&r necesita ser minada en &c&lEl Nether&r. \\n\\n&cInanite Blocks&r pueden ser obtenidos con 8 &cInanite Ingots&r junto a &cBlock of Netherite&r! &cInanite&r no &aInsanite&r. \\n\\nPara obtener &aInsanite Ingots&r necesitaras reprocesar &dRidiculite&r junto a &4Rossinite&r en un Reprocesador (Reprocessor). \\n\\n&dRidiculite&r es otra cadena de recetas que, honestamente estoy cansado de mirar!"]
-	quest.561B5FB009744D2B.title: "&aBloque de Insanite"
 	quest.562BD37539EE318E.title: "Tier: &cBlazing&r"
 	quest.565376084F05ED6E.quest_desc: ["The Dimension known for housing the piglins and blazes and wither skeletons, now houses 2 more bosses to fight!"]
 	quest.565376084F05ED6E.title: "&4Nether&r: Land of 2 bosses"
@@ -5515,8 +5445,6 @@
 	]
 	quest.5766C8B9E850C186.quest_subtitle: "Creating Source Gems"
 	quest.576ABF43FCF886B7.title: "&2Prudentium Farmland&r"
-	quest.5791F3000D18E2C9.quest_desc: ["El &8Wither&r tiene una tendencia de romper y explotar Bloques. \\n\\nLa mayoria de jugadores no les agrada esto, asi que los ladrillos a prueba de &8Wither&r es justo lo que necesitas! \\n\\nSon como los Bloques a prueba de &8Wither&r, pero tienen una apariencia!"]
-	quest.5791F3000D18E2C9.title: "Ladrillos a prueba de &8Wither"
 	quest.57940981E8DE55D4.quest_desc: [
 		"It's easy to get lost in the Forest. In your travels, you'll run into Obsidian pillars."
 		""
@@ -5553,7 +5481,6 @@
 		"We will need a lot of Naq Alloy, so we can make all of the Naq Alloy Frames needed for the Rotary Hearth."
 	]
 	quest.57D12E37E980FDBB.quest_subtitle: "This is Naq the alloy you were looking for"
-	quest.57F107892FFA1F52.quest_desc: ["Para hacer crecer Semillas de Estrella del nether se requiere un catalizador debajo de la tierra de cultivo, En este caso, el catalizador es el Nether Star Crux. Si, crecer para Estrellas del Nether en casa era necesario que fuese más complicado!\\n\\nPara hacerlo necesitarás &7Withering Souls&r que tienen 1/3 de posibilidad cuando derrotes al &8Wither&r."]
 	quest.57F1B60DEA622275.quest_desc: ["That wafer needs to be cut into chips now, so back to the Cutter with these"]
 	quest.57F47BA495B27F83.quest_desc: ["&9Tier 1&r Harvest Level is the lowest pickaxe level, needing a pickaxe. Any pickaxe can mine these. Items that are Tier 1 would be like Stone, Furnace, and Coal Ore."]
 	quest.57F47BA495B27F83.title: "&9Harvest Tier 1&r"
@@ -5758,8 +5685,6 @@
 		"Nota: El Oxygen Can sólo funciona en los planetas más fríos, pero puede mejorarse."
 	]
 	quest.59ADE76689E381AA.title: "¿No quiere usar un traje espacial?"
-	quest.59EC02C1FBCF14EA.quest_desc: ["Puedes mejorar tu &5Generador de Obsidiana&r(Obsidian Generator) a un &3Ender Generator&r. \\n\\nLuego, puedes usar &3Ender Pearls&r o &3Ojos de Ender&r(Eyes of Ender) para hacer energia! \\n\\nO hacer &6&lLa Estrella&r, tu decisión."]
-	quest.59EC02C1FBCF14EA.title: "&3Ender Generator"
 	quest.59F5ED931FD70C55.quest_desc: ["&9Patterns&r are the bread and butter of autocrafting. These store recipes to let your RS network know how to craft items."]
 	quest.59F5ED931FD70C55.title: "Autocrafting!"
 	quest.5A0305BB1F8EA932.quest_desc: ["Si quieres tener un buen equipamiento necesitaras de las Modificaciones de Apotheosis, y todo empieza con una Gema. "]
@@ -5782,7 +5707,6 @@
 	quest.5A658F239928850E.quest_desc: ["Breaking into LuV! Lets continue progression and find out what &cZPM &7is all about!"]
 	quest.5A658F239928850E.quest_subtitle: "Make &dLuV&r, not War!"
 	quest.5A658F239928850E.title: "I &dLuV &7Progression"
-	quest.5A6831E0BD2F6AB5.quest_desc: ["Necesitarás muchas &8Gemas oscuras &r(Dark Gems) !"]
 	quest.5A7FF6D0AED656DC.quest_desc: ["Decreases the amount of time that it takes for a Mana Burst to start losing its Mana, but will also decrease its rate of loss."]
 	quest.5A8F4CA0F09F4842.quest_desc: [
 		"Need to remove &dEnchantments&r from an item you've found? Maybe you want to remove a Curse? This can be done using the &cPurifier&r."
@@ -5800,8 +5724,6 @@
 		"You'll find all of the basic ways to store items without power, as well as useful items for your storage needs!"
 	]
 	quest.5A94A2664BFDD7B9.title: "Basic Storage"
-	quest.5A955C0F53AED3ED.quest_desc: ["La &bCadena de almas&r (Chain of Souls) funciona similar a un gancho. \\n\\nPuedes darle Click Derecho para mandar una &bCadena&r que te propulsara hacia el bloque que fue disparado. Puedes volver a darle Click Derecho para soltarte. Además. tiene un rango alrededor de 90 bloques.\\n\\nPara hacerlo necesitaras una &bAlma atrapada&r(Trapped Soul), 2 &5Enredaderas tenaces&r(Tenacious Vines) y un &9Pétalo tenaz&r(Tenacious Petal). \\n\\nLos primeros dos puedes obtenerlos de un &5Odio enredado&r(Tangled Hatred) ,Mientras el ultimo puedes obtenerlo matando una &9Monstruosidad lunar&r(Lunar Monstrocity). "]
-	quest.5A955C0F53AED3ED.title: "&bCadena de Almas"
 	quest.5A9D6672385D3D82.quest_desc: ["Utilice únicamente 1 lapislázuli para una mejora en lugar de 4."]
 	quest.5A9D6672385D3D82.quest_subtitle: "Ahorro de Lapis"
 	quest.5A9E8222AEA6EF6F.title: "Charoite Armor"
@@ -6088,8 +6010,6 @@
 	quest.5E7E35CCAF1C88EE.quest_desc: ["El &bBus de Importación ME&f absorbe periódicamente ítems desde cualquier almacenamiento externo al que el bus esté frente. Se puede filtrar opcionalmente para solo tomar ciertos ítems de dicho inventario."]
 	quest.5E7E35CCAF1C88EE.quest_subtitle: "La Salida"
 	quest.5E7E35CCAF1C88EE.title: "ME Bus de Importación"
-	quest.5EC1B868720BF521.quest_desc: ["&8&lImmersive Engineering&r se trata de Maquinas de Multiples bloques, herramientas divertidas y tambien Ingeniería. \\n\\nNo te preocupes, no necesitaras un titulo de Ingeniero para esto! Pero el Manual te ayudara a empezar."]
-	quest.5EC1B868720BF521.title: "&8&lImmersive Engineering"
 	quest.5ED1896F1986BD2B.quest_desc: [
 		"These can be planted to grow &6Deorum Nuggets&r."
 		""
@@ -6283,8 +6203,6 @@
 	quest.6144202A97C6CD1C.quest_desc: ["El &bCuchillo de Corte de Cuarzo&f, al igual que la llave inglesa, viene en sabores de cuarzo del Nether y cuarzo certus y es una herramienta de fabricación útil para tener a mano. \\\\n \\\\n Los cables también se pueden separar sin necesidad de teñirlos adjuntando un &bAncla de Cable&f entre ellos, elaborado con este cuchillo y elaborable hasta 50 veces con el mismo cuchillo antes de que se rompa. \\\\n \\\\n Las Anclas de Cable también se pueden usar para fabricar &bFachadas de Cable&f, lo que te permite disfrazar cables dentro de las paredes cubriéndolos con la cara de un bloque arbitrario. Aunque las recetas de fachadas están ocultas en JEI, aún puedes elaborarlas tomando cualquier bloque regular y rodeándolo con 4 anclas de cable en la cuadrícula de fabricación. \\\\n \\\\n Además de fabricar anclas, el cuchillo de corte también tiene otro uso: hacer clic derecho con el cuchillo abrirá una pequeña GUI que te permitirá fabricar &bMoldes de Nombre de Inscriber&f. Cuando se les da un nombre, estos moldes se pueden usar dentro de un Inscriber para renombrar cualquier ítem de entrada con el nombre del molde. Se pueden concatenar dos de estos moldes en el inscriber para renombrar el ítem al nombre del molde superior, seguido por el inferior."]
 	quest.6144202A97C6CD1C.quest_subtitle: "Bajo el cuchillo"
 	quest.6144202A97C6CD1C.title: "Ancla de Cable"
-	quest.616F9B78B16B42A5.quest_desc: ["Puede que la receta para la &6Bobina de Tesla&r se vea coplicado, especialmente el arbol de recetas, pero podemos separarlas para hacelo mas simple!\\n\\nLas &7Aluminum Plates&r son muy simples, solo necesitan ser aplanados usando un Martillo en Lingotes o tambien puedes hacer una construccion de multiples bloques llamado Prensa de Metales(Metal Press).\\n\\nEl &8Componente Mecanico de Hierro&r(Iron Mechanical Component) tambien es simple, con tan solo unas Iron Plates y un &6Lingote de Cobre&r.\\n\\n&eBobina de Medida de tension&r(Electrum Coil Block) necesitara un monton de &eElectrum Ingots&r cortados en forma de Cables. &eElectrum&r es una aleación de &eOro&r and Silver.\\n\\nEl &6Advanced Electronic Component&r es obtenido usando la Banco de trabajo del Ingeniero(Engineers Workbench) y &9Planos&r. Duroplast Sheet requiere refinar y fementar con Maquinas de Multiples Bloques!\\n\\nEl ultimo objeto, el &cCondensador de Alta tension&r solo necesita unos Objetos simples como &8Steel&r, &7Aluminum Plate&r, &cRedstone Acid&r y &4Tablones de madera Tratada&r. Tambien necesita un Objeto mas complicado llamado &8Lingote de Grafito&r."]
-	quest.616F9B78B16B42A5.title: "&6Bobina de Tesla"
 	quest.61AD2207E770CD7F.quest_desc: ["Te permite recoger ítems y experiencia desde más lejos."]
 	quest.61B479079DC1C69C.quest_desc: ["Te permite saltar más alto que con el Nivel I."]
 	quest.61B479079DC1C69C.quest_subtitle: "Max: 1"
@@ -6300,11 +6218,7 @@
 	quest.61C49BC2B384FB80.title: "&aEncontrando&r &dEl End&r"
 	quest.627A39E62DD49CD8.quest_desc: ["In order to get the Mini End Portal you'll need a Mini Stronghold, kidding but you'll need an Ender Infused Teleportation Core. To infuse the Teleportation Core you'll need &a50 Eterna&r, between &c8.5%%-13.5%% Quanta&r, and between &532.5%%-37.5%% Arcana&r. To get that you'll need a complicated set up of &d5 Draconic Endshelves&r, &13 Echoing Sculkshelves&r, 2 Melonshelves, and a single Stoneshelf. Craft the Ender Infused Teleportation Core, 4 Eyes of Ender, and 4 End Stone Fire Pits to create the Mini End Portal."]
 	quest.627A39E62DD49CD8.title: "Portal del End en Miniatura"
-	quest.6299B38E3A42DD40.quest_desc: ["En la cima de las torres confusas de Carminite ,Descansa el poderoso &cUr-Ghast&r esperando a su próxima víctima. \\n\\nLas torres estan ocultas dentro del Bosque Oscuro(Dark Forest),Primero, tendras que derrotar a la &9Hydra&r para entrar a este Bioma! \\n\\nSi puedes despejar los cielos del temible &cUr-Ghast&r podrás conseguir su &eTrofeo!"]
-	quest.6299B38E3A42DD40.title: "&eTrofeo &rde &cUr-Ghast "
 	quest.62B5A84753ADFC35.quest_subtitle: "8 Bloques Secos color Magenta"
-	quest.62DDE5B1287BEB36.quest_desc: ["Otra parte de &6&lLa Estrella ATM&r son los &6Awakened &5Unobtainium&f-&3Vibranium&r Alloy Block, que simplemente llamaré blqu &6Awakened Alloy&r.  \\nPara obtener esto, es necesario un \"Star Altar\", (revisa como obtener el altar en la mision llamada \"&l&6Altar Runico de La Estrella&r\"!) \\n\\nAhi tendras que poner el &5Unobtainium&f-&3Vibranium&r Block, 4 Libros de Irrompibilidad 1 , 4 &6Awakened Supremium Gemstones&r y 4 &6Awakened Supremium Essence&r. \\n\\nY tan solo necesitarás darle 85 Milliones de FE... Asi de facíl tu bloque estara listo!"]
-	quest.62DDE5B1287BEB36.title: "&6Awakened &5Unobtainium&f-&3Vibranium&r Alloy Block"
 	quest.63CAD77A4488F2CE.quest_subtitle: "Todo-en-uno! La Herramienta"
 	quest.63CAD77A4488F2CE.title: "Paxel Blueprint"
 	quest.63F6F4EBCEB914B0.quest_desc: [
@@ -6365,7 +6279,6 @@
 	quest.681A3F31FB242555.title: "Ethanol"
 	quest.6827836C8E675A94.quest_desc: ["Los esqueletos tambien tienen variantes, como los Zombies, Enderman y Creepers! \\n\\nErrante- aparece en Biomas Frios. \\nCiénago- aparace en Pantanos y Trial Chambers. \\nMurks- aparecen debajo del agua y en Arrecifes. \\nVerdants- aparece en Junglas."]
 	quest.6827836C8E675A94.title: "Variantes de Esqueletos"
-	quest.6877F33323910716.quest_desc: ["El nivel 4 de Pocket Storage tiene 64 Espacios para Objetos, Cada uno puede contener 1,048,575 Objetos. Es un gran total de 67,108,800 Objetos para Aventuras!. Las maletas son noticias del pasado! \\n\\nY tán solo cuesta unas cuantas Estrellas del Nether, pero realmente no es caro cuando usas otros Mods."]
 	quest.68B0B3DAF1145191.quest_desc: ["Dos de las primeras cosas que necesitarás para comenzar en AE2 son el &bCargador&f y la &bPrensa&f. \\\\n \\\\nEl &bCargador&f, cuando se suministra con energía, tomará &eCristales de Cuarzo Certus&r y los cargará. Estos &eCristales de Cuarzo Certus Cargados&r luego se pueden usar en la producción de &eFluix&f, otro recurso importante en el mod. También se puede usar para cargar cualquier ítem que almacene energía. \\\\n \\\\n La &bPrensa&f se puede usar para convertir los diversos cristales de cuarzo en AE2 en su forma de polvo, pero lo más importante es que se utiliza para fabricar &eCircuitos Impresos&f y &eProcesadores&f especiales, como se aclarará en la siguiente misión."]
 	quest.68B0B3DAF1145191.quest_subtitle: "Algunas máquinas básicas"
 	quest.68B0B3DAF1145191.title: "Vamos Con lo Primero"
@@ -6419,8 +6332,6 @@
 	quest.69B7DE2283B4EE6C.title: "Unidad de Coprocesador"
 	quest.6A12188E50EAEB78.quest_desc: ["Los &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs&r hornearan un Stack de Objetos al mismo tiempo! \\n\\nPara obtenerlo tendras un fabricar un &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&ar&9e&r que necesita 2 &cNetherite Furnaces&r y todos los colores del &cr&6a&ei&2n&3b&9o&5w&r en Cristal! \\n\\nLuegom Necesitras &cR&6a&ei&2n&3b&9o&5w&r &cP&6l&ea&at&3i&9n&5g&r que obtendras por combinar casi que todos los Hornos de este Mod. Solo necesitarás 2 de estos para fabricar el &3&lDispositivo de Posibilidades Improbables&r."]
 	quest.6A12188E50EAEB78.title: "2 &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs"
-	quest.6A46A9F04D2A0748.quest_desc: ["Direwolf es un nombre sinónimo de Minecraft con Mods y &3&lJust Dire Things&r es uno de sus hijos. \\n\\nSe trata de usar Bloques viscosos, suena interesante!"]
-	quest.6A46A9F04D2A0748.title: "&3&lJust Dire Things"
 	quest.6ADDFD55AD0DF7D4.quest_desc: [
 		"Si combinamos &9Lingotes de Ridiculite&r con &cRossinite&r en un &aFluidizer&r obtendremos un &dLingote de Inanite&r."
 		""
@@ -6453,8 +6364,6 @@
 	quest.6D09511D64DDC282.title: "&5Acaba con el Warden&r"
 	quest.6D124ACF4AE80490.quest_desc: ["¡Con Micromissiles puedes disparar explosiones desde muy lejos! ¡Ahora nadie podrá escapar!"]
 	quest.6D124ACF4AE80490.quest_subtitle: "¡Disparando explosiones desde lejos!"
-	quest.6D1E8399AD39FFC8.quest_desc: ["&7Paradox Machine&r por un precio, puede generar mucha Energia y &aFluido temporal&r(Time Fluid), Tomará una foto de los bloques y entidades en una area desiganda; luego, los duplicara. \\n\\nHay muchos bloques y entidades que estan bloqueados, asi que nada de duplicar Abejas!"]
-	quest.6D1E8399AD39FFC8.title: "&7Paradox Machine"
 	quest.6D54B45CDA70FEAB.quest_desc: ["La &bTarjeta de Energía&f se puede aplicar a la mayoría de los dispositivos recargables como Celdas Portátiles y Terminales Inalámbricos (cubiertos más adelante) para también aumentar &osu&r búfer de energía."]
 	quest.6D54B45CDA70FEAB.title: "Tarjeta de Energia"
 	quest.6D738730B371B152.quest_desc: ["La &l&7Dimension Minera&r es una dimension con generacion de mundo plano, no hay nada por aqui y por acá.\\n\\nDebajo de la superficie, encontraras la mayoria de minerales. \\n\\nLa &7&lDimension Minera&r no tiene cuevas, nada de Aparicion de Mobs, y nada que se interponga en tu camino. Solo son tipos de piedra y minerales! \\n\\nLa aparicion de los minerales varía por cada nivel Y en la &7&lDimension Minera&r.\\n\\nTe recomiendo colocar una Quarry."]
@@ -6474,8 +6383,6 @@
 	quest.6E17595887A051C2.title: "Mo' Professions"
 	quest.6E29BA2E8642AF53.title: "ME Anillo Cuantico"
 	quest.6E2F24117ACF3694.quest_subtitle: "El Primer Multibloque"
-	quest.6E3AD764A67829CB.quest_desc: ["Como su hermanito menor, el &bCristal de Infusión&r(Infusion Crystal), el &cCristal de Infusión Maestro&r(Master Infusion Crystal) hace todo lo que los Niveles inferiores pueden hacer. \\n\\nEste tiene infinitos usos y puede mejorar 4 bloques de Esencia a su proximo Nivel en forma de Bloque! \\n\\nAunque requiere &cSupremium&r para hacerlo, confía en mi, vale la pena!"]
-	quest.6E3AD764A67829CB.title: "&cCristal de Infusión Maestro"
 	quest.6EB53CDCB80D4B66.quest_desc: [
 		"El &3Pneumatic Door&r actúa como una puerta automática que puede configurarse para abrirse solo para ti."
 		""
@@ -6523,36 +6430,8 @@
 	]
 	quest.70B6C9409AE69284.quest_subtitle: "Ayuda a encontrar Biomas"
 	quest.70B6C9409AE69284.title: "Compás de la Naturaleza"
-	quest.70CCE558E03227AB.quest_desc: [
-		"El &6&lRunic Star Altar&r es una estructura de Multiples bloques hecho por un miembro del equipo llamado &3Drack.ion&r usando &lModular Machinery&r! \\n\\nEs una estructura 15x9x15 que empieza con el &aRunic Star Altar Controller&r. Colocalo y luego usa un &cMachine Blueprint&r sobre el bloque. Hacer esto te permite ver una \"Sombra\" de que bloque y donde deberia ir, solo siguela y tendras el &6&lAltar&r listo!. \\n\\nTambien podrás ir al &aController&r y hacer que se construya automaticamente, Y te prometo, asi es más rápido! \\n\\nEn cada lado del &6&lAltar&r puedes remplazar los bloques de &9Piedra Oscura Pulida&r(Polished Darkstone) al lado de los bloques de &6Piedra Oscura Arcana Pulida&r(Arcane Polished Darkstone) con \"Input Hatches\". Estas son necesarias para obtener &6&lLa Estrella&r. \\n\\nUsa los \"Item Input Hatches\" (que son del Mod \"&lModular Machinery&r\"), aqui es donde se insertaran los bloques para hacer la receta. Los \"Item Output Hatch\" es donde &6&lLa Estrella&r saldra. Y los \"Energy Inputs\" son necesarios darles energia para que el &6&lAltar&r funcione! \\n\\nPuedes revisar el &aController&r para ver el progreso con la Receta o algun problema con el &6&lAltar&r. \\n\\n(Por cierto, el \"Loot Bag\" usado en la receta es soltado por &5Lunar Monstrosity&r de &5Eternal Starlight&r. Tambien, la direccion de los bloques como &9Escaleras&r o &6Pilares&r no importan para hacer el &6Altar&r)."
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:100 height:100 align:center}"
-		"La 1ra capa solo es &9Piedra Oscura Pulida&r, &9Escaleras de Piedra Oscura Pulida&r, &6Piedra Oscura Arcana Pulida&r, todo esto junto a el &aController&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:100 height:100 align:center}"
-		"La 2da capa es mas &9Piedra Oscura Pulida&r, &9Escaleras&r y tambien &6Gilded Chiseled Polished Darkstone&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:100 height:100 align:center}"
-		"La 3ra capa agraga &bObelisco de Cristal Arcano&r, Bloque de Runas, &6Piedra Oscura Arcana Pulida Cincelada&r y &9Losa de Piedra Oscura Pulida&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:100 height:100 align:center}"
-		"En la 4ta Capa es donde usaremos nuestros &6Pedestal de Piedra Oscura&r, un &7Magnetized Darkstone Pedestal&r en la mitad, Tarri de Utrem y &6Pilar de Piedra Oscura Arcana Pulida&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:100 height:100 align:center}"
-		"La 5ta capa es bastante simple, solo coloca unos cuantos &6Pilares&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:100 height:100 align:center}"
-		"La 6ta capa necesita mas &6Pilares&r y un &7Quantum Injector&r sobre el &7Magnetized Darkstone Pedestal&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"La 7ma capa es simple, asi que coloca mas &6Pilares&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"La 8va capa sigue el mismo patrón, mas &6Pilares&r!"
-		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:100 height:100 align:center}"
-		"La 9na capa es la ultima capa y necesita mas &6Pilares&r junto a mas Bloques Runicos y &bBloque de Cristal Arcano&r."
-		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
-		"La ultima cosa que necesitas para prender el &6&lAltar&r, es agregar \"Input Hatches\". Colocalos a los lados de &6Arcane Polished Darkstone&r como es mostrado, sera necesario un par de Item Inputs, Outputs, and Energy Inputs."
-	]
-	quest.70CCE558E03227AB.quest_subtitle: "Obteniendo &l&6La Estrella ATM"
-	quest.70CCE558E03227AB.title: "&l&6Altar Runico de La Estrella"
 	quest.7154D73516548149.quest_desc: ["&6&lAllthemodium&r es un mod agregado especificamente por el &6Equipo de AllTheMods&r para sumar más contenido despues de la Netherita! \\n\\nNecesitarás aventurarte a conseguir ciertos Objetos para conseguir &6&lLa Estrella&r. \\n\\nAhora hay una pagina de misiones que puedes seguir para obtenerla!"]
 	quest.7154D73516548149.title: "&l&6Allthemodium"
-	quest.71581992E8E4C43E.quest_desc: ["Lanza unas cuantas &8Calaveras de esqueleto de Wither&r(Wither Skeleton Skulls) y una &dAbjuration Essence&r para hacer un &8Wither &3Glyph&r! \\n\\nSi no funciona,Puede que necesites más &aEXP&r(Experiencia)."]
-	quest.71581992E8E4C43E.title: "&3Glyph of &8Wither"
 	quest.715B86DC82EA636B.quest_desc: [
 		"El &3Liquid Compressor&r genera presión utilizando ciertos líquidos. Puedes introducir el combustible haciendo clic derecho con el cubo en la máquina, bombeando el líquido, o colocando un cubo en la ranura superior en la interfaz gráfica."
 		""
@@ -6598,8 +6477,6 @@
 	quest.72E1C19156633391.quest_desc: ["Las cubetas y los tanques de liquidos son una forma excelente de transportar lava muy temprano."]
 	quest.72E1C19156633391.title: "Moviendo &6Lava"
 	quest.73362EDC984B8A0F.quest_subtitle: "Estos son Moderadores, no Refrigerantes."
-	quest.7377C657CED885AC.quest_desc: ["&2&lMystical Agriculture&r es un mod sobre... Agricultura, pero que estas plantando?\\n\\nPracticamente cualquier cosa, desde Miel,Metal y Esqueletos de Wither Hasta Huevos de Dragón.\\n\\nNecesitarás hacer muchas granjas con este mod para poder hacer &6&lLa Estrella&r!"]
-	quest.7377C657CED885AC.title: "&2&lMystical Agriculture"
 	quest.7386A8433698946C.quest_desc: [
 		"Selecciona un ítem y esta mejora lo buscará cerca en cofres o en el suelo. Para encontrarlo en cofres necesitarás la Block Tracker Upgrade y para encontrarlo en el suelo necesitarás la Entity Tracker Upgrade."
 		""
@@ -6608,8 +6485,6 @@
 	quest.7395B41685F4BC1A.quest_desc: ["El &3Flux Compressor&r puede generar una gran cantidad de presión usando energía. Simplemente bombea algo de FE y comenzará a generarla. Si tienes suficiente FE disponible, esta probablemente sea la forma más fácil de generar presión."]
 	quest.7395B41685F4BC1A.quest_subtitle: "Energia = Presión"
 	quest.7395B41685F4BC1A.title: "Presión por Energia"
-	quest.73BE1EB3E69814E9.quest_desc: ["Primero lo mas facil de esta receta: los &5Palos malvados&r (Evil Sticks). Solo necesitan &8Gemas oscuras&r(Dark Gems) que puedes minar, y &cTablones no-muertos&r(Undead Planks) que puedes obtener con &cArboles no-muertos&r(Undead Trees). \\n\\nLuego,tienes que hacer &5Potentia Invertida Empoderada&r(Empowered Inverted Potentia). Luego, tienes que hacer &7Potentia Invertida&r(Inverted Potentia), guardala en un &aAcumulador ambiental&r(Enviromental Accumulator) y haz (o espera) que le caiga un rayo! \\n\\nLa ultima parte tiene muchas &aPromesas vacias&r(Empty Promises); vas a infusionar mucho. \\n\\nEspero que tengas mucha &4Sangre&r! Que casualidad,tambien tendras que llenar la &5Maza&r(Mace) con &4Sangre&r."]
-	quest.73BE1EB3E69814E9.title: "&5Maza de destrucción"
 	quest.73E2A53A088AD29A.quest_subtitle: "11 Bloques Humedos color rosa"
 	quest.73FC1166FBD6C30D.quest_subtitle: "Ohmmmm"
 	quest.74015945716FD10A.quest_desc: ["El &3Omnidirectional Hopper&r puede recibir ítems desde cualquier lado, ¡además de que puede mejorarse para ser mucho más rápida que una tolva regular! Ideal cuando no se necesitan tuberías."]
@@ -6621,8 +6496,6 @@
 	quest.74FC0DDDB91DB172.quest_desc: ["Para hacer la vida mucho más fácil, AE2 proporciona una suite completa de dispositivos para la manipulación de datos ME, es decir, mover ítems almacenados por todo el mundo. \\\\n \\\\n La &bInterfaz ME&f es uno de estos dispositivos. Como dispositivo de entrada, la Interfaz permite que cualquier ítem/líquido/etc. sea conducido externamente a través de ella, que luego se almacena automáticamente en la red ME a la que está conectada la interfaz. \\\\n \\\\n Como dispositivo de salida, la Interfaz se puede configurar para mantener una cierta cantidad disponible de un ítem almacenado en stock, desde la red ME hasta su propio inventario interno. Esto permite que los ítems luego sean recibidos por alguna fuente externa como otro jugador o una tubería."]
 	quest.74FC0DDDB91DB172.quest_subtitle: "¡Salida - Entrada, Salida - Entrada!"
 	quest.74FC0DDDB91DB172.title: "Las E/S"
-	quest.750B6316267CF574.quest_desc: ["Cuando tus Colmenas estan vacias en la oscuridad, puede que te encuentres una visita Abejorra, la Abeja Esquelética(Skeletal Bee). \\n\\nA tu nueva visita puedes alimentarle una &8Rosa del Wither&r(Wither Rose) para transformala a una &8Abeja del Wither&r(Withered Bee). "]
-	quest.750B6316267CF574.title: "&8Withered Comb Block"
 	quest.752DD0BF36B70D88.quest_desc: ["Los Hornos normales de &2&lMinecraft&r no son lo suficientemente rapidos sin Mods, Asi que cómo crees que los Mods cambian esto?\\n\\n&7&lIron Furnaces&r ayuda sigificativamente a mejorar la velocidad de los Hornos! \\n\\nTambien tiene su Capitulo, pero esta compartiendo piso con otro Mod, &c&lGenerator Galore&r."]
 	quest.752DD0BF36B70D88.title: "&7&lIron Furnaces"
 	quest.754229E1F1D2DA8A.quest_subtitle: "Personalmente prefiero un asiento con una ventana"
@@ -6658,16 +6531,12 @@
 	quest.768951FBE8A5C934.quest_subtitle: "Híperconductividad"
 	quest.76A38CCA5816CDAD.quest_desc: ["Combinar Oxígeno, Etileno y un Sustrato en una &aCámara de Reacción Presurizada&r creará un Pellet de PAD."]
 	quest.76A38CCA5816CDAD.title: "Pellets PAD"
-	quest.76C63670624C3C56.quest_desc: ["&c&lGenerator Galore&r nos da un monto de generadores de Poder simples y útiles ! \\n\\nAlgunos pueden ser combinados con otros para hacer generadores mas poderosos. \\n\\nHay una pagina de misiones solo para ellos y sus amigos, los hornos de &7&lIron Furnaces&r."]
-	quest.76C63670624C3C56.title: "&c&lGenerator Galore"
 	quest.7741905EA8380B25.quest_desc: [
 		"Los &aMoldes de Herreria&r son objetos completamente nuevos que se usan para agregar adornos a tu armadura! Esto lo podemos hacer dentro de una Mesa de Herreria. "
 		""
 		"Si bien tienen una receta, la mayoría de los adornos son hallazgos raros de cofres de botín o excavaciones arqueológicas. Una vez que encuentres una, puedes duplicar la plantilla usando la receta para crear más."
 	]
 	quest.7741905EA8380B25.title: "&dAdornos de armadura&r"
-	quest.7766E66A14643F4D.quest_desc: ["El ritual de &6Awakening&r es una mecanica relativamente nueva a &2&lMystical Agriculture&r. Haciendo el Ritual de &6Awakening&r puedes hacer &6Awakened Essence&r. \\n\\nLuego, puedes combinar estos Lingotes para obtener Bloques!"]
-	quest.7766E66A14643F4D.title: "Bloque de lingotes de &6Awakened Supremium"
 	quest.7770F0D62457096D.quest_desc: ["Aunque estas misiones no abordarán los Drones, ¡son increíbles! Considere usarlos si lo desea."]
 	quest.7770F0D62457096D.title: "Programando Drones"
 	quest.7778937DF377C1B4.quest_desc: [
@@ -6690,7 +6559,6 @@
 	quest.78DDD2CA8E7E2507.title: "&6Plantilla de Mejora de Allthemodium&r"
 	quest.790F509BAA15A68E.quest_subtitle: "Una Introduccion"
 	quest.790F509BAA15A68E.title: "Herramientas"
-	quest.792990DC06DB98F9.quest_desc: ["Alrededor del &2&lOverworld&r podrás encontrar portales arruinados de &5&lEternal Starlight&r . Ahí podras retar al guardian a pelear! \\n\\nSi ganas, te entregara algunos Objetos y con ellos podras entrar al Portal a un mundo entero para explorar!"]
 	quest.79494986A7957292.title: "&dMoviendonos&r &aAlrededor&r"
 	quest.795143471F31A64A.quest_subtitle: "Requerido para recetas Laser"
 	quest.7953C87C488A2AF7.quest_desc: [
@@ -6764,8 +6632,6 @@
 	]
 	quest.7CC49360D07086B8.quest_subtitle: "Energía Inalámbrica, Gases, Líquidos, Todo."
 	quest.7D12B3ECC3E3AC7B.title: "Energia Inalambrica"
-	quest.7D1A27CBF1508712.quest_desc: ["La &3Reina de Nieve&r(Snow Queen) Vive en el &bAurora Palace&r profundo dentro del Bioma \"Glacier\". \\n\\nEs necesario matar al Alpha Yeti primero para poder entrar a este Bioma. \\n\\nUna vez sea derribada, soltará su tesoro, &eTrofeo &rincluido!"]
-	quest.7D1A27CBF1508712.title: "&eTrofeo &rde la &3Reina de nieve"
 	quest.7D3648FF86B0EB85.title: "Espada de Aleacion"
 	quest.7D38BC3DB3406F51.quest_desc: ["Ahora con nuestro Pico de Madera, la piedra ya no sera un problema!\\n\\nLa &3Piedra Labrada&r desbloquea el siguiente paso en todo Minecraft, y con este mismo pico podemos crear un horno para cocinar nuestra comida y fundir esos minerales.\\n\\nTambien querras crear un pico de piedra para minar minerales como el &bHierro&r!"]
 	quest.7D38BC3DB3406F51.title: "Era de Piedra"

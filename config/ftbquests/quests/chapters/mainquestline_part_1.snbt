@@ -1033,5 +1033,25 @@
 			x: -4.0d
 			y: 1.5d
 		}
+		{
+			dependencies: ["282CE3A088AE5CFB"]
+			id: "3D77DE9CC51C866F"
+			optional: true
+			tasks: [
+				{
+					id: "23C8E8ECED4E8AC7"
+					item: { components: { "ftbfiltersystem:filter": "or(item(oreberriesreplanted:iron_oreberry_bush)item(oreberriesreplanted:gold_oreberry_bush)item(oreberriesreplanted:copper_oreberry_bush)item(oreberriesreplanted:tin_oreberry_bush)item(oreberriesreplanted:aluminum_oreberry_bush)item(oreberriesreplanted:lead_oreberry_bush)item(oreberriesreplanted:nickel_oreberry_bush)item(oreberriesreplanted:uranium_oreberry_bush)item(oreberriesreplanted:osmium_oreberry_bush)item(oreberriesreplanted:zinc_oreberry_bush)item(oreberriesreplanted:silver_oreberry_bush)item(oreberriesreplanted:essence_berry_bush))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "7C2A1557A82ED169"
+					item: { count: 1, id: "pylons:harvester_pylon" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.5d
+		}
 	]
 }
