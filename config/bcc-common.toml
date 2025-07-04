@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "All The Mods 10 LITE"
 	#The version of the modpack
-	modpackVersion = "A-0.0.3"
+	modpackVersion = "Beta-1"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
