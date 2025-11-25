@@ -11,18 +11,22 @@ allthemods.custom({
   },
   "ingredients": [
     {"item": 'apothic_enchanting:infused_breath'},
-    {"item": 'occultism:soul_gem'},
+    {"item": 'allthemodium:piglich_heart_block'},
     {"item": 'occultism:spawn_egg/familiar_dragon'},
-    {"item": 'minecraft:bedrock'},
-    {"item": ['hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1255]', 'hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1254]']},    {"item": 'allthemodium:piglich_heart_block'},
-    {"item": 'minecraft:bedrock'},
-	  {"item": 'minecraft:bedrock'},
-    {"item": 'minecraft:bedrock'}
+    {"item": 'croptopia:dragon_egg_omelette'},
+    {"item": 'minecraft:dragon_head'},
+    {"item": 'occultism:soul_gem'},
+    {"item": 'apothic_enchanting:infused_breath'},
+	  {"item": 'allthemodium:piglich_heart_block'},
+    {"item": 'occultism:spawn_egg/familiar_dragon'},
+    {"item": 'croptopia:dragon_egg_omelette'},
+    {"item": 'minecraft:dragon_head'},
+    {"item": 'occultism:soul_gem'}
   ],
-  "result": {"id": "allthetweaks:dimensional_seed"}
-}).id('allthemods:pedistal/allthetweaks/dimensional_seed')
+  "result": {"id": "allthetweaks:dragon_soul"}
+}).id('allthemods:pedistal/allthetweaks/dragon_soul')
 
-// Improbable Probability Device/
+// Improbable Probability Device
 allthemods.custom({
   "type": "extendedcrafting:combination",
   "power_cost": 400000,
@@ -32,7 +36,7 @@ allthemods.custom({
   "ingredients": [
     {"item": 'irons_spellbooks:lightning_upgrade_orb'},
     {"item": 'ironfurnaces:million_furnace'},
-    {"item": 'minecraft:bedrock'},
+    {"item": 'powah:energy_cell_nitro'},
     {"item": 'megacells:portable_item_cell_256m'},
     {"item": 'ae2:singularity'},
     {"item": 'mekanism:pellet_antimatter'},
@@ -69,18 +73,19 @@ allthemods.custom({
     "item": "extendedcrafting:ultimate_singularity"
   },
   "ingredients": [
-    {"item": "minecraft:bedrock"},
-    {"item": 'irons_spellbooks:scroll[irons_spellbooks:spell_container={data:[{id:"irons_spellbooks:wither_skull",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}]'},
-    {"item": 'minecraft:tipped_arrow[potion_contents={potion:"apothic_attributes:long_wither"}]'},
+    {"item": "allthecompressed:nether_star_block_1x"},
+    {"item": "occultism:witherite_dust"},
+    {"item": "minecraft:wither_rose"},
     {"item": "industrialforegoing:wither_builder"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"}
+    {"item": "allthecompressed:nether_star_block_1x"},
+    {"item": "occultism:witherite_dust"},
+    {"item": "minecraft:wither_rose"},
+    {"item": "industrialforegoing:wither_builder"}
   ],
   "result": {"id": "allthetweaks:withers_compass"}
 }).id('allthemods:pedistal/allthetweaks/withers_compass')
 
-// Philosopher's Fuel/
+// Philosopher's Fuel
 allthemods.custom({
   "type": "extendedcrafting:combination",
   "power_cost": 400000,
