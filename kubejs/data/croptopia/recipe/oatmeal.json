@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:oat"
+    },
+    {
+      "tag": "c:milks"
+    }
+  ],
+  "result": {
+    "id": "croptopia:oatmeal",
+    "count": 1
+  }
+}

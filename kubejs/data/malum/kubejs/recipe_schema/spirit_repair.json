@@ -1,0 +1,45 @@
+{
+  "keys": [
+    {
+      "name": "spirits",
+      "role": "input",
+      "type": {
+        "type": "list",
+        "component": "malum:spirit_ingredient"
+      }
+    },
+    {
+      "name": "repairMaterial",
+      "role": "input",
+      "type": "flat_sized_ingredient"
+    },
+    {
+      "name": "durabilityPercentage",
+      "role": "other",
+      "type": "float",
+      "optional": 0.5
+    },
+    {
+      "name": "regex",
+      "role": "other",
+      "type": "malum:repair_regex",
+      "optional": {
+        "modIdRegex": "",
+        "itemIdRegex": ""
+      }
+    },{
+      "name": "validItems",
+      "role": "input",
+      "type": {
+        "type": "list",
+        "component": {
+          "type": "kubejs:registry_element",
+          "registry": "minecraft:item"
+        },
+		"min": 0
+      },
+	  "optional": [],
+	  "always_write": true
+    }
+  ]
+}
