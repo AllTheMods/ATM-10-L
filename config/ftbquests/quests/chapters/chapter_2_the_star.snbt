@@ -560,8 +560,8 @@
 				item: { count: 1, id: "allthetweaks:philosophers_fuel" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 0.5d
+			x: 5.0d
+			y: 7.5d
 		}
 		{
 			dependencies: [
@@ -712,8 +712,8 @@
 					type: "item"
 				}
 			]
-			x: -0.5d
-			y: 6.0d
+			x: 0.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
@@ -955,14 +955,13 @@
 			y: 10.0d
 		}
 		{
-			hide_dependent_lines: true
 			id: "0F1CA44520BDEFEA"
 			rewards: [
 				{
 					id: "4248C919CBF7D348"
 					item: {
 						count: 1
-						id: "allthecompressed:diamond_block_3x"
+						id: "allthecompressed:diamond_block_2x"
 					}
 					type: "item"
 				}
@@ -975,21 +974,20 @@
 			size: 1.25d
 			tasks: [{
 				id: "29E7A33EF7F47BAF"
-				item: { count: 1, id: "allthecompressed:diamond_block_4x" }
+				item: { count: 1, id: "allthecompressed:diamond_block_3x" }
 				type: "item"
 			}]
 			x: 20.0d
 			y: -5.0d
 		}
 		{
-			hide_dependent_lines: true
 			id: "764609E41957DA69"
 			rewards: [
 				{
 					id: "7EF12785DCC18404"
 					item: {
 						count: 1
-						id: "allthecompressed:emerald_block_3x"
+						id: "allthecompressed:emerald_block_2x"
 					}
 					type: "item"
 				}
@@ -1002,7 +1000,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "09DA484D3744488D"
-				item: { count: 1, id: "allthecompressed:emerald_block_4x" }
+				item: { count: 1, id: "allthecompressed:emerald_block_3x" }
 				type: "item"
 			}]
 			x: 20.0d
@@ -1010,14 +1008,13 @@
 		}
 		{
 			hide_dependency_lines: false
-			hide_dependent_lines: true
 			id: "554F47A0AF7506EC"
 			rewards: [
 				{
 					id: "5330F79B9B7EA400"
 					item: {
 						count: 1
-						id: "allthecompressed:end_stone_4x"
+						id: "allthecompressed:end_stone_2x"
 					}
 					type: "item"
 				}
@@ -1030,7 +1027,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "79B63A2A00FADEB1"
-				item: { count: 1, id: "allthecompressed:end_stone_5x" }
+				item: { count: 1, id: "allthecompressed:end_stone_3x" }
 				type: "item"
 			}]
 			x: 20.0d
@@ -1038,7 +1035,6 @@
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
-			hide_dependent_lines: true
 			id: "2D64EF8D803AF9DA"
 			rewards: [
 				{
@@ -1066,7 +1062,6 @@
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
-			hide_dependent_lines: true
 			id: "4D7D4C718837BCA5"
 			rewards: [
 				{
@@ -1094,7 +1089,6 @@
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
-			hide_dependent_lines: true
 			id: "103834774B57D611"
 			rewards: [
 				{
@@ -1149,14 +1143,13 @@
 			y: -1.0d
 		}
 		{
-			hide_dependent_lines: true
 			id: "6FC55CF56BE22866"
 			rewards: [
 				{
 					id: "19B66FBE71D1B7FB"
 					item: {
 						count: 1
-						id: "allthecompressed:dirt_5x"
+						id: "allthecompressed:dirt_2x"
 					}
 					type: "item"
 				}
@@ -1169,21 +1162,20 @@
 			size: 1.25d
 			tasks: [{
 				id: "79CE9AAA4012A11F"
-				item: { count: 1, id: "allthecompressed:dirt_6x" }
+				item: { count: 1, id: "allthecompressed:dirt_3x" }
 				type: "item"
 			}]
 			x: 16.0d
 			y: -3.0d
 		}
 		{
-			hide_dependent_lines: true
 			id: "0AE28C998A3BF136"
 			rewards: [
 				{
 					id: "48CABEE6C3E28472"
 					item: {
 						count: 1
-						id: "allthecompressed:netherrack_5x"
+						id: "allthecompressed:netherrack_2x"
 					}
 					type: "item"
 				}
@@ -1196,7 +1188,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "23516979202CB92E"
-				item: { count: 1, id: "allthecompressed:netherrack_6x" }
+				item: { count: 1, id: "allthecompressed:netherrack_3x" }
 				type: "item"
 			}]
 			x: 16.0d
@@ -1984,8 +1976,8 @@
 				item: { count: 1, id: "minecraft:bookshelf" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: -9.0d
+			x: 18.0d
+			y: -8.0d
 		}
 		{
 			id: "7154D73516548149"
