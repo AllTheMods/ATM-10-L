@@ -1,21 +1,11 @@
 {
-    "x": 20,
+    "x": 0,
     "y": 0,
-    "width": 80,
-    "height": 20,
-    "text": {
-        "key": "menu.multiplayer",
-        "y_offset": -3
-    },
-    "icon": {
-        "texture": "packmenu:icon/multiplayer",
-        "width": 120,
-        "height": 30
-    },
-    "hover_icon": {
-        "texture": "packmenu:icon/multiplayer_highlighted",
-        "width": 120,
-        "height": 30
+    "width": 106,
+    "height": 25,
+	"sprites": {
+      "enabled": "packmenu:icon_new/multiplayer",
+      "enabled_focused": "packmenu:icon_new/multiplayer_highlighted"
     },
     "action": {
         "type": "packmenu:open_screen",

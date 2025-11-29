@@ -1,0 +1,14 @@
+{
+    "x": -111,
+    "y": 60,
+    "width": 106,
+    "height": 25,
+	"sprites": {
+      "enabled": "packmenu:icon_new/reddit",
+      "enabled_focused": "packmenu:icon_new/reddit_highlighted"
+    },
+    "action": {
+        "type": "packmenu:open_url",
+        "url": "https://www.reddit.com/r/allthemods"
+    }
+}

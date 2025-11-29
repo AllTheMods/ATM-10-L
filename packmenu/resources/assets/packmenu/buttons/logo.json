@@ -1,0 +1,12 @@
+{
+    "x": -65,
+    "y": -115,
+    "width": 115,
+    "height": 115,
+	"sprites": {
+      "enabled": "packmenu:icon_new/logo"
+    },
+    "action": {
+        "type": "packmenu:none"
+    }
+}
