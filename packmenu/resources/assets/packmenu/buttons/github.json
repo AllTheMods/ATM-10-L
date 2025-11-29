@@ -1,22 +1,11 @@
 {
-    "x": 20,
-    "y": 60,
-    "width": 80,
-    "height": 20,
-    "text": {
-        "key": "packmenu.github",
-        "y_offset": -3,
-        "x_offset": 5
-    },
-    "icon": {
-        "texture": "packmenu:icon/github",
-        "width": 120,
-        "height": 30
-    },
-    "hover_icon": {
-        "texture": "packmenu:icon/github_highlighted",
-        "width": 120,
-        "height": 30
+    "x": -111,
+    "y": 30,
+    "width": 106,
+    "height": 25,
+	"sprites": {
+      "enabled": "packmenu:icon_new/github",
+      "enabled_focused": "packmenu:icon_new/github_highlighted"
     },
     "action": {
         "type": "packmenu:open_url",

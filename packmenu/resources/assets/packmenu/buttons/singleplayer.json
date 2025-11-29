@@ -1,21 +1,11 @@
 {
-    "x": -100,
+    "x": -111,
     "y": 0,
-    "width": 80,
-    "height": 20,
-    "text": {
-        "key": "menu.singleplayer",
-        "y_offset": -3
-    },
-    "icon": {
-        "texture": "packmenu:icon/singleplayer",
-        "width": 120,
-        "height": 30
-    },
-    "hover_icon": {
-        "texture": "packmenu:icon/singleplayer_highlighted",
-        "width": 120,
-        "height": 30
+    "width": 106,
+    "height": 25,
+	"sprites": {
+      "enabled": "packmenu:icon_new/singleplayer",
+      "enabled_focused": "packmenu:icon_new/singleplayer_highlighted"
     },
     "action": {
         "type": "packmenu:open_screen",

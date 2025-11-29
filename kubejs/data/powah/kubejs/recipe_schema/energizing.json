@@ -1,0 +1,22 @@
+{
+  "keys": [
+    {
+      "name": "result",
+      "role": "output",
+      "type": "item_stack"
+    },
+    {
+      "name": "energy",
+      "role": "input",
+      "type": "int"
+    },
+    {
+      "name": "ingredients",
+      "type": {
+        "type": "list",
+        "component": "ingredient"
+      },
+      "role": "input"
+    }
+  ]
+}

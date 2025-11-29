@@ -1,21 +1,11 @@
 {
-    "x": 20,
-    "y": 30,
-    "width": 80,
-    "height": 20,
-    "text": {
-        "key": "menu.options",
-        "y_offset": -3
-    },
-    "icon": {
-        "texture": "packmenu:icon/options",
-        "width": 120,
-        "height": 30
-    },
-    "hover_icon": {
-        "texture": "packmenu:icon/options_highlighted",
-        "width": 120,
-        "height": 30
+    "x": -111,
+    "y": 120,
+    "width": 106,
+    "height": 25,
+	    "sprites": {
+      "enabled": "packmenu:icon_new/options",
+      "enabled_focused": "packmenu:icon_new/options_highlighted"
     },
     "action": {
         "type": "packmenu:open_screen",
