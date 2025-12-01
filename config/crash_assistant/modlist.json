@@ -1,8 +1,8 @@
 {
-  "neoforge-21.1.213 (modloader)": {
-    "jarName": "neoforge-21.1.213 (modloader)",
+  "neoforge-21.1.215 (modloader)": {
+    "jarName": "neoforge-21.1.215 (modloader)",
     "modId": "neoforge",
-    "version": "neoforge-21.1.213"
+    "version": "neoforge-21.1.215"
   },
   "ae2jeiintegration-1.2.0.jar": {
     "jarName": "ae2jeiintegration-1.2.0.jar",
@@ -29,10 +29,10 @@
     "modId": "alltheleaks",
     "version": "1.1.3+1.21.1-neoforge"
   },
-  "allthemodium-2.9.4_mc_1.21.1.jar": {
-    "jarName": "allthemodium-2.9.4_mc_1.21.1.jar",
+  "allthemodium-2.9.5_mc_1.21.1.jar": {
+    "jarName": "allthemodium-2.9.5_mc_1.21.1.jar",
     "modId": "allthemodium",
-    "version": "2.9.4"
+    "version": "2.9.5"
   },
   "alltheores-3.1.8_neoforge_1.21.1.jar": {
     "jarName": "alltheores-3.1.8_neoforge_1.21.1.jar",
@@ -179,10 +179,10 @@
     "modId": "colorfulhearts",
     "version": "10.5.9"
   },
-  "configured-neoforge-1.21.1-2.6.2.jar": {
-    "jarName": "configured-neoforge-1.21.1-2.6.2.jar",
+  "configured-neoforge-1.21.1-2.6.3.jar": {
+    "jarName": "configured-neoforge-1.21.1-2.6.3.jar",
     "modId": "configured",
-    "version": "2.6.2"
+    "version": "2.6.3"
   },
   "connectivity-1.21.1-7.2.jar": {
     "jarName": "connectivity-1.21.1-7.2.jar",
@@ -289,10 +289,10 @@
     "modId": "epherolib",
     "version": "1.2.0"
   },
-  "epitaphs-1.0.10_neoforge_1.21.1.jar": {
-    "jarName": "epitaphs-1.0.10_neoforge_1.21.1.jar",
+  "epitaphs-1.0.11_neoforge_1.21.1.jar": {
+    "jarName": "epitaphs-1.0.11_neoforge_1.21.1.jar",
     "modId": "epitaphs",
-    "version": "1.0.10"
+    "version": "1.0.11"
   },
   "EuphoriaPatcher-1.7.8-r5.6.1-neoforge.jar": {
     "jarName": "EuphoriaPatcher-1.7.8-r5.6.1-neoforge.jar",
@@ -509,10 +509,10 @@
     "modId": "irons_jewelry",
     "version": "1.21.1-1.5.3"
   },
-  "irons_spellbooks-1.21.1-3.14.7.jar": {
-    "jarName": "irons_spellbooks-1.21.1-3.14.7.jar",
+  "irons_spellbooks-1.21.1-3.14.8.jar": {
+    "jarName": "irons_spellbooks-1.21.1-3.14.8.jar",
     "modId": "irons_spellbooks",
-    "version": "1.21.1-3.14.7"
+    "version": "1.21.1-3.14.8"
   },
   "itemcollectors-1.1.10-neoforge-mc1.21.jar": {
     "jarName": "itemcollectors-1.1.10-neoforge-mc1.21.jar",
@@ -534,10 +534,10 @@
     "modId": "jearchaeology",
     "version": "1.21.1-1.1.6"
   },
-  "jei-1.21.1-neoforge-19.25.1.328.jar": {
-    "jarName": "jei-1.21.1-neoforge-19.25.1.328.jar",
+  "jei-1.21.1-neoforge-19.25.1.332.jar": {
+    "jarName": "jei-1.21.1-neoforge-19.25.1.332.jar",
     "modId": "jei",
-    "version": "19.25.1.328"
+    "version": "19.25.1.332"
   },
   "jumpboat-1.21.0-1.0.5.jar": {
     "jarName": "jumpboat-1.21.0-1.0.5.jar",
@@ -577,15 +577,10 @@
   "kotlinforforge-5.10.0-all.jar": {
     "jarName": "kotlinforforge-5.10.0-all.jar"
   },
-  "kubejs-neoforge-2101.7.1-build.181.jar": {
-    "jarName": "kubejs-neoforge-2101.7.1-build.181.jar",
+  "kubejs-neoforge-2101.7.2-build.348.jar": {
+    "jarName": "kubejs-neoforge-2101.7.2-build.348.jar",
     "modId": "kubejs",
-    "version": "2101.7.1-build.181"
-  },
-  "kubejstweaks-1.0.4.jar": {
-    "jarName": "kubejstweaks-1.0.4.jar",
-    "modId": "kubejstweaks",
-    "version": "1.0.4"
+    "version": "2101.7.2-build.348"
   },
   "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar": {
     "jarName": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
@@ -607,10 +602,10 @@
     "modId": "luminax",
     "version": "1.3.1"
   },
-  "malum-1.21.1-1.8.jar": {
-    "jarName": "malum-1.21.1-1.8.jar",
+  "malum-1.21.1-1.8.1.jar": {
+    "jarName": "malum-1.21.1-1.8.1.jar",
     "modId": "malum",
-    "version": "1.8"
+    "version": "1.8.1"
   },
   "mcjtylib-1.21-9.0.18.jar": {
     "jarName": "mcjtylib-1.21-9.0.18.jar",
@@ -762,10 +757,10 @@
     "modId": "potionsmaster",
     "version": "0.7.1-packdev"
   },
-  "Powah-6.2.6.jar": {
-    "jarName": "Powah-6.2.6.jar",
+  "Powah-6.2.7.jar": {
+    "jarName": "Powah-6.2.7.jar",
     "modId": "powah",
-    "version": "6.2.6"
+    "version": "6.2.7"
   },
   "prickle-neoforge-1.21.1-21.1.11.jar": {
     "jarName": "prickle-neoforge-1.21.1-21.1.11.jar",
@@ -776,6 +771,11 @@
     "jarName": "Prism-1.21.1-neoforge-1.0.11.jar",
     "modId": "prism",
     "version": "1.0.11"
+  },
+  "ProbeJS-7.7.2.jar": {
+    "jarName": "ProbeJS-7.7.2.jar",
+    "modId": "probejs",
+    "version": "7.7.2"
   },
   "pylons-1.21.1-5.2.1.jar": {
     "jarName": "pylons-1.21.1-5.2.1.jar",

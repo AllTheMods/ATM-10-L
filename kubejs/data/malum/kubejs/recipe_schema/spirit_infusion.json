@@ -1,0 +1,40 @@
+{
+  "keys": [
+    {
+      "name": "input",
+      "role": "input",
+      "type": "flat_sized_ingredient"
+    },
+    {
+      "name": "result",
+      "role": "output",
+      "type": "item_stack"
+    },
+    {
+      "name": "spirits",
+      "role": "input",
+      "type": {
+        "type": "list",
+        "component": "malum:spirit_ingredient",
+        "min": 1,
+        "max": 9
+      }
+    },
+    {
+      "name": "extraInputs",
+      "role": "input",
+      "type": {
+        "type": "list",
+        "component": "flat_sized_ingredient",
+        "min": 0
+      },
+	  "default_optional": true
+    },
+    {
+      "name": "carryOverComponentData",
+      "role": "other",
+      "type": "boolean",
+      "optional": false
+    }
+  ]
+}

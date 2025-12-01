@@ -1,12 +1,11 @@
 {
-    "x": -90,
+    "x": -111,
     "y": 90,
-    "width": 20,
-    "height": 20,
-    "icon": {
-        "texture": "minecraft:icon/language",
-        "width": 15,
-        "height": 15
+    "width": 106,
+    "height": 25,
+	"sprites": {
+      "enabled": "packmenu:icon_new/language",
+      "enabled_focused": "packmenu:icon_new/language_highlighted"
     },
     "action": {
         "type": "packmenu:open_screen",

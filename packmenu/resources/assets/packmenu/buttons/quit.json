@@ -1,21 +1,11 @@
 {
-    "x": -40,
-    "y": 90,
-    "width": 80,
-    "height": 20,
-    "text": {
-        "key": "menu.quit",
-        "y_offset": -3
-    },
-    "icon": {
-        "texture": "packmenu:icon/quit",
-        "width": 120,
-        "height": 30
-    },
-    "hover_icon": {
-        "texture": "packmenu:icon/quit_highlighted",
-        "width": 120,
-        "height": 30
+    "x": 0,
+    "y": 120,
+    "width": 106,
+    "height": 25,
+	"sprites": {
+      "enabled": "packmenu:icon_new/exit",
+      "enabled_focused": "packmenu:icon_new/exit_highlighted"
     },
     "action": {
         "type": "packmenu:quit"
