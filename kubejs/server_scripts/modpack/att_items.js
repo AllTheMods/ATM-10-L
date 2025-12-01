@@ -112,9 +112,9 @@ allthemods.custom({
   },
   "ingredients": [
     {"item": "powah:player_transmitter_nitro"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
+    {"item": "fluxnetworks:flux_plug"},
+    {"item": "industrialforegoing:mycelial_netherstar"},
+    {"item": "allthecompressed:charged_redstone_block_1x"},
     {"item": "ae2wtlib:wireless_universal_terminal"},
     {"item": "mekanism:module_gravitational_modulating_unit"},
     {"item": "aeinfinitybooster:infinity_card"}
