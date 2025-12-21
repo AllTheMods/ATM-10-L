@@ -37,48 +37,48 @@
 	#Iron Bush Density [Default: 1]
 	# Default: 1
 	# Range: 1 ~ 32
-	ironBushDensity = 1
+	ironBushDensity = 2
 	#Gold Bush Density [Default: 1]
 	# Default: 1
 	# Range: 1 ~ 32
-	goldBushDensity = 1
+	goldBushDensity = 2
 	#Copper Bush Density [Default: 2]
 	# Default: 2
 	# Range: 1 ~ 32
-	copperBushDensity = 2
+	copperBushDensity = 4
 	#Tin Bush Density [Default: 2]
 	# Default: 2
 	# Range: 1 ~ 32
-	tinBushDensity = 2
+	tinBushDensity = 4
 	#Aluminum Bush Density [Default: 2]
 	# Default: 2
 	# Range: 1 ~ 32
-	aluminumBushDensity = 2
+	aluminumBushDensity = 4
 	#Lead Bush Density [Default: 1]
 	# Default: 1
 	# Range: 1 ~ 32
-	leadBushDensity = 1
+	leadBushDensity = 2
 	#Nickel Bush Density [Default: 1]
 	# Default: 1
 	# Range: 1 ~ 32
-	nickelBushDensity = 1
+	nickelBushDensity = 2
 	#Uranium Bush Density [Default: 1]
 	# Default: 1
 	# Range: 1 ~ 32
-	uraniumBushDensity = 1
+	uraniumBushDensity = 2
 	#Osmium Bush Density [Default: 1]
 	# Default: 1
 	# Range: 1 ~ 32
-	osmiumBushDensity = 1
+	osmiumBushDensity = 2
 	#Zinc Bush Density [Default: 2]
 	# Default: 2
 	# Range: 1 ~ 32
-	zincBushDensity = 2
+	zincBushDensity = 4
 	#Silver Bush Density [Default: 1]
 	# Default: 1
 	# Range: 1 ~ 32
-	silverBushDensity = 1
+	silverBushDensity = 2
 	#Essence Bush Density [Default: 2]
 	# Default: 2
 	# Range: 1 ~ 32
-	essenceBushDensity = 2
+	essenceBushDensity = 4

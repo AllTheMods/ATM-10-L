@@ -10,18 +10,18 @@ allthemods.custom({
     "item": "extendedcrafting:ultimate_singularity"
   },
   "ingredients": [
-    {"item": 'apothic_enchanting:infused_breath'},
-    {"item": 'allthemodium:piglich_heart_block'},
-    {"item": 'occultism:spawn_egg/familiar_dragon'},
-    {"item": 'croptopia:dragon_egg_omelette'},
-    {"item": 'minecraft:dragon_head'},
-    {"item": 'occultism:soul_gem'},
-    {"item": 'apothic_enchanting:infused_breath'},
-	  {"item": 'allthemodium:piglich_heart_block'},
-    {"item": 'occultism:spawn_egg/familiar_dragon'},
-    {"item": 'croptopia:dragon_egg_omelette'},
-    {"item": 'minecraft:dragon_head'},
-    {"item": 'occultism:soul_gem'}
+    {"item": "apothic_enchanting:infused_breath"},
+    {"item": "allthemodium:piglich_heart_block"},
+    {"item": "occultism:spawn_egg/familiar_dragon"},
+    {"item": "croptopia:dragon_egg_omelette"},
+    {"item": "minecraft:dragon_head"},
+    {"item": "occultism:soul_gem"},
+    {"item": "apothic_enchanting:infused_breath"},
+	  {"item": "allthemodium:piglich_heart_block"},
+    {"item": "occultism:spawn_egg/familiar_dragon"},
+    {"item": "croptopia:dragon_egg_omelette"},
+    {"item": "minecraft:dragon_head"},
+    {"item": "occultism:soul_gem"}
   ],
   "result": {"id": "allthetweaks:dragon_soul"}
 }).id('allthemods:pedistal/allthetweaks/dragon_soul')
@@ -34,12 +34,12 @@ allthemods.custom({
     "item": "extendedcrafting:ultimate_singularity"
   },
   "ingredients": [
-    {"item": 'irons_spellbooks:lightning_upgrade_orb'},
-    {"item": 'ironfurnaces:million_furnace'},
-    {"item": 'powah:energy_cell_nitro'},
-    {"item": 'megacells:portable_item_cell_256m'},
-    {"item": 'ae2:singularity'},
-    {"item": 'mekanism:pellet_antimatter'},
+    {"item": "irons_spellbooks:lightning_upgrade_orb"},
+    {"item": "ironfurnaces:million_furnace"},
+    {"item": "powah:energy_cell_nitro"},
+    {"item": "megacells:portable_item_cell_256m"},
+    {"item": "ae2:singularity"},
+    {"item": "mekanism:pellet_antimatter"},
   ],
   "result": {"id": "allthetweaks:improbable_probability_device"}
 }).id('allthemods:pedistal/allthetweaks/improbable_probability_device')
@@ -52,15 +52,15 @@ allthemods.custom({
     "item": "extendedcrafting:ultimate_singularity"
   },
   "ingredients": [
-    {"item": 'allthecompressed:netherrack_3x'},
-    {"item": 'allthecompressed:dirt_3x'},
-    {"item": 'allthecompressed:obsidian_3x'},
-    {"item": 'allthetweaks:mini_exit'},
-    {"item": 'allthetweaks:mini_nether'},
-    {"item": 'allthetweaks:mini_end'},
-    {"item": 'allthecompressed:end_stone_3x'},
-    {"item": 'allthecompressed:emerald_block_3x'},
-    {"item": 'allthecompressed:diamond_block_3x'}
+    {"item": "allthecompressed:netherrack_3x"},
+    {"item": "allthetweaks:mini_nether"},
+    {"item": "allthecompressed:obsidian_2x"},
+    {"item": "allthecompressed:dirt_3x"},
+    {"item": "allthetweaks:mini_exit"},
+    {"item": "allthecompressed:emerald_block_3x"},
+    {"item": "allthecompressed:end_stone_3x"},
+    {"item": "allthetweaks:mini_end"},
+    {"item": "allthecompressed:diamond_block_3x"}
   ],
   "result": {"id": "allthetweaks:dimensional_seed"}
 }).id('allthemods:pedistal/allthetweaks/dimensional_seed')
@@ -94,11 +94,11 @@ allthemods.custom({
   },
   "ingredients": [
     {"item": "ironfurnaces:rainbow_coal"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"}
+    {"item": "allthecompressed:coal_block_2x"},
+    {"item": "allthecompressed:blaze_rod_block_1x"},
+    {"item": "malum:blazing_diode"},
+    {"item": "irons_spellbooks:arcane_ingot"},
+    {"item": "allthecompressed:blaze_rod_block_1x"}
   ],
   "result": {"id": "allthetweaks:philosophers_fuel"}
 }).id('allthemods:pedistal/allthetweaks/philosophers_fuel')
@@ -130,15 +130,14 @@ allthemods.custom({
     "item": "extendedcrafting:ultimate_singularity"
   },
   "ingredients": [
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"}
+    {"item": "minecraft:amethyst_block"},
+    {"item": "constructionstick:template_unbreakable"},
+    {"item": "powah:nitro_crystal_block"},
+    {"item": "irons_spellbooks:divine_soulshard"},
+    {"item": "minecraft:amethyst_block"},
+    {"item": "constructionstick:template_unbreakable"},
+    {"item": "powah:nitro_crystal_block"},
+    {"item": "irons_spellbooks:divine_soulshard"}
   ],
   "result": {"id": "allthetweaks:oblivion_shard"}
 }).id('allthemods:pedestal/allthetweaks/oblivion_shard')
@@ -153,13 +152,12 @@ allthemods.custom({
   "ingredients": [
     {"item": "irons_spellbooks:fire_upgrade_orb"},
     {"item": "ae2:quantum_ring"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
-    {"item": "minecraft:bedrock"},
+    {"item": "allthecompressed:obsidian_2x"},
+    {"item": "ae2:singularity"},
     {"item": "occultism:stable_wormhole"},
-    {"item": "minecraft:bedrock"},
     {"item": "industrialforegoing:mycelial_explosive"},
-    {"item": "minecraft:bedrock"}
+    {"item": "allthecompressed:obsidian_2x"},
+    {"item": "mekanism:module_gravitational_modulating_unit"}
   ],
   "result": {"id": "allthetweaks:pulsating_black_hole"}
 }).id('allthemods:pedestal/allthetweaks/pulsating_black_hole')
