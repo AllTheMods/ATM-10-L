@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "mainquestline_part_1"
+	filename: "chapter_1_gettingstarted"
 	group: "2084F3F6FB861C5B"
 	icon: {
 		id: "minecraft:crafting_table"

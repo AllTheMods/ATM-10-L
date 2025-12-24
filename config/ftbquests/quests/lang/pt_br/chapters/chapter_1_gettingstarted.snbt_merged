@@ -1,0 +1,197 @@
+{
+	quest.051E0C85E7B71CE0.quest_desc: ["Presumo que você esteja minerando, certo? Afinal, é MINEcraft.\\n\\nVocê encontrará muitos minérios novos que podem confundi-lo, mas você pode se limitar aos materiais básicos para começar!\\n\\nO cobre é abundante e tem muitos usos para coisas como &aOre Hammers&r ou &eDrawer Upgrades&r, então certifique-se de pegar bastante!\\n\\nO ferro é provavelmente um dos minérios mais importantes que você desejará obter sempre que encontrá-lo. O mundo do MC modificado funciona praticamente no Iron."]
+	quest.051E0C85E7B71CE0.title: "A Era do &9Metal&r"
+	quest.0F026D5A17CCCF51.quest_desc: [
+		"Os itens &dNetherite&r são ainda melhores no geral e não queimam na lava! Você ainda o fará, mesmo usando a armadura. Não experimente. "
+		""
+		"Esses itens podem ser usados ​​para fazer algumas das melhores ferramentas e armaduras do jogo."
+	]
+	quest.0F3D51FFD2FE8DCB.quest_desc: [
+		"Com uma picareta de nível Diamante, você poderá extrair &dObsidian&r. Obsidian pode ser usado para criar um portal para o &cNether&r. "
+		""
+		"A moldura do portal pode ter vários tamanhos diferentes, mas a maioria combina com o formato básico de 'Porta'. Esta é uma forma oca 4x5 usando no mínimo 10 Obsidianas. Você não precisa usar Obsidian nos cantos, apenas na moldura do portal!"
+		""
+		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
+	]
+	quest.0F3D51FFD2FE8DCB.title: "&cPara o Nether&r!"
+	quest.1E1EB7DC19DDCFB7.quest_desc: [
+		"Na versão 1.20, a criação de ferramentas e armaduras de Netherite mudou. Você precisará encontrar o &6Netherite Smithing Template&r em baús encontrados dentro de Bastions. "
+		""
+		"Eles podem ser combinados com um lingote &cNetherite&r e uma ferramenta ou armadura de diamante em uma &aSmithing Table&r para atualizá-lo para &cNetherite&r. "
+		""
+		"Dica: não use todos os seus modelos de uma só vez! Você pode criar duplicatas usando a receita para criar outra."
+	]
+	quest.1E1EB7DC19DDCFB7.title: "&6Modelo Netherite&r"
+	quest.282CE3A088AE5CFB.quest_desc: ["Claro, você poderia criar em seu inventário usando a grade de criação 2x2, mas isso não o levará muito longe. Precisamos atualizar fazendo uma Mesa de Artesanato!"]
+	quest.282CE3A088AE5CFB.title: "Colocando o ofício no Minecraft"
+	quest.2AEBE3F28996A6ED.quest_desc: [
+		"Com nossos novos metais, podemos atualizar nosso forno usando o mod &aIron Furnaces&r! "
+		""
+		"Fornos de Ferro (fornos do próprio mod, não apenas da versão Iron) permitem que você adicione &aAugments&r para atualizar sua velocidade, alterar a função do forno e muito mais! "
+		""
+		"Esses fornos facilitam a automação, permitindo que você puxe ou empurre automaticamente pelas laterais usando a configuração à esquerda da interface."
+	]
+	quest.2AEBE3F28996A6ED.title: "&aAtualização do forno&r!"
+	quest.2CCAA7C0FEDEB573.quest_desc: ["Se você for como a maioria, esse é o gerador que você está procurando. Tudo o que precisa fazer é colocá-lo o mais alto que puder e obter energia de graça."]
+	quest.2CCAA7C0FEDEB573.title: "Energia do Vento"
+	quest.2EC9668ED4EA47CB.quest_desc: [
+		"Esta missão requer apenas que você faça uma ferramenta de diamante ou peça de armadura, mas provavelmente é bom obter um conjunto completo! "
+		""
+		"As ferramentas diamantadas apresentam alta durabilidade e a armadura oferece excelente proteção geral. "
+		""
+		"Para criar as melhores ferramentas e armaduras do jogo, você precisará de itens de Diamante como base!"
+	]
+	quest.2EC9668ED4EA47CB.title: "&9Preparando-se&r"
+	quest.346860B8EBC4C28C.quest_desc: [" Agora que você tem toda essa lava, o que você fará com ela? Mais energia!"]
+	quest.346860B8EBC4C28C.title: "Energia da Lava"
+	quest.378BF828DC931F0C.quest_desc: ["Pessoalmente, odeio ter que correr até um quarteirão só para fazer artesanato. É aí que entra o &2Crafting Stick&r!\\n\\nEste item funciona como uma &aMesa de Artesanato Portátil&r!\\n\\nDica: Você também pode colocar isso no slot &aCurios&r e definir um &bKeybind&r para abri-lo!"]
+	quest.378BF828DC931F0C.title: "Artesanato, mas no palito"
+	quest.3ADCAD65EA6900BA.quest_desc: [
+		"&2Achaeology&r é um novo recurso do MC v1.20 que permite ao jogador encontrar itens dentro de blocos &aSuspicious&r como Areia e Cascalho. "
+		""
+		"Esses blocos podem ser encontrados em várias estruturas, como Warm Ocean Ruins, Desert Pyramids, Desert Wells e as novíssimas &eTrail Ruins&r. "
+		""
+		"Para descobrir um item de um bloco Suspeito, você precisa criar um &aBrush&r para remover o bloco e revelar um item."
+	]
+	quest.3ADCAD65EA6900BA.title: "&2Arqueologia&r!"
+	quest.3B6F1BD64C0C570F.quest_desc: ["Assim como o gerador de vento, isso irá gerar muita energia sem precisar fornecer nenhum recurso. O uníco problema aqui é que precisa estar de dia."]
+	quest.3B6F1BD64C0C570F.title: "Energia Solar"
+	quest.4869C413646CC4CC.quest_desc: [
+		"Transferir a energia dos seus geradores é provavelmente uma boa ideia, mas como você pode fazer isso? "
+		""
+		"Para começar, você pode usar &cEnergy Pipes&r do mod &aPipez&r ou pode usar &9Powah&r &cEnergy Cables&r se já tiver começado a usar esse mod. "
+		""
+		"Ou se você quiser um retrocesso, este modpack tem o &6EnderIO&r e você pode usar os &6Energy Conduits&r dele."
+	]
+	quest.4869C413646CC4CC.title: "Cabos de Energia"
+	quest.4A4C71C43519D5FE.quest_desc: [
+		"Para invocar o chefe do Nether, precisamos primeiro reunir alguns itens. "
+		""
+		"Precisaremos obter pelo menos 3 &5Wither Skeleton Skulls&r. Esses são itens raros ao matar &7Wither Skeletons&r, ou podem ser criados com o item mais comum, o &3Wither Skull Fragments&r. "
+		""
+		"Você também precisará de pelo menos 4 peças de Soul Sand e provavelmente de uma armadura muito boa."
+	]
+	quest.4A4C71C43519D5FE.title: "&5Crânios de esqueleto murcho"
+	quest.4DE1158931F84F22.quest_desc: [
+		"Depois de ter uma Picareta de Ferro ou melhor, você poderá minerar &cRedstone&r. "
+		""
+		"Redstone inicia sua jornada em muitos mods técnicos, como criar energia ou criar dispositivos sofisticados. "
+		""
+		"Este é um recurso que você vai querer muito!"
+	]
+	quest.4DE1158931F84F22.title: "&cRedstone&r"
+	quest.4E5238F00CEED8B2.quest_desc: [
+		"É necessário fundir minérios brutos no início, mas você está perdendo recursos extras! "
+		""
+		"Existem várias maneiras de dobrar sua produção por minério bruto, mas uma das maneiras mais fáceis é criar e usar um &eOre Hammer&r. "
+		""
+		"Isso irá quebrar 1 minério bruto em 2 pós que podem ser fundidos em lingotes, efetivamente dobrando sua produção de lingotes! "
+		""
+		"Quer mais por minério bruto? Confira o mod &5Occultism&r!"
+	]
+	quest.4E5238F00CEED8B2.title: "&eDuplicação básica de minério"
+	quest.5CF320E9C4C1B1E1.quest_desc: [
+		"ATM10 é um pacote &aKitchensink&r, o que significa que você é livre para explorar e jogar o modpack da maneira que quiser! "
+		""
+		"No entanto, há um objetivo final: tornar o &6ATM Star&r! "
+		""
+		"Esta série de missões serve como um guia para todos os jogadores, sejam eles novos no Minecraft ou já tenham jogado pacotes ATM anteriores. Ele também irá guiá-lo na elaboração da Estrela. "
+		""
+		"Assim como quase todos os modpacks, reúna um pouco de madeira para começar!"
+	]
+	quest.5CF320E9C4C1B1E1.title: "&eBem-vindo ao capítulo de primeiros passos&r!"
+	quest.5E799B92358A8732.quest_desc: ["No &cNether&r, você encontrará &6Ancient Debris&r. Isso pode ser fundido em sucatas que podem ser combinadas com ouro para criar &6Netherite Ingots&r, que é um metal final usado para criar algumas das ferramentas e armaduras mais fortes do jogo."]
+	quest.5E799B92358A8732.title: "&dMetais Antigos&r"
+	quest.61C49BC2B384FB80.quest_desc: [
+		"Depois de reunir Ender Pearls e Blaze Powders suficientes, você pode ir para o End Portal no Overworld. "
+		""
+		"Para fazer isso, crie alguns &dEyes of Ender&r e clique com o botão direito para jogá-los no céu. Eles apontarão na direção do Portal Final mais próximo. "
+		""
+		"Vá até a Fortaleza, encontre o Portal do Fim e complete o quadro usando os Olhos de Ender para criar o portal para &dO Fim&r."
+	]
+	quest.61C49BC2B384FB80.title: "&aEncontrando &dO Fim"
+	quest.672134A1A620EEAB.quest_desc: [
+		"Existem muitas maneiras de armazenar energia! "
+		""
+		"&9Powah&r oferece ótimo armazenamento usando &aEnergy Cells&r que pode ser atualizado, ou você sempre pode usar o estilo multibloco de &aRFTools&r usando &aPowercells&r! A escolha é sua. "
+		""
+		"Nota: Você só precisa fazer um dos itens para completar a missão."
+	]
+	quest.672134A1A620EEAB.title: "Armazenamento de energia"
+	quest.698A959C9E449592.quest_desc: [
+		"O próximo passo da progressão é fazer uma Picareta de Ferro. "
+		""
+		"Esta picareta pode extrair alguns dos minérios mais raros do jogo, incluindo Diamante!"
+	]
+	quest.698A959C9E449592.title: "Uma escolha de &aIron"
+	quest.69A517AB8A801939.quest_desc: [
+		"O &5Wither&r é um dos chefes mais difíceis de matar no Minecraft. Principalmente porque voa. E explode. E é rápido. Você entendeu. "
+		""
+		"Para invocá-lo, coloque as 4 Soul Sand em forma de T. Coloque os 3 Wither Skeleton Skulls no topo do 'T' e o &5Wither&r irá aparecer. "
+		""
+		"Dica: Explode. Bastante. Não faça isso perto de sua base."
+	]
+	quest.69A517AB8A801939.title: "&6Matar o &5murchar"
+	quest.6D09511D64DDC282.quest_desc: [
+		"O &dWarden&r pode ser convocado acionando um &5Sculk Sensor&r que está próximo de um &3Sculk Shrieker&r pelo menos 3 vezes. "
+		""
+		"Curiosidade: O Diretor é cego! Ele só pode encontrar você se ouvir você, então voe ou esgueire-se! "
+		""
+		"Dica: Não importa se você usa ataques de longo alcance ou corpo a corpo, porque ele irá te encontrar. E isso vai atingir você. Se você for longe demais, ele irá se enterrar no chão e chegar perto de você! Boa sorte :D"
+	]
+	quest.6D09511D64DDC282.title: "&5Mate o Diretor&r"
+	quest.6EDAB29FBD3C60A3.quest_desc: [
+		"Este bioma foi introduzido na Atualização Selvagem! "
+		""
+		"Tenha cuidado! Você pode acidentalmente convocar um novo amigo. \\n"
+		"P.S. - Ele não é amigável."
+	]
+	quest.6EDAB29FBD3C60A3.title: "&6Visite o &dDeep Dark&r!"
+	quest.6EE5BE5693E8ACE4.quest_desc: [
+		"Em &dThe End&r, você encontrará o chefe final de Vanilla Minecraft: The &5Ender Dragon&r. "
+		""
+		"No topo de cada pilar de Obsidiana, você encontrará um Cristal Final que cura o Dragão. Certifique-se de retirá-los primeiro! Eles também causam muitos danos, então certifique-se de criar alguma distância! "
+		""
+		"Uma vez derrotado, um &dDragon Egg&r aparece no topo do Portal de Saída. Isto não pode ser extraído como blocos normais, mas é afetado pela gravidade."
+	]
+	quest.6EE5BE5693E8ACE4.title: "&5O fim"
+	quest.72989212DD45DC10.quest_desc: [
+		"Para encontrar este ovo, você precisará limpar &aSuspicious Sand&r nas Ruínas do Oceano Quente. "
+		""
+		"Você pode colocar o ovo no mundo e ele chocará lentamente em um &dSnifflet&r. Isso leva cerca de 20 minutos para eclodir normalmente, mas pode ser colocado em um bloco de musgo para dobrar a velocidade de eclosão, levando apenas 10 minutos para eclodir. "
+		""
+		"O Snifflet eventualmente se transformará em um &dSniffer&r adulto que pode farejar itens como &2Torchflower Seeds&r ou &2Pitcher Pods&r quando eles vagam sobre blocos que podem cavar. "
+		""
+		"Você pode criar 2 Sniffers adultos usando Torchflowers."
+	]
+	quest.72989212DD45DC10.quest_subtitle: "Primo distante de Scruff McGruff"
+	quest.72989212DD45DC10.title: "&aO &5Sniffer"
+	quest.72E1C19156633391.quest_desc: ["Baldes e Tanques são uma maneira fácil de mover lava no começo do jogo."]
+	quest.72E1C19156633391.title: "Balde de Lava"
+	quest.76406EFFF8CBA6B4.quest_desc: ["Os diamantes são um dos melhores materiais para a fabricação de ferramentas, mas também permitem que você visite novas dimensões como o Nether!"]
+	quest.76406EFFF8CBA6B4.title: "Atingimos &bDiamantes&r!"
+	quest.7741905EA8380B25.quest_desc: [
+		"&aSmithing Templates&r são itens totalmente novos usados ​​para adicionar acabamentos à sua armadura! Isso pode ser feito nas Tabelas de Metalurgia. "
+		""
+		"Embora tenham uma receita, a maioria dos enfeites são achados raros em baús de saque ou escavações arqueológicas. Depois de encontrar um, você pode enganar o modelo usando a receita para criar mais!"
+	]
+	quest.7741905EA8380B25.title: "&dAparas de armadura"
+	quest.7975C7145572C438.quest_desc: ["Quer você seja um jogador modded experiente ou um novato completo em MC, todo mundo precisa fazer uma &2Picareta de Madeira&r.\\n\\nPicaretas permitem quebrar a maioria dos blocos de pedra e metal. Este de madeira não vai durar muito, então certifique-se de reunir alguns &3Cobblestone&r com ele!"]
+	quest.7975C7145572C438.title: "Nossa primeira escolha"
+	quest.7D38BC3DB3406F51.quest_desc: ["Com nossa Picareta de Madeira, a pedra não deve ser um problema para quebrar!\\n\\n&3Cobblestone&r desbloqueia a próxima parte da progressão ao usá-lo para criar uma fornalha para fundir nossos minérios.\\n\\nVocê também vai querer atualizar sua picareta para pedra para extrair minérios melhores, como &bIron&r!"]
+	quest.7D38BC3DB3406F51.title: "Idade da Pedra"
+	quest.7EC01E7DB045DB05.quest_desc: [
+		"&aAugments&r são atualizações de forno que podem alterar ou atualizar a função de um forno. "
+		""
+		"- Jateamento: Converte a fornalha para permitir apenas receitas de Jateamento "
+		""
+		"- Fumar: Converte a fornalha para permitir apenas receitas de Fumar "
+		""
+		"- Fábrica: Converte a fornalha para usar energia em vez de combustível, e atualiza-o para uma fábrica, permitindo-lhe fundir vários itens ao mesmo tempo. Isso aumenta dependendo do nível da fornalha."
+		""
+		"- Velocidade: dobra a velocidade da fornalha ao custo do dobro do combustível. "
+		""
+		"- Eficiência de Combustível: Dobra a quantidade de itens fundidos por combustível, mas reduz a velocidade em 25%."
+	]
+	quest.7EC01E7DB045DB05.title: "Forno &aAugments&r"
+}

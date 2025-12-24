@@ -1,0 +1,40 @@
+{
+	quest.0790D3BB481162A6.quest_desc: [
+		"Precisa de uma mesa de artesanato portátil? Que tal uma mesa de ferraria portátil? "
+		""
+		"&9Crafting On A Stick&r adiciona versões portáteis de algumas de suas mesas de artesanato favoritas! Este é um item obrigatório no início do jogo."
+	]
+	quest.0790D3BB481162A6.title: "Artesanato..... em uma vara!"
+	quest.0C856BBB1679A7DD.quest_desc: ["Nesta página você encontrará alguns itens e informações úteis para ajudá-lo em sua jornada!"]
+	quest.0C856BBB1679A7DD.quest_subtitle: "E outros itens úteis!"
+	quest.0C856BBB1679A7DD.title: "Dicas e truques!"
+	quest.0F8F37D7E12078F5.quest_subtitle: "Complete todas as dicas!"
+	quest.0F8F37D7E12078F5.title: "Sugerido"
+	quest.28E60192912BEBAD.quest_desc: [
+		"Em Vanilla, pode ser muito frustrante lidar com os aldeões. O comércio de bicicletas não é nada fácil e às vezes as profissões podem ser difíceis de lidar. "
+		""
+		"&aEasy Villagers&r é um mod que torna tudo isso muito mais fácil de lidar! Para começar, você pode pegar um aldeão clicando nele com o botão direito. Eles podem então ser facilmente colocados no mundo ou em blocos específicos do mod Easy Villager! "
+		""
+		"Você pode pesquisar &d@EasyVillagers&r no JEI para ver os blocos que o mod oferece!"
+	]
+	quest.28E60192912BEBAD.title: "&aAldeões fáceis&r"
+	quest.378C95C18798D413.quest_desc: [
+		"Uma maneira rápida de alternar entre ferramentas. "
+		""
+		"Atualize com bolsas de cinto em bigorna para aumentar a capacidade."
+	]
+	quest.378C95C18798D413.title: "Cinto de ferramentas"
+	quest.70B6C9409AE69284.quest_desc: [
+		"Fornece uma lista de biomas que você pode pesquisar. "
+		""
+		"Selecione um bioma e clique em 'Pesquisar'. Você verá algumas informações no canto superior esquerdo e a bússola apontará na direção do bioma."
+	]
+	quest.70B6C9409AE69284.quest_subtitle: "Ajuda a encontrar biomas"
+	quest.70B6C9409AE69284.title: "Bússola da Natureza"
+	quest.722978AC0C1B2649.quest_desc: ["Item fácil para automatizar água infinita. Precisa de mais água? Faça outro!"]
+	quest.722978AC0C1B2649.quest_subtitle: "Pode ser usado como refrigerante de reator"
+	quest.722978AC0C1B2649.title: "Água Infinita"
+	quest.7EC8814940C4C3D7.quest_desc: ["Use este item para encolher. Útil para trabalhar com automação e também divertido em geral."]
+	quest.7EC8814940C4C3D7.quest_subtitle: "Querida, eu me encolhi"
+	quest.7EC8814940C4C3D7.title: "Dispositivo de encolhimento pessoal"
+}

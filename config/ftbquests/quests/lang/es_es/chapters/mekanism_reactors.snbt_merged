@@ -1,0 +1,212 @@
+{
+	quest.05D20B506213A449.quest_desc: [
+		"The &9Turbine Rotor&r is placed in the middle of the Turbine. For every Turbine Rotor, you will need 2 &aTurbine Blades&r. For this Turbine, we'll be using 3 Rotors."
+		""
+		"While looking at the Rotor, right clicking with &aTurbine Blades&r will place them directly onto the Rotor. The taller the Rotor, the longer the Blades will become. For this build, we are using 6 total Blades. If you plan on building a bigger Turbine, you will need to increase the width of the Turbine depending on how many Blades you plan on using."
+		""
+		"The &9Rotational Complex&r must be placed at the top of the Turbine Rotor. This is then surrounded by &ePressure Dispersers&r."
+		""
+		"The Dispersers must fill out the entire layer where the Rotational Complex sits."
+	]
+	quest.05D20B506213A449.title: "The &aRotor&r"
+	quest.068728DE3B9B13C3.quest_desc: [
+		"The &dSupercritical Phase Shifter&r (SPS for short) is another multiblock structure used to infuse Polonium with large amounts of power to create &dAntimatter&r gas, which can be crystallized into pellets."
+		""
+		"To build the SPS, you'll need to make a total of 72 &9SPS Casings&r (60 for the build, 12 to make the ports), 3 &9SPS Ports&r, 122 Reactor Glass, and one other item we'll talk about in the next quest. Let's get the materials first!"
+	]
+	quest.068728DE3B9B13C3.title: "&dSupercritical Phase Shifter"
+	quest.0696B725E840B996.quest_desc: [
+		"For us to take anything in or out of the Fission Reactor, we'll need &aFission Reactor Ports&r. These can be configured to input or output by using the &9Configurator&r. "
+		""
+		"Every Fission Reactor &aneeds a minimum of 4 Ports&r:"
+		""
+		"1 Coolant Input"
+		"1 Coolant Output"
+		"1 Fissile Fuel Input"
+		"1 Waste Output"
+		""
+		"For this starter build, let's put a port on each side like the image shown below. Make sure to configure them to match the list of inputs and outputs!"
+		""
+		"{image:atm:textures/questpics/mek/port_example.png width:200 height:200 align:1}"
+	]
+	quest.0696B725E840B996.title: "Interacting with the Fission Reactor"
+	quest.07ECC87DFF2D3991.quest_desc: [
+		"Una vez que hayas terminado de construir tu primera &9Matriz de Inducción Energizada&r, verás partículas rojas alrededor de la estructura para mostrar que está completa."
+		""
+		"¡No tengas miedo de mejorar las Celdas y los Proveedores a tieres más altos! ¿Necesitas más espacio para ellos? El tamaño máximo que puede tener la Matriz de Inducción es de 18x18x18."
+	]
+	quest.07ECC87DFF2D3991.title: "&aCompletando la&r &9Matriz&r"
+	quest.0FF852DE33E41C90.quest_desc: [
+		"If we want to create massive amounts of power, we'll need a way to store all of it, and those Energy Cubes just won't cut it."
+		""
+		"We're going to create a customizable multiblock used to store large amounts of power, but first, we need to make some Lithium Dust!"
+		""
+		"You should have some Brine being made from a previous quest using the &aThermal Evaporation Plants&r. Run the &eBrine&r through another &aThermal Evaporation Plant&r to get Lithium, then through a &9Chemical Crystallizer&r to get &aLithium Dust&r."
+	]
+	quest.0FF852DE33E41C90.title: "Advanced Power Storage"
+	quest.12D271359D48210E.quest_desc: [
+		"Fusion Reactors require a very special fuel: &dD-T Fuel&r to be exact."
+		""
+		"There are two ways to fuel the Reactor: Either by pumping in D-T Fuel directly into the Reactor at 1,000mb/t, or by pumping each of the two fuels in separately at controlled rates."
+		""
+		"For starters, let's pump them in separately. We probably need to know how to make them as well."
+	]
+	quest.12D271359D48210E.title: "Fueling the &dFusion Reactor&r"
+	quest.1482F2D45E8F761D.quest_desc: [
+		"It's time to gather the materials we'll need to build the reactor."
+		""
+		"Just like most Mekanism multiblocks, reactors can be a custom size depending on your needs. They must be cuboid, with the minimum outside size being 3 wide, 4 tall, and 3 blocks deep. The maximum size is 18x18x18. &aWe're going to build a 5x5 to start with&r."
+		""
+		"The edges of the outer shell &bmust&r be made out of &aFission Reactor Casings&r, while the faces can be either casings or &bReactor Glass&r, Reactor Ports, or Reactor Logic Adapters. We'll get to those later."
+		""
+		"For now, let's build a basic 5x5x5 Fission Reactor!"
+		""
+		"Need more help building it? Holding &dw&r while hovering over the Fission Reactor Casing will show you the Ponder that can help you build it."
+	]
+	quest.1482F2D45E8F761D.quest_subtitle: "Casings and Glass"
+	quest.1482F2D45E8F761D.title: "Fission Reactor Building Basics"
+	quest.14D772808D1BEAE2.quest_desc: [
+		"The Induction Matrix allows you to customize how much power you can store and transfer by adding Cells and Providers inside of the multiblock structure."
+		""
+		"Induction Cells increase the total amount of power that can be stored."
+		""
+		"Induction Providers increase the total transfer speed both in and out of the Matrix."
+		""
+		"You can customize how many you want of each inside of the multiblock, but you will need at least one of each. These also have higher tiers to increase your overall storage and transfer capacity."
+		""
+		"{image:atm:textures/questpics/mek/induction_inside.png width:300 height:200 align:1}"
+	]
+	quest.14D772808D1BEAE2.title: "&aCustomizing Our&r &9Power Limits&r"
+	quest.16A6C47E35F3B9D0.quest_desc: [
+		"Once we have an &9Isotopic Centrifuge&r, we can run our &2Uranium Hexafluoride&r in and create &3Fissile Fuel&r!"
+		""
+		"See, that wasn't so bad was it?"
+	]
+	quest.16A6C47E35F3B9D0.title: "&3Fissile Fuel&r"
+	quest.187A3F5B41D1C923.quest_desc: [
+		"Let's take our &2Sulfuric Acid&r and combine it with &bFluorite&r in a &9Chemical Dissolution Chamber&r to make &bHydrofluoric Acid&r."
+		""
+		"We're almost there!"
+	]
+	quest.187A3F5B41D1C923.title: "&bHydrofluoric Acid"
+	quest.1DE8B0C9A7195720.quest_desc: [
+		"Once you've finished placing in all of the required blocks to build the Reactor, it should give off red particles to show that it is complete."
+		""
+		"Right clicking anywhere on the Reactor will open up the &aInterface&r. This will have all of the information you need to run the Reactor properly, as well as two buttons to turn on and off the Reactor."
+		""
+		"On the left, you have 2 tanks: One for &bCoolant&r and one for &3Fissile Fuel&r. On the right, you have one for &8Nuclear Waste&r, and one for &bHeated Coolant&r, which will most likely be &bSteam&r."
+		""
+		"The &cTemperature&r bar will show you how hot the Reactor is. After a certain temp, the Reactor will start taking &4Damage&r, which will eventually cause the Reactor to explode."
+		""
+		"To adjust the &cBurn Rate&r of the Fissile Fuel and see more statistics, click on the (I) tab on the left side. Here, you can adjust the Rate Limit, which controls how much fuel the Reactor burns per tick."
+		""
+		"{image:atm:textures/questpics/mek/reactor_interface_1.png width:200 height:150 align:1}"
+		"{image:atm:textures/questpics/mek/reactor_interface_2.png width:200 height:150 align:1}"
+	]
+	quest.1DE8B0C9A7195720.quest_subtitle: "Those are definitely numbers"
+	quest.1DE8B0C9A7195720.title: "The Fission Reactor Interface"
+	quest.1FAAF8216CDC3AC6.quest_desc: [
+		"Pumping Nuclear Waste into a &9Solar Neutron Activator&r will give you &dPolonium&r."
+		""
+		"Run the Polonium through a Pressurized Reaction Chamber with some Fluorite Dust and you'll get &9Polonium Pellets&r. You will need a good bit of these for the future."
+		""
+		"Note: This will also create a byproduct of &7Spent Nuclear Waste&r, which needs to be pumped into a Waste Barrel for storage."
+	]
+	quest.2331FCDD2F2B709A.quest_desc: [
+		"The &9Supercharged Coil&r is placed on an SPS Port in the center of two faces, like the image below. When given power, these will supercharge Polonium into Antimatter. Only 1 is required, but you can use 2 if you want."
+		""
+		"To produce 1mb of Antimatter, you need 400MRF. If you haven't started making a &cFusion Reactor&r, now's a good time to make it!"
+		""
+		"{image:atm:textures/questpics/mek/sps_coils.png width:200 height:125 align:1}"
+	]
+	quest.2331FCDD2F2B709A.title: "The Supercharged Coils"
+	quest.233E438357CD89F6.quest_desc: [
+		"&9Turbine Valves&r are used to pump in &bSteam&r, as well as pumping out the power that the Turbine creates."
+		""
+		"&8Turbine Vents&r are used to pump out excess water when using &aSaturating Condensers&r. Otherwise, these help increase the overall flow of steam within the Turbine. The total number of Vents also limits the total Steam Flow Rate. Vents can also be used on the top face of the Turbine, but for this build, we'll just be using them on the outside faces."
+		""
+		"&aSaturating Condensers&r are used to convert &bSteam&r back into water. These are placed on or above the layer containing the Electromagnetic Coils."
+	]
+	quest.233E438357CD89F6.title: "The &aPorts&r"
+	quest.24174700F7FB771C.quest_desc: [
+		"As a recap, we've set up an advanced Ore Processing facility using several gases, machinery, and more."
+		""
+		"In this chapter, we'll be using more of those to create powerful multiblock &aReactors&r, as well as advanced ways to create and store power. This will also lead to making &dAntimatter Pellets&r, which are used to make the &6ATM Star&r, as well as some of the strongest tools and weapons in the pack."
+	]
+	quest.24174700F7FB771C.quest_subtitle: "&cRequires Quest \\\"Advanced Mekanism\\\" Completion from the Mekanism Chapter&r"
+	quest.36B1995B495AA674.quest_subtitle: "Naranja = Proteccion Contra la Radiacion"
+	quest.3AF4E5D4839CEF8B.quest_desc: ["Once we have our hands on &eYellow Cake Uranium&r, we can send it through a &aChemical Oxidizer&r to create the gas, &2Uranium Oxide&r."]
+	quest.3AF4E5D4839CEF8B.title: "&eUranium Oxide"
+	quest.3B81800EE6E77EF2.quest_desc: [
+		"The Fission Reactor needs &3Fissile Fuel&r to run. If you look up Fissile Fuel right now in JEI, I bet you'll get overwhelmed with everything you need to make it. It's okay, you've got this. Let's take it one step at a time."
+		""
+		"It all boils down to creating &eUranium Hexafluoride&r. To do this, let's focus on making these two gases: &bHydrofluoric Acid&r, and &eUranium Oxide&r."
+	]
+	quest.3F5010269469EBE0.quest_desc: [
+		"The inside of the reactor is built up of pillars using several &aFission Fuel Assembly&r blocks, with a single &aControl Rod Assembly&r placed at the top of each pillar. These can be anywhere from 1 to 15 blocks in height, depending on the size of the reactor."
+		""
+		"For this build, we'll put 2 of the Fission Fuel Assemblies in the center of our multiblock, and then put the Control Rod Assembly right on top of it."
+		""
+		"{image:atm:textures/questpics/mek/rod_example.png width:250 height:200 align:1}"
+	]
+	quest.3F5010269469EBE0.title: "Inside the Reactor: Fuel Control"
+	quest.3FFF9018DA2A2763.quest_desc: [
+		"Once we start burning up Fissile Fuel in the reactor, we'll get heated &bCoolant&r and &8Nuclear Waste&r."
+		""
+		"This is where the Radiation kicks in. As long as it stays &osafely in some container or machine&r, you won't have any spills....right?"
+		""
+		"The best way to store any Radioactive substance is using a &2Radioactive Waste Barrel&r. These will safely store the waste, while slowly decaying the gas without causing a Radiation spill. You don't want your Nuclear Waste sitting in your Reactor as it causes it to produce more heat, so set a port to &aoutput Waste&r and ship it to a barrel!"
+		""
+		"&9Important Note&r: Breaking &nany&r machine, barrel, pipe, or &oanything&r that has a Radioactive gas inside of it &cwill cause a Radiation leak&r. That includes the products of Nuclear Waste, like Polonium or Plutonium."
+	]
+	quest.4189BC3DFB551F4C.quest_desc: [
+		"If you've built the Turbine properly, you will see red particles around the structure. Right clicking on the Turbine will open up the interface."
+		""
+		"This will tell you all of the information that you need to know, including the total Steam Flow Rate, as well as the total Steam inside of the Turbine."
+		""
+		"On the right, you will have a bar that shows you the Power that is stored inside of the Turbine. If this gets full, the Turbine will turn off, unless you set it to Vent Overflow."
+		""
+		"Let's get it running!"
+		""
+		"Once you have a fully functioning Fission Reactor, pump out the &bSteam&r directly into a Turbine Valve on your Turbine. Since we're using Saturating Condensers in this build, you can pump out water from a Turbine Vent back into your Reactor if you want."
+	]
+	quest.4189BC3DFB551F4C.title: "Creating Power with the Turbine!"
+	quest.4ABF0727AA569DD9.quest_desc: [
+		"To fuel our Fusion Reactor, we'll need to create two different gases, this one being &cDeuterium&r."
+		""
+		"To make this, we'll need to make some Electric Pumps and give them a Filter Upgrade. Place them over a source block of water, give them some power, and they'll pump out &5Heavy Water&r."
+		""
+		"Pump the Heavy Water into an Electrolytic Separator to get &cDeuterium&r."
+	]
+	quest.4ABF0727AA569DD9.title: "Fueling the Reactor: &cDeuterium&r"
+	quest.54D8B9CB3F98040F.quest_desc: [
+		"Hohlraum filled with D-T Fuel? &oCheck!&r"
+		""
+		"Deuterium and Tritium ready to be pumped into the Reactor? &oCheck!&r"
+		""
+		"A Laser Amplifier with at least 400MRF ready to shoot into the Laser Focus Matrix? &oCheck!&r"
+		""
+		"Once you are ready, place the &5Hohlraum&r into the &aFusion Reactor Controller&r, pump in the Fuel, then activate your Laser Amplifier."
+		""
+		"If done right, &nyou'll see the Reactor activate!&r"
+		""
+		""
+		"{image:atm:textures/questpics/mek/fusion_activated.png width:225 height:150 align:1}"
+	]
+	quest.54D8B9CB3F98040F.title: "&dI Think We're Ready&r"
+	quest.57534FA0E09C4975.quest_desc: ["By now, you're already making &aLithium&r. Pump that into a Solar Neutron Activator to create &eTritium&r."]
+	quest.57534FA0E09C4975.title: "Fueling the Fusion Reactor: &eTritium&r"
+	quest.5FDB48511EC1C580.quest_desc: [
+		"Afraid of blowing up your Fission Reactor and causing a massive Radiation leak? Don't worry, we all are. &o*insert terrible flashback here*&r"
+		""
+		"So how can we prevent such a catastrophic disaster? By creating a redstone &aCircuit Breaker&r using &dFission Reactor Logic Adapters&r. Now these aren't 100% guaranteed to stop an explosion, but they are absolutely nice to have."
+		""
+		"Essentially, these Adapters allow us to control the Reactor using &cRedstone&r. With just one, you can use a lever to turn on and off the reactor. However, we're going to use them for damage control."
+		""
+		"You can also set these to give off a Redstone Signal based on a certain condition within the Reactor, like &cDamage Critical&r or &8Insufficient Fuel&r. This is useful for setting up a circuit breaker to shut off the Reactor if those ever happen."
+		""
+		"{image:atm:textures/questpics/mek/logic_adapter.png width:150 height:125 align:1}"
+	]
+	quest.5FDB48511EC1C580.quest_subtitle: "Because We've All Blown Up A Reactor Before"
+	quest.5FDB48511EC1C580.title: "Reactor Fail Safe"
+}

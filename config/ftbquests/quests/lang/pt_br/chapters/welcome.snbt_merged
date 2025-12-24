@@ -1,0 +1,44 @@
+{
+	quest.0C93D7A607AB8B83.quest_desc: [
+		"Para reivindicar pedaços, abra seu mapa usando &6M&r e clique no ícone &aClaim Map&r no canto superior esquerdo."
+		""
+		"Para reivindicar um pedaço, clique com o botão esquerdo e arraste para reivindicar."
+		""
+		"Para forçar o carregamento de um pedaço, clique com o botão esquerdo do mouse no pedaço. Se feito corretamente, você verá linhas no pedaço."
+	]
+	quest.0C93D7A607AB8B83.title: "Reivindicando pedaços"
+	quest.3708A4780ACEB34E.quest_desc: [
+		"Neste modpack, as missões são opcionais. Os mods não estão impedidos de completar nenhuma missão!"
+		""
+		"As missões individuais fora da missão principal destinam-se a servir como guias de mod. Se você quiser acompanhar a progressão, não deixe de conferir a Linha de Missões Principal!"
+		""
+		"A maioria das missões do pacote também são feitas por &2AlfredGG&r. As missões são um trabalho árduo, então se você quiser apoiá-lo, clique na imagem do jogador abaixo!"
+	]
+	quest.3708A4780ACEB34E.title: "Missões"
+	quest.3BC0A50886A3222B.quest_desc: [
+		"ATM10 é um pacote de cozinha que permite explorar o mundo do Minecraft modificado do seu próprio jeito!"
+		""
+		"&lATM10 está atualmente em fase beta de desenvolvimento do modpack&r. Os mods serão adicionados ou removidos à medida que forem atualizados."
+		""
+		"Se você tiver alguma dúvida ou problema, sinta-se à vontade para entrar no Discord do ATM!"
+	]
+	quest.3BC0A50886A3222B.title: "&dBem-vindo a todos os mods 10!"
+	quest.5AC1BE754210429E.quest_desc: ["Se você deseja criar um time para você e seus amigos, use o comando &a/ftbteams party create (nome do time)&r para criar o time!"]
+	quest.5AC1BE754210429E.title: "Criando uma equipe"
+	quest.7658C1C663394E85.quest_desc: [
+		"Existem muitos comandos úteis no ATM. Aqui estão alguns: "
+		""
+		"&e/sethome&r (nome da casa) | Vamos definir uma casa para a qual você possa se teletransportar de volta usando /home (nome). Exemplo: /sethome farm - então teleporte com /home farm "
+		""
+		"&e/spawn&r | Isso irá teletransportá-lo para a origem do seu mundo superior. "
+		""
+		"&e/rtp&r | 'Random Teleport' irá teletransportá-lo para um local aleatório no mundo. "
+		""
+		"Nota: Esses comandos possuem tempos de espera e limites. Se quiser alterá-los, você pode editar o arquivo de configuração que pode ser encontrado aqui: "
+		""
+		"- Para Singleplayer | &osaves/(nome do save)/serverconfig/ftbessentials.snbt&r "
+		""
+		"- Para servidores | &oworld/serverconfig/ftbessentials.snbt&r"
+	]
+	quest.7658C1C663394E85.title: "Comandos úteis"
+}

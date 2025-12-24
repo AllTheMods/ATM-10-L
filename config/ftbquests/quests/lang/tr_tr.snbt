@@ -10,26 +10,14 @@
 	chapter.5103E2D95685ADFF.title: "&aBölüm 3&r: &6ATM Yıldızı"
 	chapter.5B00676D79306EA2.title: "Hoş Geldin"
 	chapter.732824E03978A934.title: "&aBölüm 1&r: &bBaşlangıç"
-	chapter.792AD692F1468B1F.chapter_subtitle: ["Ayrıca Yıldız Otomasyonu!"]
-	chapter.792AD692F1468B1F.title: "&aBölüm 4&r: &dYaratıcı Mod"
 	chapter_group.02FE661031A105D8.title: "Büyü"
 	chapter_group.15E5B587D291A4AA.title: "Aletler ve Ekipmanlar"
 	chapter_group.1AC60211DE7427FC.title: "Depolama"
 	chapter_group.2084F3F6FB861C5B.title: "Ana Görevler"
 	chapter_group.2B51AC12041E3F89.title: "Teknoloji"
 	chapter_group.6614EE2378B8AFB9.title: "Kaynaklar"
-	quest.002B8F2DE2CB4D2C.quest_desc: ["Diğer elinde Kalkan ve ana elinde &7Güçleniş Parşomeni&r tut ve Sağ Tık'a basılı tut."]
-	quest.002B8F2DE2CB4D2C.title: "Güçlü Kalkan"
 	quest.004D61425172324F.quest_desc: ["&8Zincir Zırh&r Demir'den biraz daha kötü. &l&2Minecraft&r'daki ana kullanımı, bulunması zor olmasıydı. Sadece Ticaretlerden ve Yaratıklardan Düşürülerek elde edilebilir. \\n\\nTabii ki bu değiştirildi. Bu yüzden şimdi üretilebilir! Bu da onun amacını ortadan kaldırıyor..."]
 	quest.004D61425172324F.title: "&8Zincir Zırh"
-	quest.0052E5592A6BBEC1.quest_desc: [
-		"Bu &2&lMinecraft&r, sana nasıl yapı yapacağını söyleyemem..."
-		"{@pagebreak}"
-		"Ama sana bunun için ipuçları verebilirim!"
-	]
-	quest.0052E5592A6BBEC1.title: "&lYapı İpuçları!&r"
-	quest.005CC8A3325FE2BD.quest_desc: ["&bFroststeel&r, &7Cloggrum&r ve &eRegalium&r bunun için Kazılabilir. \\n&cUtheric&r ve &aForgotten&r'ı öldürmen gerekir. \\n\\nBaşka soru var mı?"]
-	quest.005CC8A3325FE2BD.title: "&2&lUndergarden&r Metalleri"
 	quest.00611844AFD5C31E.quest_desc: ["Yazıcı ve Şarj Cihazı RF/FE'yi doğal olarak kabul ederken, ME ağının büyük çoğunluğu AE adı verilen kendi özel güç sistemini kullanır.\\n\\nRF/FE, 2:1 RF:AE oranında ya doğrudan bir ME Kontrolcü aracılığıyla ya da bunun yerine ağın herhangi bir bölümüne bağlanabilen &bEnerji Kabul Edici&f aracılığıyla yerel AE'ye dönüştürülebilir."]
 	quest.00611844AFD5C31E.quest_subtitle: "Fişe tak"
 	quest.00DB5495C3A44999.quest_desc: ["Boşaltmak için bir envantere Shift-Sağ Tıkla."]
@@ -37,8 +25,6 @@
 	quest.0108F3EFDFD6DFD0.quest_desc: ["Depo Bağlantısı, bir Depo Denetleyicisine veya ona bağlı herhangi bir bloğa bağlı olmayan birden fazla depoyu bağlamana olanak tanır.\\n\\nYani her birine sağ tıklamaya gerek kalmadan “çok bloklu” bir depoyu kablosuz olarak bağlamanın bir yolu.\\n\\n14 blok menzil hâlâ geçerlidir."]
 	quest.011F787E620DE9E8.quest_desc: ["Mob Filter'ı ayarlamak için, Mob Filter ile bir daha asla görmek istemediğin Yaratığa tıklaman yeterlidir. \\n\\nHer Filtre yalnızca 1 Yaratık tutabilir, bu nedenle Zombilerin, İskeletlerin, Örümceklerin, Creeperların ve Endermanlerin artık ortaya çıkmamasını istiyorsan 5 Mob Filter'a ihtiyacın olacak. \\n\\nSadece, farklı bir Yaratığa tıklayarak içindeki Yaratığı değiştirebilirsin."]
 	quest.011F787E620DE9E8.quest_subtitle: "O davet edilmedi!"
-	quest.012912FDAFCD1C66.quest_desc: ["&e&lCaliburn&r başlangıçta bir &bElmas Kılıç&r'dan çok daha iyi olmayacaktır, ancak bir kez yükseltildiğinde; &bElmas Kılıç&r, &e&lCaliburn&r'a göre normal bir Çubuk gibi görünür! \\nHem &4&lMorgan&r hem de &e&lCaliburn&r'un gerçek Hasarları ve Doğal Sınırları vardır. \\n\\nDoğal Sınır, artırılabileceği maksimum Hasardır. &e&lCaliburn&r'un Doğal Sınırını artırmak için, onu &5Çarpma&r ile büyüle ve ardından Nether Yıldızları ile &3Göl&r'e at. \\n\\nMaksimum Sınıra ulaşmak için 60 Nether Yıldızına ihtiyacın var. Bir kez yükseltildikten sonra artık yükseltilemez. Bu yüzden 60'ını birden attığından emin ol! \\n\\nNormal Hasarı artırmak için onu &5Çarpma&r ile büyülemen gerekir, sonra &3Göl&r'e geri atman gerekir! Daha fazla hasara ihtiyacın olacak..."]
-	quest.012912FDAFCD1C66.title: "&l&eCaliburn&r'un Yükseltilmesi"
 	quest.019CA0E35F888222.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
 	quest.019CA0E35F888222.title: "&eGelişmiş Stok Yenileme Yükseltmesi"
 	quest.01F3F0C25BA72BDA.quest_desc: [
@@ -49,36 +35,23 @@
 		"Alan ele geçirilirken bir yaratık veya oyuncu SCS'nin içinde durursa, onlar da alanın geri kalanının gittiği yere, yani özel bir boyuta taşınacaktır. Yakalanan kişi sen isen, geri dönmek ve içeri girmek için bir yolun olduğundan emin ol."
 	]
 	quest.01F3F0C25BA72BDA.title: "Mekansal GÇ"
-	quest.027E6E294D9E1375.quest_desc: ["Not al &lCorail&r! Holiday'leri işte böyle yapmalısın! (Bunu %100 sevgiyle söylüyorum, seni seviyoruz &lCorail&r!) \\n\\nBu eklenti Noel ve Cadılar Bayramı için bol miktarda süsleme ekliyor. \\n\\nNoel için Noel Ağaçları, Hediyeler ve Işıklardan Cadılar Bayramı için Kabaklar, Örümcekler ve Cadı Şapkalarına kadar."]
 	quest.0298A17C2AAC5765.quest_desc: ["Sırt Çantasındaki istif boyutunu 8 artırır."]
 	quest.0298A17C2AAC5765.title: "&bİstif Yükseltmesi Kademe 3"
 	quest.034A9FBCA6D79BB6.quest_desc: ["Harvester Pylon'un çalışması için bir Çapaya ihtiyacı vardır. \\n\\n(Kırılamayan çapalar sonsuza kadar çalışacak, kırılabilen çapaların değiştirilmesi gerekecektir)."]
-	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r cevherleri birleştirmeye yardımcı olmak için tarafımızca yapılmış bir moddur.\\n\\nBununla birlikte tonlarca çok kullanışlı dekoratif blok geliyor!\\n\\n&dFlorit&r ve &9Safir&r'in her ikisi de çok havalı görünüyor!"]
-	quest.034DB3C64F24C7B7.title: "&l&6AllTheOres&r Blokları"
-	quest.03564837ECB5CC79.quest_desc: ["Elbette başka bir Ritüel, bu da &2Ihagan's Enthrallment&r. (Bu arada bir Atı feda etmek için ritüeli yaparken yakınında olması gerekir) \\n\\nBunu yaptıktan sonra sana &2Dragon Familiar&r için Çağırma Yumurtası verilecek. Bunlar ya &6&lATM Yıldızı&r elde etmek için üretimde kullanılabilir ya da &2Familiar&r üretilebilir. \\n\\nBu seni takip edecek ve üzerine Shift + Sağ Tık kullanılarak sevilebilir."]
 	quest.037415D5B965E214.quest_desc: ["Bu yükseltme, Sırt Çantasının ölmemesini sağlar."]
 	quest.037488EF1F3581CE.quest_desc: ["Varsayılan olarak, bir ME ağı ME Kontrolcüsü olmadan kendi başına yalnızca 800AE'lik bir dahili arabelleğe sahiptir ve kontrolcü blok başına ekstra 8kAE ekler. Yeterince büyük ağlar için bu yetersiz olabilir ve bağlı herhangi bir cihaz için gücü telafi etmeye çalışırken bir ağın aralıklı olarak kapanmasına sebep olabilir.\\n\\n&bEnerji Hücresi&f, normal Enerji Hücresi başına 200kAE ve &bYoğun&f Enerji Hücresi başına 1.6MAE daha ekleyerek bir ME ağının önemli ölçüde daha fazla enerji tutmasına olanak tanır. Bunlar ayrıca daha fazla enerji arabelleği sağlamak için ağda herhangi bir yere yerleştirilebilir."]
-	quest.038812A14456236C.quest_desc: ["Bazı İşlemcileri, bir Enerji Hücresini ve herhangi bir Yoğun Kabloyu birleştirerek ME Kuantum Halkasını elde ederiz. \\n\\nGenellikle ME sistemimizi Boyutlar arasında bağlamak için kullanırdık ama biz sadece &6&lATM Yıldızı&r ile ilgileniyoruz!"]
-	quest.03DCDFB32CD4BD85.quest_desc: ["&e&lCaliburn&r birkaç şey gerektirir. Bazıları görevlerde belirtilmiş, bazıları henüz belirtilmedi. \\nÖncelikle &3Mahou Gölü&r'ne ve 5000 &4Mahou&r'ya ihtiyacın var. \\n\\nDaha sonra &5Çarpma&r'ya sahip büyülü bir &bElmas Kılıç&r'a ihtiyacın olacak (seviye ne kadar yüksekse o kadar iyi). \\n\\nSon olarak, &bKılıç&r'ı &3Göl&r'e at ve dibinde &e&lCaliburn&r'u bulacaksın!"]
 	quest.03E05018D64DDEE1.quest_desc: ["&eKademe 5&r, esasen sadece Allthemodium Cevheri içindir. Başka bir şey için değil."]
 	quest.03E05018D64DDEE1.title: "&eKırma Kademesi 5"
 	quest.03E6FA4DCB71162E.quest_desc: ["&bRenk Uygulayıcı&f, kabloların dünya içinde boyanmasını sağlayan şarj edilebilir bir araçtır. Aşağı yukarı özel bir &edepolama hücresi&f olarak işlev görür ve vanilla boyaları ya da belirli renkler için &bboya topları&f ile doldurulabilir. Renkleri yıkamak ve kabloları Fluiks varyantlarına geri döndürmek için &ekar topları&f ile birlikte kullanılır.\\n\\nBir kabloya renk uygulamak, tek bir şarjda toplam 3400 kablo segmenti için dahili bataryasından 100AE enerji kullanır."]
 	quest.03E6FA4DCB71162E.title: "Renk Uygulayıcı"
 	quest.0484051446480B54.quest_desc: ["Tonlarca hasar verir ve ağaçları keser! Daha ne istiyorsun?"]
 	quest.0484051446480B54.title: "&6Allthemodium &5Alaşımı &3Balta"
-	quest.04F5846E2468E807.quest_desc: ["&b&lMacaw's Doors&r her türlü farklı Kapı ve Kapı çeşidini ekler. \\nHuş ağacı tasarımını Ladin ağacıyla mı istiyorsun? Buna sahip olabilirsin! \\n\\nHatta Hastane Kapıları bile var!"]
 	quest.051E0C85E7B71CE0.quest_desc: ["Madencilik yaptığını varsayıyorum, öyle değil mi? Sonuçta bu MINEcraft.\\n\\nKafanı karıştırabilecek bir sürü yeni cevher bulacaksın, ancak başlamak için vanilla malzemelere bağlı kalabilirsin!\\n\\nBakır bol miktarda bulunur ve &aCevher Çekiçleri&r veya &eÇekmece Yükseltmeleri&r gibi şeyler için bol miktarda kullanıma sahiptir, bu yüzden bol miktarda topladığından emin ol!\\n\\nDemir muhtemelen her karşılaştığında elde etmek isteyeceğin en önemli cevherlerden biridir. Modlu MC dünyası çoğunlukla Demir ile çalışır."]
 	quest.051E0C85E7B71CE0.title: "&9Metal&r Çağı"
-	quest.0539AF15A10B2859.quest_desc: ["Hyperbox'lar Compact Machine'lere benzer! \\n\\nBir Hyperbox yerleştirdikten ve adlandırdıktan sonra içine girebilirsin. Bu da seni Hyperbox Boyutuna götürecektir. \\n\\nBurada yeni yaptığın ve adlandırdığın Hyperbox'ın içinde olacaksın, 13x13x13 bir Küp. Hyperbox Duvarlarını kıramazsın (Hayatta Kalma'da) ancak Aperture Bloklarına Sağ Tıklayarak oradan ayrılabilirsin."]
 	quest.0583862ED0114442.quest_subtitle: "&f4 &cSaldırı Hasarı"
 	quest.05850541675B2493.quest_desc: ["Evet. \\n\\n&6&lATM Yıldızı&r'nı oluşturdun. Bu, mod paketini tamamladığın anlamına geliyor!\\n\\nPeki sırada ne var?"]
 	quest.05850541675B2493.quest_subtitle: "Bu kazandığın anlamına mı geliyor?"
 	quest.05850541675B2493.title: "&6&lATM Yıldızı"
-	quest.0589911EB4D30FAD.quest_desc: ["&l&cRegions Unexplored&r ayrıca Tahtaları, Yün veya Cam gibi boyayabilmeni sağlıyor!"]
-	quest.0589911EB4D30FAD.title: "Boyalı Tahtalar"
-	quest.0596F6C70758EEC0.quest_desc: ["En pahalısı olmalarının yanı sıra en güzelleri de onlar! \\n\\nVe Yapılar için önemli olan da budur!"]
-	quest.06FFBB12CFA87815.quest_desc: ["Farklı &2Vanilla&r Biyomlarında bulunan &2Vanilla &lMinecraft&r Kütükleri! \\n\\nBundan daha fazlasını açıklamama gerek yok!"]
-	quest.06FFBB12CFA87815.title: "&2Vanilla&r Kütükleri"
 	quest.074EC1E636CD6605.quest_desc: ["&cNetherit Zırh&r'ı, &l&2Vanilla&r'dan elde edebileceğin en iyi Zırh'tır. &bElmas&r ile aynı Zırh Puanına sahip ama daha fazla Zırh Sertliğine sahiptir. \\n\\nMuhtemelen bunu yapmak için &bElmas&r'a ihtiyacın olduğu içindir!"]
 	quest.074EC1E636CD6605.title: "&cNetherit Zırh"
 	quest.077A214422FEFF02.quest_subtitle: "&f6.5 &cSaldırı Hasarı"
@@ -91,45 +64,27 @@
 	quest.0790D3BB481162A6.title: "Üretim... Çubuk üzerinde!"
 	quest.07FDA46D83F8360D.quest_desc: ["4 &6Allthemodium Parçası&r ve bir Ender İncisi karşılığında Işınlanma Pedi elde edersin. \\n\\nFarklı bir boyuta ışınlanmak için Minecraft boyutlarından birine yerleştir. \\n\\nIşınlanmak için ana ve diğer elin boşken Shift+Sağ tıklaman gerekir! Bu önemli, lütfen oku! \\n\\nHER İKİ ELİN DE BOŞ OLMASI GEREKİYOR!"]
 	quest.07FDA46D83F8360D.title: "Işınlanma Pedi"
-	quest.083ABBA1C45FF960.quest_subtitle: "Sadece bir Çim Biçme Makinesi"
 	quest.083D458032F0325C.quest_desc: ["&bME Dışa Aktarma Veriyolu&f, beyaz liste filtresindeki eşyaları periyodik olarak veriyolunun baktığı harici depolama alanına gönderir. İçe Aktarma Veriyolu aksine, Dışa Aktarma Veriyolu filtrelenmeden çalışamaz."]
 	quest.083D458032F0325C.quest_subtitle: "Ç (Çıkış)"
-	quest.0848056FDD3F9BDA.quest_desc: ["&9Tekillik&r, teorize edilmiş bir nihai yoğunluk noktasıdır. Bilim insanları, içinde yaşadığımız Evren'in bir zamanlar bir &9Tekillik&r olduğuna inanıyor. Evrenimizdeki her molekül, bir kum tanesinden daha küçük tek bir noktadaydı. \\n\\nTabii ki &l&bAE2&r, teorik bilimler çizgisinde sürüklenirken kendi &9Tekillik&r'lerine sahipler. \\n\\nBunu üretmenin 2 yolu var ancak her biri çok sayıda Eşyayı tek bir noktaya yoğunlaştırmayı gerektirir!"]
-	quest.0848056FDD3F9BDA.quest_subtitle: "Tekillik"
-	quest.0848056FDD3F9BDA.title: "&9Tekillik"
 	quest.0893EFCAC7031FEA.quest_desc: ["Süt ve yumurtaların hazırsa, pasta yapma zamanı."]
 	quest.0893EFCAC7031FEA.quest_subtitle: "Pastanı Al ve Ye"
 	quest.089B1B9837AF4938.title: "&5Unobtainium Aletleri"
 	quest.08AC2D81A1004984.title: "&6Allthemodium &5Alaşımı &3Üçlü Mızrak"
-	quest.08C66BCA3AAE765B.quest_desc: ["Bu &2&lMinecraft&r'ta Olmayan Bloklar ekler, bu yüzden tartışmamayı tercih ederim."]
 	quest.08CE14FFED813992.quest_subtitle: "13 Islak Koyu Pembe Blok"
 	quest.08E47A27EFFB7C6B.quest_subtitle: "5 Kuru Pembe Blok"
-	quest.0923C941A9696122.quest_desc: ["Maceraya çıkarken 256 Milyon Eşyayı yanında götürmek zorunda kalırsan diye!"]
-	quest.0947B4ED95B0267E.quest_desc: ["Eşyaları ve aletleri kaplar.\\n\\nNetherit, harika bir kaplama malzemesidir."]
-	quest.0947B4ED95B0267E.quest_subtitle: "Kesinlikle sadece Netherit için değil"
 	quest.09733948CBCB3FB9.quest_desc: ["&dKademe 6&r, en yüksek kademedir. Vibranium ve Unobtainium da dahil olmak üzere kırılabilen her şey onunla çıkarılabilir."]
 	quest.09733948CBCB3FB9.title: "&dKırma Kademesi 6"
-	quest.09955CF85F579E0F.quest_desc: ["Bunu eninde sonunda elde edeceksin, kelimenin tam anlamıyla &2&lMinecraft&r'daki en bol Blok."]
-	quest.09955CF85F579E0F.title: "Taş Bloklar"
 	quest.09C82CDDA800D8C9.quest_desc: ["Wither ikinci Minecraft Patron'udur, bu isteğe bağlı bir Patron'dur. \\n\\nOnu ortaya çıkarmak için Wither'ı inşa etmen gerekecek. T şeklinde 4 Ruh Kumu ve üstüne 3 Wither İskelet Kafatası yerleştirmek onu ortaya çıkaracaktır! \\n\\n300 Kalbi vardır ve etrafta uçarak Oyunculara veya Yaratıklara Wither Kafaları fırlatır. \\n\\nYarı Sağlığa düştüğünde, Uzak Mesafe Saldırılarına karşı bir kalkan kazanacak ve Kılıç veya Balta ile öldürülmesi gerekecektir. \\n\\nOnu öldürdüğünde şunları düşürecek: Nether Yıldızı, Solduran Ruh için şans ve tonlarca Corail Eşyası."]
 	quest.09C82CDDA800D8C9.title: "Wither'ı Öldür"
 	quest.09D18512037386C1.quest_desc: ["İksir Etkilerini içine koymak için bir Potion Filter'ı doldurman gerekir. \\n\\nBunu yapmak için: üzerinde bir İksir Etkisi olsun, ardından Potion Filter'a sağ tıklayarak onu üzerinden kaldır ve Filter'a ekle ve dolup aktif olana kadar tekrarla. \\n\\nBu aynı zamanda modifiye edilmiş İksir Etkileri, Acele veya Direnç gibi genellikle İksirlerle elde edemeyeceğin etkilerle de çalışır."]
-	quest.09F49ED309152E24.quest_desc: ["&l&cChisel Reborn&r, &lChiseled&r'ı esas alan bir başka moddur. \\n\\nModun temelinde bazı Blokların tasarımlarını değiştirmek için Chisel Aletini kullanmak vardır. \\n\\nGUI'sini açmak için Chisel ile Sağ Tıklayabilirsin, orada içine bir istif Blok koyabilir, sonra istediğin bir tasarımı seçebilir ve çıkarabilirsin. Ya da Chisel'da tutabilirsin, ama bunu neden istediğini anlamıyorum.  \\n\\nAyrıca Chisel GUI'sini açmadan tasarımını değiştirmek için Chisel ile bir Bloğa Sol Tıklayabilirsin! \\n\\nEndişelenme, bunun Dayanıklılığı yok."]
 	quest.0A1C2A7A8617D3E4.quest_subtitle: "Speedrunner'lar Bunu Seviyor"
 	quest.0A1C2A7A8617D3E4.title: "Buğday"
 	quest.0A1D4228271DECA3.quest_desc: ["Nereye gittin?\\n\\nÖnceki boyutunun sadece yarısı kadar olmuşsun. 1 Blok boşluğa sığacak kadar küçük."]
 	quest.0A1D4228271DECA3.quest_subtitle: "Kolye"
-	quest.0A1FBDA0C1314DE1.quest_desc: ["Uyumlanmış &bElmas&r/&aZümrütler&r, &4Mahou&r pillerdir ve &4&lMorgan&r elde etmek için çok sayıda &4Mahou&r'ya ihtiyacın olacaktır. \\n\\nUyumlanmış &bElmaslar&r 2000 &4Mahou&r ve Uyumlanmış &aZümrütler&r 1000 &4Mahou&r tutar. \\n\\nRitüel için 5000 &4Mahou&r'ya ihtiyacın olacak. Bu yüzden birkaç taneye ihtiyacın olabilir!"]
-	quest.0A1FBDA0C1314DE1.title: "Yeterince &4Mahou&r'n var mı? Muhtemelen!"
-	quest.0A21773B773F34F8.quest_desc: ["Renk, bir Yapıyı daha canlı hale getirmenin en önemli parçalarından biridir! \\n\\nOna hayat, kişilik ve renk verir!  \\n\\nBoyalarla başla!"]
-	quest.0A21773B773F34F8.title: "Renkli Bloklar"
 	quest.0A64D0937A5F7513.title: "Altın Olta"
 	quest.0A9D5C5D2F4CDCC3.title: "&5Unobtainium Topuz"
 	quest.0B218DD73FE8D985.quest_desc: ["Eğer son görevi doğru bir şekilde yaptıysan, o tekilliği bir çift &bKuantum Dolanıklık Tekilliği&f'ne dönüştürmüş olmalısın. Bu yeni tekillikler &eKuantum Ağ Köprüsü&f olarak bilinen halka şeklindeki bir cihazı birbirine bağlamak için kullanılır.\\n\\nBu bireysel halkalardan ikisi Kuantum Dolanıklık Tekillikleri kullanılarak birbirine bağlandığında ve bir miktar AE gücü (örneğin bir enerji hücresi) ile başlatıldığında, bir ME ağı köprünün diğer tarafında, uzun mesafeler ve hatta boyutlar arasında kablosuz olarak genişletilebilir."]
 	quest.0B218DD73FE8D985.title: "Kuantum Ağ Köprüsü"
-	quest.0BC106B34AD386E5.quest_desc: ["&l&cRegions Unexplored&r başka bir Biyom Modudur, bu &l&6AllTheMods!&r için yeni bir mod! \\n\\nTabii ki Biyomlarla birlikte daha fazla Ağaç geliyor!"]
-	quest.0BC106B34AD386E5.title: "&l&cRegions Unexplored&r Kütükleri"
-	quest.0C82CE3AFBD48C1E.quest_desc: ["&l&aSushi Go Crafting&r çok fazla Blok eklemiyor ama eklediklerini Mutfağında kullanmanı kesinlikle tavsiye ederim! \\n\\nÖzellikle Rice Cooker; artık Pilav için Mikrodalga kullanmaya gerek yok."]
 	quest.0C856BBB1679A7DD.quest_desc: ["Bu sayfada, yolculuğunda size yardımcı olacak bazı yararlı eşyalar ve bilgiler bulacaksın!"]
 	quest.0C856BBB1679A7DD.quest_subtitle: "Ve Diğer Faydalı Eşyalar!"
 	quest.0C93D7A607AB8B83.quest_desc: ["Yığınları talep etmek için &6M&r tuşunu kullanarak haritanı aç, ardından sol üstteki &aTalep Edilen Yığınlar&r simgesine tıkla.\\n\\nBir yığını talep etmek için sol tıkla ve sürükle.\\n\\nBir yığını zorla yüklemek için, yığına shift-sol tuşla tıkla. Doğru şekilde yapılırsa, yığın boyunca çizgiler göreceksin."]
@@ -137,15 +92,9 @@
 	quest.0CC0632E8276C787.title: "&c&lNether"
 	quest.0CD04A00529FE1C9.quest_desc: ["Bakır Sandık yapılabilir ancak Demir Sandık yapmak için gerekli değildir. Yine de biraz Demir biriktirmek istiyorsan kullanılabilir."]
 	quest.0CD04A00529FE1C9.title: "&6Bakır Sandık"
-	quest.0D19FB62C2C1D9F7.quest_desc: ["En az 200 &4Mahou&r elde ettiğinde bir Yaşam Emen Alanı yapmak isteyebilirsin. \\n\\nBu alanda ölen her Yaratık için 10 &4Mahou&r geri alırsın. Ancak bu YAVAŞ bir süreçtir."]
-	quest.0D19FB62C2C1D9F7.title: "Yaşam Emen Alan Parşomeni"
-	quest.0D26E5EF6CFCFDBF.quest_desc: ["Hançerden daha yüksek Dayanıklılık, ancak daha düşük hasar ve hız."]
-	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Sivri Uçlu"
 	quest.0D4C64DD58567758.quest_desc: ["Sırt Çantasına tank ekler."]
 	quest.0D6D45DBA64E612D.quest_desc: ["En Yüksek Doğma Gecikmesi, yaratıkların doğmasının ne kadar sürebileceğidir. Tıpkı En Düşük gibi 20 gibi düşük bir değerden 32,767 gibi yüksek bir değere kadar çıkabilir. Her Saat, canavar çağırıcının hızını 10 değerinde değiştirir. Hız, 20 tikin 1 saniyeye eşit olacağı şekilde tik olarak ifade edilir. Yani en hızlı doğma gecikmesi, her bir ortaya çıkarma arasında 1 saniye olacaktır."]
 	quest.0D6D45DBA64E612D.title: "En Yüksek Doğma Gecikmesi"
-	quest.0DF4B01CC5B49E4E.quest_desc: ["Bu Taslak ile klasik kılıcı yapabilirsin! Güvenilir hasar ve güvenilir hız."]
-	quest.0DF4B01CC5B49E4E.quest_subtitle: "Eski Güvenilir Dost"
 	quest.0E02CE4469FCA4C9.quest_desc: ["Redstone Kontrolü canavar çağırıcınıza açma/kapama anahtarı ekler. Redstone Gücü olmadan ortaya çıkarmaz."]
 	quest.0E02CE4469FCA4C9.title: "Redstone Kontrolü"
 	quest.0E03F5EAE4963ECB.quest_subtitle: "8 Kuru Yeşil Blok"
@@ -160,8 +109,6 @@
 	quest.0E809747193ED3A9.quest_desc: ["Üçüncü MEGA storage component kademesi, &e16777216&f (16384k) bayt depolama alanı sağlar."]
 	quest.0E809747193ED3A9.title: "16M Depolama Bileşeni"
 	quest.0E9CE6241CDBC420.quest_desc: ["&9Ranged Pump&r o kadar özel ki kendi moduna sahip! \\n\\n&9Pump&r altındaki &9Su Kaynaklarını&r toplayacak ve onları Taş ile değiştirecektir. \\nGerçi çalışması için Enerji gerekiyor ama buna değer, çok geniş bir menzili var! \\n\\nİçinde toplanan &9Suyun&r Borularla dışarı atılması gerekecektir."]
-	quest.0EB6ED88895366D0.quest_desc: ["Sadece Taş ve Kırık Taş olduğu zamanları hatırlıyor musun?"]
-	quest.0EB6ED88895366D0.title: "&2Vanilla&r Taşları"
 	quest.0ED11FCF6298CE85.quest_desc: ["&e&lIron's Spells&r &4Kan Zırhı&r!"]
 	quest.0ED11FCF6298CE85.title: "&4Cultist Kıyafetleri"
 	quest.0EFF1AA37772156B.quest_desc: ["Bu blok çok bloklu mutfağa su sağlar.\\n\\nAyrıca suyu kablolar veya borular aracılığıyla dışarı pompalayarak sonsuz su sağlayabilir."]
@@ -186,14 +133,9 @@
 	quest.0F89BFD4A3F63A48.title: "Işığı Yoksay"
 	quest.0F8F37D7E12078F5.quest_subtitle: "Tüm ipuçlarını tamamla!"
 	quest.0FD62827710F0AC6.quest_desc: ["Lav ile beslendiğinde &cMagmator&r FE üretecektir."]
-	quest.0FE30548F25FEDB1.quest_desc: ["Eğer sen de benim gibiysen ve bir kutunun içinde yaşamaktan hoşlanmıyorsan (bana çok fazla okulu hatırlatıyor), o zaman Yapılarında dışarıyı görebilmen için Cam olmasını isteyeceksin. \\n\\nNormal Vanilla olanlar güzel olsa da elbette çok daha iyisini yapabiliriz! \\n\\nHatta bunu biraz değerlendirebiliriz bile!"]
 	quest.103834774B57D611.quest_desc: ["Minyatür End Portalı, birkaç &dEnd Kitaplığı&r'na ihtiyaç duyacaktır. Bunlar &5&lApotheosis&r'den elde edeceğin son Kitaplık kademesidir. Bunları yapmak için &dAşılama Yapılmış Ejderha Nefesi&r'ne ihtiyacın olacak. \\n\\nOndan sonra sadece Ender Gözlerine ihtiyacın olacak. &dEnd Kitaplığı&r'nı gerçekten elde etmek için onları yapmış olman gerekiyor. \\n\\nEğer bir şekilde &d&lEnd&r'e ulaştıysan ve Ender Gözleri olmadan Kitaplıklara ulaştıysan, o zaman beni gerçekten etkiledin!"]
 	quest.104EBBC08B4733F5.quest_desc: ["&dSimülasyon Odası&r, HNN'deki ana makinedir.\\n\\nGüç verildiğinde, içine yerleştirilen &bVeri Modeli&r'ne göre simülasyonlar çalıştıracaktır. Gereken güç, içine yerleştirilen Veri Modeline de bağlıdır ve Modelin alet ipucunda görülebilir. \\n\\nMakine ayrıca simülasyonu çalıştırmak için en az bir &9Öngörü Matrisi&r gerektirir.\\n\\nSimülasyonun sonucu Matrise çıktı olarak verilecektir. Simülasyonlar her zaman çeşitli üretim tariflerinde kullanılabilecek bir tür &eGenelleştirilmiş Öngörü&r üretecektir. Ayrıca Veri Modelindeki yaratığın kökenine bağlı olarak da değişirler.\\n\\nSimülasyon başarılı olursa, modele göre bir &dYaratık Öngörüsü&r elde edersin. Kullanılan Veri Modelinin kademesi ne kadar yüksekse, simülasyonun başarı oranı da o kadar yüksek olur."]
 	quest.104EBBC08B4733F5.title: "&aÖlümlerin Simüle Edilmesi"
-	quest.106884349C9FF3BA.quest_desc: ["Dostum bazı Işık Kaynakları çok çirkin! \\n\\nBunu değiştirelim!"]
-	quest.106884349C9FF3BA.title: "&l&bChipped&r Işıklar"
-	quest.10A2E758D7743DD0.quest_desc: ["&5&lEternal Starlight&r çok sayıda benzersiz Eşya, Yaratık ve Bloğa ev sahipliği yapıyor. \\n\\nAğaçlar da! \\n\\nBu Ağaçları, Boyutun her yerinde, neredeyse her Biyomda bulabilirsin."]
-	quest.10A2E758D7743DD0.title: "&5&lEternal Starlight&r Ağaçları"
 	quest.10E8BC20D406D9FB.quest_desc: ["Çeşitli Nether malzemeleri yapar."]
 	quest.110D27EA86CDA62B.quest_desc: ["Eşyaları Sırt Çantasına mıknatıslar."]
 	quest.111E4ACF7D570EE8.quest_desc: [
@@ -201,11 +143,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_city.png width:200 height:100 align:center}"
 	]
 	quest.111E4ACF7D570EE8.title: "Antik Şehir"
-	quest.11374A3B5BD644F5.quest_desc: ["&lIndustrial Foregoing&r tonlarca Makine ve Alet içeren bir Teknoloji Modudur. Hepsi aynı Renk Kodunu takip ediyor! \\n\\nRubber ile başlaman gerekecek ve evet bunun için Görev sayfası var!"]
-	quest.11B0B93D725ABE43.quest_desc: ["Silent Gear ekipmanları, &9Tamir Çantası (Repair Kit)&r kullanılarak onarılabilir.\\n\\nBir eşyayı onarmak için, Tamir Çantasını bir üretim ızgarasına yerleştir, ardından aleti onarmak için gereken malzemeleri yerleştir. Bu, Tamir Çantasını \"dolduracaktır\".\\n\\nAleti onarmak için, dolu Tamir Çantasını onarmak istediğin aletle bir üretim ızgarasında birleştir."]
-	quest.11B0B93D725ABE43.quest_subtitle: "Örs gerekmez"
-	quest.11C43962B06D5092.quest_desc: ["Bu gerekli miydi?"]
-	quest.11C43962B06D5092.title: "İşte şimdi gösteriş yapıyorsun"
 	quest.11C5F17C6BB1237B.quest_desc: ["&5Withered Bracelet&r takılıyken Yakın Dövüş Saldırılarına Solma Etkisi verme ihtimali vardır.\\n\\nÜzgünüm Yay kullanıcıları!"]
 	quest.11C5F17C6BB1237B.quest_subtitle: "Bilekler (Eller)"
 	quest.11D57C768032E3F7.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
@@ -241,39 +178,27 @@
 	quest.144BB025516E0994.title: "&3Vibranium Külçesi&r"
 	quest.145E7D1A88B83DDD.quest_desc: ["Nereye kayboldun?"]
 	quest.145E7D1A88B83DDD.quest_subtitle: "Atkı (Kolye)"
-	quest.146AF0937D9C63DE.quest_desc: ["Diğer elinde Yay ve ana elinde &7Güçleniş Parşomeni&r tut ve Sağ Tıklamayı basılı tut."]
-	quest.146AF0937D9C63DE.title: "Güçlü Yay"
 	quest.149BD1A9F82FA19A.quest_subtitle: "&f6 &cSaldırı Hasarı"
 	quest.14B3542ECB59869C.quest_desc: ["&5Ganimet Üreticisi&r sana Yaratık Öngörülerinden, o tatlı mı tatlı ganimeti kazandıran makinedir.\\n\\nGüç verildiğinde ve başarılı bir Yaratık Öngörüsü yapıldığında, o yaratığın Veri Modelinden hangi eşyayı almak istediğini seçebileceksin. Makine seçimini hatırlayacaktır, böylece otomatikleştirebilirsin.\\n\\nYaratık Öngörülerine Örnekler:\\n\\n- &dEjderha Yumurtaları&r için &dEnder Ejderhaları&r\\n - Demir için &2Zombiler&r\\n - &5Nether Yıldızları için &0Witherlar&r"]
 	quest.14B3542ECB59869C.title: "&dGanimet&r Üretimi"
-	quest.14B7EEBE0F6C2776.quest_desc: ["&dAşılama Yapılmış Ejderha Nefesi&r şu şekilde elde edilir... &dEjderha Nefesi&r'ni Aşılayarak. \\n\\n2 &9Ruh Dokunuşlu Sculk Kitaplığı&r, 3 &bKalp İşlemeli Deniz Kitaplığı&r, 8 Normal Kitaplık ve 1 &6Denge'nin Jeotla Kaplı Kitaplığı&r kullanabilirsin. \\n\\nDiğer tarifler için de gerekli olacak ama bundan bahsetmiyoruz!"]
-	quest.14B7EEBE0F6C2776.title: "&dAşılama Yapılmış Ejderha Nefesi"
 	quest.1515B32545F51266.quest_desc: ["Ocağa güç bağlamanı sağlar."]
 	quest.1515B32545F51266.title: "Isıtma Yükseltmesi"
 	quest.151D836C7B0E6FAF.title: "&3Vibranium Kalkan"
 	quest.15564C11744D6AA0.quest_desc: ["Gerekli &eYazıcı Baskısı&r setinin tamamını elde ettikten sonra, sıra &eİşlemcileri&f yapmaya gelecektir. Bunlar ME bağlantılı cihazların büyük çoğunluğunu yapmak için kullanılan önemli bir üretim malzemesidir."]
 	quest.15564C11744D6AA0.title: "İşlemciler"
-	quest.156605859D553276.quest_desc: ["Pencereler, Pencere Camları, Panjurlar, Perdeler, Storlar, hatta Denizlikler! \\n\\nBunun ne olduğunu bile bilmiyorum!"]
-	quest.156605859D553276.title: "&l&bMacaw's Pencereleri&r"
 	quest.156FF8B7B724DC38.quest_desc: ["Sırt Çantası içine veya dışına pompalanan eşyalar için filtre ekler."]
-	quest.158B24939A269D83.quest_desc: ["Yükseltme Eşyası, bir aletin madencilik seviyesini artırmak için kullanılır.\\n\\nÖrneğin: Eğer 1 Elmas ve Demir Kazman varsa, Elmas Yükseltme Eşyası yapabilir ve bunu kazmana yerleştirebilirsin. Bu, Obsidiyen madenciliği yapmasını sağlayacak ve aynı zamanda ona bir istatistik artışı verecektir."]
-	quest.158B24939A269D83.quest_subtitle: "3 Elmas bulamadığın zamanlar için"
-	quest.1591013DDD4766E1.quest_desc: ["&l&cCooking for Blockheads&r tamamen Mutfağı evin haline getirmekle ilgilidir. \\n\\nVerdiği her şeyi kullanmanı tavsiye ederim çünkü her Eşyanın bir kullanımı var ve harika görünüyor!"]
 	quest.15CD4BFDC56E9510.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
 	quest.15CD4BFDC56E9510.title: "&eGelişmiş Alet Değiştirici Yükseltmesi"
 	quest.15DC6770B112EE69.quest_desc: [
 		"Dissolution Chamber, &l&7Industrial Foregoing&r tarafından eklenen bir Makine. Aynı zamanda &3Vibranium&r ve &5Unobtainium&r'u da bununla birleştireceğiz. \\n\\nMob Slaughter Factory'den elde edeceğin &dPink Slime&r'a ihtiyacın olacak. Bu Makine de IF tarafından eklendi. \\n\\nAyrıca Piglin Köyünde yaygın olan ve ayriyeten &b&lOther&r'da bulunan Ruh Lav'ına da ihtiyacın olacak. \\n\\nBunlardan sonra Külçelerini ve Piglich Kalplerini sırasıyla koyman, ardından güçlendirmen gerekecek. Bu işlemlerden sonrada alaşımın üretilmiş olacak!\\n"
 		"{ \"text\": \"INDUSTRIAL FOREGOING GÖREV SERİSİ\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
 	]
-	quest.15DE3BF0CBD8E0B4.quest_desc: ["İlk aletini yapmak için Pickaxe Head parçanı al ve bir üretim ızgarasına yerleştir.\\n\\nTam bir kazma oluşturmak için, üretim ızgarasına bir Çubuk ekleyebilir veya bunun yerine bir &9Tool Rod Template&r kullanarak kendi özel sapını oluşturabilirsin.\\n\\nNot: Template'leri her zaman arayabilir ve ardından JEI'de kullanımlarını kontrol et'e basabilir, sonrasında da “Gear Crafting” sekmesine gidebilirsin. Bu sana ekipman parçalarını nasıl yapacağını gösterecektir."]
 	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lOther&r yıllar içinde onlarca değişiklik gördü ama her zaman maceraların diyarı oldu! \\n\\nOnlarca yeni biyom, blok ve tabii ki yapılar var! \\n\\nYapılar şunlardır: Piglin Köyü, Antik Piramit ve Zindan. Hepsi de harika ganimetler içeriyor ve bazı şeyler yapılarına özgü! \\n\\nAyrıca &3Vibranium&r (ve diğer cevherler!) için madencilik yapabilir veya yapılarda daha iyisini bulabilirsin! \\n\\nYine de &b&lOther&r'da Maden Ocakları (Quarry) kuramazsın ya da çok sayıda blok yerleştiremezsin, burada hiçbir şekilde hile yapamazsın."]
 	quest.15FEA03A2CDBA33B.title: "&l&bOther&r"
 	quest.161A90E134592D0E.quest_desc: ["Normal Çiğ İnek Eti gibi, &cEverlasting Beef&r'i de pişirerek &4Eternal Steak&r elde edebilirsin!\\n\\nTıpkı &cEverlasting Beef&r gibi çalışır. Ancak daha fazla Açlık Puanı ve Doygunluk verir."]
 	quest.161A90E134592D0E.quest_subtitle: "Benzersiz"
 	quest.16255FB20F35A9D9.quest_desc: ["&3Snorkel&r, &9Suya&r girdiğinde sana az miktarda Su Altında Nefes Alma etkisi verir. Kaplumbağa Kabuğuna benzer! Ama dikkatli ol, tükeniyor."]
 	quest.16255FB20F35A9D9.quest_subtitle: "Kafa"
-	quest.1625C3A30E69D634.quest_desc: ["Bu yeni Taşları &l&cRegions Unexplored&r Biyomlarında bulabilirsin! \\n\\nHayır, Yosunlu Taş &l&aOh The Biomes We've Gone&r'daki ile aynı değil. \\n\\nHayır, Yosunlu Taş Tuğlası ile aynı değil."]
-	quest.1625C3A30E69D634.title: "&l&cRegions Unexplored&r Taşları"
 	quest.16299B9AE87257DC.quest_desc: ["&bKablosuz Terminal&f normal bir terminalle aynı şekilde çalışır, ancak kablosuzdur.\\n\\nBir ağa erişmek için kullanılmadan önce, &eKablosuz Erişim Noktası&r'nın sağ üst yuvasına yerleştirilerek ağa &ebağlanmalıdır&f. Bir ağa bağlı değilse veya menzil ya da güç dışındaysa, terminal çalışmayacaktır.\\n\\nKablosuz terminaller ayrıca daha büyük bir dahili batarya sağlamak için &eEnerji Kartları&f ile yükseltilebilir."]
 	quest.16299B9AE87257DC.quest_subtitle: "Bunun için buradasın"
 	quest.16299B9AE87257DC.title: "Kablosuz Terminaller"
@@ -321,8 +246,6 @@
 	quest.18EADBAFC932F864.quest_desc: ["Koyun kırkmak için makas gerekir, başka türlü yün elde edemezsin... değil mi?"]
 	quest.18EADBAFC932F864.quest_subtitle: "Pasifist Yolu"
 	quest.18EADBAFC932F864.title: "Kırpma Zamanı"
-	quest.1972B36F72808D55.quest_desc: ["Bu taşların sadece bazıları yontulmuştur."]
-	quest.1972B36F72808D55.title: "&l&bChipped&r Taşları"
 	quest.1985CFD1F0425E88.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
 	quest.1985CFD1F0425E88.title: "&eGelişmiş Alma Yükseltmesi"
 	quest.19B393433FB0C62F.quest_desc: ["Lavgezer'in &cLav&r üzerinde yürümesinin sırrı Bacaklarında. Bu yüzden Bacaklarını onlardan aldık ve onun yerine senin kullanmanı sağladık! \\n\\nEğilirken &cLav&r'ın üzerinde güvenle yürüyebilirsin! Eğilmeyi bıraktığında &cLav&r'ın içine düşeceksin. Bunlar, ayrıca Magma bloklarının ve diğer sıcak blokların üzerinde güvenle yürümene de izin verir!"]
@@ -375,9 +298,6 @@
 	quest.1F18B64C84C8809D.title: "&l&9Ana Dünya Ödülü:&r&e Örümcekler"
 	quest.1F6C8117F3CED939.title: "&6Allthemodium Yay"
 	quest.1F7DFA5AA65F2812.quest_desc: ["&bHızlandırma Kartı&f, kendisiyle yükseltilen cihaza bağlı olarak ya cihazın çalışma hızını artıracak ya da cihazın tek seferde daha fazla işlem yapmasını sağlayacaktır.\\n\\n&eMoleküler Derleyici&f'ye takıldığında, 5 karttan oluşan tam bir set, MD'nin bir işi yerine getirmesi için geçen süreyi bir saniyeden (kartsız) bir &otik&r'e düşürür."]
-	quest.1FD60B7448CED1EB.quest_desc: ["Bu &b&lMacaw&r Modu yeni Çit, Çit Kapısı ve Duvar çeşitleri ekler. \\n\\nEvet, dikenli teller canını yakacak. \\n\\nHayır, hiçbirinin üzerinden normal olarak atlayamazsın."]
-	quest.1FDC8725105D822A.quest_desc: ["Mutfakta Yiyecekleri tutabilen, koruyabilen ve Pişirebilen birçok Blok bulunur! \\n\\nYiyecek pişiren veya hazırlayan Blokların çoğu Enerjiye ihtiyaç duyar, bu nedenle daha fazla bilgi edinmek için Elektrik Takımına göz at!"]
-	quest.1FDC8725105D822A.title: "Mutfak Takımı"
 	quest.1FE052F643401232.quest_desc: ["Sırt Çantası Yükseltmeleri yapmak için bunlara ihtiyacın olacak."]
 	quest.1FE052F643401232.quest_subtitle: "Yükseltmeler için Temel"
 	quest.1FE17B1C7C639F88.quest_desc: ["Depo Denetleyicisi, birden fazla depoyla tek bir büyük depolama çok bloğuymuş gibi çalışmana olanak tanır.\\n\\nBu, Depo Denetleyicisi kendisine bağlı tüm depolar için bir giriş/çıkış noktası görevi gördüğünden, Applied Energistics veya Integrated Dynamics gibi modlarla birleştirilebilen çok büyük depolama ağına olanak tanır.\\n\\nHer iki bağlantıyı da Depo Denetleyicisinin yanına veya zaten Depo Denetleyicisine bağlı olan diğerlerinin yanına depolar koyarak yapabilirsin (bu, denetleyiciden her yönde 14 blok uzaklığa kadar çalışır)."]
@@ -386,7 +306,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_1.png width:100 height:100 align:center}"
 	]
 	quest.201EE3566D4D3123.title: "&6Allthemodium Külçesi"
-	quest.203C91B992BA8CF9.quest_desc: ["&6&lATM Yıldızı&r'nı yeniden yapmak için Infused &dPatrick &aStar&r'a ihtiyacımız var. Bu da &dPatrick &aYıldızı&r'na ihtiyaç duyar. Her ikisi de &6&lRunic Star Altar&r aracılığıyla yapılır. \\n\\nInfused &dPatrick &aStar&r yapmak için gereken diğer eşyalar &5&lRunic Enchanting&r ile elde edilen 4 &5Onarım Kitabı&r ve &dAşılama Yapılmış Ejderha Nefesi&r'dir. \\n\\nArılarımızdan elde edeceğimiz &6Yıldız Parça&r'ları! \\n\\nVe Alaşım Külçeleri: &3Vibranium&f-&6AllTheModium&r, &5Unobtainium&f-&6AllTheModium&r ve &5Unobtainium&f-&3Vibranium&r Külçeleri. \\n\\nHer 3'ü de &6&lAllTheModium&r bölümünde açıklanan kendine has yöntemlerle üretilmiştir! \\n\\nTüm bunları &6&lRunic Star Altar&r'a fırlatıp 85MFE ekle. Sonrasında Infused &dPatrick &aStar&r'larımızı elde edeceğiz!"]
 	quest.2077D64428E9C067.quest_desc: [
 		"AE2'deki önemli bir kavram, '&ealt ağlara bölme (subnetting)&f' olarak bilinen bir tekniktir; burada ekstra ayrı bir ME ağı (bir &ealt ağ&f), bazı özel işlevleri veya işlemleri gerçekleştirmek için ana ağ ile birlikte hareket eder. "
 		""
@@ -396,11 +315,9 @@
 	]
 	quest.2077D64428E9C067.quest_subtitle: "Bu, kablo yapımı dışında da kullanıma sahiptir."
 	quest.2077D64428E9C067.title: "Bahsetmeyi Unuttum"
-	quest.2094D1CE4BA66091.quest_desc: ["Işık her Üssün çok önemli bir parçasıdır. \\n\\nCanavarların ortaya çıkmasını engeller, görmene yardımcı olur ve hatta Yapılarına daha fazla Renk ve canlılık katar! \\n\\nYa da sadece Gece Görüşü kullanabilirsin ama bunun eğlencesi nerede!"]
 	quest.211FD55DEB635A98.title: "&6Bakır&r"
 	quest.215C9C2B2240FAA1.quest_desc: ["&e&lIron's Spells&r &5Elektrik Zırhı&r!"]
 	quest.215C9C2B2240FAA1.title: "&5Electromancer Kıyafetleri"
-	quest.216DA9782EBDFF34.quest_desc: ["Bu Modun gerçekçi olmadığını düşünüyorum. Hangi Kitaplara veya Eşyalara sahip olduğun umurumda değil. Demonic'in her emrini yerine getireceğini ve senin için bir köle olarak çalışacağını sanmıyorum. \\n\\nYine de bunu yapmak için Görevleri takip edebilirsin."]
 	quest.217DF3B66A07A8DE.quest_subtitle: "&oCennet Bahçesi tek bir Tohumun içinde."
 	quest.217DF3B66A07A8DE.title: "&3&lBoyutsal &2Tohum"
 	quest.2188C52C1F384DE4.quest_subtitle: "&oHiç tükenmeyen yakıt (pek sayılmaz)."
@@ -411,33 +328,22 @@
 	quest.219AA017149C36E2.quest_subtitle: "Artık Sinir Bozucu Tüccarlar Yok!"
 	quest.21BEE9867796933A.quest_desc: ["Bu çok basit. &9Mitten&r'larını tak, biraz &fKar&r al, birbirine karıştır ve Buum bir &fKar Topu&r yaptın! Bunlar &2Vanilla&r &fKar Top&r'larından daha iyi, çünkü bunlar &9Mitten&r'lar ile yapıldı!"]
 	quest.21BEE9867796933A.quest_subtitle: "Taygalar veya Karlı Taygalar'daki Köylerde Bulunur"
-	quest.21D323D95F5A7DB3.quest_desc: ["Diğer elinde Çubuk ve ana elinde &7Güçleniş Parşomeni&r tut ve Sağ Tık'a basılı tut."]
-	quest.21D323D95F5A7DB3.title: "Güçlü Çubuk"
 	quest.2215FB0777D7029D.quest_desc: ["Çiviler, Kramponlar, Kramponlar her neyse! \\n\\n&7Steadfast Boots&r, seni ayaklarının üzerinde sabit tutar. Saldırılardan etkilenmezsin ve artık buzda kaymazsın."]
 	quest.221C9EDA651144BA.quest_desc: ["Ne &9Suyu&r? \\n\\n&3Charm of Sinking&r ile &9Su&r içinde, sanki Havaymış gibi hareket edersin! Yine de suyun altında nefes alamazsın..."]
 	quest.221C9EDA651144BA.quest_subtitle: "Kolye"
-	quest.222D08F43B995FED.quest_subtitle: "Dene ve bunu bükmeye çalış"
 	quest.226B8B60AF864FEF.quest_desc: [
 		"&6Allthemodium&r'u &3Vibranium&r'a yükseltmek için başka bir Demirci Şablonuna ihtiyacın olacak. \\nBunu Şüpheli Ruh Kumunu Fırçalayarak bulabilirsin. \\n\\nBu da &l&cNether&r'daki Bastion'larda bulunur.\\n"
 		"{image:atm:textures/questpics/allthemodium/all_bastion.png width:200 height:100 align:center}"
 		"{image:atm:textures/questpics/allthemodium/all_soul.png width:200 height:100 align:center}"
 	]
 	quest.226B8B60AF864FEF.title: "&3Vibranium Demirci Şablonu&r"
-	quest.22A0A9C81A5C85A1.quest_subtitle: "Her şeyi bir arada tutmak"
 	quest.22C4318523A43B49.quest_desc: ["&eTerminaller&f bir ME ağının herhangi bir içeriğine erişim sağlar. Standart &eME Terminali&f ağdaki her şeyi, tek bir envantere benzer şekilde, içinden çekilebilecek ve içine eklenebilecek büyük bir ızgara olarak listeler.\\n\\n&eME Üretim Terminali&f, ME Terminalinin bir uzantısıdır ve ağda bulunan ve terminal ekranından görülebilen herhangi bir eşyayı kullanarak kolay üretime olanak tanıyan yerleşik bir üretim ızgarası da sağlar."]
 	quest.22C4318523A43B49.quest_subtitle: "[Linux kullanıcı şakası buraya uyar]"
 	quest.22C4318523A43B49.title: "Terminaller"
-	quest.22D2CFDDB06C720C.quest_desc: ["Aletler &2&lMinecraft&r'da çok önemlidir, ancak envanter alanı da öyle. Öyleyse neden bir Kaltek yaparak biraz yer açmıyorsun! \\nKaltek, Kazma (Ka), Balta (lt) ve Kürek (ek) kelimelerinin birleşimidir. \\n\\nOdun soyabilir, yol yapabilir ve aynı kazma/balta/kürek kademesinin yapabildiği her türlü bloğu kazabilirler!"]
-	quest.22D2CFDDB06C720C.title: "Kaltek"
-	quest.22E007025C19EC0A.quest_desc: ["&l&7Railcraft&r, Trenlerin yanı sıra Dekorasyon için bazı Taşlar da ekliyor! \\n\\nCilalı, Yontulmuş veya Tuğla versiyonlarını yapmak için Quarried ve Uçurum Taşı birlikte üretilebilir! \\n\\nAyrıca Merdivenleri ve Basamakları da unutma! "]
-	quest.22E007025C19EC0A.title: "&l&7Railcraft&r Taşları"
-	quest.23254CE8487D2E68.quest_desc: ["&8Wither Builder&r, &lIndustrial Foregoing&r'den elde edebileceğin en harika Makinelerden biri ve bu nedenle yapımı pahalıdır. \\n\\nÖncelikle &8Wither&r'ı yapan eşyalara ve &8Wither&r'ın düşürdüğü bir eşyaya ihtiyacın olacak. \\n\\nDaha sonra, &6Supreme Machine Frame&r'e ihtiyacın olacak ve bunu yapmak için de &bEther Gas&r'a ihtiyacın olacak. Bil bakalım &bEther Gas&r için neye ihtiyacın var? Bu doğru! Bir &8Wither&r! Bunu elde etmek için &8Wither&r üzerinde çalışan Laser Drill'e ihtiyacın olacak. \\n\\n&8Wither&r'lar bir şeyleri bırakıp öldürmeyi sever. Bu yüzden bir Statis Chamber onları sağmayı kolaylaştıracak! "]
 	quest.234DC1702333EB18.quest_desc: ["&dAEInfinityBooster&f eklentisi, isteğe bağlı boyutlar arası destek ile sonsuz bağlantı menzili sağlayan iki adet siparişe özel kablosuz güçlendirici sağlar."]
 	quest.234DC1702333EB18.quest_subtitle: "Oyuncak Hikayesi repliğini yazmıyorum."
 	quest.234DC1702333EB18.title: "Sonsuz Artırıcı"
-	quest.23631A4A743D4F0C.quest_desc: ["Bu konuda şikayet etmeyin bile. \\n\\nDemir elde etmenin onlarca yolu vardır ve sadece normal ilerleme için bile gereklidir. \\n\\nDemir elde edeceksin, onu bir Blok haline getireceksin ve güzelleştireceksin!"]
-	quest.23631A4A743D4F0C.title: "&l&bChipped&r Metalleri"
-	quest.23AE395433AED3C0.quest_desc: ["&6&lATM Star&r farklı Eşyaları bir arada tutmak ve yıldız şeklini oluşturmak için birkaç Bloğa ihtiyaç duyar! \\n\\nİlk Bloklar &5Unobtainium&r-&6AllTheModium&r &5Alaşımı&r &6Bloğu&r. Bunları yapmak için &d&lArs Nouveau&r'dan Büyüleme Aparatını kullanman gerekiyor! Tam olarak 28 tane yapmak için. \\n\\n17 X3 Nether Yıldızı Bloğu için 12,393 Nether Yıldızı'na ihtiyacın olacak. (Lütfen sana yalvarıyorum &l&bHNN&r kullan ama 12,393 tane Wither'ı ortaya çıkarıp öldürme, lütfen!)"]
+	quest.23AE395433AED3C0.quest_desc: ["&6&lATM Star&r farklı Eşyaları bir arada tutmak ve yıldız şeklini oluşturmak için birkaç Bloğa ihtiyaç duyar! \\n\\nİlk Bloklar &5Unobtainium&r-&6AllTheModium&r &5Alaşımı&r &6Bloğu&r. Bunları yapmak için &d&lArs Nouveau&r'dan Büyüleme Aparatını kullanman gerekiyor! Tam olarak 28 tane yapmak için. "]
 	quest.23AE395433AED3C0.title: "&6&lYıldız'ın&r Gövdesi"
 	quest.243008D4DCD789D0.quest_subtitle: "Orman Tapınakları"
 	quest.243008D4DCD789D0.title: "Yabani Zırh Süslemesi"
@@ -459,16 +365,12 @@
 	quest.2607F3DC07049785.quest_subtitle: "Kafa"
 	quest.260C7F3C1F51221D.quest_desc: ["&e&lIron's Spells&r &aÇağırma Zırhı&r!"]
 	quest.260C7F3C1F51221D.title: "&aArchevoker Kıyafetleri"
-	quest.262036FE8E87F50A.quest_subtitle: "3x3 Madencilik"
-	quest.266127E7947CB3D4.quest_desc: ["Bu Görev Sayfasında gördüğün tüm güzel Yapılar ATM Discord'daki insanlardan geliyor! \\n\\nMerak etme, hepsi Yapılarının paylaşılmasına izin verdi ve hepsine atıfta bulunuldu! \\n\\nYapılarını paylaşmak istersen, Discord'daki artwork-builds-showoff Kanalına göz at! \\n\\n(Tüm Yapıların ATM10'da yapıldığını garanti edemem, sadece diğer Minecraft Oyuncuları tarafından yapıldığını garanti edebilirim. Aynı şekilde bazıları Gölgelendiriciler kullanabilir, bu nedenle Yapılarınız tam olarak aynı değilse nedeni bu olabilir!)"]
 	quest.2664388EBA1E8F90.quest_subtitle: "&f8 &cSaldırı Hasarı"
 	quest.268F6E67AA79A7BD.quest_subtitle: "&f69 &cSaldırı Hasarı"
 	quest.26988E22BD019628.quest_desc: ["Sırt Çantasındaki eşyaları oto-erit."]
 	quest.26988E22BD019628.quest_subtitle: "Otomatik"
 	quest.26988E22BD019628.title: "&eOto-maden ateşleme Yükseltmesi"
 	quest.26A9F402DAE15EA2.quest_desc: ["Sırt Çantasına Duman Fırını GUI'si ekler."]
-	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r, çok yararlı birkaç Eşya ekleyen bir Moddur. \\n\\nHepsi tabii ki yapı yapımı için! \\n\\nHer biri çalışmak için &cEnerji&r gerektirir ve varsayılan olarak &lG&r ile açılan Menüye sahiptir."]
-	quest.26FADB78B04F592B.title: "&l&aYapı Aletleri&r"
 	quest.275D97BF0CE9DCD4.quest_subtitle: "Kademe: &b3"
 	quest.2786D5AC19163524.quest_desc: ["Bu blok mutfağındaki tariflerin, çoklu blokta eritilmesini mümkün kılar!"]
 	quest.2786D5AC19163524.quest_subtitle: "Zamanlayıcıya Gerek Yok"
@@ -490,8 +392,6 @@
 	quest.28C9EDBF6607E180.title: "DILIMLENMIŞ EKMEKTEN BU YANA EN IYI ŞEY"
 	quest.28E60192912BEBAD.quest_desc: ["&l&2Vanilla&r'da Köylülerle uğraşmak gerçekten sinir bozucu olabiliyor. Ticaret yapmak hiç de kolay değil ve mesleklerle uğraşmak bazen zor olabilir.\\n\\n&l&2Easy Villagers&r tüm bunlarla başa çıkmayı çok daha kolay hale getirecek bir mod! Yeni başlayanlar için, bir köylüye eğilip sağ tıklayarak onu alabilirsin. Daha sonra kolayca dünyaya veya &l&2Easy Villager&r modundaki belirli bloklara yerleştirebilirsin!\\n\\nModun sunduğu blokları görmek için JEI'de &d@EasyVillagers&r yazarak arama yapabilirsin!"]
 	quest.28E60192912BEBAD.quest_subtitle: "Köylüler, artık daha da kolaylaştırıldı"
-	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r Blokların tasarımlarını değiştirdiği için Chisel Modlarına benzer, ancak &b&lChipped&r'ın bunu yapmak için kendi yolu vardır! \\n\\n&b&lChipped&r bunun yerine Blokları değiştirmek için gitmen gereken İstasyonları kullanır. \\n\\nHer biri farklı Blokları değiştiren 7 farklı İstasyon vardır: Carpenters Table Ahşap'ları değiştirir, Glassblower Cam'ları değiştirir.  \\n\\nVe bu İstasyonlardan 6 tanesi daha kolay erişim için elde taşınabilen bir Eşyaya dönüştürülebilir. \\n\\nHatta onlar için Sırt Çantası Yükseltmeleri bile var!"]
-	quest.29131C3532610ADF.quest_desc: ["Bu, Starlight Charger için Tier 2 Sütun Başlığıdır."]
 	quest.29448D08C8777425.quest_desc: ["Bu gece Balıklara birlikte uyuyor olacak. \\n\\n&cAngler Hat&r, Balıkları Yemlemene yardımcı olur ve Nadir Eşya elde etme şansını artırır!"]
 	quest.29448D08C8777425.quest_subtitle: "Kafa"
 	quest.299F56B753286D0C.quest_subtitle: "Kademe: &e5"
@@ -504,11 +404,7 @@
 	quest.2B08B19B35EEBCBA.quest_desc: ["Bu Relic'ler, &cNether&r'da bulunabilir!"]
 	quest.2B08B19B35EEBCBA.title: "&cNether"
 	quest.2B31E6C1707D8195.quest_desc: ["Kablosuz ağ erişimine izin vermek için yapılacak bir sonraki şey &bME Kablosuz Erişim Noktası&f'dır. Erişim Noktası, ağı bir &ekablosuz terminal&f aracılığıyla kablosuz erişime açmak için kullanılır ve erişim noktasına kaç tane &ekablosuz güçlendirici&f takıldığına bağlı olarak belirli (sınırlı) bir menzile sahiptir."]
-	quest.2B4801CD3E90BD40.quest_desc: ["&l&3Handcrafted&r dekorasyon anlamında her şey demek. \\n\\nYatak Odaları için Yataklar (içinde uyuyabilecek kadar iyi görünen ve ben seçici bir uykucuyum!) ve Komodinleri var. \\n\\nOturma Odası için Sandalye ve Masalar var. \\n\\nMutfak için Fırın, Tabaklar ve Kâseler var. \\n\\nHatta gösteriş için heykeller bile var!"]
-	quest.2B864D741F7C7549.quest_desc: ["&lProductive Trees&r tamamen Ağaçlar ve daha fazla Ağaç yapmak için Ağaçları Yetiştirmekle ilgilidir. \\n\\nBu yüzden &2&lMinecraft&r'a daha fazla Ağaç türü getirdiğini tahmin edebilirsin! \\n\\nHatta bazı özel Ahşaplar bile!"]
 	quest.2B9AF0D6ED8BA628.quest_subtitle: "&f6 &cSaldırı Hasarı"
-	quest.2BA0E5D48E234FE9.quest_desc: ["&d&lArs Nouveau&r'nun büyülü dünyası bize Magelight'ı getiriyor! Saf büyünün Işık Kaynakları! \\n\\nBüyüler kullanılarak normal bir şekilde yerleştirilebilirler ya da onun yerine Büyülü Fener üretip yerleştirebilirsin."]
-	quest.2BA0E5D48E234FE9.title: "&d&lArs Nouveau&r Işıkları"
 	quest.2BD077EFE77B8EBB.quest_desc: ["Zombilerin diğer Biyomlarda ortaya çıkan farklı çeşitleri vardır. \\n\\nZombi Kurusu- Çöllerde ortaya çıkar. \\nBoğuk- Su altında ortaya çıkar. \\nGelid- Soğuk Biyomlarda ortaya çıkar. \\nThicket'lar- Ormanlarda ortaya çıkar."]
 	quest.2BD077EFE77B8EBB.title: "Zombi Çeşitleri"
 	quest.2C04B3BA507D5673.quest_desc: ["&bŞablonlar&f, Şablon Sağlayıcı tarafından gerçekleştirilmek üzere kodlanmış tarifi tutan şeydir. Bir tarifi Şablona kodlamak için &bME Şablon Kodlama Terminali&f kullanılmalıdır.\\n\\nŞablonlar, Sağlayıcısının karşısında bir &eMoleküler Derleyici&f kullanılmasını gerektiren normal bir &eüretim&f tarifini veya herhangi bir girdi eşyasının sağlayıcı tarafından başka bir makine bloğuna veya özel üretim tesisine gönderilebileceği daha genel bir '&eişleme&f' tarifini tutacak şekilde ayarlanabilir."]
@@ -519,8 +415,6 @@
 	quest.2CCAA7C0FEDEB573.title: "Rüzgar Gücü"
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3Vibranium&r'un, &5Unobtainium&r ile birleşmiş hâli!"]
 	quest.2CF6EA138B53CE1B.title: "&5Unobtainium&r - &3Vibranium&r Alaşımı Külçesi"
-	quest.2D08BCF993B241B8.quest_desc: ["&8&lReplika&r elde etmek için etkinleştirmen gereken İkinci Parşomen, &7Bağışıklık Değişimi Parşomeni&r'dir. \\n\\nBunu elde etmek için Bağışıklık Değişimi Ritüeline ihtiyacın olacak; bunun için 1 &3Tozlaşmış Göz&r ve 2 &aTozlaşmış Zümrüt&r gerekir."]
-	quest.2D08BCF993B241B8.title: "&7Bağışıklık Değişimi Parşomeni"
 	quest.2D64EF8D803AF9DA.quest_desc: ["Yapabileceğimiz en pahalı Portal. İlk olarak &dEjderha Yumurtaları&r için &dEjderha&r'yı sürekli öldürmek zorunda değilsin. Onları elde etmek için &l&bHNN&r veya &l&2MA&r kullanabilir veya daha fazlasını yapmak için bir Extractor kullanabilirsin! \\n\\nSonra, Büyü Masası'ndan &dAşılama Yapılmış Ejderha Nefesi&r'ne ihtiyacın olacak. \\n\\nOrada onu büyülemek ve Portal'ı yapmak için &9Ruh Dokunuşlu Sculk Kitaplıklarına&r ihtiyacın olacak. \\n\\nPortal'ın neden çalışmadığını merak ediyorsan, bunun nedeni zaten &2&lAna Dünya&r'da olmandır! Şaka yapıyorum, kullanamazsın!"]
 	quest.2D8026E10FBA7A72.quest_desc: ["Çok hızlı bir kazma."]
 	quest.2D8026E10FBA7A72.title: "&6Allthemodium &5Alaşımı &3Kazma"
@@ -528,8 +422,6 @@
 	quest.2E9C035EEE7E5C34.quest_desc: ["Klasik Kayış. Hayvanları çiftlik alanına götürmek için bunu kullan.\\n\\nBu cevherle aynı şey değildir."]
 	quest.2E9C035EEE7E5C34.quest_subtitle: "İyi yolculuklar küçük Köpekçik"
 	quest.2E9C035EEE7E5C34.title: "Bunu Eski Usul yapıyoruz"
-	quest.2EB96FF06627FD9A.quest_desc: ["Salvager, ekipmanları ait oldukları eşyalara dönüştürmene olanak tanır.\\n\\nÖrneğin: Eğer birkaç Elmas Çizme koyarsan 4 Elmas geri alırsın."]
-	quest.2EB96FF06627FD9A.quest_subtitle: "(Bazı) Eşyaları parçalara ayırmak!"
 	quest.2EC9668ED4EA47CB.quest_desc: ["Bu görev sadece bir Elmas alet veya zırh parçası yapmanı gerektiriyor, ancak tam bir takım almak muhtemelen iyi olacaktır!\\n\\nElmas aletler yüksek dayanıklılığa sahiptir ve zırhlar genel olarak mükemmel koruma sağlar.\\n\\nOyunda daha iyi aletler ve zırhlar yapmak için temel olarak Elmas malzemeye ihtiyacın olacak!"]
 	quest.2EC9668ED4EA47CB.title: "&9Ekipmanları Kuşan"
 	quest.2EDE91023F7924FB.quest_desc: ["Işınlanma Pedi'ni &d&lEnd&r'e yerleştirerek &5&lÖtesi&r'ne git."]
@@ -545,8 +437,6 @@
 		"Bir ME Ağı herhangi bir zamanda yalnızca bir çok bloklu kontrolcü içerebilir. Ağın ayrı bölümlerine birden fazla kontrolcü bağlamaya çalışmak bir çakışmaya neden olacak ve tüm ağı kapatacaktır."
 	]
 	quest.2F556E7919582D2D.quest_desc: ["&bHücre Çalışma Tezgahı&f, hücrelerin belirli eşyaları tutacak şekilde 'bölümlendirilmesine', yani bir beyaz liste filtresi verilmesine olanak tanır. Ayrıca hücrenin, yukarıda bahsedilen beyaz listeyi kara liste olarak ayarlayan Çevirici Kartı gibi belirli yükseltme kartlarıyla yükseltilmesine de izin verir.\\n\\nHücrelere ayrıca tezgah aracılığıyla daha yüksek veya daha düşük bir 'öncelik' verilebilir, yani hücrenin dolana kadar belirli eşyaları ilk alan olmasına izin verilebilir veya daha yüksek öncelikli diğer hücrelerin önce dolmasını beklemesi sağlanabilir."]
-	quest.2F76D074AEA84A4D.quest_desc: ["&bModel Çerçevesi&r'yle &dEnder Ejderhası&r'na Sağ Tıklayarak, &dEnder Ejderhası &bVeri Modeli&r yapabilirsin. \\n\\nGörev herhangi bir versiyonuna ihtiyaç duyar. Ancak &d&lEjderha Ruhu&r için, &6Özünün Farkında&r olan &bVeri Modeli&r'ne ihtiyacın var. \\n\\nOnu &6Özünün Farkında&r haline getirmek için &dEjderha&r'yı öldürmeye devam etmen veya bir ton Öngörü yapman gerekir!"]
-	quest.2F76D074AEA84A4D.title: "&dEnder Ejderhası &bVeri Modeli"
 	quest.2F9B0C642A6BE30C.title: "&fDemir Sırt Çantası"
 	quest.2FB231069D2E4E77.quest_desc: ["Her bir hücre, hücrenin üretildiği &ebileşen&f tarafından belirlenen bir kapasiteye sahiptir.\\n\\nBileşenlerden ilki &b1k ME Depolama Bileşeni&f olup, belirli bir hücre için &e1024&f 'bayt' depolama alanı sağlar. Daha fazlası sonra."]
 	quest.2FB231069D2E4E77.quest_subtitle: "İlk kilobayt."
@@ -554,15 +444,11 @@
 	quest.2FC15D3916DBF4E4.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
 	quest.2FC15D3916DBF4E4.title: "&eGelişmiş Geçersiz Kılma Yükseltmesi"
 	quest.30B0240543253EFB.quest_desc: ["Pylons, kendi &aMutant Gumdrop&r'umuz tarafından yapılmış harika bir moddur!\\n\\nModun boyutunun onu hafife almana neden olmasına izin verme! Minecraft oynamayı kolaylaştırmaya yardımcı olmak için birçok şey için kullanılabilecek birçok Pylon'lar sağlar.\\n\\nBunları yapmaya başlamak için biraz Cilalı Kara Taşa ihtiyacın olacak."]
-	quest.30B3BC91460C9B19.quest_desc: ["&bMacaw Sketch&r çok popüler bir Mod Geliştiricisidir. Dekor Modları ile tanınır. \\nPencerelerden, Yollara ve Çekmecelere kadar Hemen hemen her şeyi yapıyor. \\n\\nHepsini üretebilir misin?"]
-	quest.30B3BC91460C9B19.title: "&bMacaw's Modları"
 	quest.30E853CE699E669B.quest_desc: ["Bir otomatik üretim işini gerçekleştirmeden önce, çok adımlı üretimler için ara eşyalarla birlikte talebin kendisini depolayacak bir cihaza ihtiyacın vardır. Bu aygıt &eüretim CPU'su&f olarak bilinir.\\n\\nÜretim CPU'su, isteğe bağlı olarak diğer Üretim Birimleriyle birlikte en az bir &bÜretim Depolaması&f bloğu gerektiren çok bloklu bir yapıdır. Çoklu blok herhangi bir boyutta yapılabilir, ancak uygun şekilde biçimlendirilmesi ve işlev görmesi için katı bir dikdörtgen prizma olmalıdır."]
 	quest.30E853CE699E669B.quest_subtitle: "Daha fazla RAM indir"
 	quest.30EB438C66324213.quest_desc: ["Nether Yıldızı, Prizmarin Parçacıklarının yaptığını yapacak ama çok daha iyisini. Oyuncuların artık canavar çağırıcının yakınında olmasına gerek yok. Yığın yüklü olduğu sürece yaratıklar ortaya çıkacaktır."]
 	quest.30EB438C66324213.title: "Oyuncuları Yoksay"
 	quest.310969B8FE0A94DE.quest_desc: ["Apotheosis'in oyuna getirdiği bir diğer değişiklik de Canavar Çağırıcılar. İpeksi Dokunuş ile Canavar Çağırıcıları kırabildiğini hatırlıyor musun? Apotheosis sayesinde bu özellik geri geldi! Ayrıca, bu eşyalardan herhangi biriyle Canavar Çağırıcılara sağ tıklayarak ekleyebileceğin birçok yeni Modifikasyonlar var."]
-	quest.313F5AFF459201EB.quest_desc: ["&l&5Eternal Starlight&r keşfedilecek yepyeni bir boyut! \\n\\nVe &2&lMinecraft&r'da sürekli Yapı arayanlar için, içinde bir sürü yeni Taş bulabilirsiniz! \\n\\nBoyuta ulaşmak için Portalını bulman gerekecek!"]
-	quest.313F5AFF459201EB.title: "&l&5Eternal Starlight&r Taşları"
 	quest.3195A7AA874163CD.quest_desc: ["&bEşit Dağıtım Kartı&f, depolama hücreleri için herhangi bir tür tarafından alınabilecek belirli miktarda eşyayı önceden tahsis eden bir yükseltmedir.\\n\\nBu davranış Functional Storage çekmecesi gibi bir şeye benzemektedir; burada bir bölmedeki eşyaların diğerlerine sızmasına ve diğer eşya türlerinin dışarıda kalmasına izin vermek yerine her bölme belirli sayıda istif tutmaktadır."]
 	quest.3195A7AA874163CD.quest_subtitle: "ME Depolama &mHücreleri&r Çekmeceleri"
 	quest.321F16645640C462.quest_desc: ["Ender İnciler seyahat etmenin eğlenceli bir yolu! (Bumblezone için faydalı, acaba bu Mod için bir Görev bölümü elde edecek miyiz?) Ama Ender İncisini kullandıktan sonra tükenmesinden ve her kullanımda 2 Kalp hasar vermesinden sende rahatsız olmuyor musun? \\n\\n&9Warp Drive&r ile tüm bunlar ortadan kalkıyor ve Ender İncileri açıkça en iyi ulaşım aracı haline geliyor! Açlık, Ender İncileri yerine tüketilir ve artık Ender İncisi kullanıldığında hasar alınmaz. Tüm Açlık Çubukları tükendiğinde, Ender İncisi tüketmeye devam edecek."]
@@ -578,17 +464,12 @@
 	quest.338BD467EBE6EE1F.title: "Nöbetçi Zırh Süslemesi"
 	quest.33AADC1B97E9F7A9.quest_desc: ["Sandıklı Vagonlar, içinde Sandık bulunan Vagonlardır. Bunları süremezsin ancak eşyaları Raylı sistemler arasında taşımak için faydalı olabilirler."]
 	quest.33ADE41526C39AFD.quest_desc: ["Bu davranış Functional Storage çekmecesi gibi bir şeye benzemektedir; burada bir bölmedeki eşyaların diğerlerine sızmasına ve diğer eşya türlerinin dışarıda kalmasına izin vermek yerine her bölme belirli sayıda istif tutmaktadır."]
-	quest.340CDF4357E22A43.quest_desc: ["Iron bizi çok eğlenceli Keşif ve Büyü Modu ile ödüllendirdi! Büyü ile ve Büyü için savaşmak! Hiçbir şey bundan daha havalı olamaz! \\n\\nBakmak istersen Görev Sayfası var."]
 	quest.3446803FB59D8875.quest_desc: ["Sana Dikenli özelliği verir. Zırhına değil, sana! Kirpi balığı gibi!"]
 	quest.3446803FB59D8875.quest_subtitle: "Kolye"
 	quest.346860B8EBC4C28C.quest_desc: ["Şimdi bu kadar lavın olduğuna göre onunla ne yapacaksın? Daha fazla oyun başlarında kullanılabileceğin güç! "]
 	quest.346860B8EBC4C28C.title: "Lav Gücü"
-	quest.3497C2E05DF5A87C.quest_desc: ["&cRedstone&r, &9Lapis&r, Kuvars, &5Ametist&r, &aZümrüt&r ve &bElmaslar&r hepsi Değerli Taşlardır. \\n\\nBu yüzden elbette onları Bloklara dönüştürüyoruz, tam olarak belirtmek gerekirse çok güzel değerli Bloklara!"]
-	quest.3497C2E05DF5A87C.title: "&l&bChipped&r Değerli Taş Blokları"
 	quest.34CD54347E9821B5.quest_desc: ["İlk Veri Modelini oluşturduktan sonra, kullanışlı olması için seviyesini yükseltmen gerekecektir.\\n\\nVeri Modelleri ilk şu kademede başlar: &7Kusurlu&r. Üzerinde bazı simülasyonlar çalıştırmak istiyorsan en azından &aBasit&r seviyesine yükseltmen gerekir!\\n\\nDerin Öğrenicinin içine yerleştirildikten sonra, HUD sana seviye atlamak için kaç öldürme gerektiğini söyleyecektir. Bu bilgiyi Modelin alet ipucunda da görebilirsin."]
 	quest.34CD54347E9821B5.title: "Veri Modellerinin Seviyesinin Yükseltilmesi"
-	quest.34DACB973CBDE129.quest_desc: ["Gücü Kullan! \\n\\nBu da bir başka eğlenceli &a&lAsa&r. Varlıkları fırlatmak için kullanabilirsin! Kendin de dahil! \\n\\nFırlatılmasını istediğin şeye Sağ Tıklamayı basılı tut. Eğer fırlatılmasını istediğin şey kendinse yere nişan al. Ardından, Fareni fırlatmanın gerçekleşmesini istediğin yöne doğru hareket ettir! \\n\\nNe kadar uzun süre tutarsan o kadar güçlü fırlatırsın! Bir süre sonra en yüksek seviyesine ulaşacak ve ne olursa olsun fırlatacaktır."]
-	quest.34DACB973CBDE129.title: "&a&lUzaysal Yönelim Bozukluğu"
 	quest.351159C55159C316.quest_subtitle: "End Şehri ve End Gemileri"
 	quest.351159C55159C316.title: "Sarmal Zırh Süslemesi"
 	quest.3525D5DCC3A534D9.quest_desc: [
@@ -598,29 +479,6 @@
 		"2. Yumruklarının Taş Kazma gibi davranmasını sağlar! \\n\\nGenel olarak inşa etmek ve oynamak için süper yararlı!"
 	]
 	quest.3525D5DCC3A534D9.quest_subtitle: "Eller"
-	quest.35C46E6E27C9CB1A.quest_desc: ["10 &2Vanilla&r Kütüğü harikadır, ama sadece birkaç tasarımları var! \\n\\nTabii ki &l&bChipped&r, bu Kütükler için onlarca yeni tasarım ekleyerek katkıda bulundu!"]
-	quest.35C46E6E27C9CB1A.title: "&l&bChipped&r Kütükleri"
-	quest.360B150190A5C894.quest_desc: [
-		"Birçok Modlu oynayan Oyuncunun canını sıkan bir şey de &5Büyüleme&r'nin tamamen otomatikleştirilememesi! Ve hangi &5Büyü&r'yü istediğini seçemezsin. İstediğini elde edebilmek için Şanslı olman gerekir! \\n\\nMerak etme, bu iki dileğin de &5&lRunic Enchanter&r ile gerçekleşti! \\n\\nBunu kullanmak için &5Büyü Masası&r'na dokunmamız gerekmeyecek. Sadece doğru Eşyaları, &dKaynak&r'ı ve &aXP Fluid&r'i içine aktar. \\n\\n&aXP Fluid&r, &8&lImmersive Engineering&r'deki Bottling Machine ile herhangi bir çeşit &aSıvı TP(Liquid XP)&r'yi şişeleyerek ve ardından &7&lExtended Industrialization&r'ın Canning Machine'i ile işleyerek elde edilir. \\n\\n&6&lATM Yıldızı&r'nı yeniden yapmak için &dAşılama Yapılmış Ejderha Nefesi&r ve &5Onarım Kitapları&r yapman gerekecek!"
-		"{@pagebreak}"
-		"(&bAçık Mavi Halı&r, &bRuh Dokunuşlu Derin Kitaplık&r"
-		"&5Mor Halı&r, &5Yankılanan Sculk Kitaplığı&r"
-		"&9Mavi Halı&r, &9Ruh Dokunuşlu Sculk Kitaplığı&r)"
-		"{image:atm:textures/questpics/chap3/creative_enchanter1.png width:100 height:100 align:center}"
-		"&5&lRunic Enchanter&r'ın tabanı &cMachine Casing&r'ler ve &cPart&r'lar ile dolu! Bunların etrafında &9Polished Darkstone&r'dan kare var. Ve onların etrafında da &9Polished Darkstone Stair&r'lar var!"
-		"{image:atm:textures/questpics/chap3/creative_enchanter2.png width:100 height:100 align:center}"
-		"Şimdi &cMachine Casing&r'lerin üzerine daha fazla &9Polished Darkstone&r, &9Stair&r'lar ve &9Slab&r'ler ekleyeceğiz. Merkezin içine biraz daha &9Stair&r'lar ve Rune Block'ları ekleyeceğiz."
-		"{image:atm:textures/questpics/chap3/creative_enchanter3.png width:100 height:100 align:center}"
-		"Tamam, işte zor kısım geliyor... resimdeki &aController&r'ın sol tarafta olduğunu unutma! Şimdi &5Büyü Masası&r'nı tam ortaya yerleştir. Etrafına da, orada gösterilen Halıların altına Kitaplıklarımızı yerleştir. Renk Kodunu görmek için bu sayfanın üst kısmına bak!"
-		"{image:atm:textures/questpics/chap3/creative_enchanter4.png width:100 height:100 align:center}"
-		"Daha fazla Kitaplık! Tekrardan &bRuh Dokunuşlu Derin Kitaplık&r, &5Yankılanan Sculk Kitaplığı&r, &9Ruh Dokunuşlu Sculk Kitaplığı&r."
-		"{image:atm:textures/questpics/chap3/creative_enchanter5.png width:100 height:100 align:center}"
-		"&5Büyü Masası&r'nın üzerindeki üçüncü blok, tatlı mı tatlı &7Quantum Injector&r'ümüz olacak!"
-		"{image:atm:textures/questpics/chap3/creative_enchanter6.png width:125 height:125 align:center}"
-		"Şimdi &5&lRunic Enchanter&r'ımızın üzerinde küçük yapılar yapmamız gerekecek. Bu sefer sadece 4 tane! Bir &6Büyülü Hazine'nin Derin Kitaplığı&r, üstüne ve altına &9Polished Darkstone Wall&r yerleştir. Bu Wall'ların üstüne ve altına Abanoz Çitler (&l&aBWG&r'den) yerleştir. Sonra en alttaki Çitin altına bir Ruh Feneri yerleştir. Bunlar &6Gilded Darkstone&r köşesinin üzerindeki 3 Blok (&aController&r'ın sağındaki hariç) ve &7Quantum Injector&r'ün üzerinde 2 Bloktur.  "
-		"{image:atm:textures/questpics/chap3/creative_enchanter7.png width:125 height:150 align:center}"
-		"Şimdi çok benzer yapılar yapacağız. Sadece Abanoz Çitleri, Lunar Fence'ler (&5&lEternal Starlight&r'dan) ile değiştiriyoruz. Bunlar &aController&r'ın sağındaki &6Gilded Darkstone&r'un 3 blok yukarısına ve ikinci katmandaki &6Gilded Darkstone&r'un 3 blok yukarısına yerleştirilir! İkinci katmanın üzerindekiler; Kitaplıklar yerine, Hatch'lerimizin yerleştirileceği yer olacak!"
-	]
 	quest.361CCBD353D6FF34.quest_desc: [
 		"1k Depolama Bileşeni ile artık dijital eşya depolama sistemini başlatmak için kendine 1k ME Öğe Depolama Hücresi üretebilirsin. Büyük olasılıkla deponun çoğunluğunun eşyalar için olmasını isteyeceksin, bu nedenle muhtemelen birkaç &bME Öğe Depolama Hücresi&f yapmak isteyeceksin. "
 		""
@@ -637,8 +495,6 @@
 	quest.361EF9E4973E3522.title: "&dShadow-Walker Kıyafetleri"
 	quest.3685B52446DEC809.title: "&eAltın&r"
 	quest.36A3ECD4F6CA2732.quest_subtitle: "&f8 &cSaldırı Hasarı"
-	quest.36ABE142039E712B.quest_desc: ["Bu normal sonsuz enerji deposu gibi çalışır. Sadece bu, sistemine bağlanabilir! Sisteminin yeterli güce sahip olup olmadığı konusunda asla endişelenmene gerek yok! Ve buna &5Kuantum Zırhı&r da dahildir.  \\n\\n4 &dSuperdense Cell&r'e ve bir &6&lATM Yıldızı&r'na ihtiyacın olacak. Her &dSuperdense Cell&r, 8 &dYoğun Enerji Hücre&r'sine ihtiyaç duyar. Her &dYoğun Enerji Hücresi&r'de, 8 &dEnerji Hücresi&r'ne ihtiyaç duyar. \\n\\n256 &dEnerji Hücresi&r... artı çok fazla enerji!"]
-	quest.36ABE142039E712B.title: "&5&lYaratıcı &dEnerji Hücresi"
 	quest.36BCE35215B2B6E9.quest_desc: ["Sırt Çantasındaki eşyaları oto-erit."]
 	quest.36BCE35215B2B6E9.quest_subtitle: "Otomatik"
 	quest.36BCE35215B2B6E9.title: "&eOto-tütsüleme Yükseltmesi"
@@ -649,11 +505,6 @@
 	quest.3705D303CF423804.quest_subtitle: "Eller"
 	quest.3708A4780ACEB34E.quest_desc: ["Bu mod paketinde görevler isteğe bağlıdır. Modlar herhangi bir görevi tamamlamanın ardında değildir!\\n\\nAna görev serisinin dışındaki birçok bireysel görev serisinin mod rehberleri olarak hizmet etmesi amaçlanmıştır. İlerlemeyi takip etmek istiyorsan, Ana Görev Serisine göz attığından emin ol!"]
 	quest.371A382CF1DDF2B2.quest_desc: ["&bKapasite Kartı&f, onunla yükseltilen bir veriyolunun daha büyük filtre taşımasını sağlar. Kapasite kartlarıyla yükseltilen İçe Aktarma ve Dışa Aktarma veriyolları, her biri yalnızca bir filtrelenmiş eşyayı desteklemekten, maksimum dokuz-yuvalı filtreye geçebilirken, Depolama veriyolları 18 yuvadan maksimum 63 yuvaya çıkacaktır."]
-	quest.3722B43822F80470.quest_desc: ["Kılıçtan daha fazla hasar verir ama daha yavaş."]
-	quest.3722B43822F80470.quest_subtitle: "İçindeki Samurayı Serbest Bırak"
-	quest.372B5BF416CA83A4.quest_desc: ["&5&lMekanism&r en popüler Makine ve Teknoloji Modlarından biri. Açıkçası, içinde çok fazla şey olduğu için özetlemekte zorlanıyorum! \\n\\nO kadar çok şey var ki, bunun için 2 Görev Sayfası bile yapmak zorunda kaldık! \\n\\n&6&lATM Yıldızı&r için ihtiyacımız olan şeyler Reaktörler sayfasında ama oraya ulaşmak için Mekanism sayfasına girmen gerekecek."]
-	quest.378105383747DD48.quest_desc: ["Şimdi, bu biraz karışık. \\n\\n&8&lReplika&r elde etmek için önce 100 Ruh, Hasar Takası ve Bağışıklık Değişimi hazır olsun. \\n\\nArdından, bir saldırıyı engellemek için Güçlendirilmiş Kalkanını tut, ardından &8&lReplika&r'yı elde edeceksin!"]
-	quest.378105383747DD48.title: "&8&lReplika"
 	quest.378BF828DC931F0C.quest_desc: ["Şahsen, üretim yapmak için bir bloğa koşmak zorunda kalmaktan nefret ediyorum. İşte burada &2Crafting Stick&r devreye giriyor!\\n\\nBu &aTaşınabilir Çalışma Masası&r olarak çalışır!\\n\\nİpucu: Bunu &aCurios&r yuvasına da koyabilir ve açmak için &bTuş Ataması&r ayarlayabilirsin!"]
 	quest.378BF828DC931F0C.title: "Üretim, ama Çubuk üzerinde"
 	quest.378C95C18798D413.quest_desc: ["Aletler arasında geçiş yapmanın hızlı bir yolu.\\n\\nKapasiteyi artırmak için örs içinde kemer çantaları ile yükselt."]
@@ -666,29 +517,19 @@
 		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
 	]
 	quest.37EBB8E0D6E5F821.title: "&9Hostile Neural Networks&r'e Hoşgeldin!"
-	quest.3889D0255074CE85.quest_desc: ["&bMacaw&r mobilyaların yeterli olmadığına, Macaw evinin &b&lMacaw Pencerelerinden&r gelen doğal ışıktan daha fazlasına sahip olması gerektiğine karar verdi. \\n\\nBöylece artık her türlü Işık Kaynağını ekleyen &b&lMacaw's Lights and Lamps&r'e sahibiz. \\n\\nLambalardan Fenerlere ve Avizelere!"]
-	quest.3907E68572324333.quest_desc: ["&4&lMorgan&r'u elde etmek için &e&lCaliburn&r'a ihtiyacın var. \\n\\n&e&lCaliburn&r'u elde etmek için &3Mahou Gölü&r'ne ihtiyacın var. \\n\\n&3Mahou Gölü&r'nü elde etmek için Güç Konsolidasyon Ritüeline ihtiyacın olacak. \\n\\nBu da diğer ritüeller gibi sadece 2 tozlaşmış elmas ve 1 tozlaşmış zümrüt ile yapılabilir. \\n\\nBilgine, bunu üssünün yakınında yapma. Ritüel &3Göl&r'ün ortasında olacak!"]
-	quest.3907E68572324333.title: "Güç Konsolidasyon Ritüeli"
 	quest.3917DECAEF56A06A.quest_desc: ["&fKademe 2&r, taş kazma seviyesidir. Neredeyse, sadece Demir eşyalar çıkarmak içindir."]
 	quest.3917DECAEF56A06A.title: "&fKırma Kademesi 2"
-	quest.392F34FD4FCC794A.quest_desc: ["Pahalı olsalar da oldukça şıktırlar!"]
-	quest.392F34FD4FCC794A.title: "&2&lMystical Agriculture&r Blokları"
-	quest.3930404D5C8B44EB.quest_desc: ["Bu, özel alaşımlar oluşturmak için kullanılır.\\n\\nAyrıca Tyrian Steel'i elde etmenin tek yolu da bu!"]
-	quest.3930404D5C8B44EB.quest_subtitle: "Malzemeleri Birleştirir"
 	quest.395668FBCB6537AF.quest_desc: ["Takas yapanlar için &eBastion Ring&r mükemmeldir. Bunu taktığında Piglinler tıpkı &eAltın&r taktığında olduğu gibi, sana karşı tarafsız olacaklardır. Ancak bu onların sandıklarını özgürce yağmalayabileceğin anlamına gelmez. Ayrıca &eRing&r sana Takastan daha fazla Ganimet elde etme şansı verecektir. \\n \\n(&eRing&r takarken Piglin'ler seni en yakın Bastion'a yönlendirebilir)."]
 	quest.395668FBCB6537AF.quest_subtitle: "Yıkık Geçitler, Nether Kaleleri ve Bastion'larda Bulunur"
 	quest.39796D8EE440F318.quest_subtitle: "Çöl Piramitleri"
 	quest.39796D8EE440F318.title: "Kumul Zırh Süslemesi"
 	quest.39B4F361EF611927.quest_subtitle: "&oÖlümün kendisi üzerindeki Güç."
 	quest.39B4F361EF611927.title: "&l&8Wither'ın Pusulası"
-	quest.39B85DB54B1037FE.quest_desc: ["Kılıçtan biraz daha hızlı, ama daha düşük hasar."]
-	quest.39B85DB54B1037FE.quest_subtitle: "Kalın Kılıç"
 	quest.3A1D07AED2A841E4.quest_desc: ["Sırt Çantasındaki eşyaları oto-erit."]
 	quest.3A1D07AED2A841E4.quest_subtitle: "Otomatik"
 	quest.3A1D07AED2A841E4.title: "&eOto-eritme Yükseltmesi"
 	quest.3ABE7074E500494D.quest_desc: ["&7Çelik&r, &5&lMekanism&r'deki çoğu Makine için kullanılır... Ayrıca Zırh'ı da güzeldir!"]
 	quest.3ABE7074E500494D.title: "&7Çelik Zırh"
-	quest.3AC03D1FA5C341A7.quest_desc: ["Recrystallizer; silah, alet ve zırh yapımında kullanmak üzere yeni kristaller yapmak için farklı kristalleri bir araya getirmeni sağlar."]
 	quest.3ADCAD65EA6900BA.quest_desc: ["&2Arkeoloji&r oyuncuların Kum ve Çakıl gibi &aŞüpheli&r blokların içindeki eşyaları bulmalarını sağlar.\\n\\nBu bloklar Sıcak Okyanus Harabeleri, Çöl Piramitleri, Çöl Kuyuları ve &eSınama Harabeleri&r gibi çeşitli yapılarda bulunabilir.\\n\\nŞüpheli bir bloktan bir eşyayı ortaya çıkarmak için bir &aFırça&r oluşturman ve eşyayı ortaya çıkarmak için bloğu fırçalaman gerekir."]
 	quest.3ADCAD65EA6900BA.title: "&2Arkeoloji&r!"
 	quest.3AE0198177A8E91B.quest_subtitle: "Gemi Enkazları ve Gömülü Hazineler"
@@ -699,11 +540,8 @@
 	quest.3B42CCC19D23EC6D.title: "4k Depolama Bileşeni"
 	quest.3B4BF42C55C8BBBF.quest_desc: ["Bir şey kırarken blokların uzanamayacağın bir yere düşmesinden hoşlanmıyor musun? \\n\\nArtık endişelenmene gerek yok çünkü &4Magnet&r'ler var! Etkinleştirmek için &4Magnet&r'i tutarken Sağ Tıklaman yeterli. Ardından, 5 Blok Yarıçapındaki tüm düşen Eşyalar ve Bloklar sana gelecektir. \\n\\nAyrıca &4Magnet&r'i kullanmaya devam etmek için Curios'a da takabilirsin! \\n\\nEğer &4Magnet&r'i kullanmaya devam etmek istemiyorsan (bunun Yaratık Çiftliği yakınlarında olduğunu düşünüyorum), devre dışı bırakmak için tekrar Sağ Tıklaman yeterli olacaktır. \\n\\nAyrıca menzilini artırmak için yükseltilebilir!"]
 	quest.3B542DC05240242C.quest_subtitle: "&f6 &cSaldırı Hasarı"
-	quest.3B560B2ECE331CAF.quest_desc: ["Bu, Starlight Charger için Tier 3 Sütun Başlığıdır."]
 	quest.3B6F1BD64C0C570F.quest_desc: ["Tıpkı rüzgar üretimi gibi, bu da sana herhangi bir kaynak vermeden çok fazla güç sağlayacaktır. Buradaki tek dezavantaj gündüz olması gerekliliğidir. "]
 	quest.3B6F1BD64C0C570F.title: "Güneş Enerjisi"
-	quest.3BA4504DEFB87264.quest_desc: ["&lSimply Lights&r'a benzer şekilde çalışır, Inverted, üzerine Redstone uygulanmadığında yanar, normal ise sadece Redstone ile çalışır. \\n\\nBunların yerleştirilebilmesi için bir Duvara bağlı olması gerekir."]
-	quest.3BB0926C4C00BE1D.quest_desc: ["Jetpack'indeki Enerjinin bitmesi seninde hoşuna gitmiyor mu? Artık bu konuda endişelenmene gerek yok! \\n\\nİlk başta bundan önceki her Jetpack'i, bir &6&lATM Yıldızı&r'nı, artı daha pahalı Eşyalar yapman gerekebilir ama hey buna değer! \\n\\nSadece tak ve normal şekilde kullan. Sadece daha az şarjla."]
 	quest.3BC0A50886A3222B.quest_desc: ["ATM10, modlanmış Minecraft dünyasını kendi tarzınla keşfetmeni sağlayan bir paket!\\n\\nHerhangi bir sorun veya sorunun varsa, ATM discord'a katılmaktan çekinme!"]
 	quest.3BC0A50886A3222B.title: "&dAll The Mods 10'a Hoş Geldin!"
 	quest.3BD73FEAE853D350.quest_desc: ["Tekne kullanmadığın sürece &bBuz&r'un ne kadar yavaş olduğundan hiç rahatsız oldun mu? Bu bana hâlâ mantıklı gelmiyor! &bIce Skates&r bunu değiştiriyor, artık &bIce Skates&r giyerken &bBuz&r'da hızlanabiliyorsun. Daha fazla hızlanmak için onları yükseltebilirsin! \\n \\nOnları yükselttikten sonra, &bIce Skates&r giyerken Yaratıklara koşarak hasar vermeni sağlayan İkinci bir Yetenek elde edebilirsin."]
@@ -712,11 +550,6 @@
 	quest.3CB6DC5B09C62CFE.quest_desc: ["&5Ender Geçitleri&r, bitişik bir bloktan &7Ender Ağına&r kablosuz olarak güç aktarmak için kullanılır.\\n\\nBunları kablosuz güç ağının, kablosuz erişim noktaları gibi düşün.\\n\\nNot: Yalnızca Ender Hücresi kullanarak &agüç depolama kapasitesi&r ekleyebilirsin."]
 	quest.3CE3D9245F8EC005.quest_desc: ["Dördüncü MEGA storage component kademesi, &e67108864&f (65536k) bayt depolama alanı sağlar."]
 	quest.3CE3D9245F8EC005.title: "64M Depolama Bileşeni"
-	quest.3CFD27F273B97FDD.quest_desc: ["&5&lApothic&r modlarının birden fazla çekirdeği var ve her biri &2&lMinecraft&r'ın farklı kısımlarını değiştirir.\\n\\nNitelikler ve Büyüleme modları, &6&lATM Yıldızı&r'ı elde etmek için takip etmen gereken şeylerdir!"]
-	quest.3CFD27F273B97FDD.title: "&5&lApothic&r Modları"
-	quest.3D1D5CB45D81A6E4.quest_desc: ["&b&lMacaw's Doors&r 'a benzer şekilde bu da farklı tip ve versiyonlarda Tuzak Kapıları ekliyor. \\n\\nLadin Desenli Orman Ağacı Tuzak Kapısı mı istiyorsun? Artık yapabilirsin! "]
-	quest.3D2C6FF462B17205.quest_desc: ["Düşük hasar, çok yüksek saldırı hızı. Hedefin yenilmezlik süresini azaltır."]
-	quest.3D2C6FF462B17205.quest_subtitle: "Dahada Sivri Uçlu Bıçak"
 	quest.3D5F87F8E6B89C1B.quest_desc: ["&7Furnator&r, FE üretmek için kömür ve odun gibi eşyaları yakacaktır."]
 	quest.3D72E3E53E7306FA.quest_desc: ["&e&lIron's Spells&r &cAteş Zırhı&r!"]
 	quest.3D72E3E53E7306FA.title: "&cPyromancer Kıyafetleri"
@@ -741,11 +574,6 @@
 	quest.3E3DF8E967D95DB0.quest_desc: ["64k veya daha yüksek bir depolama bileşeni kullanıldığında, Madde Yoğunlaştırıcı bir &bTekillik&f üretmek için önemli ölçüde daha fazlasını yoğunlaştırabilir hale gelir. Tek bir tekillik için 256000 eşyanın geçersiz kılınması gerekir. Bu tam olarak &o4000 istif&r!\\n\\nBu tekilliği bir parça &eEnder Tozu&f ile yere attığında neler olduğuna bak. Bunu yaparken çevrene biraz hasar vermen gerekecek, ama neyse ki AE2 bunu en aza indirmek için kendi &bMini TNT&f'sini sunuyor."]
 	quest.3E3DF8E967D95DB0.quest_subtitle: "Aşırı-Yoğunlaştırılmış Madde"
 	quest.3E3DF8E967D95DB0.title: "Aşırı-Yoğunlaştırılmış Madde"
-	quest.3E4B27759C973006.quest_desc: ["&l&6Framed Blocks&r en önemli Yapı Modudur. Aslında bana bir Mod paketi verirseniz ve içinde &l&6Framed Blocks&r yoksa, oynamam. O kadar önemli! \\n\\n&l&6Framed Blocks&r bize Blok Varlığı olmayan herhangi bir Blokla doldurulabilen sahte Bloklar verir (Blok Varlıkları; Çalışma Masası, Ocak veya Zenginleştirici gibi Bloklardır). \\n\\nBu Frame'ler hemen hemen her şekilde veya herhangi bir şey olabilir! Vertical Slab'lerden, slope'lara, hatta çeyrek bloklara kadar! \\n\\n&5Netherit&r Merdiven mi istiyorsun? Öyleyse Framed Blocks kullan! Saman Balyası Çalışma Masası mı istiyorsun? Onu elde edebilirsin! Yapında mükemmel açılar mı istiyorsun? Öyleyse &l&6Framed Blocks&r yapmaya başla!"]
-	quest.3E76BC1D0FC3E9A8.quest_desc: ["&cMr Crayfish's&r Modundaki Tonlarca Eşya Enerji Kullanır! \\n\\nOnları çalıştırmak için bir Electricity Generator'e ihtiyacın olacak. Bunları çalıştırmak için Kömür veya diğer Ocak Yakıtları gerekir! \\n\\nArdından, Generator'ü Enerjiye ihtiyaç duyan Bloklarına bağlamak için Wrench'e ihtiyacın olacak. \\n\\nGenerator üstteki Switch ile açıldığında ve Yakıtı olduğunda, bağlı olan her şeye güç verecektir."]
-	quest.3E76BC1D0FC3E9A8.title: "Elektrik Takımı"
-	quest.3E89BC6875790952.quest_desc: ["Sadece 2 &bTozlaşmış Elmas&r ve 1 &3Tozlaşmış Ender&r (bana güven, &3Ender İncisi&r bunun için önemli!). \\n\\nBu 3 Tozu, &7Parşomen&r elde etmek için &7Parşomen (Spell Cloth)&r üzerinde kullan! \\n\\n&7&lAnahtarlar&r'ını elde etmek için &7Parşomen&r'inini kullan. Artık herhangi bir Kapının kilidini açabilirsin! \\n\\nHayır, bekle yanlış anahtarlar."]
-	quest.3E89BC6875790952.title: "&7Yakınlık Projeksiyonu Parşomeni"
 	quest.3E8BA5E075ABD136.quest_desc: ["&7Ice Breakers&r'ın İlk Yeteneği, Dengeni bir kaya kadar sağlam hale getirmektir. Geri tepme azalır ve &bBuz&r üzerinde kayma da azalır. \\n \\nİkinci Yetenek, Deprem! Düşerken Sol Alt ile Deprem'i seç ve yere indiğinde altında bir şok dalgasına neden olarak yakındaki tüm yaratıklara zarar verebileceksin."]
 	quest.3E8BA5E075ABD136.quest_subtitle: "Taygalar veya Karlı Taygalar'daki Köylerde Bulunur"
 	quest.3EA3A6414AB8A39C.quest_subtitle: "Sınama Odaları"
@@ -754,47 +582,23 @@
 	quest.3EA883C0BB7BD38F.quest_subtitle: "Kimin Postu....Gökkuşağı'ydı?"
 	quest.3EA883C0BB7BD38F.title: "Mary'nin Küçük Bir Kuzusu Vardı"
 	quest.3EC8A0B89788D079.quest_desc: ["Ellerim yok, &9Flippers&r'ım var. \\n\\n&9Flippers&r çok daha iyi bir Derin Koşucu gibi davranacaktır. &9Su&r içinde çok daha hızlı yüzebilir ve yürüyebilirsin!"]
-	quest.3ED8365BAD406CC5.quest_desc: ["Bunlar evini veya üssünü dekore etmek için mükemmel bulduğum Modlar! \\n\\nBurada gösterilenlerden daha fazlasını kontrol etmekten çekinme!"]
-	quest.3ED8365BAD406CC5.title: "Dekor Modları!"
-	quest.3EEF17C57375CC39.quest_desc: ["&lSimply Lights&r yapımı çok basit ve kullanımı kolay ışıklar ekler.\\n\\nTers çevrildiklerinde Redstone olmadan çalışacaklar ve Redstone sinyali etkinleştirdiğinde kapanacaklar.\\n\\nÇok sayıda farklı renk ve şekli var!"]
-	quest.3F185554793CCE54.quest_desc: ["Yapı için aletlere ihtiyacın olacak. Ve sen de Alet isteyeceksin. \\n\\nBlokları elde etmene yardımcı olacak Aletler, bu Blokların farklı versiyonlarını elde etmene yardımcı olacak Aletler ve Blokları yerleştirmene yardımcı olacak Aletler! \\n\\nBir çubukla başlaman gerekecek!"]
-	quest.3F185554793CCE54.title: "Aletler!"
-	quest.3F39BEB788175CEF.quest_subtitle: "3x3 Kazma!"
-	quest.3F8AEBB994716318.quest_desc: ["&8Solma&r, &l&2Vanilla&r'da bir Etki'dir. Bu yüzden onu kullanmak için kendi yolumuza ihtiyacımız var! \\n\\nOluşturmak için &8Wither İskeleti Kafatası&r ile Garip İksir hazırlayabilirsin. Sonra onunla Ok yapabilirsin!"]
 	quest.3F8D515D7B81B0E3.quest_desc: [
 		"Başka bir Demirci Şablonu mu?!?!?!\\n\\nEn azından bunun için Arkeolojiye ihtiyacın yok!\\n\\nBunları &b&lOther&r'daki Zindan yapısında bulunan Sınama Çağırıcılarını yenerek kazanman gerekecek. Daha belirgin olarak Kütüphane Odaları!\\n"
 		"{image:atm:textures/questpics/allthemodium/all_library.png width:200 height:100 align:center}"
 	]
 	quest.3F8D515D7B81B0E3.title: "&5Unobtainium Demirci Şablonu"
-	quest.3FB0F22BEF7FE622.quest_desc: ["&8&lReplika&r elde etmek için uygulaman gereken &7Parşomen&r, &7Hasar Takası Parşömeni&r'dir. \\n\\nElde etmek için Hasar Takası Ritüelini yap: 1 Tozlaşmış Demir ve 2 &aTozlaşmış Zümrüt&r ile."]
-	quest.3FB0F22BEF7FE622.title: "&7Hasar Takası Parşomeni"
-	quest.3FD9DC6B7844A79C.quest_desc: ["Betonun sıkıcı olmasından hep nefret etmişimdir, özellikle de gerçek hayatta. \\n\\nEn azından &2&lMinecraft&r'da &l&bChipped&r Modu ile farklı tasarımlar elde edebiliriz!"]
-	quest.3FD9DC6B7844A79C.title: "&l&bChipped&r Betonu"
-	quest.3FF61A4D7A250AE1.quest_desc: ["Bu &5Yaratıcı Mod &cEnerji Hücresi&r için (diğer &5Yaratıcı Mod &dEnerji Hücresi&r ile karıştırılmamalı) 4 &cNitro Hücre&r'ye ihtiyacın olacak. \\n\\nHer &cNitro Hücre&r, 2 &aSpirited Hücre&r'ye ve her &aSpirited Hücre&r, 2 &bNiotic Hücre&r'ye ihtiyaç duyar. Bu, bir süre böyle devam eder... \\n\\nBu matematiği yapmayacağım. Tarif Ağacını kontrol et. Yapacak daha önemli işlerim var!"]
-	quest.3FF61A4D7A250AE1.quest_subtitle: "Sınırsız Güç!"
-	quest.3FF61A4D7A250AE1.title: "&l&cEnerji Hücresi &5(Yaratıcı Mod)"
-	quest.3FF97A4B5029C0E7.quest_desc: ["Bu, 2 &bTozlaşmış Elmas&r ve 1 &eTozlaşmış Altın&r gerektirir. &c&lPatlayıcı Asa&r'nın tersi! \\n\\nBunları bir &7Parşomen (Spell Cloth)&r üzerinde kullanarak &7Parşomen&r'imizi elde edebilir, ardından &7Parşomen&r'i, kullanarak &b&lYay&r'ımızı elde edebiliriz!"]
-	quest.3FF97A4B5029C0E7.title: "&7Menzilli Silahlar Parşomeni"
 	quest.4007DFA7CC3A5FF2.quest_desc: ["Seni bu &ogörev bölümünün tamamını&r filtre yükseltmeleriyle doldurmaktan kurtarmak için Sophisticated Backpack yükseltmelerine göz at\\n\\nSophisticated Storage dengini yapman gerekecektir. Ancak hemen hemen aynı işlevi görürler."]
 	quest.4007DFA7CC3A5FF2.quest_subtitle: "Yükseltmeler için Temel"
 	quest.40096ED0B04C3EC5.quest_desc: ["Tüm Canavar Çağırıcılar için olmazsa olmaz. Koşulları yok sayar dediğinde, çoğu demek istiyor. Işık seviyelerini, ortaya çıkmak için gereken blokları ve biyomları yok sayar. Balçıkların ortaya çıkmak için 3x3 alana ihtiyaç duyması gibi alan koşulları hala gereklidir ve aynı şey oyuncuların yakınlarda olmasının gerekmesi için de geçerlidir."]
 	quest.40096ED0B04C3EC5.title: "Koşulları Yoksay"
 	quest.403F76908A8A5661.quest_desc: ["Explusion Pylon oyuncuları alanın dışına iter, ama ya bazı oyuncuların yakınlarda olmasını istiyorsan! O zaman bir Player Filter'a ihtiyacın olacak. \\n\\nOyuncuya Sağ Tıklayarak onu içine yerleştir ve ardından Beyaz Listeye almak için Pylon'a yerleştir! \\n\\nBöylece herkes dışarı itildiğinde, arkadaşın dışarı itilmeyecek! \\n\\nAyrıca varsayılan olarak Pylon'un Sahibi sınır dışı edilmeyecektir."]
-	quest.405DCD3E36232EEA.quest_desc: ["Kılıçtan daha az hasar verir ama daha uzun menzile sahip."]
-	quest.405DCD3E36232EEA.quest_subtitle: "İçindeki Spartalıyı Serbest Bırak"
-	quest.408F48C4442CE180.quest_desc: ["Dinlenme yeriniz için bol miktarda Işık ve Depolama."]
-	quest.408F48C4442CE180.title: "Yatak Odası Takımı"
 	quest.40AB457E37919ABE.quest_desc: ["Uçmayı sever misin? Peki ya Yangın çıkarmayı? İkisini de mi seviyorsun? O zaman Blazing Flask tam sana göre! Ateş kaynaklarının yakınında Blazing Flask'e sağ tıkladığında etrafında bir daire oluşacaktır. Dairenin içinde sana Yaratıcı Mod Uçuş verilecektir. Daire, &6Research Window&r'da yükseltilerek ve daha fazla Ateş eklenerek büyütülebilir!"]
 	quest.40AB457E37919ABE.quest_subtitle: "Yıkık Geçitler, Nether Kaleleri ve Bastion'larda Bulunur"
-	quest.40C068B2B8AC0F33.quest_desc: ["Yeryüzü Şekillendirme, en basit Yapılar için bile önemli bir parçadır. Ancak biz &2&lMinecraft&r Oyuncularının bunu yapmak için ne zamanı ne de çabası var. \\n\\nÖyleyse neden bunu bizim için Makinelerin yapmasına izin vermiyoruz? \\n\\nMaden ocakları bunu yapmanın çok kolay yollarıdır ancak hepsi Block Breaker'lar ile başlar. Simple Block Breaker sadece önündekini kırar, bu en yararlı olanı değil... \\n\\nAncak Advanced Block Breaker belirli bir alanı kazacaktır! Yeryüzü Şekillendirmesi için çok daha iyi!"]
-	quest.40C068B2B8AC0F33.title: "Maden Ocakları ve Madenler"
-	quest.4195800B4D7631E2.quest_desc: ["&6Eziveus' Spectral Compulsion&r ritüeli sayesinde &7Wormhole Frame&r, 2 Kuvars, ve &3Ender İncisi&r'ni birleştirerek Wormhole'umuzu elde edebiliriz!"]
 	quest.41C0948CD9D50322.quest_desc: ["Burada, düşmanları öldürerek elde edebileceğin tüm ödülleri bulacaksın."]
 	quest.41C0948CD9D50322.quest_subtitle: "Bütün Şeyleri Öldürmek"
 	quest.41C0948CD9D50322.title: "Ödül Panosu"
 	quest.427014BDE06DE631.quest_desc: ["Vurduğum her şey, alev alev yanıyor!!!!!"]
 	quest.427014BDE06DE631.quest_subtitle: "Eller"
-	quest.427516AA3E8C9442.quest_subtitle: "Çok Amaçlı Çapa"
 	quest.42822B1E8A53D051.title: "&l&9Ana Dünya Ödülü:&r&e İskeletler"
 	quest.42D7C8CD8E6F5CD7.quest_desc: ["Canavar Çağırıcı üzerinde Nakarat Meyvesi kullanarak, ortaya çıkacak olan yaratıkların ruhlarını emersin, sadece eskiden oldukları şeyden, içi boş bir kabuk bırakırsın. Yaratıklar tüm yapay zekalarını kaybederler, bu yüzden temelde bir zırh standı ne yapıyorsa onu yaparlar. Sana vuramazlar, ışınlanamazlar, kendi başlarına hareket edemezler. Orada öldürülmeye hazır bir şekilde bekliyorlar, ne kadar heyecan verici!"]
 	quest.42D7C8CD8E6F5CD7.title: "YZ Yok"
@@ -805,11 +609,6 @@
 	quest.431A8FDF15701BA4.quest_subtitle: "Herhangi bir Köyün, Kasap Kulübesinde Bulunur"
 	quest.436E4E3515BCCDE9.quest_desc: ["&bCloud in a Bottle&r takılıyken çift zıplamak için Boşluk Tuşuna iki kez basabilirsin! Parkur için çok faydalıdır! \\n\\nAyrıca &dBunny Hoppers&r gibi düşebileceğin yüksekliği de artırır!"]
 	quest.436E4E3515BCCDE9.quest_subtitle: "Kemer"
-	quest.44688FC2E34FF09F.quest_desc: ["Minecraft zaten yüzlerce Blok ekliyor ve Modlar yüzlerce daha ekliyor! Ancak bazen yine de yeterli olmuyor. \\n\\nBazı Modlar ile halihazırda sahip olduğumuz Blokları farklı şekillere, tasarımlara ve hatta tamamen yeni Bloklara dönüştürebiliriz!"]
-	quest.44688FC2E34FF09F.title: "Blokların Değiştirilmesi"
-	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r sadece bir Depolama Modu değil, Depolama Modu denilince &lakla gelen ilk modlardan biridir&r. \\n\\nBen şahsen Mod hakkında pek bir şey bilmiyorum ama Görev sayfası öğrenmene yardımcı olacaktır!"]
-	quest.44BD0B40EB5451AF.quest_desc: ["Tedarik Kampları/Gemileri, &lMinecolonies&r tarafından eklenen Eşyalardır. Sana anında içinde yaşamak için Üs kurmak ve böylelikle Koloni oluşturmak için üretildiler! \\n\\nMenüyü açmak için Sağ Tıklayabilirsin, orada istediğin Kamp/Gemi türünü seçmen gerekecek! \\n\\nArdından, yerleştirmek için bir yer bulman gerekecek. Arazi düz olmalı, Kırmızı çizgili Bloklar sana neyin kırılması gerektiğini söylüyor! \\n\\nBir kez ayarlandığında, yeni Kampın/Gemin tamamen ücretsiz olarak inşa edilecektir! \\n\\nBelediye Binalarına, Yataklara, Malzemelere ve çok daha fazlasına sahip olacak!"]
-	quest.44BD0B40EB5451AF.title: "Hile Yapmak"
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lVanilla&r topuzlarla eğlencenin tamamını sunamıyordu! Bu yüzden elbette onlar için de &6Allthemodium&r yükseltmesi var! \\n\\nBir Topuzu &6Allthemodium Bloğu&r ile yükselterek &6Allthemodium Topuz&r elde et. \\n\\nDaha fazla ana hasar, daha fazla düşüş hasarı ve aynı Büyüler!"]
 	quest.44D5EDB8711EC7A0.title: "&6Allthemodium Topuz"
 	quest.45268A619787288F.title: "&eAltın Sırt Çantası"
@@ -817,14 +616,12 @@
 	quest.4564B577CB4EC046.quest_desc: ["Yüzlerce İneği keserken Nadir bir İnek Etine rastlayabilirsin. Deli Dana Hastalığı olanlardan değil, &cEverlasting Beef&r'den bahsediyorum!\\n\\n&cEverlasting Beef&r, normal Çiğ İnek Eti gibi yenebilir ama tüketildiğinde kaybolmaz! Bunun yerine, tekrar yiyebilmen için bekleme süresi olur.\\n\\n(Otomatik beslemesi olan sırt çantaları ile de çalışır!)"]
 	quest.4564B577CB4EC046.quest_subtitle: "Benzersiz"
 	quest.4597D3B3BDC2BED5.quest_desc: ["&bMoleküler Derleyici&f, AE2'nin otomatik çalışma masasına eşdeğerdir ve her türlü &eüretim&f şablonu işini yerine getirmek için gereklidir.\\n\\nMoleküler Derleyiciler, kendisine bağlı diğer ME cihazlarına güç ve kanal aktarabilir, ancak kendileri bir kanal kullanmaz. Tek bir Şablon Sağlayıcı'ya (kullanılıyorsa) 6 adede kadar MD bağlanarak daha fazla üretimin paralel olarak yapılmasına olanak sağlanabilir.\\n\\nAyrıca MD'lerin her biri tek bir üretim şablonu için kendi özel yuvasına sahiptir ve bu sayede güç verildiğinde bağımsız olarak çalışabilirler. Bu şekilde çalıştırıldığında, MD'ye yerleştirilen herhangi bir eşleşen eşya, otomatik olarak şablonun sonucuna göre üretilecektir."]
-	quest.45D10F53CA18B8EE.quest_desc: ["Ne yazık ki &5Lightning&r Rune'lerini Yaratıkların düşürdüklerinden elde edemezsin. Bunun yerine &5Bottle O' Lightning&r ile üretmemiz gerekecek. \\n\\nYıldırım Çarpmış Creeper üzerinde Boş Şişe kullanarak &5Bottle O' Lightning&r elde edebiliriz. \\n\\nTehlikeli, biliyorum..."]
 	quest.45F83C2750F70F9B.quest_desc: ["Devam et, Ocak'a bir Kitap koy ve onu yak."]
 	quest.45F83C2750F70F9B.quest_subtitle: "Kesinlikle alev almaz..."
 	quest.45F83C2750F70F9B.title: "Kitapla birlikte Mutfak yapmak"
 	quest.460A8F17F3ED6CAF.quest_desc: ["Büyük bir mod paketinin herhangi bir sürecinde, en yüksek standart depolama hücresi kademesinin bile biriktirdiğin eşya ve kaynak miktarı için yeterli olmadığı bir nokta olur.\\n\\nİşte bu noktada &dMEGA Cells&f eklentisi devreye giriyor ve mevcut depolama kademelerini megabayt düzeyine çıkarıyor. Bu yeni kademelerden ilki &b1M MEGA Storage Component&f tarafından sağlanıyor ve 1024 &okilo&rbayt ya da &e1048576&f bayt depolama alanı sunuyor."]
 	quest.460A8F17F3ED6CAF.quest_subtitle: "İlk MEGAbayt."
 	quest.460A8F17F3ED6CAF.title: "1M Depolama Bileşeni"
-	quest.462C1F75A2FB9F02.quest_subtitle: "Willy nerede?"
 	quest.46D756F4DC6CC894.title: "&dNetherit Sırt Çantası"
 	quest.47764EFC822E462A.quest_desc: ["Bu blok zamanla süt üretir ve mutfak çoklu bloğu için süt tariflerini mümkün kılar.\\n\\nİneği kavanoza sokmak için kavanozu bir deliğe yerleştir. İneği kavanozun üzerindeki söz konusu deliğe düşmesi için cezbet, ardından üzerine bir örs bırak.\\n\\nBu camın neyden yapıldığına dair hiçbir fikrim yok ama Tavuk ile olan aramızdaki bağdan daha güçlü."]
 	quest.47764EFC822E462A.quest_subtitle: "Olağanüstü Süt Sağma Makinesi.. Ufacık tefecik yaşam alanı"
@@ -839,8 +636,6 @@
 		""
 		"Ya da geçmişe dönmek istiyorsan, bu pakette &6EnderIO&r var ve ondaki &6Enerji Oluklarını&r kullanabilirsin."
 	]
-	quest.486B5A605D79EA10.quest_desc: ["Bunların gerçekten üretim yerini yapabiliriz! Öldür o &cPyromancer&r'ı!"]
-	quest.48971CE964CF037F.quest_desc: ["Nükleer Reaktörlerimizi korumak önemli olmakla birlikte, içeriklerini görmek güvenlikle ilgilidir. \\n\\nCam, üslerimizin daha iyi görünmesini sağlamak için de kullanılabilir! \\n\\nVe gerçekten hangisi daha önemli: nükleer reaktörlerimizin güvenliği ve korunması mı? Ya da üslerimizin daha iyi görünmesini sağlamak mı ?!"]
 	quest.4933CF4675E77D50.quest_desc: ["Alev Hasarından darbe aldıktan sonra, &5Obsidian Skull&r etkinleştirilerek sana bir süreliğine Ateş Direnci verir. Umarım alevlerden kaçmaya yetecek kadar uzun bir süredir!"]
 	quest.4933CF4675E77D50.quest_subtitle: "Kemer"
 	quest.497D222F74A52DF5.quest_desc: ["İşte sevdiğim şey bu! Demir çok yaygındır ve Zırhı, oyun başlangıcı için mükemmeldir. \\n\\nZombilerin ve İskeletlerin neredeyse hiç şansı yok!"]
@@ -858,15 +653,9 @@
 		"Ayrıca en az 4 adet Ruh Kumuna ve muhtemelen oldukça iyi bir zırha ihtiyacın olacak."
 	]
 	quest.4A4C71C43519D5FE.title: "&5Wither'ın &6Çağrılması"
-	quest.4A6B585C2394A89A.quest_desc: ["&5&lRunic Enchanter&r'dan ihtiyacımız olan 2 Eşya, &dAşılama Yapılmış Ejderha Nefesi&r ve &5Onarım Kitap&r'ları. \\n\\n&dAşılama Yapılmış Ejderha Nefesi&r oldukça basit. Sadece &aFluid XP&r, &dSource&r, ve &dEjderha Nefesi&r'ne ihtiyacın var! \\n\\n&dEjderha Nefesi&r; &b&lHNN&r ya da daha da iyisi &l&9X&cy&aC&8r&aa&cf&9t&r'den Extractor ile oldukça kolay bir şekilde toplanabilir. \\n\\n&5Onarım Kitap&r'ları; &aFluid XP&r, &dSource&r, &9Lapis Lazuli&r, &4Supremium Enchanting Base&r ve en zor kısmı olan &aTecrübe Çubuğu&r ile otomatikleştirilebilir. \\n\\n&9Lapis&r; &2&lMA&r, &6&lArılar&r ya da sadece Maden Ocaklarından (Quarry) elde edilebilir. \\n\\n&aTecrübe Çubuğu&r, &a&lEnderIO&r'dan iki alaşıma ihtiyaç duyacaktır: Soularyum ve Enerjik Alaşım. Her ikisi de Alaşım Eritici'den yapılabilir. \\n\\n&4Supremium Enchanting Base&r, &5&lRunic Enchanter&r için yapılmış yeni bir Eşyadır. Kitap ve Kalem'den (&b&lHNN&r ile otomatikleştirilebilir) &4Supremium Enchanting Base&r'e ulaşmak için tonlarca &aTecrübe Özü&r ve Kademe Öz'leri (Prudentium, Tertium vs.) kullanman gerekecek!"]
 	quest.4A7AEBEB87CEC274.quest_desc: ["Belirli bir &cKoşu Ayakkabısı&r markası kullanma iznim olduğunu sanmıyorum. Bu yüzden bunların hangisi olduğu konusunda hayal gücünü kullan.  \\n\\n&cRunning Shoes&r, Koşarken sana Hız Artışı sağlar. Böylece Koşarken daha da hızlı olursun! Ayrıca Koşarken otomatik zıplama sağlar..."]
 	quest.4A854CD5EC70733E.quest_desc: ["Sırt Çantasına Çalışma Masası GUI'si ekler."]
-	quest.4A88472F1581EE7E.quest_desc: ["&4&lMahou Tsukai&r'ye hoş geldin. \\n\\nHayır, &4&lMorgan Kılıcı&r'nı anında elde edemezsin, modda biraz ilerlemen gerekir. \\n\\nBaşlamak için biraz hasar al. Bir kanama etkisi olacak. Bu etki kaybolmadan önce shift tuşunu basılı tut ve ilk &cMahou Circle&r'ını yerleştirmek için sağlam bir blokta M tuşuna bas. \\n\\nDiğer adıyla &cMahoujin&r!"]
-	quest.4AE8D8826F894EC7.quest_desc: ["&l&5Domun Ornamentum&r, &l&6Framed Blocks&r ve &l&bChipped&r'ın bir araya getirilmesi gibi bir şey! \\n\\nArchitects Cutter'ı kullanarak tonlarca farklı Şekil ve Çeşitte Blok yapabiliriz. \\n\\nBlok oluştururken önce hangi Grup olduğunu seç: Kapılar, Işıklar, VB. \\nArdından, bir Varyant seç. \\nBundan sonra, yapılmasını istediğimiz Bloklarımızı eklememiz gerekiyor! Bazı Bloklar iki farklı Blok seçimine ihtiyaç duyarken, diğerleri sadece bir tanesine ihtiyaç duyar."]
-	quest.4B12425E74C5E511.quest_desc: ["&cExplosive Mycelial Generator&r, Patlamaları emmek konusunda harika bir iş çıkarıyor. \\n\\nBunu &d&lTitreşen &8Kara Delik&r yapmak için kullanabilirsin!"]
 	quest.4B2146C9527C54E7.quest_desc: ["Açıkçası artık Bölüm 2'de olduğuna göre, &2&lVanilla Minecraft&r'ı bitirmişsindir! \\n\\nŞimdiye kadar &5Netherit&r'e sahip olmalı ve &2&lMinecraft&r'ın sahip olduğu tüm patronları öldürmüş olmalısın. Peki sırada ne var? \\n\\nTabii ki de sırada &6&lAllTheModium&r var! Ancak &6AllTheModium&r'u elde etmeye başlamak için &5Netherit&r'e ihtiyacın olacak. Hadi oradan başlayalım!"]
-	quest.4B552E9D05FF5415.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r tamamen 5 farklı renkle ilgili, bu renkleri Bloklar için kullanmayı da içeriyor! \\n\\n&aYeşil&r, &cKırmızı&r, &9Mavi&r, &8Karanlık&r ve her türden Aydınlık Bloklar!"]
-	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r &lDünya"
 	quest.4B62AF0405F68041.quest_desc: ["Sırt Çantasına hangi eşyaları stokta tutması gerektiğini söylemeni sağlayan filtre ekler. Bir envantere Shift sağ tıklandığında yeniden doldurulur."]
 	quest.4B62AF0405F68041.quest_subtitle: "Hepsi Stoklandı"
 	quest.4B65100885AE762D.quest_desc: ["&e&lIron's Spells&r &6Kutsal Zırh&r!"]
@@ -874,7 +663,6 @@
 	quest.4B76FE0348DB0E45.quest_desc: ["Quantum Bridge Card, Applied Energistics sistemine kablosuz boyutlar arası erişim sağlamak için alternatif bir yöntemdir. Üssünde bağlı bir Kuantum Köprüsüne ve terminalinde bir Quantum Bridge Card'a ihtiyacın olacaktır. Bu tüneller daha sonra nereye gidersen git erişim sağlamak için bir Kuantum Dolanıklık Tekilliği ile birbirine bağlanır."]
 	quest.4B9C54DA5CB6D5C9.quest_subtitle: "Patika Kalıntıları"
 	quest.4B9C54DA5CB6D5C9.title: "Ev Sahibi Zırh Süslemesi"
-	quest.4BC27F16229BBF46.quest_desc: ["&l&6Storage Delight&r tamamen Eşya Depolama ile ilgili ama güzel görünmesini sağlıyor. \\n\\nFarklı tasarım ve renklere sahip onlarca Çekmecesi var. \\n\\nBir Fıçı ile aynı kullanım ve alana sahiptir."]
 	quest.4BF0BB763BFFACF0.quest_desc: [
 		"Muhtemelen bundan sonra ihtiyaç duyacağın en önemli kaynak, AE2 cihazlarının büyük çoğunluğunda kullanılan ve bir ME ağı içindeki tüm kabloların yapımında temel görevi gören &eFluiks&f'dir. "
 		""
@@ -885,8 +673,6 @@
 	quest.4C0EAB9F795686D0.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
 	quest.4C0EAB9F795686D0.title: "&eGelişmiş Aktarma Yükseltmesi"
 	quest.4C2A60FC1F1E0328.quest_desc: ["Sırt Çantasına batarya ekler."]
-	quest.4C647369D976E67E.quest_desc: ["Bu &c&lAsa&r'nın 3 Modu vardır: Işın, EA(Etki Alanı) veya Büyük Patlama. Her biri Shift + Sağ Tık ile değiştirilir! (Merak etme, hepsi Patlamaya neden olur!) \\n\\nIşın tahmin edildiği gibi çalışır, işaret ettiğin yere dev bir Işın fırlatır ve yoluna çıkan her Blok ve Yaratığı yok eder! \\n\\nEA, önünde onlarca daire çağırır ve her biri hedeflendiği yere Patlayıcı fırlatır. \\n\\nBüyük Patlama en eğlenceli Moddur. Bir hedefe Sağ Tıklamayı basılı tut... basılı tutmaya devam et. Tüm çizgilerin büyümesi biraz zaman alacaktır. Sonra, bırak! \\n\\nBUUM! Büyük bir nükleer bomba patlayacak! Devasa bir alanı yok edecek, bu yüzden üssünün yakınında kullanma. Aslında bu modların hiçbirini üssünün yakınında kullanma..."]
-	quest.4C647369D976E67E.title: "&c&lPatlayıcı Yoğunlaşmış Mana"
 	quest.4C8C56F960D92E9D.quest_subtitle: "&f51 &cSaldırı Hasarı"
 	quest.4D07B0A4A2E77CDA.quest_desc: ["En fazla varlık, bir canavar çağırıcı tarafından ortaya çıkarılabilecek ve tutulabilecek yaratık miktarıdır. Eğer sadece 6 en fazla varlık varsa, 6 yaratık zaten ortaya çıkmışsa, onlar ölene veya taşınana kadar daha fazla yaratık ortaya çıkmayacaktır. Her Ghast Gözyaşı 2 Varlık yukarı veya aşağı oynatır. En fazla 16 Varlık ve En düşük 1 Varlık."]
 	quest.4D07B0A4A2E77CDA.title: "En Fazla Varlık"
@@ -914,11 +700,7 @@
 	quest.4E8A05C3BFA80540.quest_desc: ["Applied Energistics 2 modunun en önemli özelliği tartışmasız depolama sistemidir; bu sistem dijital &eDepolama Hücreleri&f kullanır. Bu hücrelere tekli hücreler için bir &eME Sandığı&r veya çoklu hücreler için bir &eME Sürücü&r aracılığıyla erişilebilir.\\n\\n&bME Sandığı&f bir seferde tek bir Hücreyi tutar ve bu Hücre aynı ağ üzerindeki herhangi bir terminalden okunabilir ve yazılabilir. ME Sandığının kendisi de sadece içerdiği hücreye özel erişim ile üstünde kendi terminal ekranını sunar.\\n\\n&bME Sürücü&f tek bir blok ve tek bir ME kanalı alanında 10 adede kadar çeşitli Depolama Hücresini tutabilir. Ancak, kendi terminal ekranını sunmaz, depolama erişimi için ağ üzerinde başka bir yerde harici bir terminal gerektirir."]
 	quest.4E8A05C3BFA80540.quest_subtitle: "Dosya sistemi olarak eşyalar"
 	quest.4E8A05C3BFA80540.title: "Depo"
-	quest.4EA2DB12E8F0068F.quest_desc: ["&l&aOh The Biomes We've Gone&r, Dr Seuss'un \"Oh the Places You'll Go\" kitabından esinlenerek yazılan &l&aOh The Biomes You'll Go&r'nun devamı niteliğindedir.\\n\\nTonlarca muhteşem yeni biyom ekliyor! Yeni bitkiler, kayalar ve tabii ki ağaçlar!"]
-	quest.4EA2DB12E8F0068F.title: "&l&aOh The Biomes We've Gone&r Odunu"
 	quest.4F1FFC02F4EAA2E6.title: "Kademe: &4Nitro"
-	quest.4F7F0A5162D70082.quest_desc: ["Kafan karışmasın. Dolu ve boş olmak üzere 2 tane &5Yaratıcı &aEnerji Kübü&r var. \\n\\n&aBoş Küpler&r bir Energy Trash Can olarak çalışır ve içine aktarılan tüm Enerjiyi geçersiz kılar. \\n\\n&aDolu Küpler&r sonsuz bir enerji deposu olarak çalışır. Ancak bunu yapmak için &aboş Enerji Küplerine&r ihtiyacın olacak... ve bunlar pahalı! \\n\\n&6&lATM Yıldızı&r ile 4 &aboş Enerji Küpünü&r enerjilendirerek bir tane dolu olanı elde edebilirsin."]
-	quest.4F7F0A5162D70082.title: "&5&lYaratıcı &aEnerji Kübü"
 	quest.4F7F8F4ED1CA0550.quest_desc: ["Canavar Çağırıcıya uygulanan Kamp Ateşi, yaratıkların yanarak ortaya çıkmasını sağlayacaktır. Güzel bir Biftek için mükemmel."]
 	quest.4F7F8F4ED1CA0550.title: "Yanma"
 	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r, &6&lAllthemodium&r tarafından eklenen ve &l&bOther&r'daki Antik Piramit'te yaşayan bir Patron'dur. \\n\\nÖldüğünde Kalplerinden 1 tanesini düşürecek! Bir Blok yapmak için 9 tanesinin ölmesi gerekir... \\n\\nNeyse ki onları elde etmenin yolları var!"]
@@ -930,8 +712,6 @@
 	quest.51236544BFEF487B.quest_desc: ["Şimdi &bGökyüzü Taşı&f içeren &eMeteorları&f bulma zamanı. Bunlar yüzeyde veya yeraltında olabilir ve merkezinde bir &bGizemli Küp&f içerir.\\n\\nBu küp, AE2'nin özel üretim bileşenlerini yapmak için Yazıcı'da kullanılan tüm &eBaskıları&r içerir.\\n\\nBir meteorun yerini tespit etmenin en kolay yolu, Şarj Cihazı'nın içine bir pusula yerleştirerek bir &eMeteor Pusulası&r yapmaktır."]
 	quest.51236544BFEF487B.title: "Meteor avcılığı"
 	quest.512396B331108BAF.quest_subtitle: "Kademe: &e5"
-	quest.5149BDF6BC4B3857.quest_desc: ["Ya da bir Dayanıklılık Takası yap ve içine güçlü (ama çok güçlü olmayan) Eşyalar at. \\n\\n&5Netherit Kürek&r gibi eşyaları tavsiye ederim!"]
-	quest.5149BDF6BC4B3857.title: "Dayanıklılık Takası"
 	quest.5151CDD8FCDE7A07.quest_desc: ["Aletlere Hoş Geldin!\\n\\nDaha önce hiç görmediğin veya duymadığın bir alet alıp diğer aletlerin arasında nerede olduğunu öğrenmek istedin mi? O zaman bu görevler senin için mükemmel!\\n\\n(Kılıçlar temel hasara göre sıralanmıştır. Yükseltilebilen veya daha fazla hasar vermek için kullanılabilen kılıçlar dahil edilmemiştir).\\n\\nTüm kazma ve kılıçlar için görevler OPSİYONELDİR!"]
 	quest.5151CDD8FCDE7A07.quest_subtitle: "Tüm Aletler"
 	quest.5151CDD8FCDE7A07.title: "Aletler!"
@@ -947,9 +727,6 @@
 	]
 	quest.51DE3157DE3E57B8.quest_subtitle: "Sipariş ver"
 	quest.51DE3157DE3E57B8.title: "Oto-Üretim"
-	quest.51E77B9CD3FB6DEA.quest_desc: ["Bu gerekli değil ama ben çok faydalı buluyorum. \\n\\nDigging Claws, Ellerin için Kazma Kademeni yükseltir. Böylece sadece Yumruklarınla Demir Cevherine kadar Madencilik yapabilirsin! \\n\\nBuna Taş, Terakota ve Beton gibi kazılabilir şeylerde dahildir. Ve hatta bunları Ellerinde Blok varken bile kazabilirsin. \\n\\nDürüst olmak gerekirse, aslında buna ihtiyaç var."]
-	quest.5212A4D67B1851EF.quest_desc: ["Bu eğlenceli küçük &7&lAnahtarlar&r, çok benzedikleri Wolverine Pençelerine benzer şekilde işlev görür! \\n\\nOnları tutarken Hedefin etrafında bir Daire belirecektir. Hedefin üzerine TP yapmak için Sol Tıklamayı kullan ve ona Vur! \\n\\nBu çok büyük bir mesafe için kullanılabilir! (Benim tespit ettiğim yüz bloktan fazla). \\n\\nDemir Kılıç ile yaklaşık aynı hasarı verir."]
-	quest.5212A4D67B1851EF.title: "&7&lYakınlık Projeksiyonu Anahtarları"
 	quest.5233A447BAA4593C.quest_desc: ["&bME Akıllı Kablo&f ve &bYoğun Akıllı Kablo&f, kanal dağılımı açısından kapalı kablolarla aynı işlevi görür ama aynı zamanda kullandıkları kanal miktarını kendi üzerlerinde renkli çizgiler olarak görünür şekilde gösterir."]
 	quest.5233A447BAA4593C.title: "Gelişmiş Kablolama"
 	quest.523853C1C4E688BA.quest_desc: ["Depolama bileşeninin dördüncü kademesi, &e65536&f bayt depolama alanı sağlar."]
@@ -961,33 +738,17 @@
 	]
 	quest.525F25F4ADE45B50.quest_subtitle: "DIŞARI ÇIK"
 	quest.52672B7FFFD51D16.quest_desc: ["Sırt Çantasına Taş Yontma Makinesi GUI'si ekler."]
-	quest.52CDB46F6CBF007B.quest_subtitle: "Bunu kazıyor musun?"
 	quest.52E59FCB39D66BCF.quest_desc: ["\"Pasif Güç\" için en iyi seçeneklerden biri olan &9Termo Jeneratör&r, bir &cIsı Kaynağı&r üzerine yerleştirildiğinde ve sürekli su verildiğinde FE üretecektir.\\n\\nŞu anda bunu üzerine yerleştirebileceğin 3 blok var: en az üreten Magma bloğu, biraz daha iyi olan lav kaynağı bloğu veya en fazla ısıyı sağlayan &cAlevli Kristal Bloğu&r. "]
-	quest.52EB902E76829EBB.quest_desc: ["Silent Gear, ekipman üretimini kolaylaştıran bir ekipman modudur.\\n\\nHer ekipman parçası özelleştirilebilir, özel özelliklerle yükseltmene veya hareket halindeyken onarmana olanak tanır!\\n\\nAyrıca Demir Kazma gibi vanilla aletlerini üretim ızgarasına koyarak, Silent Gear Demir Kazma'ya dönüştürebilirsin!"]
-	quest.52EB902E76829EBB.quest_subtitle: "Silahlar, Aletler ve Zırhlar"
-	quest.535525EA4DF4AB59.quest_desc: ["&cOyuncu Vericisi&r, Bağlanmış Karta sahip herkese enerji aktaracaktır. Buna envanterlerdeki tüm zırh, alet ve eşyalara enerji aktarmak da dahildir. \\n\\n&cNitro Kademe&r, &6&lYıldız&r için gereklidir. Bu da elbette en son ve elde edilmesi en zor olandır."]
-	quest.535525EA4DF4AB59.title: "&cNitro Oyuncu Vericisi"
-	quest.537B39B42C7D21ED.quest_desc: ["&l&aOh The Biomes We've Gone&r tarafından eklenen yeni Biyomlarda 4 yeni Taş türü bulabilirsin: Dacite, Kırmızı Taş, Yosunlu Taş ve Kayalık Taşı. \\n\\nŞimdi Kayalık Taşı'nı diğer taşlardan ayıran ve ona Kayalık ünvanını kazandıran şeyin ne olduğunu bilmek istiyorum."]
-	quest.537B39B42C7D21ED.title: "&l&aOh The Biomes We've Gone&r Taşları"
-	quest.53829B3E51936ACD.quest_desc: ["Diğer elinde &bElmas Kılıç&r ve ana elinde &7Güçleniş Parşomeni&r tut ve Sağ Tık'a basılı tut."]
-	quest.53829B3E51936ACD.title: "Güçlü Kılıç"
 	quest.5391385A75535EC8.quest_desc: ["&e&lIron's Spells&r &2Doğa Zırhı&r!"]
 	quest.5391385A75535EC8.title: "&2Plagued Kıyafetleri"
-	quest.53CE66D760CEFD7E.quest_desc: ["Lavabolar, Klozetler ve Banyolar! \\n\\nFerah ve hijyenik kalman için gereken her şey! \\n\\nHepsi Su tutar ve evet Tuvaletlerin üzerine oturabilirsin."]
-	quest.53CE66D760CEFD7E.title: "Banyo Takımı"
 	quest.53F861876B991C36.quest_desc: ["Sırt Çantasına Müzik Kutusu GUI'si ekler."]
 	quest.53F861876B991C36.quest_subtitle: "Şimdi eğlence zamanı"
-	quest.5436157FDFC9633E.quest_desc: ["Infused &dPatrick &aStar&r, 5 &6Star Fragment&r, &5Corrupti Dust&r, &cMundabitur Dust&r ve Lens of the &4Killer&r ile &6&lATM Yıldız&r'larını 100% otomatik olarak yeniden yapabiliriz! \\n\\nArtık &5Yaratıcı Mod&r Eşyaları üretmek çok kolay olacak!"]
-	quest.5436157FDFC9633E.title: "Tamamen Otomatikleştirilmiş &6&lATM Yıldızı"
 	quest.544791880F315D5A.quest_desc: ["Sandıklı Tekneler, üzerinde Sandık bulunan Teknelerdir. Sandığı Teknedeyken açabilir veya üzerine sağ tıklayabilirsin. Tekneye aynı anda sadece bir kişi binebilir."]
 	quest.54822638CC243004.quest_desc: ["Kirpi Balığı oldukça havalı. Aynısı Gardiyanlar ve Dikenler içinde geçerli! &9Reflecting Necklace&r takılıyken verilen her hasar, puan biriktirir. Son hasardan 5 saniye sonra ya da puanlar dolduğunda, &9Necklace&r her yöne &5Obsidiyen Dikenler&r fırlatarak yakındaki herkese zarar verir."]
 	quest.54822638CC243004.quest_subtitle: "Yıkık Geçitler, Nether Kaleleri ve Bastion'larda Bulunur"
 	quest.54B1A876E9F6707A.quest_subtitle: "&oBaşka hiçbir şeye benzemeyen güç ve yıkım!"
 	quest.54B1A876E9F6707A.title: "&5&lOblivion Parçası"
 	quest.54D3D6806C1F33F3.quest_subtitle: "&f5 &cSaldırı Hasarı"
-	quest.54E6C0D1BB442184.quest_desc: ["&eBüyüler&r elde etmek için Tozlaşmış Eşyalara ihtiyacın olacak. \\n\\nTozlaşmış Eşyalar elde etmek için &9Havan Tokmağı&r gerekir."]
-	quest.54E6C0D1BB442184.title: "&9Havan Tokmağı"
-	quest.55160BAFFD9E2988.quest_desc: ["Tam anlamıyla mükemmel &9Macaw&r Modu, &9&lMacaw's Furniture&r! \\n\\nİhtiyacın olan her şeyi ekler! Sandalyeler, Sehpalar, Kitaplıklar ve hatta Çekmeceler!"]
 	quest.55186B8602689B66.quest_desc: [
 		"&bHafıza Kartı&f, iki farklı işlevi olan bir araçtır. Bunlardan en basit olanı, aynı türden başka bir cihaza kopyalanmak üzere çeşitli cihazların yapılandırmalarını (beyaz liste filtreleri gibi) kaydetmektir. "
 		""
@@ -996,12 +757,8 @@
 	quest.554F47A0AF7506EC.quest_subtitle: "59,049 End Taşı"
 	quest.55A9EB63F4964FCF.quest_subtitle: "&f7 &cSaldırı Hasarı"
 	quest.562BD37539EE318E.title: "Kademe: &cAlevli"
-	quest.565703CBB06CEABF.quest_desc: ["Hepinizin neden burada olduğunu biliyorum, &4&lMorgan Kılıcı&r için buradasınız. \\n\\nTüm &6&lATM Mod Paketlerinin&r güçlü Kılıçlarından biri. \\n\\nBu Görevleri takip et ve durdurulamaz bir güç haline gel!"]
-	quest.565703CBB06CEABF.title: "&4&lMorgan&r'ı Elde Etmek"
 	quest.56B80A7EBFE21428.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
 	quest.56B80A7EBFE21428.title: "&eGelişmiş Pompa Yükseltmesi"
-	quest.5716E84828EC0C23.quest_desc: ["Plastic Construction Bricks, &l&7PneumaticCraft: Repressurized&r aracılığıyla yapılan bloklardır. \\n\\nTıpkı gerçek hayattaki benzerleri gibi üzerine basmak can yakıyor! \\n\\nBu yüzden ya Ayakkabı giy ya da Tuğlaları düzleştir."]
-	quest.5716E84828EC0C23.title: "Plastik Yapı Tuğlaları"
 	quest.5758645223B4B5BA.quest_desc: ["&3Aqua Walkers&r ile &9Su&r üzerinde yürüme Yeteneğini kullanabilirsin! Shift tuşuna basılı tutarak &9Suya&r dalabilir ve Yüzebilirsin. Sanırım bir keresinde böyle bir hikaye okumuştum?"]
 	quest.5758645223B4B5BA.quest_subtitle: "Gemi Enkazları ve Okyanus Harabelerinde Bulunur"
 	quest.57CF8C6C867B9BDA.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
@@ -1015,8 +772,6 @@
 	quest.58514FDE153FD971.title: "&fDemir Sandık"
 	quest.5865951E4F81C91F.quest_desc: ["&7Osmiyum&r + &6Işık Taşı&r = &eİşlenmiş Işık Taşı&r!"]
 	quest.5865951E4F81C91F.title: "&eİşlenmiş Işık Taşı Zırh"
-	quest.5869E198DA416346.quest_desc: ["Oyun Sonu &5&lMekanism&r sadece çılgınlıktır. Sadece 1 &5Antimadde Peleti&r için 1,000mb &5Antimadde&r'yi kristalize etmen gerekir. \\n\\nSadece 1mb &5Antimadde&r için SPS(ya da SFA) aracılığıyla 1,000mb &3Polonyum&r'a güç vermen gerekir. \\n\\n1mb &3Polonyum&r elde etmek için 5mb &2Nükleer Atığın&r Nötronlarını aktive etmen gerekir. \\n\\nVe &2Nükleer Atık&r, bir Fisyon Reaktörü aracılığıyla &9Fisil Yakıt&r'larının işlenmesinden elde edilir!"]
-	quest.5869E198DA416346.title: "2 &5Antimadde Peleti"
 	quest.589F1D502F680075.quest_desc: ["Havuz Partileri için mükemmel! \\n\\nSevimli ve komik görünmesinin yanı sıra &dHelium Flamingo&r, Havada yüzmeni sağlar. Evet beni duydun!  Havada... Yüz... \\n\\nHavadayken, zıplamak gibi. Havada Yüzmeye başlamak için tekrar Zıplamaya basabilirsin. Tıpkı Suda olduğu gibi hareket edebilirsin: yukarı Yüz, aşağı Yüz, her tarafa Yüz!"]
 	quest.589F1D502F680075.quest_subtitle: "Kemer"
 	quest.58C2ABED43B2EA61.quest_desc: ["&9Model Çerçeveleri&r Veri Modelleri oluşturmanın başlangıç noktasıdır.\\n\\nBelirli bir yaratık üzerinden veri toplamaya başlamak için, bunlardan birini yapmak ve ardından veri toplamak istediğin yaratığa &9sağ tıklamak&r isteyeceksin. Doğru şekilde yapıldığında, Model Çerçevesi tıkladığın yaratığın Veri Modeline dönüşecektir.\\n\\nBu yaratıkla ilgili veri toplamak için, yeni oluşturulan Veri Modelini bir &aDerin Öğrenici&r içine yerleştir, ardından envanterindeki Derin Öğrenici ile söz konusu yaratığı öldürmeye başla."]
@@ -1025,10 +780,6 @@
 	quest.58D5BD3106BFD94A.quest_desc: ["Kitabın bir sonraki versiyonunu hazırla. Sana söz veriyorum, buna değecek. Hatta sana bir Elmas bile vereceğim."]
 	quest.58D5BD3106BFD94A.quest_subtitle: "Buna kesinlikle değer"
 	quest.58D5BD3106BFD94A.title: "Elmasların gücüyle pişirme"
-	quest.59B6C6BF0550D13D.quest_desc: ["Trenlerinizle birlikte kullanabileceğiniz yeni Cam türleri! Ya da üsleriniz için \\n\\nBelirli bir şey için kullanmana seni zorlayamam."]
-	quest.59B6C6BF0550D13D.title: "&7&lRailcraft&r Camı"
-	quest.59FD3C4E415EEDDD.quest_desc: ["Ritüel başladıktan sonra &3Göl&r'ün oluştuğunu fark edeceksin. \\n\\nYaklaşık 20x20 blokluk bir alanda &3Bulanık Su&r ile dolu olacak şekilde büyüyecektir. \\n\\n&3Bulanık Su&r seni öldürmeyecektir; tabii hava almayı unutmadığın sürece."]
-	quest.59FD3C4E415EEDDD.title: "&3Mahou Gölü"
 	quest.5A1DCD6C7F712A78.title: "Neptünyum Olta"
 	quest.5A23107C363A209E.quest_desc: ["Çeşitli End malzemeleri yapar."]
 	quest.5A94A2664BFDD7B9.quest_desc: ["Temel Depolama Bölümüne hoş geldin!\\n\\nElektriğe ihtiyaç duymadan, eşya depolamanın tüm temel yollarını ve depolama ihtiyaçların için faydalı eşyaları bulacaksın!"]
@@ -1037,7 +788,6 @@
 	quest.5AAF6CA41209B365.title: "&3Vibranium Aletler"
 	quest.5AC1BE754210429E.quest_desc: ["Kendin ve arkadaşların için bir takım oluşturmak istiyorsan, takımı oluşturmak için &a/ftbteams party create (takımın adı)&r komutunu kullan!"]
 	quest.5AC497F76A086A5C.title: "&l&9Ana Dünya Ödülü:&r&e Cadılar"
-	quest.5AD09CCEEDC0B50F.quest_desc: ["İşte bunlar çok faydalı, kesinlikle göz atmalısın! \\n\\nAsıl Işık Kaynağı Feral Flare Lantern'dir. Etrafına 20 Blok veya daha fazla görünmez Işık Kaynağı yerleştirir. \\n\\nMega Torch farklıdır: Işık yaymaz, ancak 64 Blok içerisinde tüm Düşman Yaratıklarının ortaya çıkışlarını Engeller! Gece Görüşü kullananlar için faydalıdır. \\n\\nDread Lamp tam tersini yapar, aynı alandaki Pasif Mob'ların ortaya çıkmasını engeller."]
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["Evet, yol yapabilir, endişelenmene gerek yok!"]
 	quest.5B46B5BF4ADB2BE9.title: "&6Allthemodium &5Alaşımı &3Kürek"
 	quest.5B5FC539BD1F4A73.quest_desc: ["Bu Pylon tamamen Yaratık Doğuşlarını engellemek içindir. \\n\\nSadece belirli Yaratıkların ortaya çıkmasını engellemek için Mob Filter'larını kullanabilir veya tüm Yaratıkların ortaya çıkmasını engellemek için Lifeless Filter'ı kullanabilirsin! \\n\\nDaha fazla ortaya çıkışı engellemek için birden fazla Mob Filter'ı üst üste koyabilirsin. Ayrıca, bu Yaratık Ortaya Çıkışlarını ne kadar engellediğine dair olan Çalışma Alanını değiştirebilirsin. \\n\\nLifeless Filter'ı kullanırsan, tüm bu ayarları yok sayacaktır."]
@@ -1048,8 +798,6 @@
 	quest.5BCA3F716348ECCD.quest_desc: ["&9Enerji Hunisi&r, doğrultulduğu bloğun envanterindeki herhangi bir şarj edilebilir eşyayı şarj eder, örneğin sandık."]
 	quest.5C22E3103544B120.quest_desc: ["ME ağının büyük çoğunluğunu birbirine bağlamak için biraz kabloya ihtiyacın olacak. &eME Cam Kablo&f ilk ve en temel kablo türüdür ve diğer kablo türlerini yapmak için ilk adım olarak baştan sona bunu yapacaksın.\\n\\nHem cam kablolar hem de &ekapalı&f muadilleri, tek bir kablo kesiti boyunca 8 kanala kadar taşıyabilir. Cam kabloların aksine, kapalı kablolar daha sonra 32 kanala kadar taşıma kapasitesine sahip &eyoğun&f kapalı kablolara dönüştürülebilir. Bununla birlikte, veriyolları ve terminaller gibi çoğu 'çok parçalı' cihaz yoğun kablolara doğrudan bağlanamaz. Bunun yerine bağlantı oluşturmak için normal genişlikte kablolar gerekir.\\n\\nTüm kablolar renklendirmek için boya ile de üretilebilir. Renksiz ('Fluiks') kablolar başka renkteki kablolara bağlanabilir, ancak aksi takdirde farklı renkteki kablolar asla birbirine bağlanmayacaktır."]
 	quest.5C22E3103544B120.title: "Temel Kablolama"
-	quest.5C2B30655A44227F.quest_desc: ["Oo, &5&lEternal Starlight&r'ın tüm bu Metalleri kolay yoldan elde etmeni sağlayacağını mı düşündün? \\n\\nHA! Saçmalama. Patronlarla savaşman, Çamuru kazman ve Meteor Yağmuru araman gerekecek!"]
-	quest.5C2B30655A44227F.title: "&5&lEternal Starlight&r Metalleri"
 	quest.5C2C29ECA67F9B49.quest_desc: ["Lifeless Filter ile 25x25 Blokluk bir alanda Yaratıkların ortaya çıkması konusunda asla endişelenmene gerek kalmayacak. \\n\\nBu, yaratıkların oyuncunun yakınında ortaya çıktığı her mesafeyi kapsamak için yeterlidir. Düşman veya Pasif. \\n\\nBu, Pylon'un üstündeki veya altındaki her Y Seviyesini de içerir, böylece mağaraları aydınlatmak için endişelenmene gerek kalmaz! \\n\\nBu Filter'da Beyaz Liste yoktur, her Yaratığın Ortaya Çıkmasını engelleyecektir."]
 	quest.5C2C29ECA67F9B49.quest_subtitle: "Sonunda huzur ve sessizlik. "
 	quest.5C83D5CDD980FD9A.quest_subtitle: "Bastion Kalıntıları"
@@ -1060,7 +808,6 @@
 	quest.5CE44C58A470E48E.quest_desc: ["&l&3Artifacts&r, Minecraft deneyimini çok daha kolay ve çok daha eğlenceli hale getirecek &l&3Eserler&r ekleyen harika bir Mod!\\n\\nTüm &l&3Eserler&r ya keşif yaparak, ya arkeolojiyle ya da Mimic'leri öldürerek bulunabilir!\\n\\nMimic'ler yer altındaki Kamp Alanlarında bulunur ve normal Sandıklar gibi görünürler! Ancak çok yaklaştığında saldırırlar!"]
 	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 &aKitchensink&r paketidir, yani mod paketini istediğin şekilde keşfetmekte ve oynamakta özgürsün!\\n\\nBununla birlikte, bir oyun sonu hedefi vardır: &6ATM Yıldızı&r yapmak!\\n\\nBu görev serisi, ister Minecraft'ta yeni olun ister önceki ATM paketlerini oynamış olun, tüm oyuncular için bir rehber görevi görür.\\n\\nHemen hemen her mod paketinde olduğu gibi, başlamak için biraz kütük topla!"]
 	quest.5CF320E9C4C1B1E1.title: "&eBaşlangıca Hoşgeldin&r!"
-	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r tamamen Çiftçilik ve Gıda Eşyalarını Pişirmekle ilgili! Aynı eşyaları dekorasyon ve kullanım amaçlı de kullanabiliriz! \\n\\nOcak, Tencere ve Tavalar bir Mutfak için mükemmeldir. \\n\\nYiyecek Kasaları bir Kiler için harikadır. \\n\\nÇiftlik eşyaları dış mekan dekorasyonu için ve Kilerler her yer için mükemmeldir!"]
 	quest.5D82340E9BED9C79.quest_desc: ["Bu Relic'ler, &dEnd&r'de bulunabilir!"]
 	quest.5D82340E9BED9C79.title: "&dEnd"
 	quest.5DDC15AAFD2CAF47.quest_desc: ["&bElmas Zırh&r, &l&2Vanilla&r zırh zincirinin bir sonraki halkası. Bu aynı zamanda genellikle onu Büyülemeye başladığımız yer! \\n\\nKoruma ve çeşitli biçimlerini tavsiye ederim. Modlu olan konusunda seçici olmak zorunda değiliz!"]
@@ -1080,34 +827,21 @@
 	quest.5E4FE420B6D2C97F.quest_desc: ["Sırt çantasındaki eşyaları 3x3'lük tariflerine göre sıkıştırır."]
 	quest.5E4FE420B6D2C97F.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
 	quest.5E4FE420B6D2C97F.title: "&eGelişmiş Sıkıştırma Yükseltmesi"
-	quest.5E5D5D28D82F6891.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r, &lWorld Core&r'u ile çok sayıda Cam ekliyor! \\n\\nİçinden yürüyebildiklerinden, parlayanlara ve daha güçlü olanlara kadar!"]
-	quest.5E5D5D28D82F6891.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Camı"
 	quest.5E6585F7627247E3.quest_desc: ["Arayüz veya Dışa Aktarma Veriyolu gibi desteklenen herhangi bir cihaza yükseltme olarak uygulandığında, &bÜretim Kartı&f söz konusu cihazın gerekli (filtrelenmiş) bir eşya için otomatik olarak kendi üretim taleplerini göndermesini sağlar. Üretim CPU'ları, oyuncu tarafından talep edilen üretimler için CPU'ların kullanılmasını önlemek amacıyla yalnızca bu taleplere yanıt verecek şekilde ayarlanabilir.\\n\\n&eSeviye Vericisi&f, Üretim Kartı ile yükseltildiğinde, verilen eşya için bir üretim işi tespit edildiğinde ya da özellikle eşyayı üretmek için bir sinyal yayarak doğrudan üretimi kolaylaştırmak için redstone yayacak şekilde yapılandırılabilir. İkincisi, belirli bir eşyayı yapmak için gereken tek şeyin bir üretim şablonu bile gerektirmeden, redstone sinyali olduğu durumlar için geçerli olacaktır."]
 	quest.5E6585F7627247E3.quest_subtitle: "Yükseltme biçiminde otomasyon!"
 	quest.5E799B92358A8732.quest_desc: ["&cNether&r'da, &6Antik Kalıntı&r ile karşılacaksın. Bunlar eritilerek Hurdalara dönüştürebilir ve bunlar da Altınla birlikte oyundaki en güçlü alet ve zırhlardan bazılarını yapmak için kullanılan oyun sonu metali olan &6Netherit Külçeleri&r elde etmek için birleştirilebilir."]
 	quest.5E799B92358A8732.title: "&dAntik Metaller"
 	quest.5E7E35CCAF1C88EE.quest_desc: ["&bME İçe Aktarma Veriyolu&f, veriyolunun baktığı harici depodan periyodik olarak eşyaları çeker. İsteğe bağlı olarak, söz konusu envanterden yalnızca belirli eşyaları almak için filtrelenebilir."]
 	quest.5E7E35CCAF1C88EE.quest_subtitle: "G (Giriş)"
-	quest.5EB488C393B084C4.quest_desc: ["&lChiseled&r, &4&lRechiseled&r'ın devamı! \\n\\nBu Modun tamamı Chisel Aleti içinde çalışır, GUI'sini açmak için onunla Sağ Tıkla. \\nSolda tasarımı seçtiğin yer ve Sağ Altta Blokları yerleştirdiğin yer var.  \\n\\nBunun üzerinde tasarımı ayarlanmış desenlerde görüntüleyebilirsin: sadece 1 Blok, 3x1 Blok veya o Bloğun 3x3 Duvarı. Ayrıca düğmeye tıklayarak görüntüyü dönecek ya da dönmeyecek şekilde ayarlayabilirsin! \\n\\nBlokların gittiği yerin yanındaki Chisel'e tıklayabilirsin, bunu yapmak seçilen tasarımı Envanterindeki değiştirilebilecek her Bloğa ayarlayacaktır.  \\n\\nAyrıca Dayanıklılığı yoktur!"]
 	quest.5EB7CE3A1DCD3E9B.quest_desc: ["Bu bir &cMıknatıs&r."]
 	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Kemer"
 	quest.5EB87CE5F6DEFAAA.quest_desc: ["&6Magma Walker&r'lar sana 2 şey sağlar, hasar almadan &cMagma Blokları&r üzerinde yürümek ve bir süreliğine &4Lav&r üzerinde yürümek. &cMagma Blokları&r'nın bekleme süresi yoktur ama &4Lav&r üzerinde yürümenin vardır. Süre bittikten sonra &6Boot&r'lar aşırı ısınır ve sana hasar verir. "]
 	quest.5EB87CE5F6DEFAAA.quest_subtitle: "Yıkık Geçitler, Nether Kaleleri ve Bastion'larda Bulunur"
-	quest.5EF54E0EB14024D1.quest_desc: ["2 &eTozlaşmış Altın&r ve 1 &3Tozlaşmış Ender&r (bunları karıştırma yoksa Yükseliş Parşomeni elde edersin!). \\n\\nBunları &7Parşomen (Spell Cloth)&r üzerinde kullanarak &7Parşomen&r'imizi elde edeceğiz! \\n\\nSonra, bu &7Parşomen&r'i kullanarak daha az Patlayıcı ama yine de eğlenceli &a&lAsa&r'mızı elde edeceğiz!"]
-	quest.5EF54E0EB14024D1.title: "&7Uzaysal Oryantasyon Bozukluğu Parşomeni"
 	quest.5F56892CD904C40F.quest_desc: ["Beşinci ve son AE2-standart depolama bileşeni kademesi, &e262144&f bayt depolama alanı sağlar."]
 	quest.5F56892CD904C40F.title: "256k Depolama Bileşeni"
 	quest.5F5E43B3F51CAE9E.quest_desc: ["'Sihirli bir şekilde lezzetliler!' \\n\\n&aSuperstitious Hat&r öldürdüğün Yaratıklar için sana fazladan Yağma seviyesi verir. \\n\\nBüyülerle birlikte istiflenir!"]
 	quest.5F5E43B3F51CAE9E.quest_subtitle: "Kafa"
-	quest.5F7F753FD72BFBBF.quest_desc: ["&l&7Railcraft&r tarafından eklenen Daha Fazla Bloklar? Bunun trenlerle ilgili olduğundan bile şüphe etmeye başladım!"]
-	quest.5F7F753FD72BFBBF.title: "&l&7Railcraft&r Renkli Bloklar"
-	quest.5F9B8ACCE0C8389E.quest_desc: ["Daha eğlenceli, küçük &4&lMahou Tsukai&r silahları elde etmek için bir &7Güçleniş Parşomeni&r'ne ihtiyacın olacak. \\n\\nBir tane elde etmek için, bir &7Parşomen (Spell Cloth)&r yerleştir. Ardından üzerine Güçleniş Ayini yap ve &7Parşomeni&r al."]
-	quest.5F9B8ACCE0C8389E.title: "&7Güçleniş Parşomeni"
 	quest.5FA9BC0D8476D322.quest_desc: ["Sırt çantasındaki yiyeceklerle seni otomatik olarak besler."]
-	quest.5FD4FB9D24586B9B.quest_desc: ["Bir &9Yıldırım Asası&r elde etmek için ne yapman gerektiğini merak ediyorum? \\n\\nGüçlendirilmiş Çubuğu tutarken &9Yıldırım&r çarpılmak olabilir mi?\\n\\nBence de öyle! \\n\\nBir kez &9&lEmrys&r'i diğer elinde tuttuğunda ve Sağ Tık'a basılı tuttuğunda, sonuçlar ŞOK EDİCİ olacaktır!"]
-	quest.6012D6C3253895F0.quest_desc: ["&cMr Crayfish&r, Modlanmış &2&lMinecraft&r ismiyle eş anlamlı bir addır. \\n\\nEn çok indirilen Modu elbette Mobilya Modu! \\n\\nÇalışmaya başlamak için Enerji gerektiren bir Workbench'e ihtiyacın olacak."]
-	quest.6012D6C3253895F0.title: "&cMr Crayfish's Mod'ları&c"
-	quest.601C719C8FD513F0.quest_desc: ["3 &cNetherit Külçe&r, 3 Kablosuz Güçlendirici ve bir sürü &2hoş &eDişliler&r ile Sonsuz Menzil Artırıcı elde edebiliriz! \\n\\nEn kafa karıştırıcı kısımlar Dişliler. Külçeleri doğrudan yapamayız, Tozları birlikte karıştırmamız ve ardından Külçeleri elde etmek için karışımdan ortaya çıkan tozu Eritmemiz gerekir.\\n\\nMaalesef bu, Boyutlar arasında çalışmıyor!"]
 	quest.609D03E335CF32E2.quest_subtitle: "Kademe: &d6"
 	quest.60CECAAE2D43EC6E.quest_desc: ["&2Ender Hand&r iki şey yapar: Pasif Yetenek ve Aktif Yetenek. Pasif, &5Enderman&r'lerin onlara baktığında sinirlenmemesini sağlar. Aktif ise Sol Alt ile baktığın bir yaratık ile yer değiştirmeni sağlar."]
 	quest.60CECAAE2D43EC6E.quest_subtitle: "End Şehirleri ve End Gemilerinde Bulunur"
@@ -1116,9 +850,7 @@
 	quest.6144202A97C6CD1C.quest_subtitle: "Bıçak altında"
 	quest.6144202A97C6CD1C.title: "Kablo Çapası"
 	quest.615B9062FE8CCD36.quest_desc: ["Baktığın blok için en etkili olan alete otomatik geçiş yapar."]
-	quest.616ED6C49C37EB91.quest_desc: ["&b&lPaths and Pathways&r, tonlarca farklı Halı benzeri Bloklar ekler (ve tam Bloklar ve Basamak türleri). \\n\\nBunlar açıkça Yol olarak kullanılıyor, sadece &2&lMinecraft&r Yol Bloğundan çok daha güzel görünüyorlar. "]
 	quest.61A8FAEC4FF18449.quest_desc: ["Bunlar envanterindeki eşyaları şarj etmek için kullanılabileceği gibi &7Ender Ağı&r kanalının toplam güç kapasitesini artırmak için de kullanılabilir."]
-	quest.61BE7882EE0E6FAF.quest_desc: ["Merdivenlerden ne yuvarlanır \\nTek başına ya da çift olarak... \\nKomşunuzun köpeğinin üzerinden yuvarlanır \\nAtıştırmak için ne harikadır \\nVe sırtınıza sığar? \\n İşte bu Kütük! Kütük! Kütük!"]
 	quest.61C49BC2B384FB80.quest_desc: ["Yeterince Ender İncisi ve Blaze Tozu topladıktan sonra, Ana Dünyadaki End Geçidine gidebilirsin.\\n\\nBunu yapmak için birkaç tane &dEnder Gözü&r üret ve sağ tıklayarak gökyüzüne fırlat. Bunlar en yakın End Geçidinin yönünü gösterecektir.\\n\\nStronghold'a git, End Geçidini bul ve Ender Gözlerini kullanarak çerçeveyi tamamla ve &dEnd'e&r giden geçidi oluştur."]
 	quest.61C49BC2B384FB80.title: "&dEnd'i &aBulmak"
 	quest.62161BDE9AAAA4BF.quest_subtitle: "Patika Kalıntıları"
@@ -1131,9 +863,6 @@
 	quest.635620A03E3505BF.quest_desc: ["Bunları nasıl bulduğunu bilmek istemiyorum."]
 	quest.635620A03E3505BF.quest_subtitle: "Ama....İnekler kırkılamaz..."
 	quest.635620A03E3505BF.title: "Deri"
-	quest.63768C7B988ED22B.quest_desc: ["Güçlendirilmiş Elmas Kılıcını &dEjderha Nefesi&r havuzuna at ve &d&lKlarent&r elde et! \\n\\n&d&lKlarent&r, Kalkan ve Kılıç gibi işlev görür. \\n\\nSağ Tık'a basılı tutarak &d&lKlarent&r ile saldırıları engelle ve engellediği tüm saldırılar, engellediği kadar hasar versin."]
-	quest.63768C7B988ED22B.title: "&d&lKlarent"
-	quest.63CAD77A4488F2CE.quest_subtitle: "Kazma + Balta + Kürek"
 	quest.64141B720662B652.quest_desc: ["&6&lRelics&r'e hoş geldin! \\n \\n&6Relics&r modu Artifacts'e benzer. Tüm Dünyalarda birçok benzersiz ve güçlü eşya elde edersin. \\n \\nBirçok farklı yeteneğe sahiptirler ve bu yetenekler &6Research Window&r aracılığıyla elde edilir ve geliştirilir (Relic üzerinde shift tuşunu basılı tut). Orada &aVanilla TP&r'sini kullanarak yeteneklerini değiştirerek istatistiklerini yeniden hesaplayabilir, &6Relic&r'leri kullanarak kazandığın mevcut &eRelic TP&r'sini görebilir ve yeteneklerinin seviyesini yükseltebilirsin! \\n \\n&6Relic&r Yeteneklerini kullanmak için varsayılan tuş Sol Alt'tır."]
 	quest.6431A384DDFBF439.quest_desc: [
 		"&bAğ Aracı&f, AE2 boyunca bir ağın genel güç tüketimi ve depolama alanı gibi çeşitli ayrıntılarını ekranda görüntülemek için kullanılan önemli bir araçtır. "
@@ -1143,14 +872,8 @@
 	quest.6431A384DDFBF439.title: "Ağ Araçları"
 	quest.6451D5022BCB5E7E.quest_desc: ["Eternal Steak, bir dakika yanlış mod. &cInfinity Ham&r sonsuz bir besin kaynağı olarak çalışır. Kemikteki tüm Eti ye. Bittiğinde bir süre sonra Yenilenecektir. Karnını daha fazla doldurmak için onu yükseltebilirsin.  \\n \\n&cInfinity Ham&r'ın İkinci Yeteneği onu İksirlerle marine etmektir. Bunu yaptığında, &cHam&r'dan her yediğinde o İksir Etkisini elde edersin. Ancak tüm Eti yersen Etkiyi kaybedersin."]
 	quest.6451D5022BCB5E7E.quest_subtitle: "Maden Ocaklarında veya Stronghold'larda Bulunur"
-	quest.64AB1E133E218173.quest_desc: ["Template Board'ları sonsuza kadar kullanamazsın!\\n\\nTaslak Kağıdı, Template Board'ların aksine yeniden kullanılabilen Taslaklar yapmak için kullanılır."]
-	quest.64AB1E133E218173.quest_subtitle: "Şematik Yapıcı"
-	quest.64AB1E133E218173.title: "&9Taslak Kağıdı"
 	quest.654F5C84114A31A1.quest_desc: ["Çok basit ve ucuz &e&lIron's Spells&r Zırhı. Oyun başlangıcı için faydalı!"]
 	quest.654F5C84114A31A1.title: "&4Scarecrow Kıyafetleri"
-	quest.655BD0A54AF1E1CA.quest_desc: ["İçerisi için yeterince mobilya gördük, peki ya dışarısı? İçeride 4 Temmuz Barbeküsü yapamazsın! \\n\\nDış mekan takımı bize Grill'ler, Cooler'lar ve Misafirlerin vatansever kalplerle geldiklerini bildirmek için çalacakları Doorbell'ler sunuyor!"]
-	quest.655BD0A54AF1E1CA.title: "Dış Mekan Takımı"
-	quest.657B3116A6419420.quest_subtitle: "Kendi Sapın!"
 	quest.659A903F97F93BE2.quest_subtitle: "Hızlı ve Basit"
 	quest.659A903F97F93BE2.title: "Yaşam Ekmeği"
 	quest.65A529C8238E89F1.quest_desc: ["&5&lMekanism&r sayesinde artık &9Lapis Lazuli&r'den Zırh yapabiliyoruz! \\n\\nYine de biraz kötü..."]
@@ -1161,12 +884,6 @@
 	quest.6601450C63FEEE61.title: "&bKırma Kademesi 3"
 	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r'un, &6Allthemodium&r ile birleşmiş hâli!"]
 	quest.66039B738CF0718A.title: "&3Vibranium&r - &6Allthemodium&r Alaşımı Külçesi"
-	quest.6607E5CDB3D17D67.quest_desc: ["Merak etme, bunlar yanmaz!"]
-	quest.6607E5CDB3D17D67.title: "&l&bChipped&r Yünü"
-	quest.667B95A687703D6D.quest_desc: ["Hiç yaydan Elmas Kılıç fırlatmak istedin mi? Ya da Netherit çapalarını? Ya da temelde herhangi bir \"Silah\"ı? \\n\\nO zaman, &b&lMenzilli Silahlar Yayı&r tam senlik! \\n\\nShift + Sağ Tık ile değiştirilebilen iki Modu vardır: Normal ve Projection. Değişen tek şey, Envanterinden herhangi bir Silahı mı (Normal) yoksa sadece Diğer Elindeki Silahını mı (Projection) fırlattığıdır. \\n\\n&b&lYay&r'dan fırlatılan Silahlar fırlatılmış bir Üçlü Mızrak gibi davranacak ve aynı şekilde geri alınabilecektir. \\n\\nSilahlar normal bir Savurma ile aynı hasarı verecektir!"]
-	quest.667B95A687703D6D.title: "&b&lMenzilli Silahlar Yayı"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r tabii ki Renklere ilgili olmakla birlikte, Işıklar da Renklere dayanmaktadır. \\n\\nRGB Işıklar hangi Boya ile yapılmışsa o olacaktır. \\n\\nBoya özellikle Değerli Taş değildir."]
-	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Işıkları"
 	quest.668C313FF46B6005.quest_desc: ["Sırt Çantasına Ocak GUI'si ekler."]
 	quest.66B5A8D259E12BF5.quest_desc: ["Bekle, yani bana &cNetherit&r ile aynı özelliklere sahip olduğunu mu söylüyorsun? Ayrıca Büyü Güçlendirmeleri mi var? Ve üretmek için Demirci Şablonlarına ihtiyaç duymuyor mu? \\n\\nNeden biri, normal &cNetherit&r istesin ki!"]
 	quest.66B5A8D259E12BF5.title: "&4Netherite Battlemage Kıyafetleri"
@@ -1180,7 +897,6 @@
 		""
 		"Not: Görevi tamamlamak için eşyalardan yalnızca birini yapman gerekir."
 	]
-	quest.67216EC5274F08B9.quest_subtitle: "Çobanlar tarafından kullanılır"
 	quest.67704F7341EDCC49.title: "&bElmas Sırt Çantası"
 	quest.677365A816994C8B.quest_desc: [
 		"&9Oyuncu Vericisi&r, bir oyuncunun eşyalarını kablosuz olarak şarj eder. Önce bunu &9Bağlantı Kartı&r kullanarak bir oyuncuya bağlamalısın. Bu, vericinin yalnızca aynı boyutta çalışmasını sağlayan temel karttır. Bunun yerine bir &dBağlantı Kartı (Boyutsal)&r kullanarak bunu yükseltebilirsin. "
@@ -1189,7 +905,6 @@
 	]
 	quest.677A701E06422CF3.quest_desc: ["Tüm blokların üzerinde koşarken hızlanmanı sağlayarak çok daha hızlı hareket etmeni sağlar! Uyarı, çok daha kaygan! Daha da hızlı gitmek için onları yükselt."]
 	quest.677A701E06422CF3.quest_subtitle: "Maden Ocaklarında veya Stronghold'larda Bulunur"
-	quest.67C76EDD4BCCFF3F.quest_desc: ["&bStrigeor's Higher Binding&r sayesinde &bEmpty Soul Gem&r yapabiliriz. \\n\\nBunlar, Yaratıkları güvenli bir şekilde taşımak veya &d&lEjderha Ruhu&r yapmak için kullanılabilir. \\n\\nBence ikisini de yapmalıyız!"]
 	quest.6827836C8E675A94.quest_desc: ["İskeletlerin farklı çeşitleri vardır, tıpkı Zombilerin olduğu gibi! \\n\\nSerseri- Soğuk Biyomlarda ortaya çıkar. \\nBatık- Bataklıklarda ve Sınama Odalarında ortaya çıkar. \\nMurk'lar- Su altında Mercan Resiflerinde ortaya çıkar. \\nVerdant'lar- Ormanlarda ortaya çıkar."]
 	quest.6827836C8E675A94.title: "İskelet Çeşitleri"
 	quest.686EB173C94301C0.quest_desc: ["&e&lIron's Spells&r &bBuz Zırhı&r!"]
@@ -1199,37 +914,23 @@
 	quest.68B0B3DAF1145191.title: "İlk Başta"
 	quest.68DABFFB6B3E1A57.title: "Göz Zırh Süslemesi"
 	quest.68E6AE1B9EBCEFFF.title: "&3Vibranium Topuz"
-	quest.69383DA579901E7E.quest_subtitle: "Sana şunu sormama izin ver (Let me Axe you this)"
-	quest.694D7CD9EC663355.quest_subtitle: "Gürz, bu ilgini çekti mi?"
 	quest.698A959C9E449592.quest_desc: ["İlerlemenin bir sonraki adımı Demir Kazma yapmaktır.\\n\\nBu kazma, Elmas da dahil olmak üzere oyundaki bazı nadir cevherleri kazabilir!"]
 	quest.698A959C9E449592.title: "&aDemir&r Kazma"
 	quest.69A517AB8A801939.quest_desc: ["&5Wither&r, Minecraft'ta öldürmesi en zor patronlardan biridir. Esas nedeni uçabiliyor olması. Ve patlaması. Ve hızlı olması. Ne demek istediğimi anladın.\\n\\nÇağırmak için, 4 Ruh Kumunu T şeklinde yerleştir. 3 Wither İskelet Kafatasını 'T'nin üstüne yerleştir ve &5Wither&r ortaya çıkacaktır.\\n\\nİpucu: Patlıyor. Hem de çok. Bunu üssünün yakınında çağırma."]
 	quest.69A517AB8A801939.title: "&5Wither'ı &6 Öldür"
 	quest.69B7DE2283B4EE6C.quest_desc: ["&bÜretim Eş İşlem Birimi&f, şablon sağlayıcıların eşyaları bağlı cihazlarına daha hızlı göndermelerine veya birden fazla gerekli malzemeyi yapmak için eşzamanlı olarak çalışmalarına olanak tanıyarak üretim işlerini hızlandırmaya yardımcı olur.\\n\\nTemel AE2 eş işlemcisi buna yardımcı olmak için eş işlemci 'iş parçacığı' sağlarken, &dMEGA Cells&f eş işlem birimi böyle tek bir blokta 4 iş parçacığı sağlar."]
 	quest.69B7DE2283B4EE6C.quest_subtitle: "Daha fazla CPU çekirdeği indir"
-	quest.6A12188E50EAEB78.quest_desc: ["&cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&r tek seferde bir istif Eşyayı eritir! \\n\\nBunu üretmek için &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&ar&9e&r ve onun içinde 2 &cNetherite Furnace&r'a ve Camdaki &cg&6ö&ek&2k&3u&9ş&5a&cğ&6ı&r'nın tüm renklerine ihtiyacın olacak! \\n\\nArdından, moddaki neredeyse tüm diğer Ocakları birleştirerek elde edeceğin &cR&6a&ei&2n&3b&9o&5w&r &cP&6l&ea&at&3i&9n&5g&r'e ihtiyacın olacak. &3&lİhtimal Dışı Olasılık Cihazı&r üretmek için bunlardan 2 tanesine ihtiyacın olacak."]
-	quest.6A12188E50EAEB78.title: "2 &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e"
 	quest.6A2B2C5E2ADCE366.quest_desc: ["Sophisticated Backpacks, şık özellikler eklemek için filtreler kullanabilen, yükseltilebilir Sırt Çantaları sunuyor!\\n\\nSırt çantaları Curios Sırt yuvana yerleştirilebilir ve boyanabilir."]
 	quest.6A2B2C5E2ADCE366.quest_subtitle: "Envanterler çok Küçük"
-	quest.6A393C7A24899E3E.quest_desc: ["Bir külçeyi Grader Catalyst ile Grader'a yerleştirmek, malzemeye derece verecektir.\\n\\nDerece ne kadar iyi olursa, malzemeyle ilgili istatistikler de o kadar iyi olur.\\n\\nEn iyi derece \"MAX\"tır."]
-	quest.6A393C7A24899E3E.quest_subtitle: "Malzeme Test Cihazı"
 	quest.6A452BFC8A967C39.quest_desc: ["Bu &aClaws&r'ı takınca kendini farklı hissediyorsun. Adrenalin pompalanıyor, düşünceler azalıyor, gücün başka hiçbir şeye benzemeyecek şekilde artıyor! \\n\\n&aFeral Claws&r ile Silahların ya da Yumruklarınla çok daha hızlı Saldıracaksın."]
 	quest.6A452BFC8A967C39.quest_subtitle: "Eller"
 	quest.6A497B063CF32A5C.quest_desc: ["Mayalı Örümcek Gözü, bir canavar çağırıcıdan ortaya çıkabilecek yaratık miktarını artırmak için kullanılabilir. Ortaya çıkan Yaratıklar, Maksimum miktar sayısı ile belirlenecek şekilde rastgeledir. Maksimum 16 olacak şekilde, her göz ile 1 artar veya azalır."]
 	quest.6A497B063CF32A5C.title: "Doğma Sayısı"
-	quest.6AC85C203E7C3482.quest_desc: ["&b&lMacaw's Modları&r'ndaki her şeyden bir tane elde ettin. Bence bunu hak ettin. \\n\\nVe bununla kendi &bMacaw&r'ını elde ettiğini kastediyorum!"]
-	quest.6AC85C203E7C3482.title: "&bMacaw&r Tamamlandı"
-	quest.6AD061C4331BE1F8.quest_desc: ["&4Mahou&r, &4&lMahou Tsukai&r'deki her şeyin yaşam kaynağıdır. &eBüyüleri&r kullanmak ve Silahlar yapmak için onu artırman ve tonlarca olması gerekir. \\n\\n&4Mahou&r kullandığında limitin artar. \\nDaha fazla &4Mahou&r depolamak için Uyumlanmış &aZümrüt&r veya &bElmas&r kullanmak &4Mahou&r harcamanın kolay bir yoludur. \\n\\nYeterince yüksek bir &4Mahou&r'ya sahip olduğunda bu &eBüyüleri&r deneyebilirsin..."]
-	quest.6AD061C4331BE1F8.title: "&4Mahou&r'nu nasıl büyütürsün"
-	quest.6B0D84B730C6C76C.quest_desc: ["&2&lMinecraft&r'ın size verdiği 16 renk yeterli değil mi? \\n\\nSanırım 18 tane daha alabilirsin! \\n\\n&l&cDy&6en&ea&ami&bcs&r bize &2&lMinecraft&r'ın Boyaları ile aynı Eşyalar ve Bloklar için kullanılabilecek 18 Boya daha sunuyor!  \\n\\n&6Peach&r renginde Mum mu istiyorsun? Bir tane alabilirsin! &dBumblegum&r renginde Shulker mi istiyorsun? Neden olmasın! &eFluorscent&r renginde Yatak mı istiyorsun? Tabii ki!"]
 	quest.6B2027DA7AA6FF34.quest_desc: ["&9Powah&r tamamen &dGüç&r üretmek, depolamak ve iletmekle ilgili teknoloji modudur. Temel FE üretiminden &b250k FE/t&r üreten &aReaktörlere&r kadar, Powah sana yardımcı oluyor!\\n\\nBaşlamak için dışarı çık ve biraz &aUraninit&r madenciliği yap!"]
 	quest.6B2027DA7AA6FF34.title: "&9Powah'a&r &aHoş Geldin"
 	quest.6B40AF49F505A551.quest_desc: ["Hiç Batman gibi olmak istedin mi? Gölgelerde yaşayıp adaleti sağlamak? O zaman &9Midnight Robe&r tam sana göre! (Ayrıca şık!) Düşük Işık Seviyelerinde giyildiğinde Görünmez olursun ve Hız kazanırsın. Bu, Işık Seviyelerinin daha yüksek olması veya daha fazla Hız vermesi için yükseltilebilir. \\n \\nİkinci Yetenek, çoğu Gizlilik Oyununda görülen özellikleri verir. Görünmezken bir Yaratığa vurduğunda çok daha fazla hasar verirsin ancak Yaratığın etrafında oluşturulan Çemberden çıkana kadar gizliliğini ve hızını kaybedersin."]
 	quest.6B40AF49F505A551.quest_subtitle: "Maden Ocaklarında veya Stronghold'larda Bulunur"
 	quest.6B671CB07D046BEC.title: "&bElmas&r"
-	quest.6BC78AF7C9D93F11.quest_desc: ["Sırlanmış çeşitleri bile var!"]
-	quest.6BC78AF7C9D93F11.title: "&l&bChipped&r Terakota"
-	quest.6BFD7854F078BF16.quest_subtitle: "Şunu Kavra"
 	quest.6C5F9D0D447EFB9C.quest_desc: ["Elimizdeki tek şeyin &l&2Vanilla&r olduğunu mu düşünüyorsun? \\n\\n&6AllTheModium Zırhı&r, daha fazla Zırh Puanı ve Zırh Sertliğine sahiptir. Ayrıca Büyüye karşı daha fazla Koruma sağlar ve &6&lAllTheModium&r Görev Sayfasında okuyabileceğin diğer güçlendirmelere sahiptir! \\n\\nBu arada onu üretmek için &cNetherit&r'e ihtiyacın olacak."]
 	quest.6C5F9D0D447EFB9C.title: "&6AllTheModium Zırhı"
 	quest.6CAD67D21E1EA861.quest_subtitle: "&oEvrensel uzaktan erişim."
@@ -1240,7 +941,6 @@
 	quest.6D738730B371B152.quest_desc: ["&l&7Madencilik Boyutu&r, yüzeyinde kesinlikle hiçbir şey bulunmayan Süperdüz bir dünyadır. \\n\\nYüzeyin altında neredeyse her Cevher var. \\n\\n&7&lMadencilik Boyutu&r'nda Mağaralar, Yaratık Doğmaları ve yoluna çıkacak hiçbir şey yok. Sadece Taş türleri ve Cevherler var! \\n\\nCevher ortaya çıkışları Y Seviyesi ve &7&lMadencilik Boyutu&r'ndaki katman için farklılık gösterir.\\n\\nMaden Ocağı (Quarry) kurmanı tavsiye ederim."]
 	quest.6D738730B371B152.title: "&l&7Madencilik Boyutu"
 	quest.6D88C19F47D0D469.title: "Kademe: &7Küçük"
-	quest.6E04A314CD796254.quest_desc: ["Her Büyü Modu neye ihtiyaç duyar? Silah mı dedin! Umarım silah demişsindir! \\n\\nNobu, elbette 3 farklı ateşleme Moduna sahip bir silahtır."]
 	quest.6E0624750DF8CD18.quest_desc: ["Artık bunları üretemezsin, artık &5Netherit&r'den yükseltmen gerekiyor. \\nEvet, Büyüleri aktarır ve aletleri Onarır!"]
 	quest.6E0624750DF8CD18.title: "&6Allthemodium Aletler"
 	quest.6E15447FC3D678E0.quest_desc: ["&bBulanık Kart&f, filtrelenmiş bir eşyanın hasar ya da büyü gibi herhangi bir (NBT) metadata'sına bakılmaksızın eşleştirilmesine izin verirken, &bÇevirici Kart&f bu tür veriyollarındaki filtreyi beyaz listeden kara listeye geçirir."]
@@ -1270,8 +970,6 @@
 		"O andan itibaren, hücrenin alan bölgesi içinde veya ilk kodlama için kullanılanla aynı boyutta bir SCS'de bulunan tüm bloklar sırasıyla üst dünyaya veya mekansal boyuta geri taşınabilir. Hem mekansal bölge hem de SCS içinde bloklar varsa, bunlar uygun şekilde yer değiştirecektir."
 	]
 	quest.6F3D0A248B5A9CA2.title: "Mekansal Depolama Hücresi"
-	quest.6F65216B13E9FFA9.quest_desc: ["Bir blok elde et. Kelimenin tam anlamıyla herhangi bir Blok. \\n\\nHer Oyuncu Blokların yapı yapmanın yapı taşları olduğunu bilmelidir. Gerçekten bir şey inşa etmek için Bloklara ihtiyacın olacak."]
-	quest.6F65216B13E9FFA9.title: "Bloklar!"
 	quest.6F71FD826C29C31A.quest_desc: ["Bu, önceki sürümlerden gelenler için yeni olabilir. Canavar çağırıcısına kaplumbağa yumurtası uygulamak, sadece canavar çağırıcısının içindeki yaratığın yavru versiyonunu ortaya çıkaracaktır. Bu sadece yaratıkların Vanilla yavru versiyonları ile çalışır, değiştirilmemiştir."]
 	quest.6F71FD826C29C31A.title: "Genç"
 	quest.6F76DA3BBAE8337B.quest_desc: ["&5Unobtainium&r, &6&lAllTheModium&r'dan elde edebileceğimiz en güçlü Zırh! \\n\\nŞimdi 100% Savrulma Direnci ve her yerde daha yüksek özelliklerle! \\n\\nAyrıca bunu yapmak için &3Vibranium Zırhına&r ihtiyacın var."]
@@ -1288,14 +986,12 @@
 	quest.6FF54B5D953E1797.quest_desc: ["Çoğu oyundaki '&4Berserk&r' terimini biliyorsan, bu &cRage Glove&r'un ne yaptığını anlamana yardımcı olacaktır. Bilmiyorsan, &4Berserk&r'in temel özellikleri, birisi düşük canı olduğunda veya çok fazla hasar aldığında, genellikle daha yüksek hasar verir ve daha hızlı olur. İlk Yetenekte olan şey budur, hasar aldığında daha yüksek hasar ve hız için değiştirilebilecek puanlar biriktirirsin! \\n \\nİkinci Yetenek, bunu pasif olarak yapar ve kaybettiğin sağlık miktarı başına sana Yenilenme verir. \\n \\nÜçüncü Yetenek aktif bir yetenektir, onu kullanırken (Alt Tab) baktığın herhangi bir yaratığa hamle yapar ve saldırırsın. Vurulduğunda onları &cAlev Alev&r yakacak, onlara Kanama verecek ve birikmiş &4Berserk&r puanlarıyla onunla ekstra hasar verebileceksin!"]
 	quest.6FF54B5D953E1797.quest_subtitle: "Yıkık Geçitler, Nether Kaleleri ve Bastion'larda Bulunur"
 	quest.700F3FF7C23D0C0F.quest_desc: ["&5Ender Hücresi&r, &7Ender Ağındaki&r bir kanal için güç depolayacaktır. Ağın güç kapasitesini artırmak için, arayüzünü açmak üzere Ender Hücresine sağ tıkla, ardından toplam kapasiteyi artırmak için &aBatarya&r ya da &9Enerji Hücresi&r ekle."]
-	quest.7043CDA7EBFAF560.quest_desc: ["Coating Smithing Template'ler ekipman kaplamak için kullanılır. Diğer Demirci Şablonları gibi üretilerek çoğaltılabilirler."]
 	quest.70B6C9409AE69284.quest_desc: ["Doğa'nın Pusulası sana arayabileceğin biyomların bir listesini verir.\\n\\nBir biyom seç, ardından 'Ara'ya bas. Sol üstte bazı bilgiler göreceksin ve pusula, biyomun yönünü gösterecektir.\\n\\nExplorer's Compass da aynı şekilde çalışır ancak biyomlar yerine yapılar için kullanılır."]
 	quest.70B6C9409AE69284.quest_subtitle: "Biyomları/Yapıları Bulmaya Yardımcı Olur"
 	quest.70B6C9409AE69284.title: "Arama İçin Pusulalar"
 	quest.70C7D92844089DEB.quest_desc: ["Diğer Kolyeler gibi bunun da saldırganına zarar verme şansı var. Sadece Yıldırım ile! \\n\\nAyrıca, Yıldırım tarafından vurulacak kadar şanslıysan/şanslı değilsen. Sana zarar vermez."]
 	quest.70C7D92844089DEB.quest_subtitle: "Kolye"
 	quest.70ED849A2EB44DEE.quest_subtitle: "Kademe: &b3"
-	quest.7154D73516548149.quest_desc: ["&6&lAllthemodium&r, Netherit'den sonra daha fazla içerik eklemek için &6AllTheMods Team&r tarafından özel olarak eklenmiş bir moddur! \\n\\n&6&lATM Yıldızı&r'na gerekli bazı Eşyaları elde etmek için maceraya atılman gerekecek. \\n\\nArtık bunun için takip edebileceğin bir Görev sayfası var!"]
 	quest.7188DC06A28AE30E.quest_desc: ["&eGolden Hook&r takmak, düşmanlardan elde edeceğin deneyimi artırır!"]
 	quest.7188DC06A28AE30E.quest_subtitle: "Eller"
 	quest.71C552678A0F649F.quest_desc: ["&7Osmiyum&r, Kayrak Taşı etrafında ortaya çıkar ve Kazmak için sadece Demir Kazma (ya da Demir kademesinde Kazma) gerekir. Ancak &cNetherit&r'den daha iyi özellikler verir!"]
@@ -1324,19 +1020,12 @@
 		"2. Karşılık vermek için zamanın olur. Sana en iyi şekilde savaşmak için zaman verir. \\n\\n&eCross Necklace&r ile birkaç Yenilmezlik Çerçevesi daha elde edersin. Bu da karşılık vermek için fazladan zaman demektir!"
 	]
 	quest.72D6265E35814927.quest_subtitle: "Kolye"
-	quest.72DB967E59EEA729.quest_desc: ["&3&lGlassential&r inşa için çok önemli bir moddur, hatta amacı olan yapılar için bile! \\nBu sadece normal Cam değil, bunların Eşya üzerinde gezinirken okunabilen özellikleri var! \\n\\nİçinden geçebildiğin ancak Yaratıkların geçemediği Ethereal Glass gibi. (Bunu 9sky'daki Arı Kubbem için kullandım!)"]
 	quest.72DDA413D73E3235.quest_desc: ["Sıradaki &6&lAllTheModium&r Zırhı olan &3Vibranium&r'la her şeyde çok daha yüksek özellikler! \\n\\nBunu oluşturmak için &6AllTheModium Zırhına&r ihtiyacın olacak."]
 	quest.72DDA413D73E3235.title: "&3Vibranium Zırhı"
 	quest.72E1C19156633391.quest_desc: ["Kovalar ve Tanklar lavları etrafta taşımak için oyunun başlarında kullanılabilecek harika bir yöntemdir."]
 	quest.72E1C19156633391.title: "Lav Kovası"
 	quest.730130CCF1CF5119.quest_desc: ["Bu Relic'ler, &2Ana Dünya&r'da bulunabilir!"]
 	quest.730130CCF1CF5119.title: "&2Ana Dünya"
-	quest.731A4846BC556AE1.quest_desc: ["&8&lReplika&r için ihtiyacın olan son şey, tabii ki başka bir &7Parşomen&r. \\n\\n&7Ölüm Toplayıcı Mistik Gözler Parşomeni&r. \\n\\nYaratıkların ölümünü izleyerek Ruhları toplamana izin verecek. \\n\\nHer ölüm sadece çok az bir Ruh'tur. Bu yüzden çok fazla ölüm görmen gerekecek. \\n\\n100'e ulaştığında &8&lReplika&r elde etmeye hazırsın demektir."]
-	quest.731A4846BC556AE1.title: "Ruhlar"
-	quest.73201E591C2A40CC.quest_desc: ["Artık &6Yıldız Parça&r'larını elde ettiğine göre, &6&lYıldız&r'larımızı yeniden yapmak için farklı parçaları yapmaya başlayabilirsin! \\n\\n1 &6&lYıldız&r'ı yeniden yapmak için toplam 262 &6Yıldız Parça&r'sına ihtiyacın olacak... umarım iyi bir Arı kurulumu yapmışsındır!"]
-	quest.73201E591C2A40CC.title: "&6Yıldız Parça&r'ları"
-	quest.73325912C84F64A5.quest_desc: ["Başka bir seçenek de Zaman Değişim kullanmaktır; 12 saat boyunca &4Mahou&r kazan, ardından 12 saat boyunca harca. \\n\\nİkinci bir Zaman Değişim çemberi yaparsan, ilki harcamaya başladığında bu bir döngü haline gelir."]
-	quest.73325912C84F64A5.title: "Zaman Değişimi"
 	quest.7338CA23B27B2AF8.quest_subtitle: "&f12 &cSaldırı Hasarı"
 	quest.73B73870B29DFAD9.quest_desc: ["Bizden biri! Bizden biri! \\n\\n&eVillager Hat&r, Köylüleri aynı Kasabadan olduğuna inandırır. Böylece Kasaba Dışı Vergisinden muaf olursun. Köylü Ticaretleri daha ucuzdur."]
 	quest.73B73870B29DFAD9.quest_subtitle: "Kafa"
@@ -1355,13 +1044,10 @@
 	quest.74FC0DDDB91DB172.title: "GÇ (Giriş-Çıkış)"
 	quest.7503823ACDDB0491.quest_desc: ["Bu ve &aSuperstitious Hat&r sana ihtiyacın olabilecek tüm şans tılsımlarını verir!\\n&2Lucky Scarf&r, Kazmaların için ekstra bir Servet seviyesi sağlar."]
 	quest.7503823ACDDB0491.quest_subtitle: "Atkı (Kolye)"
-	quest.752DD0BF36B70D88.quest_desc: ["Ocaklar normal &2&lMinecraft&r'da yeterince hızlı değil, peki Modlu'da nasıl olacaklarını düşünüyorsun?!\\n\\nNeyse ki &7&lIron Furnaces&r onları çok hızlandırmaya yardımcı oluyor! \\n\\nAyrıca &c&lGenerator Galore&r ile birlikte yer aldığı Görev sayfası da var."]
-	quest.75EE965CBA598FEA.quest_desc: ["Tarif kafa karıştırıcı görünebilir ama inan bana oldukça kolay. Herhangi türden &dKablosuz Terminal&r'ler üret, ardından &dUniversal Wireless Terminal&r yapmak için bunları birlikte üret. \\n\\nAyrıca &dTerminal&r'de Genişletilmiş Şablonlar gibi her ne varsa saklayacaktır. Bu &b&lAE2&r'yi kullanmak için çok kullanışlıdır, ancak &6&lATM Yıldızı&r için önemli değil!"]
 	quest.76406EFFF8CBA6B4.quest_desc: ["Elmaslar alet yapımı için kullanılabilecek en iyi malzemelerden biridir ve aynı zamanda Nether gibi yeni boyutları ziyaret etmeni sağlar!"]
 	quest.76406EFFF8CBA6B4.title: "&bElmasları&r Bulduk!"
 	quest.764609E41957DA69.quest_subtitle: "6,561 Zümrüt Bloğu"
 	quest.7658C1C663394E85.quest_desc: ["ATM içinde pek çok yardımcı komut vardır. İşte birkaç tanesi:\\n\\n&e/sethome&r (evin adı) | /home (ad) kullanarak geri ışınlanabileceğin bir ev ayarlamana izin verir. Örnek: /sethome farm - sonra /home farm ile ışınlan.\\n\\n&e/spawn&r | Bu seni ana dünyanın başlangıç noktasına ışınlayacaktır.\\n\\n&e/rtp&r | Rastgele Işınlanma' sizi dünyada rastgele bir yere ışınlar.\\n\\nNot: Bu komutların bekleme süreleri ve sınırları vardır. Bunları değiştirmek istersen, burada bulabileceğin config dosyasını düzenleyebilirsin:\\n\\n - Tek Oyuncu için | &osaves/(kaydın adı)/serverconfig/ftbessentials.snbt&r\\n\\n - Sunucular için | &oworld/serverconfig/ftbessentials.snbt&r"]
-	quest.766C80E5D7B7A916.quest_subtitle: "Birini seç! (Pick one!)"
 	quest.7678B5DD1339833E.quest_desc: ["Güneş Paneli, güneşe doğrudan erişim sağlandığında FE üretir. Ancak, önündeki engelleri görmezden gelmek için &7Ender'in Lensi&r kullanabilirsin."]
 	quest.76CDF08465700AA2.quest_subtitle: "Antik Şehirler"
 	quest.76CDF08465700AA2.title: "Sessizlik Zırh Süslemesi"
@@ -1369,15 +1055,12 @@
 	quest.7741905EA8380B25.title: "&dZırh Süslemeleri&r"
 	quest.7749703A10B78AB1.quest_desc: ["İlk Yetenek; &8Drowned Belt&r, adı üstünde bu bir Kemer, Tılsımları tutar. \\n \\nİkincisi ise &9Su&r'da yüzmekle ilgili. Boğukların &9Su&r'da sanki kendi evleriymiş gibi hareket etmelerini hiç kıskandın mı? Bu Yetenek ile sen de benzerini yapabilirsin! \\n \\nÜçüncüsü Saplama gibi çalışır, &9Su&r'da daha fazla Hasar verirsin. \\n \\nVe Son Yetenek, Üçlü Mızrak Büyüsü ile de çalışır. Artık ne kadar ıslak olursa olsun her yerde Yıldırım Yönlendirmesi kullanabilirsin!"]
 	quest.7749703A10B78AB1.quest_subtitle: "Gemi Enkazları ve Okyanus Harabelerinde Bulunur"
-	quest.777BB82B56038ED3.quest_desc: ["&4&lMorgan&r'ın Hasarını artırmanın tek yolu Köylüleri öldürmektir. Bebek Köylüler daha da fazla Hasar ekler! \\n\\nUmarım bir çiftlik kurmuşsundur. O zaman, çok, çok, çok Köylü ölümünden sonra en yüksek &4&lMorgan&r'a sahip olacaksın. \\n\\nAyrıca özel bir saldırı yapmak için &4&lMorgan&r ile Sağ Tık'a basılı tutabilirsin."]
-	quest.777BB82B56038ED3.title: "&4&lMorgan&r'ı En Yüksek Seviyeye Çıkar"
 	quest.779CA0C49F93C4F9.quest_subtitle: "59,049 Obsidiyen"
 	quest.77C9EE701F72586D.quest_desc: [
 		"&bTaşınabilir Hücreler&f, bir sandığa veya sürücüye yerleştirilebilmeleri ve buna göre doldurulabilmeleri açısından normal hücrelerle aynı işlevi görür. "
 		""
 		"Bununla birlikte, normal hücrelerden farklı olarak, içeriklerine hücre eşyasının kendisi aracılığıyla bağımsız olarak da erişilebilir. Biraz dijital ME-aromalı sırt çantası gibi."
 	]
-	quest.77F2271C45DB49BA.quest_desc: ["Bu Modül, &aMekaSuit&r Göğüslüğüne yerleştirildiğinde sana Yaratıcı Mod Uçuşu sağlar. \\nBunu yapmak için sadece oyundaki en pahalı Eşyalardan bazılarına ihtiyacın var!"]
 	quest.77F241BEE9902751.quest_desc: ["Sophisticated Storage'daki sandıkların en büyüğü"]
 	quest.77F241BEE9902751.quest_subtitle: "Aktiviteler için çok fazla alan!"
 	quest.77F241BEE9902751.title: "&dNetherit Sandık"
@@ -1386,7 +1069,6 @@
 	quest.78311531069807DE.quest_desc: ["Applied Energistics 2'de her ME ağında belirli sayıda &ekanal&f mevcuttur. Bu da basitçe tüm ağa, kaç tane ağa bağlı cihazın sığabileceği anlamına gelir.\\n\\nGenel bir kural olarak, ME verilerini doğrudan işleyen (ağ içinde depolanan eşyalar) ve bir çeşit G/Ç gerçekleştiren herhangi bir cihaz bir kanal kaplayacaktır. Genellikle &eEnerji Hücreleri&f ve &eYazıcılar&f gibi sadece ağın dahili güç depolamasıyla ilgilenen bileşenler kanal kullanmazlar.\\n\\n&bME Kontrolcüsü&f olmayan ağlar 'ad-hoc' ağlar olarak bilinir ve yalnızca maksimum 8 kanalı destekler."]
 	quest.785951190FFDAA21.quest_desc: ["Sırt Çantasındaki istif boyutunu 4 artırır."]
 	quest.785951190FFDAA21.title: "&eİstif Yükseltmesi Kademe 2"
-	quest.7860FD3D3273351F.quest_subtitle: "Taslakları Depolamak!"
 	quest.789AF6D0A6321945.quest_desc: [
 		"&l&3Eser&r'lerden tek ve en önemlisi! En güçlüsü! En tehlikeli olanı!"
 		"{@pagebreak}"
@@ -1404,19 +1086,14 @@
 	quest.78E51D22C16C4686.quest_desc: ["Depo Denetleyicisi ayrıca diğer depolara kablosuz olarak bağlanabilir. Bu, Depo Aleti kullanılarak mümkündür. Bağlamak için Depo Denetleyicisine sağ tıkla ve bağlamak için depolara sağ tıkla.\\n\\nKablosuz bağlantı için menzil normal ile aynıdır, 14 blok alan."]
 	quest.791A981914CE345F.quest_subtitle: "&f10 &cSaldırı Hasarı"
 	quest.791AE62ACACBD5BA.quest_subtitle: "Açarsın, kapatırsın, sonra tekrar açarsın, çünkü sıkılmışsındır"
-	quest.795FA102F6577368.quest_desc: ["&4&lMorgan&r'ı elde etmek için &e&lCaliburn&r ile evcil bir köpeği öldürmen gerekir. \\n\\nAyrıca &e&lCaliburn&r'un Doğal Sınırı, &4&lMorgan&r'ın Doğal Sınırı olacaktır. \\n\\nİyi şanslar!"]
-	quest.795FA102F6577368.title: "&4&lMorgan&r'ı Elde Et"
 	quest.7975C7145572C438.quest_desc: ["İster deneyimli bir modlu oyuncu olun, ister MC'ye tamamen yabancı olun, herkesin &2Tahta Kazma&r yapması gerekir.\\n\\nKazmalar çoğu taş ve metal bloğu kırmanı sağlar. Bu tahta olan uzun süre dayanmaz, bu yüzden onunla biraz &3Kırık Taş&r topladığından emin ol!"]
 	quest.7975C7145572C438.title: "İlk Kazmamız"
-	quest.7992C63F063BE908.quest_desc: ["Bu kadar güçlü bir şey için oldukça basit &7Parşomen&r tarifi! Sadece 2 &eTozlaşmış Altın&r ve 1 &bTozlaşmış Elmas&r. \\n\\nBunu, üzerinde &cMahoujin&r bulunan &7Parşomen (Spell Cloth)&r üzerinde kullan. Ayarlandıktan sonra &7Parşomen&r'i elde etmek için Sağ Tıkla! \\n\\nDaha sonra &c&lPatlayıcı Asa&r'nı almak için &7Parşomen&r'i kullan!"]
-	quest.7992C63F063BE908.title: "&7Patlayıcı Yoğunlaşmış Mana Parşomeni"
 	quest.79D2617E01481281.quest_desc: ["AE2'ye başlamak için &bSertus Kuvars&f olarak bilinen, mod için önemli bir kaynak çıkarman gerekecek. Sertus Kuvars &eToz&f ve &eKristaller&f için kırabileceğin Sertus Kuvars Kristallerini Meteorlarda bulacaksın."]
 	quest.79D2617E01481281.title: "Sertus Kuvars"
 	quest.79E30114ED8870EE.quest_subtitle: "&f7 &cSaldırı Hasarı"
 	quest.79EF24E396779B9F.quest_subtitle: "Kademe: &f2"
 	quest.7A32C50A6125E566.quest_desc: ["&aSpore Sack&r tamamen şey hakkında... tahmin ettiğin gibi! &aSpore&r'lar!!! İlk Yetenek sana her vurulduğunda bir &aSpore&r salar. &aSpore&r bir Bloğa yapışana kadar etrafta uçacak ve yaratık yaklaştığında patlayacaktır. \\n \\nİkinci Yetenek &aSpore&r biriktirmeni sağlar. Her vurulduğunda 1 &aSpore&r serbest kalır ve 1 &aSpore Sack&r'inde daha sonra kullanılmak üzere saklanır. \\n \\nÜçüncü Yetenek, havada uçuşan &aSpore&r'ların hücreler gibi üremesine, bölünmesine ve çoğalmasına izin verir! \\n \\nSon Yetenek hepsinden daha iyi! Sol Alt tuşunu kullanarak biriken tüm &aSpore&r'ları serbest bırakabilirsin! Boyutları da sağlığına bağlıdır."]
 	quest.7A32C50A6125E566.quest_subtitle: "Orman Piramitlerinde bulunur"
-	quest.7A579E233C69871F.quest_desc: ["&b&lHostile Neural Networks&r tamamen Yaratıkların ganimetlerini toplamak için simüle etmekle ilgili bir mod! \\n\\nBaşka bir şey yok."]
 	quest.7A9AE63998BB41FF.quest_desc: ["Canavar Çağırıcının ne zaman ortaya çıkaracağını belirlemek için en yüksek ve en düşük ortaya çıkma gecikmesi arasında rastgele bir sayı seçer. En Düşük 20 gibi düşük bir sayıdan 32,767 gibi yüksek bir sayıya kadar çıkabilir. Her bir şeker parçası en düşük gecikmeyi 10 yukarı veya aşağı kaydırır."]
 	quest.7A9AE63998BB41FF.title: "En Düşük Doğma Gecikmesi"
 	quest.7AE3C8134F5ED726.quest_desc: ["Sırt Çantasındaki istif boyutunu 16 artırır."]
@@ -1427,11 +1104,8 @@
 	]
 	quest.7B500E0577BDFF8F.quest_desc: ["&6Bronz&r; &6Bakır&r ve Kalay'ın birleşimidir. \\n\\nBu alaşımı yapmanın onlarca farklı yolu var. Sana bunun yapımı için doğru yolu söylemeyeceğim."]
 	quest.7B500E0577BDFF8F.title: "&6Bronz Zırh"
-	quest.7B690431CF1B87D0.quest_desc: ["Oyunun başlarında ekipman üretimine başlamak için, ilk Template'imizi oluşturmak üzere bazı &9Template Board&r'lar yapmamız gerekecek.\\n\\nTemplate'ler, alet parçaları oluşturmak için tek kullanımlık \"taslaklardır\". Temel Template Board'larını kullanarak kendine bir &aPickaxe Template&r yap.\\n\\nPickaxe Template'i çoğu malzemenin 3 tanesi ile birleştirirsen, bir Pickaxe Head oluşturabilirsin.\\n\\nNot: Malzeme, ana tür ile birlikte bir Silent Gear malzeme araç ipucuna sahip olmalıdır."]
-	quest.7B690431CF1B87D0.title: "Kazma Başlıkları"
 	quest.7B7D1F0CB326B28F.quest_desc: ["&bME GÇ Bağlantı Noktası&f, bir ME ağının depolama içeriğinin ME hücreleri ve depolama veriyollarına bağlı harici konteynerler gibi farklı depolama ortamları arasında hızlı bir şekilde yeniden düzenlenmesini sağlar.\\n\\nSoldaki giriş yuvasına bir hücre yerleştirildiğinde, GÇ Bağlantı Noktası, hücreyi diğer ME depolarına boşaltmak veya (ideal olarak bölümlenmiş) hücreyi diğer depolara yayılmış belirli eşyalarla doldurmak için değiştirilebilir."]
 	quest.7B7D1F0CB326B28F.quest_subtitle: "Disk Birleştirme"
-	quest.7BC616DDB5933479.quest_desc: ["Bu, bir &5Blood Vial&r ve Scroll'lar için normal malzemelerle oluşturulabilir. \\nSeviye 10 ve &6Legendary&r olduğundan emin olman gerekecek, bu da onu yükseltebileceğin anlamına gelir."]
 	quest.7C07D6A33F7ADB02.quest_desc: [
 		"Bu, Sırt Çantanı Sırt Çantana koyabilmen için Sırt Çantası yükseltmesidir."
 		""
@@ -1440,31 +1114,17 @@
 	quest.7C07D6A33F7ADB02.quest_subtitle: "Sırt Çantası içinde Sırt Çantası?"
 	quest.7C0F7A1B3AB9A1A1.quest_subtitle: "Daha Fazla Filtreleme Seçeneği"
 	quest.7C0F7A1B3AB9A1A1.title: "&eGelişmiş Yeniden Doldurma Yükseltmesi"
-	quest.7C2ED69E07988DF4.quest_desc: ["Orijinal &2&lMinecraft&r Sandalyesi, merdivenler. \\n\\nModlu &2&lMinecraft&r'a hoş geldin, dekorasyon için merdivenlerden çok daha fazlasına sahibiz. \\n\\nDekorasyon ekleyen onlarca mod var ve dekorasyon için kullanılabilecek eşyalar ekleyen daha da fazlası var!"]
-	quest.7C2ED69E07988DF4.title: "Dekorasyon!"
-	quest.7C3D763CF22D167A.quest_desc: ["Starlight Charger, \"Star Charged\" büyüsü ile malzemeleri \"büyüleyebilir\".\\n\\nOrtasında Starlight Charger bulunan bir yapı gece gökyüzüne bakacak şekilde inşa edilmelidir. Sadece gece boyunca Starlight Gücü kazanır.\\n\\nCharger, her köşesinde bir Sütun olacak şekilde 7x7'lik bir yapının ortasına yerleştirilmelidir. Her sütunda \"Starlight Charger Başlığı\" bulunmalıdır.\\n\\nAyrıca malzeme başına bir charger catalyst gerektirir."]
-	quest.7C3D763CF22D167A.quest_subtitle: "Malzemelerin \"Büyülenmesi\""
 	quest.7C3F65B5DAC7E57B.quest_desc: ["&dShadow Glaive&r'ler, &6Relic&r'den daha fazla Silahtır. İlk Yetenek sadece 1 &dGlaive&r fırlatmaktır. Bir yaratığa çarptıktan sonra, diğer yaratıklara geri sıçrar ve belki de sana geri döner. Daha fazla hasar, sıçrama ve daha hızlı şarj için yükseltebilirsin. \\n \\nİkinci Yetenek, tüm şarjlarını dev bir &dtestere&r salmak için kullanır! Çok havalı, denemeni tavsiye ederim!"]
 	quest.7C3F65B5DAC7E57B.quest_subtitle: "End Şehirleri ve End Gemilerinde Bulunur"
-	quest.7CF13A4941F608E5.quest_desc: ["Normal Camdan, İnce Camlara ve hatta Mozaiklere kadar!"]
-	quest.7CF13A4941F608E5.title: "&l&bChipped&r Camı"
 	quest.7D38BC3DB3406F51.quest_desc: ["Tahta Kazmamız ile taş kırmak sorun olmamalı!\\n\\n&3Kırık Taş&r, cevherlerimizi eritebileceğimiz Ocak üretmek için kullanarak ilerlemenin bir sonraki bölümünü açar.\\n\\nAyrıca &bDemir&r gibi daha iyi cevherleri çıkarmak için kazmanı taşa yükseltmek isteyeceksin!"]
 	quest.7D38BC3DB3406F51.title: "Taş Çağı"
 	quest.7D52DD751DDADA1B.quest_desc: ["Güç aktarımı için temel kablolar."]
 	quest.7D7983F39E6E818D.title: "Kademe: &9Niotik"
-	quest.7D972A3C4211EB26.quest_desc: ["&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l&r, &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&r'ın patlatılmasıyla elde edilir."]
-	quest.7DA8ACE06DE8097F.quest_desc: ["&6Bakır&r, &2&lMinecraft&r'da en bol bulunan cevherdir ve ana kullanımı dekorasyondur. \\n\\nZaten &2&lMinecraft&r tarafından eklenen birçok farklı varyant var ama &l&bChipped&r bunun yeterince iyi olmadığını düşündü! Bu yüzden daha fazlasını aldık! \\n\\nHatta oksitlenmiş versiyonlar için bile varyantlar var. \\n\\nSahte &aZümrüt Bloklar&r yapabilirsin."]
-	quest.7DA8ACE06DE8097F.title: "&l&bChipped &6Bakır"
-	quest.7DABD82393713B5A.quest_desc: ["&c&lAntiblocks&r çok basit bir moddur. Renkli Işıkları sever misin? Renkli Işıklara sahip olabilirsin. \\n\\nDokusuz tek renktirler ve Merdivenler veya Basamaklar ve hatta Basınç Plakaları gibi farklı Şekillerde olabilirler! "]
 	quest.7DE2154159D273C3.quest_desc: [
 		"&6Allthemodium&r'un direkt yükseltilmiş hâli."
 		"{image:atm:textures/questpics/allthemodium/all_armor_vib.png width:100 height:175 align:center}"
 	]
 	quest.7DE2154159D273C3.title: "&3Vibranium Zırhı"
-	quest.7E13007340A818C5.quest_desc: ["Bu, Starlight Charger için Tier 1 Sütun Başlığıdır."]
-	quest.7E4367252A39BE6C.quest_desc: ["&c&lPowah&r güçle ilgili bir moddur! FE gibi Güç üreterek &5&lMekanism&r ya da &lIndustrial Foregoing&r gibi diğer Modlardaki Makineleri kullanmak için onları enerjilendirir! \\n\\nYapman gereken farklı Kademeler var ve tabii ki &6&lYıldız&r için sonuncu kademesine ihtiyacımız olacak!"]
-	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r çok eğlenceli bir büyü Modu ve beraberinde kendi Ahşap grubunu getiriyor! \\n\\nArchwood, çoğu Biyomda var ama çoğunlukla Archwood Biyomunda ortaya çıkan 5 farklı renkte ağaçla gelir!"]
-	quest.7E49C985A0433B20.title: "&d&lArs Nouveau&r Kütükleri"
 	quest.7E92ED270C67FDE5.quest_desc: ["Modda yapabileceğin neredeyse her makine bir &9Dielektrik Gövde&r gerektirecektir.\\n\\nİlerlemek için önce &bMacun&r ve biraz da &aÇubuk&r yapman gerekecek!"]
 	quest.7E92ED270C67FDE5.title: "Dielektrik Matlarla Başlamak"
 	quest.7E9E03274A88347D.quest_desc: ["Sırt Çantasındaki istif boyutunu 2 artırır."]
@@ -1488,36 +1148,24 @@
 	quest.7F2D696AC9F4C4E4.quest_subtitle: "Maden Ocaklarında veya Stronghold'larda Bulunur"
 	quest.7F6B66566C211735.quest_desc: ["Canavar Çağırıcıya uygulanan Damla Taş, ortaya çıkan yaratığın maksimum sağlığını azaltacaktır. Bu, canlarını %20'ye kadar düşürebilir"]
 	quest.7F6B66566C211735.title: "Can"
-	quest.7F7ED94590B5B857.quest_desc: ["Bazı &eBüyüler&r ihtiyaç duyulan her yerde kullanılmak üzere &7Parşömen&r içine konulabilir. \\n\\nİlk olarak, bir &7Parşomen (Spell Clotch)&r'a ihtiyacın olacak ve onu yere koy. Sonra aynı ritüeli &7Parşomen (Spell Clotch)&r üzerine uygula. \\n\\nTüm &4Kan&r ve &bToz&r tamamlandıktan sonra &7Parşomen (Spell Cloth)&r'a sağ tıkla ve BUUM &7Parşomen&r! \\n\\nBazı &eBüyüler&r, &7Parşomen&r'e dönüştürülemez. Bu yüzden boşa harcanan malzemelerden sorumlu tutulamam."]
-	quest.7F7ED94590B5B857.title: "Hareket halinde &eBüyüler&r!"
 	quest.7F990FBC1A691020.quest_desc: ["Tuzaklı Sandıklar normal Sandıklarla aynıdır. Sadece açıldıklarında Redstone sinyali yayarlar ve bir tane olacak şekilde birleştirilemezler."]
 	quest.7F990FBC1A691020.quest_subtitle: "\"Acaba bunun içinde ne var?\""
 	quest.7FABB77A60E7962C.quest_desc: ["Obsidiyen'i &bElmas&r'lar ile aşılayarak İşlenmiş Obsidyen Tozu elde edebiliriz! \\n\\nSonrasında, &7Osmiyum&r'u içine sıkıştırarak Külçe formunu elde edebiliriz. \\n\\nBundan sonra, bu Külçeleri &6AllTheModium Zırh&r'dan bile daha iyi özelliklere sahip Zırhlara dönüştürebiliriz!"]
 	quest.7FABB77A60E7962C.title: "&5İşlenmiş Obsidyen Zırh"
 	task.00DDA48F9632A5C1.title: "Ana Dünya'yı Ziyaret Et"
 	task.00ED02255105A973.title: "Elmas Sandıklar"
-	task.01EFD73293B10452.title: "Ayarlanmış Soulium Hançerler"
 	task.03ACF4486D706DEE.title: "Vibranium Zırhı"
-	task.04048BE5351DB782.title: "Keşif Modu Elmas Kılıçları"
 	task.0427B441A750316F.title: "Altın Sandıklar"
 	task.05256FE880D981D5.title: "Vibranium Aletler"
-	task.064B1841F9288CC3.title: "Bloklar"
-	task.06F2EC3901908BF1.title: "Plastik Yapı Tuğlaları"
-	task.0740BC10E4D2568F.title: "Regions Unexplored Taşları"
-	task.074BDA389D0FB989.title: "Chipped Bakır"
 	task.08DA73B1AC17E5F5.title: "Üretim Depolaması"
 	task.0AFA64F1025569A2.title: "Netherit Ekipman"
-	task.0B10BF3641629974.title: "Aletler"
-	task.0BAEC53DD32C9870.title: "Productive Trees Kütükleri"
 	task.0BFAF56214875C90.title: "Allthemodium Büyücü Zırhı"
 	task.0D5203048B6E068C.title: "Trapped Trader Carpet'lar"
 	task.0E7E336483AFA69C.title: "Vibranium Büyücü Zırhı"
 	task.0EA4B08DAAFA4287.title: "5 Enderman Öldür"
-	task.0EBE231AB868C868.title: "Bloklar"
 	task.0F9FCFCEE795FD41.title: "Other'ı Ziyaret Et"
 	task.1016033CBB003413.title: "5 Wither İskeleti Öldür"
 	task.103C42C743E2A2DB.title: "Yığınların Talep Edilmesi"
-	task.104E1A4BF3520D67.title: "Reaktör Camı"
 	task.1076BC82EECB73F5.title: "Kuvars İngiliz Anahtarları"
 	task.10A16F89D4AD238D.title: "Kullanışlı Komutlar"
 	task.14DEFFB80CC96BC1.title: "ME Yoğun Kapalı Kablolar"
@@ -1530,131 +1178,67 @@
 	task.1809F1F9A3043683.title: "1 Ender Ejderhası Öldür"
 	task.18644A08B73A4B12.title: "5 Örümcek Öldür"
 	task.1869893A4F8E9E9C.title: "Cevher Çekiçleri"
-	task.18DA9065596F9097.title: "Modlu Metal Demir Kazmalar"
-	task.194C02E800F974D6.title: "Vibranium Arcanist Zırhı"
-	task.195338A3977C682E.title: "Mystical Agriculture Blokları"
 	task.1960B985B54B9FBD.title: "Güç Kabloları"
-	task.1A66B7FFB4E2163E.title: "Vanilla Kütükleri"
-	task.1A7078C3984DD910.title: "Netherit Blokları"
-	task.1AD43F80F89DF9D9.title: "Oh The Biomes We've Gone Taşları"
 	task.1D136D138EF82DA9.title: "2 Tüccar Laması Öldür"
-	task.1E7A57902EA62332.title: "Işık Kaynakları"
 	task.1F929F1DF23460AE.title: "Bağlantı Kartları"
 	task.200CE35BF3C04F6F.title: "Bakır Sandıklar"
-	task.20210147BF5613E5.title: "Keşif Modu Demir Kılıçları"
 	task.21FBC4E0F668347C.title: "NBT ve SEN!"
-	task.224A2A7012749DFC.title: "Büyü Modu Demir Kazmaları"
 	task.2363F64BEC430933.title: "Kuvars Kılıçlar"
-	task.236DA60F43220525.title: "Büyü Modu Demir Kılıçları"
-	task.238F4D40E6D9238E.title: "Boyalar"
 	task.23D186249A999B8C.title: "Kuvars Kesme Bıçakları"
-	task.26A85DCA60F71DFF.title: "Akışkan Çekmeceleri"
-	task.26CDA4EADF919D5C.title: "Jeneratörler"
 	task.2725700B5EA1CD75.title: "Makaslar"
-	task.27BABC4910038807.title: "Vanilla Taşları"
-	task.27DF6EE4B85F1792.title: "AllTheOres Blokları"
 	task.285A53DB9D54595D.title: "Kütükler"
 	task.2962DF63EE602AD6.title: "Mekanism Demir Kazmaları"
 	task.298EA976A7627731.title: "Antik Şehrin Yerini Tespit Et"
 	task.2A7CD3F14D3DC7C5.title: "Unobtainium Zırhı"
-	task.2ADE9DBE9448AC7F.title: "Silent Gear Kazmaları"
-	task.2BECEC3EFA8F6DA3.title: "Chipped Taşları"
 	task.2CE553B282962E01.title: "Kovalar"
-	task.2E04D0F6EEABE677.title: "Çekmeceler"
 	task.2E3BC536B8A9FD91.title: "Unobtainium Büyücü Zırhı"
 	task.2E49798B39BAA192.title: "Güneş Enerjisi"
-	task.2E92D23F149C142D.title: "Chipped Metalleri"
-	task.2F28B803C75DA3B2.title: "1 Yaşlı Gardiyan Öldür"
-	task.2FEC915DC58F30C4.title: "Tamir Çantaları"
-	task.301665A6315B569C.title: "Depolama Denetleyicileri"
-	task.30921D2007B35206.title: "Keşif Modu Elmas Kazmaları"
 	task.3209E46C9B05C163.title: "Elmas Ekipmanlar"
 	task.323A434E1AF54408.title: "Çapalar"
 	task.32447C5882610D6C.title: "End'i Ziyaret Et"
 	task.338A6DA0D711B7DC.title: "ME Şablon Sağlayıcı"
-	task.349B2DA0A38AE9B5.title: "Çerçeveli Çekmeceler"
 	task.34B6EB0B801E4743.title: "Netherit Sandıklar"
 	task.36E378BF22554E0A.title: "Enerji Kabloları"
-	task.389B5B0F35B89FC8.title: "Chipped Betonu"
 	task.38E290AC5E011888.title: "ME Yoğun Akıllı Kablolar"
 	task.39702880D9133E3E.title: "Yün"
-	task.3B1F1A7CAC8B7BC7.title: "Çekmeceler"
 	task.3BEA6C6A41D5ABEA.title: "Ocak Eklentileri"
-	task.3C18AB7133946682.title: "Kaltekler"
 	task.3C95552D03C16F3D.title: "Güç Depoları"
 	task.3DC008A578A93CCF.title: "İpuçları ve Püf Noktaları"
 	task.408C5263C4664195.title: "Sandıklar"
 	task.40A7CC56DACC2623.title: "ME Cam Kablolar"
-	task.40B245AFD0DAB3A0.title: "Railcraft Camı"
 	task.40C43560F454AD82.title: "Allthemodium Aletler"
-	task.41602F0D9097E74F.title: "Chipped Terakota"
-	task.41FF171C7D97B574.title: "Chipped Değerli Taş Blokları"
 	task.423AF6C6647B1626.title: "5 Creeper Öldür"
 	task.42DA8E971B27ACED.title: "İpuçları Verildi"
-	task.452B65E139D9E12D.title: "Yabani Chimera'yı Öldür"
-	task.46905D1E23255397.title: "Macaw's Pencereleri"
 	task.46B42667B6BC1A3C.title: "Nether'ı Ziyaret Et"
 	task.4709938E0FDCE0FB.title: "Allthemodium Zırhı"
-	task.484375E0BC0F9177.title: "Arkadaşlarımızdan Yapılar"
 	task.485E17B9E80D5DFF.title: "Occultism Kazmaları"
-	task.4892144C32DCEB55.title: "Boyalı Tahtalar"
-	task.498AA33867046334.title: "Zırhlar"
-	task.49F387C7EAD579A2.title: "Macaw Tamamlandı"
 	task.49F46466DB8EDD61.title: "Demir Sandıklar"
-	task.4B13D48FF9D2530E.title: "XyCraft Işıkları"
-	task.4E28970476CABACD.title: "Chipped Işıklar"
 	task.4F13A02FB0055A62.title: "Takım Oluşturma"
-	task.50BED71A6677392E.title: "Railcraft Taşları"
 	task.51CC9A8E36385400.title: "Sandıklar"
 	task.52BB142F044075B4.title: "Görevler"
 	task.539C6F64C251543B.title: "Kömür"
 	task.5457CD8C1ABA0B9E.title: "5 Zombi Öldür"
 	task.57DD9261905988F3.title: "Mekanism Demir Kılıçlar"
-	task.58B9B9D13F4CD1B2.title: "Eternal Starlight Taşları"
 	task.58E3131A3EA2661E.title: "Pusulalar"
-	task.5936B8B8EDE0AE55.title: "Metal ve Değerli Taş Blokları"
-	task.593CD1E685B4DDAA.title: "Chipped Yükseltmeleri"
 	task.596ABB45C0612AAF.title: "1 Seyyar Tüccar Öldür"
 	task.5B35720DF93CE2DB.title: "5 İskelet Öldür"
-	task.5DEABD15EDE5736F.title: "XyCraft Camı"
-	task.5FB27C61053F7FB5.title: "Ars Nouveau Işıkları"
-	task.614C3310C61487CB.title: "Unobtainium Arcanist Zırhı"
 	task.616C07AFBAFA7AE4.title: "Çapalar"
 	task.61D93B13D496547D.title: "Sıvı Depolama"
-	task.61E3800DF5D25567.title: "Allthemodium Arcanist Zırhı"
-	task.61FFB3326113FE18.title: "Oh The Biomes We've Gone Odunu"
 	task.6205B6B93B306A12.title: "Sandıklar"
-	task.624ADD79136376C0.title: "XyCraft Dünya Eşyaları"
 	task.6304FF8A9E8957FE.title: "Unobtainium Aletleri"
-	task.63EB4BCA531A9F2A.title: "Keşif Modu Netherit Kazmaları"
 	task.64EAD3DE84E94F02.title: "ME Kapalı Kablolar"
 	task.6514595CBD4DE6C6.title: "Ötesi'ni Ziyaret Et"
 	task.65C439FD14C5EEB9.title: "Taşınabilir Depo"
 	task.669DEA201002793D.title: "Buzdolapları"
 	task.681CB7DF06F2F506.title: "Madencilik Boyutu'nu Ziyaret Et"
-	task.68667F586AF5D058.title: "Just Dire Things Elmas Kazmaları"
 	task.68DC39876E14FC1B.title: "1 Mimic Öldür"
 	task.69678CAC075C8EA5.title: "1 Muhafız Öldür"
-	task.6A098C929647B0A6.title: "Büyü Modu Elmas Kılıçları"
-	task.6BD970777103D55D.title: "Merdivenler"
 	task.6C974DF242CFDB8E.title: "Antik Piramit Bul"
 	task.6CAD0E4CF3577BEB.title: "1 Muhafız Öldür"
-	task.6D2E8755BB3463FF.title: "Railcraft Renkli Bloklar"
-	task.6F475689ED4EDF59.title: "Macaw's modlarının eşyaları"
-	task.70367F545A9CB4D0.title: "Yataklar"
-	task.70972BAFF5896EA8.title: "Mystical Agriculture Kazmaları"
-	task.712552C459B5BD54.title: "Ars Nouveau Ahşabı"
-	task.720CE629EA4E37D0.title: "Chipped Kütükleri"
-	task.7213278CEE1B25A3.title: "Kütükler"
 	task.7241918F270CA402.title: "ME Arayüzü"
-	task.735F8BA70FBE24BF.title: "Keşif Modu Demir Kazmaları"
 	task.75924053D6F5B242.title: "Mekansal Depolama Hücreleri"
 	task.76C41881A02F2098.title: "1 Wither Öldür"
-	task.76C92D826994D92B.title: "Chipped Camı"
-	task.773B7F8C77B21B28.title: "Chipped Yünü"
 	task.78D7794707E4BD83.title: "Mahsuller"
-	task.78F0D5822BF96CA9.title: "Regions Unexplored Kütükleri"
-	task.79400615E3A7401D.title: "Yapı Aletleri"
 	task.7BAB5E17D2DE4E3E.title: "5 Cadı Öldür"
 	task.7E0D9E6342295AB0.title: "Kanallar Üzerine Önsöz"
 	task.7EA0E7DF4C5C4858.title: "AE2 Kazmaları"

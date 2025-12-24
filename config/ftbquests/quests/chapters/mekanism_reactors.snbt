@@ -769,7 +769,7 @@
 				{
 					count: 58L
 					id: "06E20D0D289135F9"
-					item: { count: 58, id: "mekanismgenerators:reactor_glass" }
+					item: { count: 1, id: "mekanismgenerators:reactor_glass" }
 					type: "item"
 				}
 				{

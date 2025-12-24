@@ -1,0 +1,100 @@
+{
+	quest.004D61425172324F.quest_desc: ["&8Zincir Zırh&r Demir'den biraz daha kötü. &l&2Minecraft&r'daki ana kullanımı, bulunması zor olmasıydı. Sadece Ticaretlerden ve Yaratıklardan Düşürülerek elde edilebilir. \\n\\nTabii ki bu değiştirildi. Bu yüzden şimdi üretilebilir! Bu da onun amacını ortadan kaldırıyor..."]
+	quest.004D61425172324F.title: "&8Zincir Zırh"
+	quest.074EC1E636CD6605.quest_desc: ["&cNetherit Zırh&r'ı, &l&2Vanilla&r'dan elde edebileceğin en iyi Zırh'tır. &bElmas&r ile aynı Zırh Puanına sahip ama daha fazla Zırh Sertliğine sahiptir. \\n\\nMuhtemelen bunu yapmak için &bElmas&r'a ihtiyacın olduğu içindir!"]
+	quest.074EC1E636CD6605.title: "&cNetherit Zırh"
+	quest.0ED11FCF6298CE85.quest_desc: ["&e&lIron's Spells&r &4Kan Zırhı&r!"]
+	quest.0ED11FCF6298CE85.title: "&4Cultist Kıyafetleri"
+	quest.0F1D6F4729CC38F3.quest_subtitle: "Nether Kalesi"
+	quest.0F1D6F4729CC38F3.title: "Kaburga Zırh Süslemesi"
+	quest.1245126B4338C019.quest_subtitle: "Orman Konağı"
+	quest.1245126B4338C019.title: "Sinirbozan Zırh Süslemesi "
+	quest.17A68C4E9E9EA2B7.quest_desc: ["&eAltın Zırh&r, Demir ve &7Deri&r arasında yer alır. Ancak Dayanıklılığı &7Deri&r'ye çok daha yakın. \\n\\nBirkaç &eAltın Zırh&r giyerken Piglin'lerin sana karşı Tarafsız olması dışında pek bir faydası yok."]
+	quest.17A68C4E9E9EA2B7.title: "&eAltın Zırh"
+	quest.1C27C74722A19FC1.quest_desc: ["Bir ton, süper pahalı &l&5Mekanism&r Eşyasıyla &5Unobtainium Zırhı&r, &aMekaSuit&r'e yükseltebilirsin! \\n\\nArtık Enerji tutabilir ve hasar aldığında kalbinin gitmesi yerine Enerjin azalır. \\n\\nDaha da iyi hale getirmek için Yükseltme Birimlerini kullanabilirsin!"]
+	quest.1C27C74722A19FC1.quest_subtitle: "Tedarik edebileceğin kadar Enerji"
+	quest.1CC627D3FB348C89.quest_subtitle: "Patika Kalıntıları"
+	quest.1CC627D3FB348C89.title: "Şekillendirici Zırh Süslemesi"
+	quest.1D91E37BFD8CC911.title: "&2Zümrüt&r"
+	quest.1E3E688B3B52C4D2.quest_subtitle: "Patika Kalıntıları"
+	quest.1E3E688B3B52C4D2.title: "Yükseltici Zırh Süslemesi"
+	quest.1EABF2E7AE7B8F22.title: "&8Netherit&r"
+	quest.211FD55DEB635A98.title: "&6Bakır&r"
+	quest.215C9C2B2240FAA1.quest_desc: ["&e&lIron's Spells&r &5Elektrik Zırhı&r!"]
+	quest.215C9C2B2240FAA1.title: "&5Electromancer Kıyafetleri"
+	quest.243008D4DCD789D0.quest_subtitle: "Orman Tapınakları"
+	quest.243008D4DCD789D0.title: "Yabani Zırh Süslemesi"
+	quest.24A7B2902E7430A1.quest_desc: ["&7Deri Zırh&r, sadece üzerine biraz Arcane serpiştirilmiş. \\n\\nBüyüler için Mana'ya az miktarda destek verir."]
+	quest.24A7B2902E7430A1.title: "&9Wandering Magician Ekipmanları"
+	quest.260C7F3C1F51221D.quest_desc: ["&e&lIron's Spells&r &aÇağırma Zırhı&r!"]
+	quest.260C7F3C1F51221D.title: "&aArchevoker Kıyafetleri"
+	quest.28408BFAA54E4FC6.quest_desc: ["&7Deri Zırh&r elde edeceğin en kötü Zırh takımıdır. \\n\\nBunun nedeni çoğunlukla &c&lMojang&r'ın onu diğerlerinden önce elde etmeni beklemesidir. \\n\\nGerçi neredeyse hiç yapmıyorum çünkü o kadar çok &8İ&fn&8e&fk&r bulmakta zorlanıyorum, üzgünüm &c&lMojang&r!"]
+	quest.28408BFAA54E4FC6.title: "&7Deri Zırh"
+	quest.338BD467EBE6EE1F.quest_subtitle: "Yağmacı Karakolu"
+	quest.338BD467EBE6EE1F.title: "Nöbetçi Zırh Süslemesi"
+	quest.351159C55159C316.quest_subtitle: "End Şehri ve End Gemileri"
+	quest.351159C55159C316.title: "Sarmal Zırh Süslemesi"
+	quest.361EF9E4973E3522.quest_desc: ["&e&lIron's Spells&r &dEnder Zırhı&r!"]
+	quest.361EF9E4973E3522.title: "&dShadow-Walker Kıyafetleri"
+	quest.3685B52446DEC809.title: "&eAltın&r"
+	quest.39796D8EE440F318.quest_subtitle: "Çöl Piramitleri"
+	quest.39796D8EE440F318.title: "Kumul Zırh Süslemesi"
+	quest.3ABE7074E500494D.quest_desc: ["&7Çelik&r, &5&lMekanism&r'deki çoğu Makine için kullanılır... Ayrıca Zırh'ı da güzeldir!"]
+	quest.3ABE7074E500494D.title: "&7Çelik Zırh"
+	quest.3AE0198177A8E91B.quest_subtitle: "Gemi Enkazları ve Gömülü Hazineler"
+	quest.3AE0198177A8E91B.title: "Kıyı Zırh Süslemesi"
+	quest.3D72E3E53E7306FA.quest_desc: ["&e&lIron's Spells&r &cAteş Zırhı&r!"]
+	quest.3D72E3E53E7306FA.title: "&cPyromancer Kıyafetleri"
+	quest.3EA3A6414AB8A39C.quest_subtitle: "Sınama Odaları"
+	quest.3EA3A6414AB8A39C.title: "Akış Zırh Süslemesi"
+	quest.452DC5EB02D592B8.title: "&5Ametist&r"
+	quest.497D222F74A52DF5.quest_desc: ["İşte sevdiğim şey bu! Demir çok yaygındır ve Zırhı, oyun başlangıcı için mükemmeldir. \\n\\nZombilerin ve İskeletlerin neredeyse hiç şansı yok!"]
+	quest.497D222F74A52DF5.title: "Demir Zırh"
+	quest.4B65100885AE762D.quest_desc: ["&e&lIron's Spells&r &6Kutsal Zırh&r!"]
+	quest.4B65100885AE762D.title: "&6Priest Kıyafetleri"
+	quest.4B9C54DA5CB6D5C9.quest_subtitle: "Patika Kalıntıları"
+	quest.4B9C54DA5CB6D5C9.title: "Ev Sahibi Zırh Süslemesi"
+	quest.4DF683461225690F.title: "&7Demir&r"
+	quest.5391385A75535EC8.quest_desc: ["&e&lIron's Spells&r &2Doğa Zırhı&r!"]
+	quest.5391385A75535EC8.title: "&2Plagued Kıyafetleri"
+	quest.5865951E4F81C91F.quest_desc: ["&7Osmiyum&r + &6Işık Taşı&r = &eİşlenmiş Işık Taşı&r!"]
+	quest.5865951E4F81C91F.title: "&eİşlenmiş Işık Taşı Zırh"
+	quest.5C83D5CDD980FD9A.quest_subtitle: "Bastion Kalıntıları"
+	quest.5C83D5CDD980FD9A.title: "Domuz Burnu Zırh Süslemesi"
+	quest.5DDC15AAFD2CAF47.quest_desc: ["&bElmas Zırh&r, &l&2Vanilla&r zırh zincirinin bir sonraki halkası. Bu aynı zamanda genellikle onu Büyülemeye başladığımız yer! \\n\\nKoruma ve çeşitli biçimlerini tavsiye ederim. Modlu olan konusunda seçici olmak zorunda değiliz!"]
+	quest.5DDC15AAFD2CAF47.title: "&bElmas Zırh"
+	quest.62161BDE9AAAA4BF.quest_subtitle: "Patika Kalıntıları"
+	quest.62161BDE9AAAA4BF.title: "Yolbulucu Zırh Süslemesi"
+	quest.654F5C84114A31A1.quest_desc: ["Çok basit ve ucuz &e&lIron's Spells&r Zırhı. Oyun başlangıcı için faydalı!"]
+	quest.654F5C84114A31A1.title: "&4Scarecrow Kıyafetleri"
+	quest.65A529C8238E89F1.quest_desc: ["&5&lMekanism&r sayesinde artık &9Lapis Lazuli&r'den Zırh yapabiliyoruz! \\n\\nYine de biraz kötü..."]
+	quest.65A529C8238E89F1.title: "&9Lapis Lazuli Zırh"
+	quest.65E733AACBE62EDB.quest_subtitle: "Antik Şehirler"
+	quest.65E733AACBE62EDB.title: "Koğuş Zırh Süslemesi"
+	quest.66B5A8D259E12BF5.quest_desc: ["Bekle, yani bana &cNetherit&r ile aynı özelliklere sahip olduğunu mu söylüyorsun? Ayrıca Büyü Güçlendirmeleri mi var? Ve üretmek için Demirci Şablonlarına ihtiyaç duymuyor mu? \\n\\nNeden biri, normal &cNetherit&r istesin ki!"]
+	quest.66B5A8D259E12BF5.title: "&4Netherite Battlemage Kıyafetleri"
+	quest.66C21934DAFFAC7F.quest_subtitle: "Yaşlı Gardiyanlardan düşer"
+	quest.66C21934DAFFAC7F.title: "Gelgit Zırh Süslemesi"
+	quest.686EB173C94301C0.quest_desc: ["&e&lIron's Spells&r &bBuz Zırhı&r!"]
+	quest.686EB173C94301C0.title: "&bCryomancer Kıyafetleri"
+	quest.68DABFFB6B3E1A57.title: "Göz Zırh Süslemesi"
+	quest.6B671CB07D046BEC.title: "&bElmas&r"
+	quest.6C5F9D0D447EFB9C.quest_desc: ["Elimizdeki tek şeyin &l&2Vanilla&r olduğunu mu düşünüyorsun? \\n\\n&6AllTheModium Zırhı&r, daha fazla Zırh Puanı ve Zırh Sertliğine sahiptir. Ayrıca Büyüye karşı daha fazla Koruma sağlar ve &6&lAllTheModium&r Görev Sayfasında okuyabileceğin diğer güçlendirmelere sahiptir! \\n\\nBu arada onu üretmek için &cNetherit&r'e ihtiyacın olacak."]
+	quest.6C5F9D0D447EFB9C.title: "&6AllTheModium Zırhı"
+	quest.6F76DA3BBAE8337B.quest_desc: ["&5Unobtainium&r, &6&lAllTheModium&r'dan elde edebileceğimiz en güçlü Zırh! \\n\\nŞimdi 100% Savrulma Direnci ve her yerde daha yüksek özelliklerle! \\n\\nAyrıca bunu yapmak için &3Vibranium Zırhına&r ihtiyacın var."]
+	quest.6F76DA3BBAE8337B.title: "&5Unobtainium Zırhı"
+	quest.71C552678A0F649F.quest_desc: ["&7Osmiyum&r, Kayrak Taşı etrafında ortaya çıkar ve Kazmak için sadece Demir Kazma (ya da Demir kademesinde Kazma) gerekir. Ancak &cNetherit&r'den daha iyi özellikler verir!"]
+	quest.71C552678A0F649F.title: "&7Osmiyum Zırh"
+	quest.729DCB919A92B735.quest_subtitle: "Sınama Odaları"
+	quest.729DCB919A92B735.title: "Şimşek Zırh Süslemesi"
+	quest.72DDA413D73E3235.quest_desc: ["Sıradaki &6&lAllTheModium&r Zırhı olan &3Vibranium&r'la her şeyde çok daha yüksek özellikler! \\n\\nBunu oluşturmak için &6AllTheModium Zırhına&r ihtiyacın olacak."]
+	quest.72DDA413D73E3235.title: "&3Vibranium Zırhı"
+	quest.76CDF08465700AA2.quest_subtitle: "Antik Şehirler"
+	quest.76CDF08465700AA2.title: "Sessizlik Zırh Süslemesi"
+	quest.7B500E0577BDFF8F.quest_desc: ["&6Bronz&r; &6Bakır&r ve Kalay'ın birleşimidir. \\n\\nBu alaşımı yapmanın onlarca farklı yolu var. Sana bunun yapımı için doğru yolu söylemeyeceğim."]
+	quest.7B500E0577BDFF8F.title: "&6Bronz Zırh"
+	quest.7F11ABFB2E21B7E4.quest_desc: ["Zırh, &l&2Minecraft&r'ın çok önemli bir parçasıdır. Seni zarar görmekten koruyan şeydir. \\n\\nFarklı Zırh parçaları farklı Zırh Puanları verir. Bunlar Zırhının etkililiğini belirleyen şeylerdir. Ne kadar çok o kadar iyi!\\n\\nÇoğu zırh, Zırh Süslemeleri ile daha fazla dekorasyon için değiştirilebilir. Görünümü değiştirmek için Zırh Süslemesi ile bir Zırh parçası kullan ve renklendirme için Eşya kullan!"]
+	quest.7F11ABFB2E21B7E4.title: "&l&bZırhlar&r"
+	quest.7FABB77A60E7962C.quest_desc: ["Obsidiyen'i &bElmas&r'lar ile aşılayarak İşlenmiş Obsidyen Tozu elde edebiliriz! \\n\\nSonrasında, &7Osmiyum&r'u içine sıkıştırarak Külçe formunu elde edebiliriz. \\n\\nBundan sonra, bu Külçeleri &6AllTheModium Zırh&r'dan bile daha iyi özelliklere sahip Zırhlara dönüştürebiliriz!"]
+	quest.7FABB77A60E7962C.title: "&5İşlenmiş Obsidyen Zırh"
+}

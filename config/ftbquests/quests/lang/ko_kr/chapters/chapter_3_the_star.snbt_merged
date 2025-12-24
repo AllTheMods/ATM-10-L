@@ -1,0 +1,55 @@
+{
+	quest.05850541675B2493.quest_desc: ["됩니다.\\n\\n당신은 &6&lATM의 별&r을 만들었습니다. 즉, 모드팩을 클리어했습니다!\\n\\n다음은 무엇일까요?"]
+	quest.05850541675B2493.quest_subtitle: "이것은 당신이 이겼다는 뜻인가요?"
+	quest.05850541675B2493.title: "&6&lATM의 별"
+	quest.08CE14FFED813992.quest_subtitle: "젖은 짙은 분홍색 블록 13개"
+	quest.08E47A27EFFB7C6B.quest_subtitle: "마른 분홍색 블록 5개"
+	quest.0AE28C998A3BF136.quest_subtitle: "531,441 네더랙"
+	quest.0E03F5EAE4963ECB.quest_subtitle: "8개의 건조한 초록색 블록"
+	quest.0F1CA44520BDEFEA.quest_subtitle: "6,561개의 다이아몬드 블록"
+	quest.103834774B57D611.quest_desc: ["미니 엔드 차원문에는 꽤 많은 &d엔드선반&r이 필요합니다. 이것들은 &5&l어포테오시스&r에서 얻을 수 있는 마지막 티어의 선반입니다. 이것들을 제작하려면 &d주입된 드래곤의 숨결&r이 필요합니다.\\n\\n그 후에는 엔더의 눈이 필요한데, 실제로 &d엔드선반&r을 얻으려면 엔더의 눈을 만들어야 합니다.\\n\\n만약 어떻게든 &d&l엔드&r에 가서 엔더의 눈 없이 선반을 얻었다면 정말 대단하군요!"]
+	quest.174D18D9D732EC10.quest_subtitle: "8개의 젖은 초록색 블록"
+	quest.17542D7633FBF098.quest_desc: [""]
+	quest.17542D7633FBF098.quest_subtitle: "&o스폰지밥이 별이 아니라서 아쉽네요."
+	quest.17542D7633FBF098.title: "&d&l뚱이 &a별&r"
+	quest.1CE7B24E7E62C25B.quest_desc: [""]
+	quest.1CE7B24E7E62C25B.quest_subtitle: "&o알 수 없지만 우리가 알고 있는 모든 것입니다."
+	quest.1CE7B24E7E62C25B.title: "&d&l맥동하는 &8블랙홀"
+	quest.217DF3B66A07A8DE.quest_desc: [""]
+	quest.217DF3B66A07A8DE.quest_subtitle: "&o단 하나의 시드 안에 있는 에덴 동산."
+	quest.217DF3B66A07A8DE.title: "&3&l차원의 &2씨앗"
+	quest.2188C52C1F384DE4.quest_desc: [""]
+	quest.2188C52C1F384DE4.quest_subtitle: "&o영원히 타는 연료 (실제로는 아님)."
+	quest.2188C52C1F384DE4.title: "&c&l철학자의 연료"
+	quest.23AE395433AED3C0.quest_desc: ["&6&lATM의 별&r은 여러 아이템을 함께 고정하고 별 모양을 만들기 위해 몇 개의 블록이 필요합니다! \\n\\n첫 번째 블록은 &5언옵테이니움&r - &6올더모듐&r &5합금&r &6블록&r입니다. 이것들을 만들려면 &d&l아르스 누보&r의 마법 부여 장치가 필요합니다! 정확히 28개를 만들어야 합니다. "]
+	quest.23AE395433AED3C0.title: "&6&l별의&r 케이스"
+	quest.2D64EF8D803AF9DA.quest_desc: ["저희가 만들 수 있는 가장 비싼 차원문입니다. 먼저 &d드래곤 알&r을 얻기 위해 &d드래곤&r에게 계속해서 우유를 짜낼 필요 없이, &l&bHNN&r 또는 &l&2MA&r를 사용하거나 추출기를 사용하여 더 많이 만들 수 있습니다! \\n\\n다음으로, 마법 부여를 통해 &d주입된 드래곤의 숨결&r이 필요합니다. \\n\\n거기에서 차원문을 만들고 마법 부여하려면 &9영혼이 깃든 스컬크 선반&r이 필요합니다. \\n\\n차원문이 왜 작동하지 않는지 궁금하시다면, 이미 &2&l오버월드&r에 있기 때문입니다! 농담이고 사용할 수 없습니다!"]
+	quest.31B0267C47DB9D98.quest_desc: ["이 퀘스트는 &6AllTheMods Staff&r 또는 AllTheMods 모드팩에서 사용하기 위해 &2커뮤니티 기여자&r에 의해 제작되었습니다.\\n\\n모든 &6AllTheMods&r 팩은 &eAll Rights Reserved&r에 따라 라이선스가 부여되므로, 이 퀘스트는 명시적인 허가 없이 &6AllTheMods Team&r에서 출시하지 않은 공개 팩에서 사용할 수 없습니다.\\n\\n이 퀘스트는 의도적으로 숨겨져 있습니다. 이 메시지가 보인다면 편집 모드에 있는 것입니다."]
+	quest.36CF8D1DD1EF6307.quest_subtitle: "2개의 젖은 밝은 초록색 블록"
+	quest.36DF0D83EBC2B6A9.quest_desc: [""]
+	quest.36DF0D83EBC2B6A9.quest_subtitle: "&o이것만 있으면 지혜가 부족한 것은 과거의 일이 됩니다."
+	quest.36DF0D83EBC2B6A9.title: "&3&l불가능한 확률 장치"
+	quest.39B4F361EF611927.quest_desc: [""]
+	quest.39B4F361EF611927.quest_subtitle: "&o죽음 그 자체를 초월하는 힘."
+	quest.39B4F361EF611927.title: "&l&8위더의 나침반"
+	quest.4D7D4C718837BCA5.quest_desc: ["미니어처 네더 차원문 제작법의 핵심은 &3달인의 시야가 담긴 지옥장&r입니다. 보통은 어떤 마법 부여를 얻을 수 있는지 확인하는 데 사용되지만, 우리는 마법 부여가 아닌 &6&lATM의 별&r을 얻기 위해 왔습니다.\\n\\n몇 개의 선반만으로 얻을 수 있는 &4주입된 지옥장&r으로 마법 부여만 하면 됩니다. 그런 다음 그것을 제작하여 더욱 상위 버전으로 변환할 수 있습니다!\\n\\n그 후 미니어처 네더 차원문을 제작할 수 있습니다. 물론 너무 커서 걸어 다닐 수는 없습니다!"]
+	quest.4E82E843737045D9.quest_desc: [""]
+	quest.4E82E843737045D9.quest_subtitle: "&o가장 강력한 존재의 라텍스."
+	quest.4E82E843737045D9.title: "&d&l드래곤의 영혼"
+	quest.501A0AEEC73C0790.quest_desc: ["&6피글리치&r는 &6&l올더모듐&r에 의해 추가된 보스이며, &l&b디 아더&r의 고대 피라미드에 살고 있습니다.\\n\\n죽을 때 자신의 하트 중 1개를 드롭합니다! it... 블록을 만들려면 9개의 고장난 하트가 필요합니다.\\n\\n다행히 이들을 농장처럼 관리할 방법이 있습니다!"]
+	quest.501A0AEEC73C0790.title: "&6피글리치 심장 블록"
+	quest.54B1A876E9F6707A.quest_desc: [""]
+	quest.54B1A876E9F6707A.quest_subtitle: "&o다른 것과는 비교할 수 없는 힘과 파괴!"
+	quest.54B1A876E9F6707A.title: "&5&l망각의 조각"
+	quest.554F47A0AF7506EC.quest_subtitle: "59,049개의 엔드 돌"
+	quest.62B5A84753ADFC35.quest_subtitle: "건조한 짙은 분홍색 블록 8개"
+	quest.6CAD67D21E1EA861.quest_desc: [""]
+	quest.6CAD67D21E1EA861.quest_subtitle: "&o범용 원격 액세스."
+	quest.6CAD67D21E1EA861.title: "&7&l넥시움 이미터"
+	quest.6FC55CF56BE22866.quest_subtitle: "531,441 흙"
+	quest.73E2A53A088AD29A.quest_subtitle: "젖은 분홍색 블록 11개"
+	quest.764609E41957DA69.quest_subtitle: "6,561개의 에메랄드 블록"
+	quest.779CA0C49F93C4F9.quest_subtitle: "흑요석 59,049개"
+	task.644EBD9EBC93EB3C.title: "AllRightsReserved"
+	task.662F6B4EF078E3A2.title: "AllRightsReserved"
+}

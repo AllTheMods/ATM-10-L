@@ -1,0 +1,50 @@
+{
+	quest.09C82CDDA800D8C9.quest_desc: ["El Wither es el segundo jefe de Minecraft, siendo este más opcional.\\n\\nTendrás que construir al Wither para invocarlo. ¡Usa 4 bloques de Arena de Almas en forma de T y coloca 3 cabezas de Wither encima para invocarlo!\\n\\nTiene 300 corazones y volará disparando cráneos de Wither a jugadores o mobs, practicamente a todo lo que se mueva, este lo atacara.\\n\\nCuando llegue a la mitad de su salud, ganará un escudo contra proyectiles y tendrás que matarlo con una espada o un hacha.\\n\\nUna vez que lo derrotes, dejará caer: una Estrella del Nether, la posibilidad de un Withering Soul de Mystical Agriculture, y un montón de ítems de Corail."]
+	quest.09C82CDDA800D8C9.title: "Abate al Wither"
+	quest.0E20A9B79D1C6637.quest_desc: ["El Warden es un jefe añadido en la versión 1.20.\\n\\nAparece cuando 3 Chilladores de Sculk naturales se activan consecutivamente, o cuando cualquier Chillador se activa después de que un Warden ya ha aparecido.\\n\\nEs el mob más poderoso añadido por Minecraft, con 500 corazones y más de 20 corazones de daño con sus ataques.\\n\\nSus ataques incluyen golpearte y Descargas de Sonar para quienes están más lejos.\\n\\nSu única debilidad es ser ciego, pero, como Daredevil, eso solo hizo que sus otros sentidos sean mucho más fuertes. Si estás cerca, puede olerte, ¡y cuidado con hacer ruido!\\n\\nSi de alguna manera logras matarlo, dejará caer: Catalizadores de Sculk, Caparazón de Warden y un Corazón de las Profundidades."]
+	quest.0E20A9B79D1C6637.title: "Abate al Warden"
+	quest.0F55D0B4D5094EDB.quest_desc: [
+		"'Al hacer muchas de las líneas de misiones para ATM7, el Aldeano Comerciante pensó que sería divertido empujarme constantemente en la pantalla de misiones."
+		""
+		"Acabalos. A todos.'"
+		""
+		"- AlfredGG"
+	]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "'Esto es personal' - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "Abate al Aldeano comerciante y sus molestas llamas"
+	quest.17F3AC15ADCFB175.quest_subtitle: "Acaba con 5 Endermen"
+	quest.17F3AC15ADCFB175.title: "&l&9Caceria del End:&r&e Endermen"
+	quest.1F18B64C84C8809D.quest_subtitle: "Acaba con 5 Araña"
+	quest.1F18B64C84C8809D.title: "&l&9Caceria del Overworld:&r&e Arañas"
+	quest.2B05A29C62676EB2.quest_subtitle: "Acaba con 5 Zombies"
+	quest.2B05A29C62676EB2.title: "&l&9Caceria del Overworld:&r&e Zombies"
+	quest.2BD077EFE77B8EBB.quest_desc: ["Dependiendo del bioma, saldra una variante unica de los zombies. \\n\\nDisecados- aparecen el desierto. \\nAhogados- aparecen debajo del agua. \\nGelid- aparece en junglas. \\nThickets- aparecen en pantanos."]
+	quest.2BD077EFE77B8EBB.title: "Variantes de Zombies"
+	quest.3371F9248D403664.quest_subtitle: "Acaba con 5 Esqueletos de Wither"
+	quest.3371F9248D403664.title: "&l&cCaceria del Nether:&r&e Esqueletos de Wither"
+	quest.41C0948CD9D50322.quest_desc: [
+		"Aqui encontraras recompensas por acabar con ciertos mobs."
+		""
+		"Esta pagina esta en desarrollo!"
+		""
+		"(&l&6Esto solo aparece si el juego esta en Español&r)"
+		""
+		"Se le dieron nombres respectivos al español a estos mobs o jefes... No te preocupes, se mostrarán los nombres en Ingles y en Español junto a sus estructuras para aclarar alguna duda."
+		""
+		"Y sip, todavia esta en desarrollo."
+	]
+	quest.41C0948CD9D50322.quest_subtitle: "Acabando Con Todo"
+	quest.41C0948CD9D50322.title: "La Caceria de Mobs"
+	quest.42822B1E8A53D051.quest_subtitle: "Acaba con 5 Esqueletos"
+	quest.42822B1E8A53D051.title: "&l&9Caceria del Overworld:&r&e Esqueletos"
+	quest.5AC497F76A086A5C.quest_subtitle: "Aacaba con 5 Brujas"
+	quest.5AC497F76A086A5C.title: "&l&9Caceria del Overworld:&r&e Brujas"
+	quest.6141DE779232C8AA.quest_subtitle: "Acaba con 5 Blazes"
+	quest.6141DE779232C8AA.title: "&l&cCaceria del Nether:&r&e Blazes"
+	quest.6827836C8E675A94.quest_desc: ["Los esqueletos tambien tienen variantes, como los Zombies, Enderman y Creepers! \\n\\nErrante- aparece en Biomas Frios. \\nCiénago- aparace en Pantanos y Trial Chambers. \\nMurks- aparecen debajo del agua y en Arrecifes. \\nVerdants- aparece en Junglas."]
+	quest.6827836C8E675A94.title: "Variantes de Esqueletos"
+	quest.728BE1816DA23DC0.quest_desc: ["El Dragón del End es el jefe que protege El End.\\n\\nCuando entres en un portal del End, llegarás a la Isla del End donde aparece.\\n\\nTiene 200 corazones y puede atacar con bolas de fuego o embistiéndote.\\n\\n¡Tendrás que romper los cristales del End en los pilares, ya que lo curan, para poder derrotarlo!\\n\\nUna vez que lo derrotes, dejará caer: Esencia Arcana de Iron's Spells, Epic Shaderbags de Immersive Engineering, Dragonskin, Escamás de Dragon de dos mods diferentes y toneladas de EXP.\\n\\nLuego, el portal se abrirá para que puedas regresar al Overworld, o puedes buscar una puerta del End para explorar las islas exteriores. También encontrarás un huevo de dragón en el portal."]
+	quest.728BE1816DA23DC0.title: "Abate al Dragon de Ender"
+	quest.77FC692AC94D2EEF.quest_subtitle: "Acaba con 5 Creepers"
+	quest.77FC692AC94D2EEF.title: "&l&9Caceria del Overworld:&r&e Creepers"
+}

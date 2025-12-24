@@ -1,0 +1,297 @@
+{
+	quest.001DE8028CAF0A08.quest_subtitle: "shhh... muito alto...."
+	quest.027084AE2DF5EBA6.quest_desc: [
+		"A Planta de Evaporação Térmica multibloco produz Salmoura com base na temperatura interna."
+		""
+		"Existem vários métodos para aumentar a temperatura da planta, inclusive construí-las em um deserto!"
+		""
+		"O &aFuelwood Heater&r queima baldes de lava, que podem então ser canalizados usando um tubo que transfere calor."
+		""
+		"O &aResistive Heater&r usa RF/FE para produzir calor e pode ser configurado para usar qualquer RF/FE que você desejar."
+	]
+	quest.027084AE2DF5EBA6.quest_subtitle: "Salmoura quente aqui. Obtenha sua salmoura quente aqui."
+	quest.027084AE2DF5EBA6.title: "Aquecendo nossa produção de salmoura"
+	quest.0498A578D0EC3254.quest_desc: ["Infundir Ósmio com Redstone em um Infusor Metalúrgico criará um desses para você."]
+	quest.0498A578D0EC3254.quest_subtitle: "O circuito de controle básico"
+	quest.04E2D539E33B7B0F.quest_desc: [
+		"Esta máquina combina dois gases para criar um novo gás."
+		""
+		"Você precisará disso para combinar Cloro com Hidrogênio para criar Cloreto de Hidrogênio, que é então usado em nossa Câmara de Injeção Química."
+	]
+	quest.04E2D539E33B7B0F.quest_subtitle: "O Combinador Químico"
+	quest.0650996C7818ADB5.quest_desc: [
+		"O Gerador de Calor possui 2 modos para gerar energia:"
+		""
+		"&9Passivo:&r Cercar o gerador com fonte de lava ou blocos fluindo cria energia passiva ao criar calor. Coloque um bloco de fonte de lava em cima e deixe-o fluir pelas laterais. Certifique-se de conectar os tubos primeiro!"
+		""
+		"&9Ativo:&r Colocar materiais combustíveis, como carvão ou madeira, no gerador queimará o combustível para gerar energia."
+	]
+	quest.0650996C7818ADB5.quest_subtitle: "Geração de energia básica"
+	quest.07AD45DCF9EE3C2E.quest_desc: ["Este item atualiza uma máquina básica para uma máquina Básica de Fábrica."]
+	quest.07AD45DCF9EE3C2E.quest_subtitle: "Atualizando para fábricas"
+	quest.08DDE018A804BFE7.quest_desc: [
+		"Esta máquina funciona como um macerador ou pulverizador e transforma minérios em pó."
+		""
+		"Isso divide 3 minérios brutos em 4 pós."
+		""
+		"Este é o início da sua Fábrica de Minério. Também pode ser atualizado para uma máquina de fábrica, aumentando os slots de uso."
+	]
+	quest.08DDE018A804BFE7.quest_subtitle: "Quebra minérios brutos em pó"
+	quest.09408C6DCAC90318.quest_desc: ["Este bloco armazena energia e também pode ser usado para carregar itens."]
+	quest.09408C6DCAC90318.quest_subtitle: "Armazenando energia"
+	quest.0F326EEEC2EBE4E5.quest_desc: [
+		"Usando a Câmara de Enriquecimento, você pode enriquecer itens para convertê-los em variantes Enriquecidas."
+		""
+		"Esses itens \"Enriquecidos\" fornecem 8x a quantidade de MB em um Infusor Metalúrgico."
+		""
+		"Se você planeja fazer um monte de aço, primeiro enriqueça seu carvão!"
+	]
+	quest.0F326EEEC2EBE4E5.quest_subtitle: "Enriqueça seus itens primeiro!"
+	quest.0F326EEEC2EBE4E5.title: "Itens enriquecidos"
+	quest.1112E4E2CCEB2467.quest_desc: [
+		"Então agora você deve ter 5 máquinas prontas para processar seus minérios. Você está pronto para complicar ainda mais?"
+		""
+		"Sua fábrica deve ser: Câmara de Injeção Química > Câmara Purificadora > Triturador > Câmara de Enriquecimento > Forno/Fundição."
+		""
+		"Fácil até agora, certo?"
+		""
+		"Bem, aperte o cinto. Está prestes a ficar selvagem."
+	]
+	quest.1112E4E2CCEB2467.quest_subtitle: "Fábrica de minério de nível 3"
+	quest.162CE44400A63575.quest_desc: [
+		"O Infusor Metalúrgico é usado para criar componentes essenciais de artesanato em todo o Mekanismo."
+		""
+		"A máquina funciona infundindo um material (slot central esquerdo) com um \"infusor\" (slot esquerdo)."
+		""
+		"É também assim que você obtém Lingotes de Aço."
+	]
+	quest.162CE44400A63575.quest_subtitle: "A máquina inicial"
+	quest.166971866A9234C7.quest_desc: ["Infundir Ferro com Redstone em um Infusor Metalúrgico lhe dará um desses."]
+	quest.166971866A9234C7.quest_subtitle: "A liga básica para a confecção de itens"
+	quest.18D88932916C7A98.quest_desc: [
+		"O Separador Eletrolítico (nome grande e sofisticado) é usado para separar produtos químicos de certos líquidos e gases."
+		""
+		"Você precisará de vários deles se planeja fazer uma Fábrica de Processamento de Minério."
+		""
+		"Para começar, faça um destes e vamos decompor o fluido mais básico: Água."
+	]
+	quest.18D88932916C7A98.quest_subtitle: "É hora de decompô-lo"
+	quest.195729280394ABFB.quest_desc: [
+		"A máquina cria dois lingotes realmente fortes: Refined Glowstone e Refined Obsidian."
+		""
+		"Ele infunde Ósmio em um item para criar um lingote mais poderoso."
+	]
+	quest.195729280394ABFB.quest_subtitle: "Realmente só bom para 2 coisas"
+	quest.1B6DDF50D00CBB31.quest_desc: [
+		"Infundir Ferro com Carvão ou Carvão Vegetal em um Infusor Metalúrgico lhe dará Ferro Enriquecido."
+		""
+		"Infundir o Ferro Enriquecido com mais Carvão ou Carvão Vegetal lhe dará Pó de Aço, que pode ser fundido em Aço."
+		""
+		"Este é um componente importante de elaboração em muitas receitas do Mekanismo."
+	]
+	quest.1B6DDF50D00CBB31.title: "Aço"
+	quest.1FC7E9DBF92BE6AA.quest_desc: [
+		"Este item é usado para armazenar energia e funciona como uma bateria portátil."
+		""
+		"É também um importante item de artesanato no Mekanismo."
+	]
+	quest.1FC7E9DBF92BE6AA.quest_subtitle: "Bateria portátil"
+	quest.23F165DEAD225B10.quest_subtitle: "Para transferência de energia"
+	quest.263220DCCDB90E29.quest_desc: [
+		"Até agora, para “dobrar” nossa produção de lingotes, sua configuração deve ser semelhante a esta:"
+		""
+		"O minério bruto vai para sua &aCâmara de Purificação&r, que está sendo alimentada com &aOxigênio&r de um &6Separador Eletrolítico&r."
+		""
+		"Em seguida, ele envia o produto para o &aCrusher&r, que converte os torrões de minério em “pós sujos”. Este “Poeira Suja” é alimentado em uma &aCâmara de Enriquecimento, que converte o “Poeira Suja” no “Poeira de Minério” apropriado."
+		""
+		"A &aEnrichment Chamber&r então alimenta sua fundição preferida. Você segue?"
+	]
+	quest.263220DCCDB90E29.quest_subtitle: "Fábrica de minério de nível 2"
+	quest.2E274BEEF2B0B8C7.quest_desc: [
+		"Ok, vamos começar produzindo dióxido de enxofre primeiro."
+		""
+		"Comece colocando a pólvora em uma câmara de injeção química separada com cloreto de hidrogênio para criar pó de enxofre. OU você pode simplesmente pulverizar o Enxofre da Série Térmica em Pó de Enxofre, você decide."
+		""
+		"Alimentar o Pó de Enxofre nesta máquina, o Oxidante Químico, criará Dióxido de Enxofre. Agora precisamos criar o Trióxido de Enxofre."
+		""
+		"Envie o Dióxido de Enxofre para um Infusor Químico para combiná-lo com Oxigênio para criar Trióxido de Enxofre. Envie o Trióxido para outro Infusor Químico para combiná-lo com Vapor de Água para criar Ácido Sulfúrico."
+		""
+		"Isso é muito."
+	]
+	quest.2EF4DD5CC254CC80.quest_subtitle: "Para transferência de fluidos"
+	quest.37D4E5ACB35D8BF1.quest_subtitle: "Requer hidrogênio para funcionar!"
+	quest.3999760881C855FA.quest_desc: [
+		"Esta máquina será a número 3 em sua Fábrica de Processamento de Minério Nível 4."
+		""
+		"Ele pega a pasta de minério limpo da lavadora química e a transforma em cristais, que a câmara de injeção química pode processar posteriormente."
+	]
+	quest.3999760881C855FA.quest_subtitle: "Transforma lama de minério em cristais"
+	quest.3B43DB1A6B0A7B44.quest_desc: ["O Triturador também pode decompor substâncias naturais em Biocombustível!"]
+	quest.3B43DB1A6B0A7B44.title: "Biocombustível"
+	quest.3C49F2EEDCCAF1DF.quest_desc: [
+		"Se você é como eu, provavelmente se perdeu 55 vezes nessas últimas etapas. Este é um sistema complicado."
+		""
+		"Um layout básico de sua fábrica deve ser:"
+		""
+		"O minério bruto vai para sua Câmara de Dissolução Química > bombeia um GÁS para o Lavador Químico > bombeia um GÁS para o Cristalizador Químico > envia cristais para a Câmara de Injeção Química > envia fragmentos para a Câmara de Purificação > envia aglomerados para o Triturador > envia pós sujos para a Câmara de Enriquecimento > envia fragmentos limpos poeira para a Fundição."
+		""
+		"{image:atm:textures/questpics/mek/mekanism_flowchart.png width:300 height:150 align:1 fit:true}"
+	]
+	quest.3C49F2EEDCCAF1DF.quest_subtitle: "Isso é muito, eu sei."
+	quest.3EC9D0DA61B45328.quest_desc: [
+		"Este gerador pode queimar hidrogênio e etileno para produzir energia."
+		""
+		"Nota: A queima de hidrogênio não produzirá mais energia do que o custo para operar um Separador Eletrolítico. Use para Etileno."
+	]
+	quest.3EC9D0DA61B45328.quest_subtitle: "Queime gases em energia!"
+	quest.407EFAF528871014.quest_desc: [
+		"Para começar a decompor a água, precisaremos de uma fonte de água. A pia da cozinha fornece água infinita e pode ser facilmente configurada para bombear água."
+		""
+		"Alternativamente, você pode simplesmente usar a clássica fonte de água infinita com uma bomba da Mekanism."
+		""
+		"Bombeie a água em seu Separador Eletrolítico para dividi-la em Hidrogênio e Oxigênio."
+	]
+	quest.407EFAF528871014.quest_subtitle: "A Poderosa Fonte de Água Infinita"
+	quest.407EFAF528871014.title: "Fonte de água"
+	quest.41EB0C570FC54F43.quest_desc: ["Este bloco armazena gases."]
+	quest.41EB0C570FC54F43.quest_subtitle: "Armazenando todo esse gás"
+	quest.4204702AA6FBF40B.quest_desc: [
+		"Ficar sobre este item carregará qualquer item energizado de qualquer mod."
+		""
+		"Isso também é necessário para o Robit."
+	]
+	quest.4236B9F071BE18F3.quest_desc: [
+		"Para fazer ácido sulfúrico, você precisará criar &aWater Vapor&r."
+		""
+		"Bombeie um pouco de água nesta máquina e ela a converterá em vapor."
+	]
+	quest.4434D7B66521D69A.quest_subtitle: "Para transferência de gases"
+	quest.47106CE1937C4340.quest_desc: ["Para obter uma folha de HDPE, coloque 3 pellets de HDPE em uma câmara de enriquecimento."]
+	quest.488DBE69595F38F8.quest_desc: [
+		"Esta máquina funde itens."
+		""
+		"Ela pode ser atualizada para uma Fábrica de Fundição, aumentando o número total de slots de fundição até um máximo de 9."
+	]
+	quest.488DBE69595F38F8.quest_subtitle: "Fornalha Elétrica do Mekanism"
+	quest.49675EA8CBCA1388.quest_subtitle: "Ferramenta completa do Mekanism"
+	quest.4AFF81D3D0E78255.quest_desc: [
+		"Esta máquina precisa de água para funcionar e usa a água para transformar \"pasta de minério\" em \"pasta de minério limpa\"."
+		""
+		"Será a parte 2 da sua Fábrica de Processamento de Minério Tier 4."
+	]
+	quest.4AFF81D3D0E78255.quest_subtitle: "Dando banho em minérios"
+	quest.4BDE773C3359D584.quest_subtitle: "Um mini-robô para acompanhá-lo em suas viagens"
+	quest.4EDD96EB60EF5814.quest_desc: [
+		"Se você está se perguntando se vale a pena fazer esse upgrade, a resposta é sim."
+		""
+		"Esta versão produz 105,6FE/t. Também pode ser usado para adicionar calor extra às Plantas de Evaporação Térmica."
+	]
+	quest.4F1C04C0F6769825.quest_desc: [
+		"Esta máquina é o próximo passo para sua Fábrica de Processamento de Minério. Adicione isto à esquerda de sua Câmara de Purificação para construir sua atual fábrica de minério!"
+		""
+		"Esta máquina requer cloreto de hidrogênio para funcionar. Para descobrir como criar Cloreto de Hidrogênio, siga a missão acima!"
+	]
+	quest.4F1C04C0F6769825.quest_subtitle: "Transforma 3 minérios brutos em 8 fragmentos de minério"
+	quest.4F436770D30D8520.quest_desc: [
+		"Precisaremos adicionar mais 3 máquinas à nossa configuração atual."
+		""
+		"A primeira parte do processo é a Câmara de Dissolução Química."
+		""
+		"Esta máquina requer ácido sulfúrico para quebrar minérios brutos em uma \"pasta de minério\"."
+		""
+		"Para obter Ácido Sulfúrico, precisaremos de uma nova configuração, que é explicada mais detalhadamente nas missões acima."
+	]
+	quest.4F436770D30D8520.title: "O início de uma fábrica de minério de nível 4"
+	quest.5047792C6EF6D2AD.quest_desc: [
+		"Quando o biocombustível é combinado com água e hidrogênio em uma câmara de reação pressurizada, ele cria substratos. Também cria etileno como subproduto."
+		""
+		"Eles são necessários para criar pelotas de HDPE, que são usadas para artesanato final, como o traje Meka."
+	]
+	quest.5047792C6EF6D2AD.title: "Substratos"
+	quest.531E3FF1F2865C67.quest_subtitle: "Para transferência de calor"
+	quest.587A19FC348387C5.quest_desc: [
+		"Combina gases, itens sólidos e líquidos para produzir um item e subproduto."
+		""
+		"Esta máquina é necessária para criar materiais e armaduras finais."
+	]
+	quest.58B125BD4876054C.quest_desc: [
+		"Mekanism é um mod tecnológico que mudará a maneira como você joga Minecraft."
+		""
+		"O mod se concentra em decompor os materiais em sua composição química e em obter o melhor de cada material que você encontrar."
+		""
+		"Este mod apresenta Jetpacks movidos a hidrogênio, um mini-amigo robótico, reatores, um minerador digital para automatizar a mineração e muito, muito mais."
+	]
+	quest.58B125BD4876054C.quest_subtitle: "O início da sua própria fábrica"
+	quest.58B125BD4876054C.title: "&dMecanismo&r"
+	quest.5B681BC43371CC5C.quest_subtitle: "Para transferir itens"
+	quest.5E116409DC7D30BB.quest_desc: ["Este item é usado para configurar muitos dos itens do Mekanism, desde a troca de tubos até \"Puxar ou Empurrar\" ou máquinas rotativas."]
+	quest.5E116409DC7D30BB.quest_subtitle: "Chave do Mecanismo"
+	quest.603877AB96321F1A.quest_desc: [
+		"Para obter cloreto de hidrogênio para nossas máquinas, precisaremos primeiro criar &aBrine&r."
+		""
+		"Para fazer isso, precisaremos de uma Usina de Evaporação Térmica. Esta é uma estrutura multibloco."
+		""
+		"Para começar, crie uma estrutura 4x3x4 oca no meio, exceto na base. Você pode substituir qualquer um dos lados por um controlador ou válvula."
+		""
+		"Você precisará de pelo menos 1 controlador e pelo menos 2 válvulas."
+		""
+		"Bombeie água e você começará a coletar salmoura, que pode ser bombeada para um &aSeparador Eletrolítico&r para extrair &6Cloro&r do gás."
+		"{image:atm:textures/questpics/mek/thermalplant.png width:100 height:100 align:1}"
+	]
+	quest.603877AB96321F1A.quest_subtitle: "A água se transforma em salmoura!"
+	quest.603877AB96321F1A.title: "Planta de Evaporação Térmica"
+	quest.6C25D42C36175BF4.quest_desc: [
+		"Essa máquina “Purifica” nossos minérios. Ele transforma 1 minério bruto em 2 \"aglomerados\", que podem então ser enviados através de um triturador para serem transformados em pó sujo, depois através de uma câmara de enriquecimento para obter pó limpo e, em seguida, através de uma fundição para serem transformados em um lingote."
+		""
+		"Isso dobrará sua produção de lingotes."
+		""
+		"Esta máquina requer &aOxygen&r para funcionar, que é criado bombeando água para um &6Separador Eletrolítico&r."
+	]
+	quest.6C25D42C36175BF4.quest_subtitle: "Faz aglomerados."
+	quest.6CD1720B76F47806.quest_desc: ["Este gerador irá queimar Biocombustível em energia. Produz cerca de 140FE/t."]
+	quest.6DB1AAAD926486BC.quest_desc: [
+		"Este item armazena líquidos."
+		""
+		"Possui um modo de balde que pode ser alternado para coletar líquidos com ele. Muito útil para lava no começo!"
+	]
+	quest.6DB1AAAD926486BC.quest_subtitle: "Tem um MODO BALDE!"
+	quest.6F62B5510FA881CD.quest_subtitle: "O Lingote de Fabricação Base"
+	quest.6F62B5510FA881CD.title: "Ósmio"
+	quest.74200A48498DD7F8.quest_desc: ["Gera energia a partir do sol!"]
+	quest.74200A48498DD7F8.quest_subtitle: "Produz cerca de 17,6FE/t"
+	quest.76A38CCA5816CDAD.quest_desc: ["A combinação de oxigênio, etileno e um substrato em uma câmara de reação pressurizada criará um pellet de HDPE."]
+	quest.76A38CCA5816CDAD.title: "Pelotas de HDPE"
+	quest.7778937DF377C1B4.quest_desc: [
+		"Esta é uma ótima opção para geração de energia."
+		""
+		"Isso gera cerca de 40FE/t e aumenta com base em quão alto você está. Quanto maior o nível Y, mais energia ele produz!"
+	]
+	quest.7778937DF377C1B4.quest_subtitle: "Gera energia a partir do vento"
+	quest.7AE502EDB73BD57A.quest_desc: ["Esta máquina esmaga minérios em suas formas de poeira “suja”. Isto é útil para converter aglomerados em pó sujo, que pode passar por uma Câmara de Enriquecimento para criar o pó de minério, que então pode ser fundido em um lingote."]
+	quest.7AE502EDB73BD57A.quest_subtitle: "Isso esmaga as coisas."
+	quest.7B0DFA55B4D8B16D.quest_desc: [
+		"Para criar um Portal personalizado, coloque um único bloco de Teletransportador. Conecte a energia ao bloco."
+		""
+		"Crie uma “Moldura do Portal” com o bloco teletransportador sendo a base do portal."
+		""
+		"O produto final será uma estrutura de portal 4x3, com os dois blocos do meio criando o portal."
+	]
+	quest.7B0DFA55B4D8B16D.quest_subtitle: "Teletransporte no seu melhor."
+	quest.7B0DFA55B4D8B16D.title: "Portais personalizados!"
+	quest.7CC49360D07086B8.quest_desc: [
+		"Este item é como você torna possíveis as transferências sem fio."
+		""
+		"Você pode definir canais específicos, nomeados por você, para transferir o que quiser deles."
+	]
+	quest.7CC49360D07086B8.quest_subtitle: "Energia sem fio, gases, fluidos, tudo."
+	quest.7EA6B942D1294ED6.quest_desc: [
+		"Esta máquina pode minerar para você!"
+		""
+		"É totalmente configurável e pode até substituir blocos minerados por paralelepípedos ou qualquer bloco que você fornecer!"
+	]
+	quest.7EA6B942D1294ED6.quest_subtitle: "Um amigo robô maior."
+	task.3B3B58C438FD4397.title: "Resumo da fábrica de processamento de minério de nível 4"
+	task.46C4C1AD9FA5BEE2.title: "Nossa configuração até agora"
+	task.57F40CFA03BD36EF.title: "A parte difícil"
+	task.6E75525A5D88EF23.title: "Aquecedores"
+}

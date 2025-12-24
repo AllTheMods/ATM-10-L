@@ -54,7 +54,7 @@ allthemods.custom({
   "ingredients": [
     {"item": "allthecompressed:netherrack_3x"},
     {"item": "allthetweaks:mini_nether"},
-    {"item": "allthecompressed:obsidian_2x"},
+    {"item": "allthecompressed:obsidian_3x"},
     {"item": "allthecompressed:dirt_3x"},
     {"item": "allthetweaks:mini_exit"},
     {"item": "allthecompressed:emerald_block_3x"},

@@ -1,0 +1,81 @@
+{
+	quest.05B0A7D0B991050F.title: "Reator (endurecido)"
+	quest.0FD62827710F0AC6.quest_desc: ["O &cMagmator&r irá gerar FE quando fornecido com Lava."]
+	quest.0FFF2BEE5D8EBE12.title: "Reator (niótico)"
+	quest.1B0087400B0B8B49.quest_desc: [
+		"O &9Reactor&r é um gerador multibloco 3x4x3 que queima &aUrananite&r como combustível para produzir FE."
+		""
+		"Para construí-lo, você precisará fazer um total de 36 blocos de reator. Enquanto segura 36 em mãos, colocar um bloco construirá automaticamente o reator. Certifique-se de limpar algum espaço primeiro!"
+		""
+		"Você vai querer resfriar o reator para que ele crie mais FE, e você pode fazer isso com líquido refrigerante sólido ou líquido. Para usar um refrigerante sólido, você também precisará fornecer um pouco de refrigerante líquido. &bDry Ice&r é um excelente refrigerante sólido! (Nota: 1 balde de água serve)"
+		""
+		"Você também pode aumentar a geração de FE mantendo o buffer de combustível cheio, bem como adicionando Carvão e Redstone ao Reator. Usar blocos de qualquer um deles também funcionará!"
+	]
+	quest.1B0087400B0B8B49.title: "Reator (iniciador)"
+	quest.1C273D9E046FD18A.quest_desc: ["Usado para energizar itens usando o Energizing Orb."]
+	quest.25EFC21A3C48E0B6.title: "Camada: &2Spirited&r"
+	quest.33816AF0E699F19F.quest_desc: ["Este bloco drenará FE de qualquer item carregado."]
+	quest.341486C9F277FEB7.title: "Reator (Espirituoso)"
+	quest.3CB6DC5B09C62CFE.quest_desc: [
+		"&5Ender Gates&r são usados ​​para transferir energia sem fio de e para um bloco adjacente para a &7Ender Network&r."
+		""
+		"Pense neles como pontos de acesso sem fio à sua rede de energia sem fio."
+		""
+		"Nota: Você só pode adicionar capacidade de armazenamento usando uma Ender Cell."
+	]
+	quest.3D5F87F8E6B89C1B.quest_desc: ["O &7Furnator&r queimará itens como carvão e madeira para produzir FE."]
+	quest.3DDF87A1E5F5D009.quest_desc: [
+		"No início, você pode criar as máquinas de nível &7Starter&r e &bBasic&r usando Iron, mas eventualmente precisará criar tapetes energizados usando o &9Energizing Orb&r."
+		""
+		"O &9Energizing Orb&r energizará itens usando &aEnergizing Rods&r próximos em uma área 9x9 ao seu redor, criando materiais melhores para você usar para progredir através dos &eTiers&r em Powah."
+		""
+		"Para alimentar o orbe, você precisará conectar hastes energizantes aos cabos de energia que estão sendo fornecidos com energia. Se você quiser que o Orbe seja energizado mais rápido, faça mais hastes, atualize para hastes de nível superior ou ambos! Para ver se as hastes estão conectadas, configure seu &aWrench&r para o modo link e você poderá vincular qualquer haste ao orbe."
+		""
+		"{image:atm:textures/questpics/powah/powah_energizing.png width:200 height:200 align:1}"
+	]
+	quest.3DDF87A1E5F5D009.title: "O &9Orb&r Energizante"
+	quest.4F1FFC02F4EAA2E6.title: "Camada: &4Nitro&r"
+	quest.52E59FCB39D66BCF.quest_desc: [
+		"Uma das melhores opções para \"Energia Passiva\", o &9Thermal Generator&r produzirá FE quando colocado sobre uma &cHeat Source&r e receber um fornecimento constante de água."
+		""
+		"Atualmente, existem 3 blocos sobre os quais você pode colocá-lo: um bloco de magma que produz o mais baixo, um bloco de fonte de lava que é um pouco melhor ou um &cBlock of Blazing Crystal&r, que fornece mais calor."
+	]
+	quest.562BD37539EE318E.title: "Camada: &cBlazing&r"
+	quest.5BCA3F716348ECCD.quest_desc: ["O &9Energy Hopper&r cobrará qualquer item carregável dentro do inventário do bloco para o qual está apontado, como um baú."]
+	quest.5E090C9BB4DAA5D4.title: "Camada: &aEnergizado&r"
+	quest.5F6152CF085D75D6.title: "Reator (Básico)"
+	quest.61A8FAEC4FF18449.quest_desc: ["Eles podem ser usados ​​para carregar itens em seu inventário ou para aumentar a capacidade geral de energia de um canal &7Ender Network&r."]
+	quest.61DCECE1FC38E151.title: "Reator (Nitro)"
+	quest.66ECC26BC81D0093.title: "Camada: &bBásico&r"
+	quest.6754612E9AD4B9C0.title: "Reator (em chamas)"
+	quest.677365A816994C8B.quest_desc: [
+		"O &9Player Transmitter&r carregará os itens do jogador sem fio. Você deve primeiro vincular isso a um jogador usando uma &9Carta de Vinculação&r. Esta é a placa básica que permite que o transmissor funcione apenas na mesma dimensão. Você pode atualizar isso usando um &dBinding Card (Dimensional)&r."
+		""
+		"Nota: Para obter uma Pérola Aérea de Jogador, use uma Pérola Aérea em um Zumbi ou Casca."
+	]
+	quest.6B2027DA7AA6FF34.quest_desc: [
+		"&9Powah&r é um mod tecnológico que trata de gerar, armazenar e transmitir &dPower&r. Variando desde a geração básica de FE até &aReactors&r que produzem &b250k FE/t&r, Powah tem o que você precisa!"
+		""
+		"Para começar, saia e extraia um pouco de &aUraninite&r!"
+	]
+	quest.6B2027DA7AA6FF34.title: "&aBem-vindo ao&r &9Powah&r!!!"
+	quest.6D88C19F47D0D469.title: "Camada: &7Tiny&r"
+	quest.700F3FF7C23D0C0F.quest_desc: ["O &5Ender Cell&r armazenará energia para um canal em sua &7Ender Network&r. Para aumentar a capacidade de energia da rede, clique com o botão direito na célula Ender para abrir a interface e adicione um &aBattery&r ou um &9Energy Cell&r para aumentar a capacidade geral."]
+	quest.7678B5DD1339833E.quest_desc: ["O Painel Solar gera FE quando tem acesso direto ao sol. No entanto, você pode usar uma &7Lens of Ender&r para ignorar blocos em seu caminho."]
+	quest.78202A1CF5D86B94.quest_desc: [
+		"O &9Power Bank&r de Powah."
+		""
+		"Eles também podem ser usados ​​para atualizar a capacidade total de armazenamento de energia de suas &7Ender Networks&r sem fio."
+	]
+	quest.7D52DD751DDADA1B.quest_desc: ["Os cabos básicos para transferência de energia."]
+	quest.7D7983F39E6E818D.title: "Camada: &9Niotic&r"
+	quest.7E92ED270C67FDE5.quest_desc: [
+		"Quase todas as máquinas que você pode fazer no mod exigirão uma &9Caixa Dielétrica&r."
+		""
+		"Você precisará fazer o &bPaste&r primeiro, bem como alguns &aRods&r para progredir!"
+	]
+	quest.7E92ED270C67FDE5.title: "Começando com tapetes dielétricos"
+	task.17F07D6404668DE6.title: "Varetas Energizantes"
+	task.1F929F1DF23460AE.title: "Cartões de encadernação"
+	task.36E378BF22554E0A.title: "Cabos de Energia"
+}

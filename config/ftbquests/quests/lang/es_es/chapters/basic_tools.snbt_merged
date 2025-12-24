@@ -1,0 +1,31 @@
+{
+	quest.03E05018D64DDEE1.quest_desc: ["&eTier 5&r is basically just for AllTheModium Ore, not much else."]
+	quest.03E05018D64DDEE1.title: "&eHarvest Tier 5&r"
+	quest.0583862ED0114442.quest_subtitle: "&f4&r &4Damage&r"
+	quest.077A214422FEFF02.quest_subtitle: "&f6.4&r &4Damage&r"
+	quest.09733948CBCB3FB9.quest_desc: ["&dTier 6&r is the highest tier, anything that is breakable can be mined with it, including Vibranium and Unobtainium."]
+	quest.09733948CBCB3FB9.title: "&dHarvest Tier 6&r"
+	quest.17FE0C7748DD65CA.quest_desc: ["&5Tier 4&r is Diamond tool level, used to get Obsidian and Netherite. Also some modded ores like Uranium and Platinum."]
+	quest.17FE0C7748DD65CA.title: "&5Harvest Tier 4&r"
+	quest.3BF1900346772703.quest_subtitle: "&fTier 2&r"
+	quest.47AED7219704EB3E.quest_subtitle: "&f22&r &4Damage&r"
+	quest.4C8C56F960D92E9D.quest_subtitle: "&f47&r &4Damage&r"
+	quest.512396B331108BAF.quest_subtitle: "&eTier 5&r"
+	quest.5151CDD8FCDE7A07.quest_desc: [
+		"Welcome to Basic Tools! "
+		""
+		"Ever get a tool you've never seen or heard of and wanted to know where it lies among other tools? Then this quest is perfect for you! "
+		""
+		"(The swords are sorted by base damage, swords that can be upgraded or used to get more damage are not included) "
+		""
+		"(Please do not use this as a bucket list, finding all the tools and weapons will 99%% make you insane.)"
+	]
+	quest.5151CDD8FCDE7A07.title: "Herramientas!"
+	quest.51DBE688ED630DB1.quest_subtitle: "&5Tier 4&r"
+	quest.54D3D6806C1F33F3.quest_subtitle: "&f5&r &4Damage&r"
+	quest.55A9EB63F4964FCF.quest_subtitle: "&f7&r &4Damage&r"
+	quest.57F47BA495B27F83.quest_desc: ["&9Tier 1&r Harvest Level is the lowest pickaxe level, needing a pickaxe. Any pickaxe can mine these. Items that are Tier 1 would be like Stone, Furnace, and Coal Ore."]
+	quest.57F47BA495B27F83.title: "&9Harvest Tier 1&r"
+	quest.609D03E335CF32E2.quest_subtitle: "&dTier 6&r"
+	quest.609D03E335CF32E2.title: "ATM Ores and Alloy Pickaxes"
+}

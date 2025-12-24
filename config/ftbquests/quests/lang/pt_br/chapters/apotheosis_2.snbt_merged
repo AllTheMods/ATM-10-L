@@ -1,0 +1,41 @@
+{
+	quest.0D6D45DBA64E612D.quest_desc: ["O Atraso Máximo de Spawn é quanto tempo pode levar para gerar mobs. Assim como o Mínimo, pode variar de 100 a 32.767. Cada lingote dá 10. Os números são ticks do Minecraft, 20 ticks equivalem a 1 segundo. Portanto, o atraso de spawn mais rápido seria de 5 segundos entre cada um."]
+	quest.0D6D45DBA64E612D.title: "Atraso máximo de surgimento"
+	quest.0E02CE4469FCA4C9.quest_desc: ["A ativação de Redstone dá ao seu spawner um botão liga/desliga. Sem Redstone Power ele não irá aparecer."]
+	quest.0E02CE4469FCA4C9.title: "Redstone ativo"
+	quest.0F89BFD4A3F63A48.quest_desc: ["Alguns mobs (principalmente monstros) precisam de certos níveis de luz para aparecer. Hostis que precisam de níveis mais baixos e passivos que precisam de níveis mais altos. Usar uma Lanterna da Alma faz com que você nunca precise se preocupar com os níveis de luz, pois ela os ignora! Isto não ignora outros requisitos para a desova, como animais de criação que necessitam de erva. É outro que é ignorado por Dragon Egg."]
+	quest.0F89BFD4A3F63A48.title: "Ignorar luz"
+	quest.167E1474644C9908.quest_desc: ["O Quartz faz tudo o que o outro item faz, faz o oposto para o Spawner. Com o Quartz em sua mão improvisada e o outro item Spawner Modification em sua mão principal, ele fará o oposto de sua função. Com Quartz e Blaze Rods, em vez de aumentar o Spawn Range, ele diminuirá. Com Quartz e Ghast Tears diminuirá o máximo de entidades."]
+	quest.167E1474644C9908.title: "Dia oposto"
+	quest.186593EBCE3FE8D8.quest_desc: ["O Spawn Range é a área onde os mobs podem aparecer. Quanto maior a área, mais espaço para eles desovarem. Quanto menor a área, mais barata será a fábrica."]
+	quest.186593EBCE3FE8D8.title: "Alcance de surgimento"
+	quest.18E0F5A78F696FA3.quest_desc: ["Fragmentos de eco dão um efeito especial pro Spawner. Qualquer mob que nascer vai ter seus drops multiplicados."]
+	quest.18E0F5A78F696FA3.title: "Ecoando"
+	quest.1AD87CB3226ED224.quest_desc: ["A lã só faz uma coisa ao spawner: calá-lo. Não gosta de ouvir os barulhos estúpidos do Spawner? Então use Lã! Qualquer cor, contagem de fios ou desenho!"]
+	quest.1AD87CB3226ED224.title: "Calma, você vai acordar os mobs!"
+	quest.30EB438C66324213.quest_desc: ["O Conduit fará o que os Prismarine Shards fazem, mas muito melhor. Os jogadores não precisam mais estar perto do spawner. Contanto que esteja carregado, ele irá aparecer."]
+	quest.30EB438C66324213.title: "Ignorar jogadores"
+	quest.310969B8FE0A94DE.quest_desc: ["Outra mudança de jogo que a Apotheosis traz é para os Spawners. Lembra que você pode minerar Spawners com Silk Touch? Bem, está de volta graças à Apotheosis! Há também muitas novas modificações que você pode adicionar aos Spawners clicando com o botão direito com qualquer um desses itens."]
+	quest.310969B8FE0A94DE.title: "Criador de Monstros"
+	quest.3E2A411FF5B4B0E7.quest_desc: ["O Alcance de Ativação é o quão próximo o Jogador (Você) deve estar do Spawner para que ele funcione. O mais baixo pode ser a 1 quarteirão de distância e o mais alto a 48 quarteirões de distância. Eles formam um círculo ao redor do spawner em vez de blocos diretos. O Condiut e o Dragon Egg irão ignorá-los."]
+	quest.3E2A411FF5B4B0E7.title: "Distância de ativação"
+	quest.40096ED0B04C3EC5.quest_desc: ["O item obrigatório para todos os Spawners. Quando diz que ignora todas as condições, significa a maioria. Ignora níveis de luz, blocos necessários para desova e biomas. Porém, as condições de espaço ainda são necessárias, como slimes que precisam de uma área 3x3 para aparecer, e o mesmo acontece com os jogadores que precisam estar por perto."]
+	quest.40096ED0B04C3EC5.title: "Ignore todas as condições"
+	quest.42D7C8CD8E6F5CD7.quest_desc: ["Ao usar uma Maçã Dourada em um Spawner, você suga as almas dos mobs que serão gerados, deixando apenas uma casca vazia do que costumavam ser. Os mobs perderão toda a IA, então farão basicamente o que uma armadura faz. Eles não podem bater em você, não podem se teletransportar, não podem se mover sozinhos. Eles ficam ali prontos para serem mortos, que emocionante!"]
+	quest.42D7C8CD8E6F5CD7.title: "Para IA"
+	quest.4D07B0A4A2E77CDA.quest_desc: ["Máximo de entidades é a quantidade de mobs que podem ser gerados por um spawner e mantidos. Se forem apenas 6 entidades no máximo quando 6 mobs já foram gerados, nenhum mais será gerado até que estejam mortos ou movidos. Cada Ghast Tear traz para cima ou para baixo 2 Entidades. Máximo de 16 Entidades e Mínimo de 1."]
+	quest.4D07B0A4A2E77CDA.title: "Máximo de entidades"
+	quest.4F7F8F4ED1CA0550.quest_desc: [
+		"Se você usar uma fogueira no Spawner, os mobs nascerão pegando fogo. Perfeito para uma"
+		"carne cozida."
+	]
+	quest.4F7F8F4ED1CA0550.title: "Queimando"
+	quest.6A497B063CF32A5C.quest_desc: ["Ele pode ser usado para aumentar a quantidade de mobs que PODEM surgir de um spawner. Os Mobs gerados são aleatórios com uma quantidade máxima determinada pelos olhos de aranha fermentados. Ele aumenta ou diminui 1 para cada coração até um máximo de 8."]
+	quest.6A497B063CF32A5C.title: "Contagem de aparecimento"
+	quest.6F71FD826C29C31A.quest_desc: ["Este pode ser novo para aqueles que retornaram de versões anteriores. Ao usar um ovo de tartaruga em um spawner, os mobs só aparecerão em versões bebês. Isso só funciona com versões Vanilla baby de mobs, não modificados."]
+	quest.6F71FD826C29C31A.title: "Jovem"
+	quest.7A9AE63998BB41FF.quest_desc: ["Para determinar quando o Spawner irá aparecer, ele escolhe um número aleatório entre o atraso máximo e mínimo de spawn. O mínimo pode ser de 100 a 32.767. Cada lingote sobe ou desce 10."]
+	quest.7A9AE63998BB41FF.title: "Atraso Mínimo de Spawn"
+	quest.7F6B66566C211735.quest_desc: ["Se você usar um espeleotema pontiagudoem um Spawner, os mobs que nascerem dele terão sua vida maxíma reduzida. Pode ser usado para reduzir a vida até 20%."]
+	quest.7F6B66566C211735.title: "Vida"
+}

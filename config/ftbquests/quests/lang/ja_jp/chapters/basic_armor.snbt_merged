@@ -1,0 +1,166 @@
+{
+	quest.004D61425172324F.quest_desc: ["&8チェーンメイルアーマー&r は鉄より少し性能が劣ります。&l&2Minecraft&r での主な特徴は、村人との取引やモブドロップでしか入手できない希少性でした。\n\nもちろんこれは MOD 版なので、今では作れます！これによってその特別感は失われてしまいましたが..."]
+	quest.004D61425172324F.quest_subtitle: "12"
+	quest.004D61425172324F.title: "&8チェーンメイルアーマー"
+	quest.04B31A600004F7CB.quest_desc: ["このクエストは &6AllTheMods スタッフ&r、または &2コミュニティの貢献者&r によって AllTheMods Modpacks 用に作成されました。\\n\\nすべての &6AllTheMods&r パックは &eAll Rights Reserved&r ライセンスの下にあるため、このクエストは &6AllTheMods Team&r によってリリースされていない公開パックでは明示的な許可なく使用することはできません。\\n\\nこのクエストは意図的に非表示になっています。これが表示されている場合は、編集モードになっています"]
+	quest.074EC1E636CD6605.quest_desc: ["&cネザライト防具&r は &l&2バニラ&r で最高の防具です。&bダイアモンド&r と同じ防具ポイントですが、防具の強度が高くなっています。\n\n&bダイアモンド&r が必要なのはそのためでしょう！"]
+	quest.074EC1E636CD6605.quest_subtitle: "20"
+	quest.074EC1E636CD6605.title: "&cネザライト防具"
+	quest.0ED11FCF6298CE85.quest_desc: ["&e&lIron's Spells&r の &4Blood Armor&r！"]
+	quest.0ED11FCF6298CE85.quest_subtitle: "20"
+	quest.0ED11FCF6298CE85.title: "&4Cultist Outfit"
+	quest.0F1D6F4729CC38F3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"]
+	quest.0F1D6F4729CC38F3.quest_subtitle: "ネザー要塞"
+	quest.0F1D6F4729CC38F3.title: "Rib アーマートリム"
+	quest.1245126B4338C019.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vex.png width:100 height:150 align:center}"]
+	quest.1245126B4338C019.quest_subtitle: "森の洋館"
+	quest.1245126B4338C019.title: "Vex アーマートリム"
+	quest.17A68C4E9E9EA2B7.quest_desc: ["&e金の防具&r は鉄と &7革&r の中間に位置します。しかし、耐久性は &7革&r により近いです。\\n\\n&e金の防具&r を装備していると Piglin が中立的になる以外には、あまり用途がありません"]
+	quest.17A68C4E9E9EA2B7.quest_subtitle: "11"
+	quest.17A68C4E9E9EA2B7.title: "&e金の防具"
+	quest.1C27C74722A19FC1.quest_desc: ["超高価な&l&5Mekanism&rアイテムを大量に使用することで、&5アンオブタニウム防具&rを&aMekaSuit&rにアップグレードできます！\\n\\nエネルギーを保持でき、ダメージを受けたときにハートではなくエネルギーを消費します。\\n\\nアップグレードユニットを使用してさらに性能を向上させることができます！"]
+	quest.1C27C74722A19FC1.quest_subtitle: "供給できる限りのエネルギー"
+	quest.1C27C74722A19FC1.title: "&aMekaSuit"
+	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
+	quest.1CC627D3FB348C89.quest_subtitle: "Trail Ruins"
+	quest.1CC627D3FB348C89.title: "Shaper Armor Trim"
+	quest.1D91E37BFD8CC911.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_emerald.png width:100 height:150 align:center}"]
+	quest.1D91E37BFD8CC911.title: "&2エメラルド&r"
+	quest.1E3E688B3B52C4D2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_raiser.png width:100 height:150 align:center}"]
+	quest.1E3E688B3B52C4D2.quest_subtitle: "Trail Ruins"
+	quest.1E3E688B3B52C4D2.title: "Raiser アーマートリム"
+	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
+	quest.1EABF2E7AE7B8F22.title: "&8ネザライト&r"
+	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
+	quest.1FC7ABEAB5018E79.title: "&4レッドストーン&r"
+	quest.211FD55DEB635A98.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_copper.png width:100 height:150 align:center}"]
+	quest.211FD55DEB635A98.title: "&6銅&r"
+	quest.215C9C2B2240FAA1.quest_desc: ["&e&lIron's Spells&r &5Electric Armor&r！"]
+	quest.215C9C2B2240FAA1.quest_subtitle: "20"
+	quest.215C9C2B2240FAA1.title: "&5Electromancer の装備"
+	quest.243008D4DCD789D0.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"]
+	quest.243008D4DCD789D0.quest_subtitle: "ジャングル寺院"
+	quest.243008D4DCD789D0.title: "Wild Armor Trim"
+	quest.24A7B2902E7430A1.quest_desc: ["&7革の防具&rに少しだけ Arcane の力を加えたものです。\\n\\n呪文の魔力が少し上昇します"]
+	quest.24A7B2902E7430A1.quest_subtitle: "15"
+	quest.24A7B2902E7430A1.title: "&9放浪の魔術師の装備"
+	quest.260C7F3C1F51221D.quest_desc: ["&e&lIron's Spells&r &a召喚の防具&r！"]
+	quest.260C7F3C1F51221D.quest_subtitle: "20"
+	quest.260C7F3C1F51221D.title: "&aアーチエヴォーカーの装備"
+	quest.28408BFAA54E4FC6.quest_desc: ["&7革の防具&r は最も性能の低い防具セットです。\\n\\nこれは主に &c&lMojang&r が他の防具よりも先に入手することを想定していたからです。\\n\\n&8ウ&fシ&r を見つけるのが大変なので、ほとんど作ることはありません。申し訳ありません &c&lMojang&r！"]
+	quest.28408BFAA54E4FC6.quest_subtitle: "7"
+	quest.28408BFAA54E4FC6.title: "&7革の防具"
+	quest.338BD467EBE6EE1F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"]
+	quest.338BD467EBE6EE1F.quest_subtitle: "掠奪者の前哨基地"
+	quest.338BD467EBE6EE1F.title: "歩哨アーマートリム"
+	quest.351159C55159C316.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"]
+	quest.351159C55159C316.quest_subtitle: "エンドシティとエンドシップ"
+	quest.351159C55159C316.title: "尖塔の防具トリム"
+	quest.361EF9E4973E3522.quest_desc: ["&e&lIron's Spells&r &dEnder Armor&r!"]
+	quest.361EF9E4973E3522.quest_subtitle: "20"
+	quest.361EF9E4973E3522.title: "&dシャドウウォーカーの装備"
+	quest.3685B52446DEC809.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_gold.png width:100 height:150 align:center}"]
+	quest.3685B52446DEC809.title: "&e金&r"
+	quest.39796D8EE440F318.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_dune.png width:100 height:150 align:center}"]
+	quest.39796D8EE440F318.quest_subtitle: "砂漠の神殿"
+	quest.39796D8EE440F318.title: "Dune 防具トリム"
+	quest.3AA836E8EDB52097.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_lapis.png width:100 height:150 align:center}"]
+	quest.3AA836E8EDB52097.title: "&9ラピスラズリ&r"
+	quest.3ABE7074E500494D.quest_desc: ["&7鋼鉄&rは&5&lMekanism&rのほとんどの機械に使用されます...防具にも使えて便利です！"]
+	quest.3ABE7074E500494D.quest_subtitle: "20"
+	quest.3ABE7074E500494D.title: "&7鋼鉄の防具"
+	quest.3AE0198177A8E91B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_coast.png width:100 height:150 align:center}"]
+	quest.3AE0198177A8E91B.quest_subtitle: "難破船と埋蔵された宝物"
+	quest.3AE0198177A8E91B.title: "Coast アーマートリム"
+	quest.3D72E3E53E7306FA.quest_desc: ["&e&lIron's Spells&r &c火のアーマー&r!"]
+	quest.3D72E3E53E7306FA.quest_subtitle: "20"
+	quest.3D72E3E53E7306FA.title: "&c炎使いの装備"
+	quest.3EA3A6414AB8A39C.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_flow.png width:100 height:150 align:center}"]
+	quest.3EA3A6414AB8A39C.quest_subtitle: "Trial Chambers"
+	quest.3EA3A6414AB8A39C.title: "Flow Armor Trim"
+	quest.3FCEF8FF45E51608.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_quartz.png width:100 height:150 align:center}"]
+	quest.452DC5EB02D592B8.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_amethyst.png width:100 height:150 align:center}"]
+	quest.452DC5EB02D592B8.title: "&5アメジスト&r"
+	quest.497D222F74A52DF5.quest_desc: ["これは私の好みです！鉄は非常に一般的で、その防具は序盤には素晴らしいものです。\n\nゾンビやスケルトンはほとんど脅威ではありません！"]
+	quest.497D222F74A52DF5.quest_subtitle: "15"
+	quest.4B65100885AE762D.quest_desc: ["&e&lIron's Spells&r の &6聖なる防具&r！"]
+	quest.4B65100885AE762D.quest_subtitle: "20"
+	quest.4B65100885AE762D.title: "&6Priest の装備"
+	quest.4B9C54DA5CB6D5C9.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_host.png width:100 height:150 align:center}"]
+	quest.4B9C54DA5CB6D5C9.quest_subtitle: "Trail Ruins"
+	quest.4B9C54DA5CB6D5C9.title: "Host Armor Trim"
+	quest.4DF683461225690F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_iron.png width:100 height:150 align:center}"]
+	quest.4DF683461225690F.title: "&7鉄&r"
+	quest.5391385A75535EC8.quest_desc: ["&e&lIron's Spells&r &2Nature Armor&r！"]
+	quest.5391385A75535EC8.quest_subtitle: "20"
+	quest.5391385A75535EC8.title: "&2Plagued Outfit"
+	quest.5865951E4F81C91F.quest_desc: ["&7Osmium&r + &6グロウストーン&r = &eRefined Glowstone&r！"]
+	quest.5865951E4F81C91F.quest_subtitle: "20"
+	quest.5865951E4F81C91F.title: "&eRefined Glowstone 防具"
+	quest.5A9C646718EE92C2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vibranium.png width:100 height:150 align:center}"]
+	quest.5A9C646718EE92C2.title: "&3ヴィブラニウム&r"
+	quest.5C83D5CDD980FD9A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"]
+	quest.5C83D5CDD980FD9A.quest_subtitle: "バスティオンの残骸"
+	quest.5C83D5CDD980FD9A.title: "スナウト アーマートリム"
+	quest.5DDC15AAFD2CAF47.quest_desc: ["&bダイアモンドの防具&rは&l&2バニラ&rの連鎖の次のステップです。ここで通常エンチャントも始めます！\n\nProtectionとその様々な形態をお勧めします。MODでは選り好みする必要はありません！"]
+	quest.5DDC15AAFD2CAF47.quest_subtitle: "20"
+	quest.5DDC15AAFD2CAF47.title: "&bダイアモンドの防具"
+	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
+	quest.5E7CCDE9229A646A.title: "&6オールザモディウム&r"
+	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
+	quest.62161BDE9AAAA4BF.quest_subtitle: "Trail Ruins"
+	quest.62161BDE9AAAA4BF.title: "Wayfinder アーマートリム"
+	quest.654F5C84114A31A1.quest_desc: ["とてもシンプルで安価な &e&lIron's Spells&r 防具で、序盤に役立ちます！"]
+	quest.654F5C84114A31A1.quest_subtitle: "20"
+	quest.654F5C84114A31A1.title: "&4かかし装備"
+	quest.65A529C8238E89F1.quest_desc: ["&5&lMekanism&r のおかげで、&9ラピスラズリ&rで防具を作れるようになりました！\n\nでも、あまり良くないですが..."]
+	quest.65A529C8238E89F1.quest_subtitle: "9"
+	quest.65A529C8238E89F1.title: "&9ラピスラズリ防具"
+	quest.65E733AACBE62EDB.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"]
+	quest.65E733AACBE62EDB.quest_subtitle: "古代都市"
+	quest.65E733AACBE62EDB.title: "Ward アーマートリム"
+	quest.66B5A8D259E12BF5.quest_desc: ["待って、これは &cNetherite&r と同じステータスなの？ スペルブーストもあって？ そして鍛冶型なしで作れる？ \\n\\n誰が通常の &cNetherite&r を欲しがるというの！"]
+	quest.66B5A8D259E12BF5.quest_subtitle: "20"
+	quest.66B5A8D259E12BF5.title: "&4Netherite バトルメイジ装備"
+	quest.66C21934DAFFAC7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"]
+	quest.66C21934DAFFAC7F.quest_subtitle: "エルダーガーディアンからドロップ"
+	quest.66C21934DAFFAC7F.title: "タイドアーマートリム"
+	quest.686EB173C94301C0.quest_desc: ["&e&lIron's Spells&r &b氷の防具&r!"]
+	quest.686EB173C94301C0.quest_subtitle: "20"
+	quest.686EB173C94301C0.title: "&b氷使いの装備"
+	quest.68DABFFB6B3E1A57.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"]
+	quest.68DABFFB6B3E1A57.quest_subtitle: "要塞"
+	quest.68DABFFB6B3E1A57.title: "目のアーマートリム"
+	quest.6B671CB07D046BEC.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_diamond.png width:100 height:150 align:center}"]
+	quest.6B671CB07D046BEC.title: "&bダイアモンド&r"
+	quest.6C5F9D0D447EFB9C.quest_desc: ["&l&2バニラ&r だけだと思いましたか？\n\n&6オールザモディウム 防具&r はより多くの防具ポイントと防具強度を持ち、魔法やその他のバフに対する保護も増加します。詳しくは &6&lAllthemodium&r クエストページをご覧ください！\n\nちなみに、クラフトには &cネザライト&r が必要です"]
+	quest.6C5F9D0D447EFB9C.quest_subtitle: "24"
+	quest.6C5F9D0D447EFB9C.title: "&6オールザモディウム 防具"
+	quest.6F76DA3BBAE8337B.quest_desc: ["&6&lオールザモディウム&r から作れる最高の防具、&5アンオブタニウム&r！\n\n100%のノックバック耐性と、すべての面でより高いステータスを持っています！\n\nまた、作成には &3ヴィブラニウム防具&r が必要です"]
+	quest.6F76DA3BBAE8337B.quest_subtitle: "40"
+	quest.6F76DA3BBAE8337B.title: "&5アンオブタニウム防具"
+	quest.71C552678A0F649F.quest_desc: ["&7オスミウム&rは深層岩周辺で生成され、採掘には鉄のツールが必要ですが、&cネザライト&rよりも優れた性能を持っています！"]
+	quest.71C552678A0F649F.quest_subtitle: "21"
+	quest.71C552678A0F649F.title: "&7オスミウム 防具"
+	quest.7279700A93E8630B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_unobtainium.png width:100 height:150 align:center}"]
+	quest.7279700A93E8630B.title: "アンオブタニウム"
+	quest.729DCB919A92B735.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_bolt.png width:100 height:150 align:center}"]
+	quest.729DCB919A92B735.quest_subtitle: "Trial Chambers"
+	quest.729DCB919A92B735.title: "Bolt Armor Trim"
+	quest.72DDA413D73E3235.quest_desc: ["&6&lオールザモディウム&r 防具の次のランクである &3ヴィブラニウム&r は、すべてのステータスが大幅に向上します！\\n\\n作成には &6オールザモディウム防具&r が必要です"]
+	quest.72DDA413D73E3235.quest_subtitle: "32"
+	quest.72DDA413D73E3235.title: "&3ヴィブラニウム防具"
+	quest.76CDF08465700AA2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"]
+	quest.76CDF08465700AA2.quest_subtitle: "古代都市"
+	quest.76CDF08465700AA2.title: "Silence アーマートリム"
+	quest.7B500E0577BDFF8F.quest_desc: ["&6青銅&rは&6銅&rと錫の組み合わせです。\n\n合金を作る方法は十数種類ありますが、正しい方法は教えません"]
+	quest.7B500E0577BDFF8F.quest_subtitle: "18"
+	quest.7B500E0577BDFF8F.title: "&6青銅の防具"
+	quest.7F11ABFB2E21B7E4.quest_desc: ["防具は&l&2Minecraft&rの非常に重要な部分で、ダメージから身を守るものです。\n\n異なる防具は異なる防具ポイントを与えます。これらは防具の効果を決定するもので、多ければ多いほど良いです！\n\n防具トリムを使用して装飾を変更できます。防具と防具トリム、そして色付けのためのアイテムを使用して見た目を変更しましょう！"]
+	quest.7F11ABFB2E21B7E4.title: "&l&b基本的な防具&r"
+	quest.7FABB77A60E7962C.quest_desc: ["黒曜石に&bダイアモンド&rを注入することで、精製黒曜石の粉を作ることができます！\\n\\nその後、&7オスミウム&rを圧縮して、インゴット形式にできます。\\n\\nそして、そのインゴットから&6オールザモディウムの防具&rよりも優れたステータスを持つ防具を作ることができます！"]
+	quest.7FABB77A60E7962C.quest_subtitle: "31"
+	quest.7FABB77A60E7962C.title: "&5精製黒曜石の防具"
+	task.4BDF268861CA744F.title: "AllRightsReserved"
+	task.57895147416291FE.title: "AllRightsReserved"
+}

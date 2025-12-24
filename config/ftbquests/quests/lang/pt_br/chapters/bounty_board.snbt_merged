@@ -1,0 +1,37 @@
+{
+	quest.09C82CDDA800D8C9.title: "Mate o Murchar"
+	quest.0E20A9B79D1C6637.title: "Mate o Diretor"
+	quest.0F55D0B4D5094EDB.quest_desc: [
+		"‘Enquanto fazia muitas missões para o ATM7, o Trader Villager achou que seria engraçado me empurrar constantemente na tela de missões."
+		""
+		"Leve-os para fora. Todos eles.'"
+		""
+		"- AlfredGG"
+	]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "'Isso é pessoal' - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "Mate o aldeão comerciante e suas lhamas irritantes"
+	quest.17F3AC15ADCFB175.quest_subtitle: "Mate 5 Endermen"
+	quest.17F3AC15ADCFB175.title: "&l&9The End Bounty:&r&e Endermen"
+	quest.1F18B64C84C8809D.quest_subtitle: "Mate 5 aranhas"
+	quest.1F18B64C84C8809D.title: "&l&9Overworld Bounty:&r&e Aranhas"
+	quest.2B05A29C62676EB2.quest_subtitle: "Mate 5 zumbis"
+	quest.2B05A29C62676EB2.title: "&l&9Overworld Bounty:&r&e Zumbis"
+	quest.3371F9248D403664.quest_subtitle: "Mate 5 Esqueletos Murchados"
+	quest.3371F9248D403664.title: "&l&cThe Nether Bounty:&r&e Wither Skeles"
+	quest.41C0948CD9D50322.quest_desc: [
+		"Aqui você encontrará todas as recompensas que pode obter ao matar inimigos."
+		""
+		"Esta página é um trabalho em andamento!"
+	]
+	quest.41C0948CD9D50322.quest_subtitle: "Matando todas as coisas"
+	quest.41C0948CD9D50322.title: "O Quadro de Recompensas"
+	quest.42822B1E8A53D051.quest_subtitle: "Mate 5 Esqueletos"
+	quest.42822B1E8A53D051.title: "&l&9Overworld Bounty:&r&e Skeles"
+	quest.5AC497F76A086A5C.quest_subtitle: "Mate 5 bruxas"
+	quest.5AC497F76A086A5C.title: "&l&9Overworld Bounty:&r&e Bruxas"
+	quest.6141DE779232C8AA.quest_subtitle: "Mate 5 chamas"
+	quest.6141DE779232C8AA.title: "&l&cThe Nether Bounty:&r&e Blazes"
+	quest.728BE1816DA23DC0.title: "Mate o Dragão Ender"
+	quest.77FC692AC94D2EEF.quest_subtitle: "Mate 5 trepadeiras"
+	quest.77FC692AC94D2EEF.title: "&l&9Overworld Bounty:&r&e Creepers"
+}

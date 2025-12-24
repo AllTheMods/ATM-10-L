@@ -1,0 +1,297 @@
+{
+	quest.001DE8028CAF0A08.quest_subtitle: "shhhhh... too loud...."
+	quest.027084AE2DF5EBA6.quest_desc: [
+		"The Thermal Evaporation Plant multi-block produces Brine based on the internal temperature."
+		""
+		"There are several methods to increase the temperature of the plant, including building them in a desert!"
+		""
+		"The &aFuelwood Heater&r burns buckets of Lava, which can then be piped in using a pipe that transfers heat."
+		""
+		"The &aResistive Heater&r uses RF/FE to produce heat, and can be set to use whatever RF/FE you want it to use."
+	]
+	quest.027084AE2DF5EBA6.quest_subtitle: "Hot Brine here. Get Your Hot Brine here."
+	quest.027084AE2DF5EBA6.title: "Heating Up our Brine Production"
+	quest.0498A578D0EC3254.quest_desc: ["Infusing Osmium with Redstone in a Metallurgic Infuser will create you one of these."]
+	quest.0498A578D0EC3254.quest_subtitle: "The Basic Control Circuit"
+	quest.04E2D539E33B7B0F.quest_desc: [
+		"This machine combines two gases to create a new gas."
+		""
+		"You'll need this to combine Chlorine with Hydrogen to create Hyrdogen Chloride, which is then used in our Chemical Injection Chamber."
+	]
+	quest.04E2D539E33B7B0F.quest_subtitle: "The Chemical Combiner"
+	quest.0650996C7818ADB5.quest_desc: [
+		"The Heat Generator has 2 modes to generate power:"
+		""
+		"&9Passive:&r Surrounding the generator with lava source or flowing blocks creates passive power by creating heat. Place one lava source block on top, and let it flow over the sides. Make sure to connect pipes first!"
+		""
+		"&9Active:&r Placing combustible materials such as coal or wood into the generator will burn the fuel to create power."
+	]
+	quest.0650996C7818ADB5.quest_subtitle: "Basic Power Gen"
+	quest.07AD45DCF9EE3C2E.quest_desc: ["This item upgrades a base machine to a Basic Factory machine."]
+	quest.07AD45DCF9EE3C2E.quest_subtitle: "Upgrading to Factories"
+	quest.08DDE018A804BFE7.quest_desc: [
+		"This machine works like a Macerator or Pulverizer, and will break ores down into dusts."
+		""
+		"This breaks 3 raw ores down into 4 dusts."
+		""
+		"This is the start of your Ore Factory. It can also be upgraded to a factory machine, increasing the slots of use."
+	]
+	quest.08DDE018A804BFE7.quest_subtitle: "Breaks Raw Ores into Dusts"
+	quest.09408C6DCAC90318.quest_desc: ["This block stores power, and can also be used to charge items."]
+	quest.09408C6DCAC90318.quest_subtitle: "Storing Power"
+	quest.0F326EEEC2EBE4E5.quest_desc: [
+		"Using the Enrichment Chamber, you can enrich items to convert them into Enriched variants."
+		""
+		"These \\\"Enriched\\\" items give 8x the amount of mb in a Metallurgic Infuser."
+		""
+		"If you plan on making a bunch of steel, Enrich your Charcoal first!"
+	]
+	quest.0F326EEEC2EBE4E5.quest_subtitle: "Enrich your items first!"
+	quest.0F326EEEC2EBE4E5.title: "Enriched Items"
+	quest.1112E4E2CCEB2467.quest_desc: [
+		"So now, you should have 5 machines ready to go to process your ores. Are you ready to make it even more complicated?"
+		""
+		"Your factory should be: Chemical Injection Chamber > Purifying Chamber > Crusher > Enrichment Chamber > Furnace/Smelter."
+		""
+		"Easy so far, right?"
+		""
+		"Well buckle up. It's about to get wild."
+	]
+	quest.1112E4E2CCEB2467.quest_subtitle: "Tier 3 Ore Factory"
+	quest.162CE44400A63575.quest_desc: [
+		"The Metallurgic Infuser is used to craft core crafting components throughout Mekanism."
+		""
+		"The machine works by infusing a material (middle-left slot) with an \\\"infuser\\\" (far-left slot)."
+		""
+		"This is also how you get Steel Ingots."
+	]
+	quest.162CE44400A63575.quest_subtitle: "The Starting Machine"
+	quest.166971866A9234C7.quest_desc: ["Infusing Iron with Redstone in a Metallurgic Infuser will get you one of these."]
+	quest.166971866A9234C7.quest_subtitle: "The Basic Alloy for Crafting Items"
+	quest.18D88932916C7A98.quest_desc: [
+		"The Electrolytic Separator (big fancy name) is used to separate chemicals from certain liquids and gases."
+		""
+		"You'll need a bunch of these if you plan on making an Ore Processing Factory."
+		""
+		"To start, make one of these and we'll break down the most basic fluid: Water."
+	]
+	quest.18D88932916C7A98.quest_subtitle: "Time to Break It Down"
+	quest.195729280394ABFB.quest_desc: [
+		"The machine creates two really strong ingots: Refined Glowstone and Refined Obsidian."
+		""
+		"It infuses an item with Osmium to create a more powerful ingot."
+	]
+	quest.195729280394ABFB.quest_subtitle: "Really Only Good For 2 Things"
+	quest.1B6DDF50D00CBB31.quest_desc: [
+		"Infusing Iron with Coal or Charcoal in a Metallurgic Infuser will give you Enriched Iron."
+		""
+		"Infusing the Enriched Iron with more Coal or Charcoal will give you Steel Dust, which can be smelted into Steel."
+		""
+		"This is a major crafting component in a lot of recipes in Mekanism."
+	]
+	quest.1B6DDF50D00CBB31.title: "Steel"
+	quest.1FC7E9DBF92BE6AA.quest_desc: [
+		"This item is used to store power, and functions like a portable battery pack."
+		""
+		"It is also an important crafting item in Mekanism."
+	]
+	quest.1FC7E9DBF92BE6AA.quest_subtitle: "Portable Battery Pack"
+	quest.23F165DEAD225B10.quest_subtitle: "For Transferring Power"
+	quest.263220DCCDB90E29.quest_desc: [
+		"So far, to \\\"double\\\" our ingot output, your setup should look something like this:"
+		""
+		"Raw Ore goes into your &aPurification Chamber&r, which is being fed &aOxygen&r from an &6Electrolytic Separator&r."
+		""
+		"It then outputs the product into the &aCrusher&r, which converts the ore clumps into \\\"dirty dusts\\\". This \\\"Dirty Dust\\\" is fed into an &aEnrichment Chamber&r, which converts the \\\"Dirty Dust\\\" into the appropriate \\\"Ore Dust.\\\""
+		""
+		"The &aEnrichment Chamber&r then feeds into your preferred smelter of choice. You follow?"
+	]
+	quest.263220DCCDB90E29.quest_subtitle: "Tier 2 Ore Factory"
+	quest.2E274BEEF2B0B8C7.quest_desc: [
+		"Okay, let's start with making Sulfur Dioxide first."
+		""
+		"Start by placing Gunpowder in a separate &aChemical Injection Chamber&r with Hydrogen Chloride to create Sulfur Dust. OR you can just pulverize Sulfur from Thermal Series into Sulfur Dust, it's up to you."
+		""
+		"Feeding the Sulfur Dust into this machine, the &aChemical Oxidizer&r, will create Sulfur Dioxide. Now we need to create Sulfur Trioxide."
+		""
+		"Send the Sulfur Dioxide into a Chemical Infuser to combine it with Oxygen to create Sulfur Trioxide. Send the Trioxide to another Chemical Infuser to combine it with Water Vapor to create Sulfuric Acid."
+		""
+		"It's a lot."
+	]
+	quest.2EF4DD5CC254CC80.quest_subtitle: "For Transferring Fluids"
+	quest.37D4E5ACB35D8BF1.quest_subtitle: "Requires Hydrogen to Work!"
+	quest.3999760881C855FA.quest_desc: [
+		"This machine will be #3 in your Tier 4 Ore Processing Factory."
+		""
+		"It takes the Clean Ore Slurry from the Chemical Washer and turns it into Crystals, which the Chemical Injection Chamber can process after."
+	]
+	quest.3999760881C855FA.quest_subtitle: "Turns Ore Slurry into Crystals"
+	quest.3B43DB1A6B0A7B44.quest_desc: ["The Crusher can also break down natural substances into Bio Fuel!"]
+	quest.3B43DB1A6B0A7B44.title: "Bio Fuel"
+	quest.3C49F2EEDCCAF1DF.quest_desc: [
+		"If you're like me, you probably got lost 55 times during these last few steps. This is a complicated system."
+		""
+		"A basic layout of your factory should be: "
+		""
+		"Raw ore goes into your Chemical Dissolution Chamber > pumps A GAS to Chemical Washer > pumps A GAS to Chemical Crystallizer >  outputs crystals to Chemical Injection Chamber > outputs shards to Purification Chamber > outputs clumps to Crusher > outputs dirty dusts to Enrichment Chamber > outputs clean dust to Smelter."
+		""
+		"{image:atm:textures/questpics/mek/mekanism_flowchart.png width:300 height:150 align:1 fit:true}"
+	]
+	quest.3C49F2EEDCCAF1DF.quest_subtitle: "This is a lot, I know."
+	quest.3EC9D0DA61B45328.quest_desc: [
+		"This generator can burn both Hydrogen and Ethylene to produce power."
+		""
+		"Note: Burning Hydrogen will not produce more power than it costs to run an Electrolytic Separator. Use for Ethylene instead."
+	]
+	quest.3EC9D0DA61B45328.quest_subtitle: "Burn Gases into Power!"
+	quest.407EFAF528871014.quest_desc: [
+		"To start breaking down water, we'll need a water source. The Kitchen Sink provides infinite water, and can easily be set up to pump out water."
+		""
+		"Alternatively, you can always just use the classic infinite water source with a Pump from Mekanism."
+		""
+		"Pump the water into your Electrolytic Separator to split the water into Hydrogen and Oxygen."
+	]
+	quest.407EFAF528871014.quest_subtitle: "The All-Mighty Infinite Water Source"
+	quest.407EFAF528871014.title: "Water Source"
+	quest.41EB0C570FC54F43.quest_desc: ["This block stores gases."]
+	quest.41EB0C570FC54F43.quest_subtitle: "Storing All That Gas"
+	quest.4204702AA6FBF40B.quest_desc: [
+		"Standing on this item will charge up any powered item from any mod."
+		""
+		"This is also needed for the Robit."
+	]
+	quest.4236B9F071BE18F3.quest_desc: [
+		"To make Sulfuric Acid, you'll need to create &aWater Vapor&r."
+		""
+		"Pump some water into this machine and it'll convert it into vapor."
+	]
+	quest.4434D7B66521D69A.quest_subtitle: "For Transferring Gasses"
+	quest.47106CE1937C4340.quest_desc: ["To get an HDPE Sheet, place 3 HDPE Pellets in an Enrichment Chamber."]
+	quest.488DBE69595F38F8.quest_desc: [
+		"This machine smelts items."
+		""
+		"It can be upgraded into a Smelting Factory, increasing the total number of smelting slots up to a maximum of 9."
+	]
+	quest.488DBE69595F38F8.quest_subtitle: "Mekanism's Powered Furnace"
+	quest.49675EA8CBCA1388.quest_subtitle: "Mekanism's All In One Tool"
+	quest.4AFF81D3D0E78255.quest_desc: [
+		"This machine needs water to operate, and uses the water to clean \\\"Ore Slurry\\\" into \\\"Clean Ore Slurry.\\\""
+		""
+		"It will be part 2 of your Tier 4 Ore Processing Factory."
+	]
+	quest.4AFF81D3D0E78255.quest_subtitle: "Giving Ores a Bath"
+	quest.4BDE773C3359D584.quest_subtitle: "A Mini-Robot To Accompany You On Your Travels"
+	quest.4EDD96EB60EF5814.quest_desc: [
+		"If you're wondering if it is worth making this upgrade, the answer is yes."
+		""
+		"This version produces 105.6FE/t. It also can be used to add extra heat to Thermal Evaporation Plants."
+	]
+	quest.4F1C04C0F6769825.quest_desc: [
+		"This machine is the next step to your Ore Processing Factory. Add this to the left of your Purification Chamber to build on to your current ore factory!"
+		""
+		"This machine requires &aHydrogen Chloride&r to operate. To find out how to create Hydrogen Chloride, follow the quest above!"
+	]
+	quest.4F1C04C0F6769825.quest_subtitle: "Turns 3 Raw Ore into 8 Ore Shards"
+	quest.4F436770D30D8520.quest_desc: [
+		"We will need to add 3 more machines to our current setup."
+		""
+		"The first part of the process is the Chemical Dissolution Chamber."
+		""
+		"This machine requires &aSulfuric Acid&r to break down raw ores into an \\\"Ore Slurry.\\\""
+		""
+		"To get Sulfuric Acid, we'll need a new setup, which is explained further in the above quests."
+	]
+	quest.4F436770D30D8520.title: "The Start of a Tier 4 Ore Factory"
+	quest.5047792C6EF6D2AD.quest_desc: [
+		"When Bio Fuel is combined with Water and Hydrogen in a &aPressurized Reaction Chamber&r it creates Substrates. It also creates Ethylene as a by-product."
+		""
+		"These are needed to create HDPE pellets, which are used for end-game crafts like the Meka-suit."
+	]
+	quest.5047792C6EF6D2AD.title: "Substrates"
+	quest.531E3FF1F2865C67.quest_subtitle: "For Transferring Heat"
+	quest.587A19FC348387C5.quest_desc: [
+		"Combines gases, solid items, and liquids to produce an item and by-product."
+		""
+		"This machine is needed to create end-game materials and armor."
+	]
+	quest.58B125BD4876054C.quest_desc: [
+		"Mekanism is a tech mod that will change the way you play Minecraft."
+		""
+		"The mod focuses on breaking down materials to their chemical makeup, and getting the best out of every material you come across."
+		""
+		"This mod features Hydrogen-Powered Jetpacks, a mini-robotic friend, reactors, a Digital Miner to automate mining, and much, much more."
+	]
+	quest.58B125BD4876054C.quest_subtitle: "The Start of Your Own Factory"
+	quest.58B125BD4876054C.title: "&dMekanism&r"
+	quest.5B681BC43371CC5C.quest_subtitle: "For Transferring Items"
+	quest.5E116409DC7D30BB.quest_desc: ["This item is used to configure many of the items in Mekanism, from changing pipes to \\\"Pull or Push\\\" or rotating machines."]
+	quest.5E116409DC7D30BB.quest_subtitle: "Mekanism's Wrench"
+	quest.603877AB96321F1A.quest_desc: [
+		"To get Hydrogen Chloride for our machines, we'll need to first create &aBrine&r."
+		""
+		"To do this, we'll need a Thermal Evaporation Plant. This is a multi-block structure."
+		""
+		"To start, create a 4x3x4 structure that is hollow in the middle, except for the base. You can replace any of the sides with a Controller or Valve."
+		""
+		"You'll need at least 1 controller, and at least 2  valves."
+		""
+		"Pump in water, and you'll start collecting brine, which can be pumped into an &aElectrolytic Separator&r to extract &6Chlorine&r from the gas."
+		"{image:atm:textures/questpics/mek/thermalplant.png width:100 height:100 align:1}"
+	]
+	quest.603877AB96321F1A.quest_subtitle: "Water turns into Brine!"
+	quest.603877AB96321F1A.title: "Thermal Evaporation Plant"
+	quest.6C25D42C36175BF4.quest_desc: [
+		"This machine \\\"Purifies\\\" our ores. It turns 1 Raw Ore into 2 \\\"Clumps\\\", which can then be sent through a Crusher to be turned to dirty dusts, then through an Enrichment Chamber to get clean dust, then through a smelter to be turned to an ingot."
+		""
+		"This will double your ingot output."
+		""
+		"This machine requires &aOxygen&r to run, which is created by pumping water into an &6Electrolytic Separator&r."
+	]
+	quest.6C25D42C36175BF4.quest_subtitle: "It makes Clumps."
+	quest.6CD1720B76F47806.quest_desc: ["This generator will burn Bio Fuel into energy. It produces around 140FE/t."]
+	quest.6DB1AAAD926486BC.quest_desc: [
+		"This item stores liquids."
+		""
+		"It has a bucket mode which can be toggled to scoop up liquids with it. Very useful for lava in the beginning!"
+	]
+	quest.6DB1AAAD926486BC.quest_subtitle: "It has a BUCKET MODE!"
+	quest.6F62B5510FA881CD.quest_subtitle: "The Base Crafting Ingot"
+	quest.6F62B5510FA881CD.title: "Osmium"
+	quest.74200A48498DD7F8.quest_desc: ["Generates power from the sun!"]
+	quest.74200A48498DD7F8.quest_subtitle: "Produces about 17.6FE/t"
+	quest.76A38CCA5816CDAD.quest_desc: ["Combining Oxygen, Ethylene, and a Substrate in a &aPressurized Reaction Chamber&r will create an HDPE Pellet."]
+	quest.76A38CCA5816CDAD.title: "HDPE Pellets"
+	quest.7778937DF377C1B4.quest_desc: [
+		"This is a great option for generating power."
+		""
+		"This generates around 40FE/t, and increases based on how high you are. The higher the Y level, the more power it produces!"
+	]
+	quest.7778937DF377C1B4.quest_subtitle: "Generates Power from the Wind"
+	quest.7AE502EDB73BD57A.quest_desc: ["This machine crushes ores into their \\\"dirty\\\" dust forms. This is useful to convert clumps into dirty dust, which can go through an Enrichment Chamber to create the ore dust, which then can be smelted into an ingot."]
+	quest.7AE502EDB73BD57A.quest_subtitle: "It Crushes Things."
+	quest.7B0DFA55B4D8B16D.quest_desc: [
+		"To create a custom Portal, place down a single Teleporter block. Connect power to the block."
+		""
+		"Create a \\\"Portal Frame\\\" with the teleporter block being the base of the portal."
+		""
+		"The final product will be a 4x3 portal structure, with the two blocks in the middle creating the portal."
+	]
+	quest.7B0DFA55B4D8B16D.quest_subtitle: "Teleportation at its finest."
+	quest.7B0DFA55B4D8B16D.title: "Custom Portals!"
+	quest.7CC49360D07086B8.quest_desc: [
+		"This item is how you make Wireless Transfers possible."
+		""
+		"You can set specific channels, named by you, to transfer whatever you want from it."
+	]
+	quest.7CC49360D07086B8.quest_subtitle: "Wireless Power, Gases, Fluids, Everything."
+	quest.7EA6B942D1294ED6.quest_desc: [
+		"This machine can mine for you!"
+		""
+		"It is completely configurable, and can even replace mined blocks with cobblestone, or whatever block you provide it with!"
+	]
+	quest.7EA6B942D1294ED6.quest_subtitle: "A bigger robot friend."
+	task.3B3B58C438FD4397.title: "Tier 4 Ore Processing Factory Summary"
+	task.46C4C1AD9FA5BEE2.title: "Our Setup So Far"
+	task.57F40CFA03BD36EF.title: "The Hard Part"
+	task.6E75525A5D88EF23.title: "Heaters"
+}

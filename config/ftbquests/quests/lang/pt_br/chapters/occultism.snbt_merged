@@ -1,0 +1,196 @@
+{
+	quest.0B3EA604C5172D98.quest_desc: [
+		"Para especificarmos qual &c&mDemon&r &9Friend&r queremos invocar, precisaremos fazer um &bBook of Binding&r específico."
+		""
+		"Para fazer isso, você precisará purificar um pouco de corante preto em &dSpiritfire &r para obter tinta purificada. Com isso, faremos nosso primeiro Livro de Encadernação que irá invocar um Demônio &aFoliot&r."
+	]
+	quest.0B3EA604C5172D98.title: "&bLivros de&r &dEncadernação&r"
+	quest.145C8235BCCB9BA8.quest_desc: [
+		"Não, não desse tipo."
+		""
+		"&cAfrit Demons&r são Demônios de &cFire&r. Eles são Demônios mais avançados, alguns são amigos e outros… não."
+		""
+		"Se quisermos coletar todos os Chalks, precisaremos convocar um Ifrit não tão amigável. E mate-o."
+		""
+		"Este Ritual específico precisará de um sacrifício vivo. Depois de colocar todos os itens necessários e o Livro da Vinculação na Tigela Dourada de Sacrifício, o Ritual não começará até que você sacrifique a criatura viva próxima a ele. Neste caso, estaremos sacrificando uma vaca. Desculpe novamente, Betsy."
+	]
+	quest.145C8235BCCB9BA8.quest_subtitle: "RASGAR. Betsy"
+	quest.145C8235BCCB9BA8.title: "&cDemônios Quentes&r"
+	quest.172D2A634E849562.quest_desc: [
+		"Com nossa capacidade de colher &cIesnium&r, podemos invocar os Demônios para cumprir nossas ordens nas minas... quero dizer.... ajude-nos a coletar minérios. Definitivamente não explorando Demônios nem nada."
+		""
+		"Para isso, precisaremos criar um &dDimensional Mineshaft&r para acessar o Demon Mining World. Você também precisará de um Demônio Mineiro confinado a uma lâmpada, que você colocará dentro do poço da mina para que funcione. Embora qualquer nível conclua esta missão, os níveis mais altos funcionam mais rápido e têm uma chance maior de minerar Iesnium para você."
+		""
+		"Os Mineshafts não exportam automaticamente por conta própria. Você precisará extrair os itens usando Hoppers, Transporting Demons ou algum outro método como Item Pipes. Isso anulará todos os itens acima do limite de armazenamento."
+	]
+	quest.172D2A634E849562.title: "&cMineração Demoníaca&r"
+	quest.1B5177A774FCEF64.quest_desc: [
+		"Antes de começarmos a contar com a ajuda de nossos amigos Demônios, precisaremos criar o item mais importante necessário para os Rituais: &aChalk&r."
+		""
+		"São necessárias várias cores de giz, com Rituais de nível superior exigindo várias para serem ativados. Para começar, &bWhite Chalk&r é o mais fácil de conseguir."
+		""
+		"Comece jogando Otherstone em uma fornalha e jogando Otherworld Logs em &dSpiritfire &r. Com os itens que você criar, você poderá fazer o Giz Branco Impuro."
+		""
+		"Para purificar qualquer pedaço de giz, basta jogá-lo no &dSpiritfire&r para limpá-lo. Usar o Giz Purificado no chão desenhará lindos símbolos demoníacos no chão. É difícil removê-los, a menos, é claro, que você faça o &aChalk Brush&r. Faça isso, vale a pena."
+	]
+	quest.1B5177A774FCEF64.title: "Preparando-se para um ritual: &eChalk&r"
+	quest.1DE0F289821F55D1.quest_desc: ["Agora que temos um Foliot Crusher, podemos &muse&r pedir educadamente que ele esmague algumas &eEnd Stone&r e &9Obsidian&r para nós. Usaremos isso para fazer um novo giz!"]
+	quest.1DE0F289821F55D1.title: "&a Riscando &r"
+	quest.2A5004EB99AE4F96.quest_desc: [
+		"Existem mais itens do Outro Mundo que você precisará coletar, e comer &cDemon's Dream Fruit &r toda vez que precisar do efeito &7Third Eye &r fica irritante."
+		""
+		"É para isso que servem os &dOtherworld Goggles&r! Quando equipado (mesmo no slot Curios), dá o efeito Terceiro Olho!"
+	]
+	quest.2A5004EB99AE4F96.title: "Pare de comer essa fruta!"
+	quest.33106E24A3B5DDD8.quest_desc: [
+		"O próximo passo em sua jornada será encontrar &eIesnium Ore&r no Nether."
+		""
+		"Sem os efeitos do &3Third Eye&r, isso se parecerá com Netherrack. Certifique-se de ter seus &dOtherworld Goggles&r equipados!"
+		""
+		"Para localizar o minério, tente usar uma &aDivination Rod&r. Você precisará sintonizá-lo primeiro com Netherrack e, em seguida, manter pressionado o botão direito para usá-lo. Depois de alguns segundos, você verá uma partícula disparada na direção do minério de Iesnium mais próximo. Você só pode extrair o minério usando a &dInfused Pickaxe&r!"
+		""
+		"Como você não pode dividir esse minério em pó duplo usando os métodos padrão, tente usar seu Foliot Crusher para dobrar seus lingotes por minério bruto!"
+		""
+		"Nota: Se você não vir a partícula, certifique-se de que as configurações de partícula estejam ativadas!"
+		""
+		"{image:atm:textures/questpics/occultism/iesniumexample.png width:200 height:175 align:1}"
+	]
+	quest.33106E24A3B5DDD8.title: "&cIesnium: Minério do Outro Mundo&r"
+	quest.3D41D0092D94636B.quest_desc: [
+		"E se eu lhe dissesse que a Fruta do Demônio é inflamável?"
+		""
+		"Jogar nosso &cDemon's Dream Fruit&r no chão e colocá-lo em chamas criará &dSpiritfire&r. É assim que converteremos alguns itens do mundo superior em materiais &9Otherworld&r."
+		""
+		"Também é bonito."
+	]
+	quest.3D41D0092D94636B.title: "As chamas de &9The Otherworld&r"
+	quest.42F50CE7FE715583.quest_desc: [
+		"Para aumentar a quantidade de pilhas que seu armazenamento mágico pode conter, você precisará fazer &dEstabilizadores de armazenamento&r."
+		""
+		"Uma vez feitos, eles devem apontar diretamente para a parte da Matriz Dimensional do seu Atuador de Armazenamento, não para a base. Eles podem estar a até 5 quarteirões de distância, mas devem ter uma linha de visão desimpedida para a Matriz."
+		""
+		"Sempre que você quiser atualizar para um Estabilizador de nível superior, quebrá-lo não destruirá os itens dentro dele. No entanto, você não poderá adicionar mais itens ao seu armazenamento até que ele seja substituído ou atualizado."
+		""
+		"Abaixo está um exemplo de uma configuração simples!"
+		""
+		"{image:atm:textures/questpics/occultism/storageupgradeexample.png width:200 height:150 align:1}"
+	]
+	quest.42F50CE7FE715583.title: "&aAtualizando nosso armazenamento mágico&r"
+	quest.47358ADC1470C82A.quest_desc: [
+		"&cDemon's Dream Fruit&r é perfeitamente saudável para você. Pode haver alguns efeitos colaterais que você deve conhecer."
+		""
+		"Ao consumir um, você tem a chance de obter o efeito do &3Third Eye&r, permitindo que você veja o &9The Otherworld&r. Certos itens no mundo podem não ser o que parecem, e você precisará dessa “visão” para encontrar certos itens para progredir."
+		""
+		"Ou você pode colocar fogo nele e não encontrar a maioria deles. Isso é contigo."
+	]
+	quest.47358ADC1470C82A.quest_subtitle: "Prepare-se para uma viagem"
+	quest.47358ADC1470C82A.title: "&cFruta Demoníaca&r"
+	quest.4C873491F6F0FFAF.quest_desc: [
+		"Usando &dSpiritfire&r, podemos converter vários tapetes do Overworld em suas variantes do Otherworld. Você também pode encontrar vários tapetes do Outro Mundo sob os efeitos do &bThird Eye&r e se aventurando pelo mundo. Você pode se surpreender com o que encontrar. Para facilitar, existem receitas de elaboração para os materiais básicos, jogando-os no &dSpiritfire&r."
+		""
+		"&bAndesite&r é convertido em &3Otherstone&r, que pode ser usado para acender um &dSpiritfire&r permanente."
+		""
+		"&aOak Saplings&r são convertidos em &9Oak Saplings&r, mas não são iguais. Quando cultivados, eles se parecerão exatamente com um carvalho normal. No entanto, sob os efeitos do &bThird Eye&r, você poderá colher a variante do Outro Mundo."
+		""
+		"&eDiamonds&r se transformarão em &dSpirit Attuned Gems&r, que serão usadas em várias receitas que precisaremos mais tarde."
+	]
+	quest.4C873491F6F0FFAF.title: "&dSpiritfire&r Conversões"
+	quest.4F35D04721DFC9FF.quest_desc: [
+		"Para o nosso primeiro Ritual, queremos invocar um Demônio &aFoliot Crusher&r. Este Demônio irá esmagar itens para nós, que é algo que precisaremos para fazer alguns dos Giz de nível superior!"
+		""
+		"Para começar, combine seu Livro Unbound com seu &aDictionary of Spirits&r em uma mesa de trabalho. Isso irá vincular um Demônio ao livro, que é o que precisaremos para o Ritual."
+		""
+		"Falando em seu Dicionário de Espíritos, é hora de abri-lo! À esquerda, clique na guia &dPentáculos&r e clique em &bAviar's Circle&r. Talvez você precise avançar lendo um pouco. Também existe uma maneira de clicar em \"Marcar tudo como lido\" para desbloquear tudo no livro."
+		""
+		"É isso que usaremos para invocar nosso novo amigo. No lado direito, você pode clicar no olho no canto inferior esquerdo da imagem para construir um esboço do Ritual para você no mundo. Isso é muito útil!"
+		""
+		"Depois de completar o Ritual de vários blocos, coloque 4 Taças de Sacrifício e use os itens necessários nelas. Depois de colocar seu Livro Encadernado na Taça Sacrificial Dourada, o Ritual começará!"
+		""
+		"Assim será o Ritual. As hastes estão lá apenas para iluminação."
+		""
+		"{image:atm:textures/questpics/occultism/aviarcircle.png width:200 height:200 align:1}"
+	]
+	quest.4F35D04721DFC9FF.title: "&bNosso primeiro&r &dRitual&r"
+	quest.5316DF321B45D2CA.quest_desc: [
+		"Bem-vindo ao &dOcultismo&r!"
+		""
+		"Este mod tem como objetivo ajudar o jogador de muitas maneiras diferentes, contando com a ajuda de &c&mDemons&r &bSpirits&r! Não se preocupe, eles são amigáveis. &oPrincipalmente&r."
+		""
+		"Para começar, você precisará obter algumas &aDemon's Fruit Seeds&r."
+	]
+	quest.5316DF321B45D2CA.title: "&dSonhando com&r &cDemônios&r"
+	quest.57282D7E31EE61EE.quest_desc: [
+		"Depois de reunir alguns &aRaw Iesnium Ores&r, você provavelmente desejará usar os primeiros lingotes para fazer uma &dIesnium Pickaxe&r. Isso não apenas extrai Iesnium como a Picareta Infundida, mas também dura muito mais tempo."
+		""
+		"Faça um favor a si mesmo e faça um desses!"
+	]
+	quest.57282D7E31EE61EE.title: "&aA Picareta do Outro Mundo&r"
+	quest.5831B3192C0E8C56.quest_desc: [
+		"Quer acessar seu armazenamento remotamente? Isso pode ser feito com o &eStable Wormhole&r ou o &aStorage Accessor&r."
+		""
+		"Para usar o &eStable Wormhole&r, clique com a tecla Shift pressionada em um &dStorage Actuator&r para vinculá-lo. Você pode então colocar o Wormhole para funcionar como outro local de armazenamento."
+		""
+		"O &aStorage Accessor&r está vinculado da mesma maneira, mas atua como um controle remoto sem fio que pode funcionar até mesmo em várias dimensões!"
+	]
+	quest.5831B3192C0E8C56.title: "&aAcesso remoto&r"
+	quest.6581D4AF1A6DE230.quest_desc: [
+		"Demônios gostam de velas. Eu penso."
+		""
+		"Para quase todos os rituais de convocação de nossos amigos, você precisará de algumas velas. Você pode criar a &aButcher Knife&r e matar alguns porcos, vacas, ovelhas, cavalos ou até mesmo as Trader Llamas para conseguir um pouco de &aTallow&r para fazê-los. Na verdade, você definitivamente deveria encontrar as Lhamas do Comerciante. Ouvi dizer que eles fazem boas velas. &mEu totalmente não inventei isso&r."
+		""
+		"Caso contrário, Vanilla Candles também pode funcionar!"
+		""
+		"&9Spirit Attuned Crystals&r também são usados ​​em vários rituais, então é melhor fazer alguns agora!"
+	]
+	quest.6581D4AF1A6DE230.title: "Preparando-se para um ritual: &aCandles&r"
+	quest.666EA8B8F13EB292.quest_desc: ["Este item é usado para capturar Demônios para transporte ou armazenamento. Também é necessário para o &6ATM Star&r."]
+	quest.666EA8B8F13EB292.title: "&dEmpty Soul Gem&r"
+	quest.6C1BBA559963B3DF.quest_desc: [
+		"O &aDictionary Of Spirits&r serve como livro guia para &dOccultism&r. Você absolutamente precisará fazer isso se quiser continuar com o mod!"
+		""
+		"O Dicionário tem um guia de estilo de missão, se você preferir lê-lo em vez de fazer essas missões!"
+		""
+		"Você também precisará do livro para criar várias coisas do pacote, então você terá que fazê-lo. :)"
+	]
+	quest.6C1BBA559963B3DF.title: "Pequeno Livro de &cDemons&r"
+	quest.6CC5FE34778F0DFA.quest_desc: [
+		"Você certamente terá muitos itens jogando este modpack. Simplesmente funciona, e se você ainda não descobriu sua situação de armazenamento, o &dDimensional Storage&r pode ser ideal para você!"
+		""
+		"Para começar com esta solução de armazenamento mágica, você precisará criar o &dDimensional Storage Actuator&r e colocá-lo no mundo. Ela funciona como uma Shulker Box, ou seja, se você quebrá-la, ela não perderá nenhum dos itens armazenados dentro dela."
+		""
+		"Por padrão, ele possui 128 slots de armazenamento, com cada slot comportando até 16 pilhas de um item, exceto para itens com dados &5NBT&r. Eles não serão empilhados e ocuparão um slot inteiro, portanto, deixe esses itens de fora!"
+		""
+		"Se você não tiver certeza de quais itens contêm dados NBT, você pode verificar a missão \"NBT e você\" na linha de missões de armazenamento para obter mais informações sobre NBT!"
+	]
+	quest.6CC5FE34778F0DFA.title: "&c&mDemônico&r &dArmazenamento Mágico&r!"
+	quest.78ECC28DD4BA9696.quest_desc: [
+		"Embora você possa obter a maioria dos materiais do &dOtherworld &r usando Spiritfire, você também pode usar &9Divination Rods &r para localizar esses materiais."
+		""
+		"Primeiro, você precisará sintonizar a haste com o material que procura. Por exemplo, se você estiver em busca de &8Otherstone&r, poderá usar a vara em &aAndesite&r para ajudar a localizar a Otherstone no mundo."
+		""
+		"Uma vez sintonizado com um material, você pode clicar com o botão direito com a haste na mão e uma partícula será disparada na direção do material mais próximo ao qual está sintonizado."
+		""
+		"Você ainda precisará estar sob os efeitos do &3Third Eye&r para poder coletar o bloco do Outro Mundo."
+	]
+	quest.78ECC28DD4BA9696.title: "Caçando materiais do outro mundo"
+	quest.7F09F8F98C13F11B.quest_desc: [
+		"O que é um Ritual Demoníaco sem &cSacrifício&r! :D"
+		""
+		"Na maioria das vezes, os Demônios apenas gostam de itens, então não tenha muito medo ainda. No entanto, se você tem uma vaca favorita, talvez precise se preocupar. Desculpe Betsy."
+		""
+		"&aTigelas de Sacrifício&r são usadas para colocar itens necessários para Rituais. Eles podem ser colocados em qualquer lugar do Ritual, desde que não esteja convertendo nenhum giz necessário."
+		""
+		"A &6Golden Sacrificial Bowl&r é usada no meio do Ritual para ativá-la, e também geralmente precisa de um Livro de Vinculação para o Ritual."
+	]
+	quest.7F09F8F98C13F11B.title: "Preparando-se para um ritual: &dCrystals&r"
+	quest.7F59941D62E672B0.quest_desc: [
+		"O ocultismo oferece mais do que apenas Demônios para esmagar seus minérios!"
+		""
+		"Existem Demônios que podem mover coisas para você, cortar madeira e muito mais!!"
+		""
+		"Também existem maneiras de convocar amigos legais, conhecidos como &dFamiliars&r, que dão buffs especiais e até lutam por você! Não deixe de conferir os &dFamiliar Rituals&r em seu guia!"
+	]
+	quest.7F59941D62E672B0.title: "&dFamiliares&r"
+	task.0EE813C344409F59.title: "Velas"
+	task.6C3887D42B6B2122.title: "Familiares"
+}

@@ -1,0 +1,432 @@
+{
+	quest.00611844AFD5C31E.quest_desc: [
+		"Embora o Inscriber e o Charger aceitem RF/FE nativamente, a grande maioria de uma rede ME usa seu próprio sistema de energia dedicado chamado AE. "
+		""
+		"RF/FE pode ser convertido no AE nativo em uma proporção de 2:1 RF:AE, diretamente através de um Controlador ME ou através do &bEnergy Acceptor&f, que pode ser conectado a qualquer parte da rede."
+	]
+	quest.00611844AFD5C31E.quest_subtitle: "Plugar"
+	quest.00611844AFD5C31E.title: "Aceitador de Energia"
+	quest.01F3F0C25BA72BDA.quest_desc: [
+		"Além do armazenamento de itens e fluidos, o AE2 também fornece uma maneira nativa de armazenar estruturas inteiras dentro de células de armazenamento, não muito diferente do mod Compact Machines. "
+		""
+		"A &bSpatial IO Port&f permite que estruturas contidas em uma &bSpatial Containment Structure&f sejam capturadas dentro de uma célula de armazenamento especialmente projetada, ativada por meio de um sinal redstone. "
+		""
+		"Se um mob ou jogador ficar dentro do SCS enquanto o espaço está sendo capturado, eles também serão transportados para onde o resto do espaço vai, ou seja, em uma dimensão dedicada. Apenas certifique-se de ter uma maneira de voltar e entrar se for você quem está sendo capturado."
+	]
+	quest.01F3F0C25BA72BDA.title: "IO espacial"
+	quest.037488EF1F3581CE.quest_desc: [
+		"Por padrão, uma rede ME sozinha possui apenas um buffer interno de 800AE sem um controlador ME, com o controlador adicionando 8kAE extras por bloco. Para redes grandes o suficiente, isso pode ser insuficiente e fazer com que a rede seja desligada intermitentemente ao tentar recuperar energia para qualquer dispositivo conectado. "
+		""
+		"A &bCélula de Energia&f permite que uma rede ME retenha significativamente mais energia, adicionando outros 200kAE por Célula de Energia regular e 1,6MAE por Célula de Energia &bDensa&f. Eles também podem ser colocados em qualquer lugar da rede para fornecer maior buffer de energia."
+	]
+	quest.037488EF1F3581CE.title: "Célula de Energia"
+	quest.03E6FA4DCB71162E.quest_desc: [
+		"O &bColor Applicator&f é uma ferramenta carregável que permite o tingimento de cabos no mundo real. Ele funciona mais ou menos como uma célula de armazenamento especializada para ser carregada com corantes de baunilha ou bolas de tinta para cores específicas, junto com bolas de neve para lavar as cores e transformar os cabos de volta em sua variante Fluix. "
+		""
+		"Aplicar cor a um cabo utiliza 100AE de energia de sua bateria interna, totalizando 3.400 segmentos de cabo em uma única carga."
+	]
+	quest.03E6FA4DCB71162E.title: "Aplicador de cores"
+	quest.083D458032F0325C.quest_desc: ["O &bME Export Bus&f periodicamente cospe itens em seu filtro de lista de permissões para qualquer armazenamento externo que o barramento esteja enfrentando. Ao contrário do Import Bus, o Export Bus não pode funcionar sem ser filtrado."]
+	quest.083D458032F0325C.quest_subtitle: "O Ó"
+	quest.083D458032F0325C.title: "Ônibus de exportação ME"
+	quest.0B218DD73FE8D985.quest_desc: [
+		"Se você fez a última missão corretamente, deveria ter transformado essa singularidade em um par de &bSingularidades Emaranhadas Quânticas&f. Essas novas singularidades são usadas para conectar um dispositivo em forma de anel conhecido como &eQuantum Network Bridge&f. "
+		""
+		"Quando dois desses anéis individuais foram ligados usando as Singularidades Emaranhadas Quânticas e iniciados com alguma energia AE (por exemplo, uma célula de energia), uma rede ME pode ser expandida sem fio no outro lado da ponte, através de longas distâncias. ou mesmo dimensões."
+	]
+	quest.0B218DD73FE8D985.title: "Ponte de Rede Quântica"
+	quest.0E809747193ED3A9.quest_desc: ["A terceira camada MEGA de componente de armazenamento, fornecendo &e16777216&f (16384k) bytes de armazenamento."]
+	quest.0E809747193ED3A9.title: "Componente de armazenamento de 16M"
+	quest.0F03E75CF79BADD7.quest_desc: [
+		"Além dos DISKs, você também pode usar netherite para criar o que é efetivamente o oposto do DISK. "
+		""
+		"&dMEGA Cells&f oferece a &bBulk Item Storage Cell&f sob medida, que é limitada a não mais do que um tipo de item armazenável por célula, mas pode armazenar um número praticamente &o&lINFINITE&r* desse tipo de item. Antes de poder aceitar um tipo de item, ele deve ser filtrado antecipadamente usando um Cell Workbench. "
+		""
+		"*&oTecnicamente 'max long'. Se você sabe, então você sabe."
+	]
+	quest.0F03E75CF79BADD7.quest_subtitle: "Massa e corte"
+	quest.0F03E75CF79BADD7.title: "Armazenamento de itens em massa"
+	quest.1348995F64A94396.quest_desc: [
+		"O &bMonitor de Criação&f exibe o item geral que está sendo fabricado, junto com a quantidade restante desse item ainda sendo fabricado. "
+		""
+		"Tanto o monitor AE2 básico quanto o monitor MEGA funcionam de forma idêntica, mas são fornecidos para fins estéticos."
+	]
+	quest.1348995F64A94396.quest_subtitle: "Baixe mais VRAM"
+	quest.1348995F64A94396.title: "Monitor de Artesanato"
+	quest.140DE53DC0FCD9F4.quest_desc: [
+		"O &bME Annihilation Plane&f pode ser usado para quebrar automaticamente qualquer bloco à sua frente e retornar qualquer coisa deixada cair pelo bloco diretamente para a rede ME. "
+		""
+		"Como um bônus adicional, o Plano de Aniquilação pode ser encantado da mesma forma que uma ferramenta de escavação normal, afetando a queda de blocos da mesma forma que a ferramenta encantada faria. Isso o torna ideal para processar blocos de minério quando encantado com a Fortuna, por exemplo. "
+		"Quaisquer encantamentos adicionados aumentam significativamente a quantidade de energia usada pelo avião toda vez que um bloco é quebrado. Encantar o avião com &eEfficiency&f diminuirá o uso geral de energia incorrido por todos os outros encantamentos, enquanto o encantamento &eUnbreaking&f dá ao avião a chance de usar energia apenas algumas vezes, semelhante ao Unbreaking em ferramentas normais."
+	]
+	quest.140DE53DC0FCD9F4.quest_subtitle: "ENTREM"
+	quest.140DE53DC0FCD9F4.title: "Avião de aniquilação ME"
+	quest.15564C11744D6AA0.quest_desc: ["Depois de obter um conjunto completo de &eInscriber Presses&r necessários, é hora de começar a fazer alguns &eProcessors&f. Estes são um importante ingrediente de artesanato usado para fabricar a grande maioria dos dispositivos conectados a ME."]
+	quest.15564C11744D6AA0.title: "Processadores"
+	quest.16299B9AE87257DC.quest_desc: [
+		"O &bWireless Terminal&f funciona de forma idêntica a um terminal normal, mas sem fio. "
+		""
+		"Antes de poder ser usado para acessar uma rede, ele deve primeiro ser &evinculado&f à rede, colocando-o no slot superior direito do &ePonto de acesso sem fio&r. Se não estiver conectado a uma rede ou estiver fora do alcance ou da alimentação, o terminal não funcionará. "
+		""
+		"Os terminais sem fio também podem ser atualizados com &eEnergy Cards&f para fornecer uma bateria interna maior."
+	]
+	quest.16299B9AE87257DC.quest_subtitle: "É para isso que você está aqui"
+	quest.16299B9AE87257DC.title: "Terminais sem fio"
+	quest.1710B3D05215A71E.quest_desc: [
+		"&bP2P&f (peer-to-peer) é um sistema poderoso dentro do AE2, permitindo a transferência de itens, fluidos e ainda mais, sem a necessidade de qualquer armazenamento intermediário de ME. "
+		""
+		"Clicar com o botão direito do mouse em um túnel P2P com certos itens irá &ajustar&o&f o túnel em um capaz de transferir outra coisa, como itens através de canos, energia através de cabos, sinais redstone e (por padrão) até mesmo as próprias conexões ME. "
+		""
+		"Os túneis P2P devem estar interligados com o uso de um &eMemory Card&f, detalhado na próxima missão."
+	]
+	quest.1710B3D05215A71E.quest_subtitle: "Corte o intermediário"
+	quest.1710B3D05215A71E.title: "Túneis P2P"
+	quest.18DFB25DC48D8BF7.quest_desc: [
+		"A Estrutura de Contenção Espacial (SCS) consiste em uma gaiola de &bPilares Espaciais&f cobrindo o volume que você deseja encerrar em uma célula IO Espacial. No mínimo, um SCS requer três linhas de blocos de pilares espaciais, uma para cada dimensão do espaço contido (comprimento, largura, altura). "
+		""
+		"No entanto, Spatial IO é um recurso que consome muita energia, especialmente ao tentar capturar espaços muito maiores (até 128x128x128). Ter mais postes espaciais incluídos no SCS em torno do volume desejado aumentará sua eficiência geral, permitindo que ele use menos energia para capturar. "
+		""
+		"Além disso, lembre-se de que cada pilar individual (independentemente do seu comprimento) ocupa um canal. Para espaços particularmente grandes, você pode querer construir uma rede dedicada com um controlador para acomodar todos os postes necessários."
+	]
+	quest.18DFB25DC48D8BF7.title: "Pilar Espacial"
+	quest.1AAF0B31B47AF23D.quest_desc: [
+		"Dispositivos ME individuais também podem ser configurados para responder a sinais redstone. Quando atualizado com um &bRedstone Card&f, um dispositivo pode ser configurado para funcionar apenas quando alimentado com redstone ou de outra forma, conforme necessário. "
+		""
+		"Este comportamento também pode se aplicar a &oseções&r inteiras de uma rede ME usando um &bME Toggle Bus&f. Isso permite que uma seção da rede do outro lado do barramento fique on-line somente quando o barramento for alimentado por redstone ou fique off-line se estiver usando um barramento de alternância &einvertido&f."
+	]
+	quest.1AAF0B31B47AF23D.title: "ME controlado por Redstone"
+	quest.1B686954D34A0F23.quest_desc: [
+		"A &bQuartz Wrench&f faz o que qualquer chave de mod de tecnologia normal faria. Ele gira blocos e dispositivos ao longo da face em que você clica com o botão direito e os desmonta quando clica com o botão direito enquanto se esgueira. "
+		""
+		"A chave inglesa do AE2 vem nos sabores certus e nether quartz."
+	]
+	quest.1B686954D34A0F23.quest_subtitle: "Faz exatamente o que você esperaria."
+	quest.1B686954D34A0F23.title: "Chave de quartzo"
+	quest.1F7DFA5AA65F2812.quest_desc: [
+		"O &bCartão de Aceleração&f, dependendo do dispositivo que está sendo atualizado, aumentará a velocidade de operação do dispositivo ou permitirá que o dispositivo execute mais operações de uma só vez. "
+		""
+		"No caso do &eMolecular Assembler&f, um conjunto completo de 5 cartas reduz o tempo necessário para o MA completar uma tarefa de um segundo (sem cartas) para um &otick&r."
+	]
+	quest.1F7DFA5AA65F2812.title: "Cartão Acelerador"
+	quest.2077D64428E9C067.quest_desc: [
+		"Um conceito importante dentro do AE2 é uma técnica conhecida como '&esubnetting&f', em que uma rede ME extra separada (uma &essubnetwork&f) atua em conjunto com a rede principal para executar alguma função ou processo especializado. "
+		""
+		"O que separa uma sub-rede de uma rede separada completamente separada é geralmente o uso da &bFibra de Quartzo&f como parte do cabo. Quando colocada entre dois comprimentos de cabo não conectados, a fibra de quartzo não transfere dados ou canais entre os dois, transmitindo apenas energia. "
+		""
+		"Assim, uma sub-rede do outro lado da Fibra pode ser alimentada totalmente pela fonte de energia da rede principal, sem a necessidade de qualquer gerador de energia extra dedicado."
+	]
+	quest.2077D64428E9C067.quest_subtitle: "Isso tem uma utilidade fora da elaboração de cabos."
+	quest.2077D64428E9C067.title: "Esqueci de mencionar"
+	quest.219932CB19258C16.quest_desc: ["A terceira camada do componente de armazenamento, fornecendo &e16384&f bytes de armazenamento."]
+	quest.219932CB19258C16.quest_subtitle: "x4^2"
+	quest.219932CB19258C16.title: "Componente de armazenamento 16k"
+	quest.22C4318523A43B49.quest_desc: [
+		"&eTerminais&f fornecem acesso a qualquer conteúdo de uma rede ME. O &eME Terminal&f padrão simplesmente lista tudo na rede como uma grande grade para extrair e inserir, semelhante a um único inventário. "
+		""
+		"O &eME Crafting Terminal&f é uma extensão do ME Terminal que também fornece uma grade de crafting integrada, permitindo a criação conveniente usando qualquer item contido na rede e visível na tela do terminal."
+	]
+	quest.22C4318523A43B49.quest_subtitle: "[A piada do usuário Linux vai aqui]"
+	quest.22C4318523A43B49.title: "Terminais"
+	quest.234DC1702333EB18.quest_desc: ["O complemento &dAEInfinityBooster&f fornece dois amplificadores sem fio personalizados, permitindo alcance infinito de conectividade, com suporte multidimensional opcional."]
+	quest.234DC1702333EB18.quest_subtitle: "Não estou escrevendo a linha de Toy Story"
+	quest.234DC1702333EB18.title: "AEInfinity Booster"
+	quest.25DBA00422301EDC.quest_desc: ["O segundo nível MEGA de componente de armazenamento, fornecendo &e4194304&f (4096k) bytes de armazenamento."]
+	quest.25DBA00422301EDC.title: "Componente de armazenamento 4M"
+	quest.2893F483C10293E6.quest_desc: [
+		"&lBem-vindo ao &bEnergística Aplicada 2&f! "
+		""
+		"Applied Energistics 2 (ou &oAE2&r para abreviar) é um mod de armazenamento digital incrivelmente versátil, permitindo armazenamento extremamente eficiente e todos os tipos de recursos de automação para aumentar significativamente sua experiência com Minecraft modificado desde o início até o final do jogo. "
+		""
+		"Para começar com AE2, você precisará extrair um recurso importante para o mod conhecido como &bCertus Quartz&f. Assim como a Ametista, você encontrará Cristais de Quartzo Certus que podem ser extraídos para Certus Quartz &eDust&f e &eCrystals&f. "
+		""
+		"Para obter mais informações sobre AE2 além deste capítulo, consulte o wiki em"
+		"&o&bappliedenergistics.github.io&f&r."
+	]
+	quest.2893F483C10293E6.quest_subtitle: "Sistema de armazenamento virtual"
+	quest.2893F483C10293E6.title: "Energística Aplicada 2"
+	quest.2897FA291E5A38D8.quest_desc: ["O &bSpatial Anchor&f é um dispositivo complementar da linhagem Spatial IO que funciona simplesmente como um carregador de blocos. Quando conectado a uma rede ME, o Anchor forçará o carregamento de todos os pedaços ocupados pela rede ME em todos os cabos e dispositivos, excluindo sub-redes, desde que a rede permaneça ligada."]
+	quest.2897FA291E5A38D8.title: "Âncora Espacial"
+	quest.2B31E6C1707D8195.quest_desc: ["A próxima coisa a fazer para permitir o acesso à rede sem fio é o &bME Wireless Access Point&f. O ponto de acesso é usado para abrir a rede para acesso sem fio por meio de um &eterminal sem fio&f e tem um alcance definido (finito) dependendo de quantos &bWireless Boosters&f estão inseridos no ponto de acesso."]
+	quest.2B31E6C1707D8195.title: "Ponto de acesso sem fio ME"
+	quest.2C04B3BA507D5673.quest_desc: [
+		"&bPadrões&f são o que mantém uma receita codificada a ser cumprida por um Provedor de Padrões. Para codificar uma receita em um padrão, o &bME Pattern Encoding Terminal&f deve ser usado. "
+		""
+		"Os padrões podem ser configurados para conter uma receita regular de &ecrafting&f, que exigirá o uso de um &eMolecular Assembler&f na face de seu Provedor, ou uma receita '&eprocessing&f' mais geral, em que quaisquer itens de entrada podem ser enviados por o fornecedor em algum outro bloco de máquina ou planta de processamento especializada."
+	]
+	quest.2C04B3BA507D5673.title: "Padrões"
+	quest.2F16B6A173525277.quest_desc: [
+		"A última peça do quebra-cabeça para qualquer grande rede ME é o &bME Controller&f. "
+		""
+		"Um controlador fornece a uma rede ME um número muito maior de canais do que os 8 canais padrão para redes ad-hoc, fornecendo 32 canais em cada face do bloco, totalizando 216 canais. "
+		""
+		"Isso é apenas para um controlador de bloco único, já que o Controlador ME é na verdade uma estrutura multibloco. O controlador pode ter blocos de até 7x7x7 e pode vir em qualquer arranjo de forma livre dentro desse tamanho máximo. Cada bloco individual pode então fornecer seu próprio conjunto separado de canais, desde que nenhum bloco controlador esteja rodeado por outros 4 blocos ao longo do mesmo plano. "
+		""
+		"Uma Rede ME pode conter apenas um controlador multibloco por vez. A tentativa de conectar mais de um controlador em partes separadas da rede causará um conflito, desligando toda a rede."
+	]
+	quest.2F16B6A173525277.title: "Controlador ME"
+	quest.2F556E7919582D2D.quest_desc: [
+		"O &bCell Workbench&f permite que as células sejam 'particionadas' para conter itens específicos, ou seja, recebam um filtro de lista de permissões. Ele também permite que a célula seja atualizada com certos cartões de atualização, como o Cartão Inversor, que define a lista de permissões mencionada acima como uma lista negra. "
+		""
+		"As células também podem receber uma 'prioridade' maior ou menor por meio do ambiente de trabalho, ou seja, permitir que a célula seja a primeira a receber certos itens até ficar cheia ou esperar que outras células de maior prioridade sejam preenchidas primeiro."
+	]
+	quest.2F556E7919582D2D.title: "Bancada de Célula"
+	quest.2FB231069D2E4E77.quest_desc: [
+		"Cada célula individual tem uma certa capacidade ditada pelo &ecomponent&f com o qual a célula foi criada. "
+		""
+		"O primeiro dos componentes é o &b1k ME Storage Component&f, fornecendo &e1024&f 'bytes' de armazenamento para uma determinada célula. Mais sobre isso mais tarde."
+	]
+	quest.2FB231069D2E4E77.quest_subtitle: "O primeiro quilobyte."
+	quest.2FB231069D2E4E77.title: "Criando sua primeira célula de armazenamento"
+	quest.30E853CE699E669B.quest_desc: [
+		"Antes de poder realizar um trabalho de criação automática, você precisa de um dispositivo para armazenar a solicitação em si junto com quaisquer itens provisórios para criação de várias etapas. Este dispositivo é conhecido como CPU de &ecrafting&f. "
+		""
+		"Uma CPU de crafting é uma estrutura multibloco que requer pelo menos um bloco &bCrafting Storage&f, opcionalmente junto com qualquer outra unidade de crafting. O multibloco pode ser feito em qualquer tamanho, mas deve ser um cuboide sólido para ter a forma e o funcionamento adequados."
+	]
+	quest.30E853CE699E669B.quest_subtitle: "Baixe mais RAM"
+	quest.30E853CE699E669B.title: "Armazenamento de artesanato"
+	quest.3195A7AA874163CD.quest_desc: [
+		"O &bEqual Distribution Card&f é uma atualização para células de armazenamento que pré-aloca uma certa quantidade de itens que podem ser ocupados por qualquer tipo individual. "
+		""
+		"Esse comportamento é comparável a algo como uma gaveta de armazenamento funcional, em que cada compartimento contém um determinado número de pilhas, em vez de permitir que itens de um compartimento vazem para os outros e atrapalhem outros tipos de itens."
+	]
+	quest.3195A7AA874163CD.quest_subtitle: "Armazenamento ME e gavetas mCells&r"
+	quest.3195A7AA874163CD.title: "Cartão de distribuição igual"
+	quest.33ADE41526C39AFD.quest_desc: ["Esse comportamento é comparável a algo como uma gaveta de armazenamento funcional, em que cada compartimento contém um determinado número de pilhas, em vez de permitir que itens de um compartimento vazem para os outros e atrapalhem outros tipos de itens."]
+	quest.33ADE41526C39AFD.title: "Cartão de Destruição de Estouro"
+	quest.361CCBD353D6FF34.quest_desc: [
+		"Com o componente de armazenamento 1k, agora você pode criar uma célula de armazenamento de itens ME 1k para iniciar seu sistema de armazenamento digital de itens. Você provavelmente desejará que a maior parte do seu armazenamento seja para itens, então provavelmente desejará fazer algumas células de armazenamento de itens &bME&f. "
+		""
+		"Cada célula de armazenamento de itens ME pode conter até 63 tipos diferentes de itens. Cada novo tipo de item adicionado a uma célula ocupará uma certa fração da capacidade total da célula de armazenamento em bytes. Para cada tipo já presente, 1 'byte' conta para 8 itens desse mesmo tipo. "
+		""
+		"Por exemplo, uma Célula de Armazenamento de Itens de 1k contendo apenas paralelepípedos pode conter até 8.128 paralelepípedos (8*1024b - 8b/tipo * 1 tipo). "
+		""
+		"Se uma célula estiver vazia, ela poderá ser reaproveitada desmontando-a em seu respectivo componente e alojamento. Isso é feito esgueirando-se e clicando com o botão direito no ar com o celular na mão."
+	]
+	quest.361CCBD353D6FF34.title: "Armazenamento de itens"
+	quest.371A382CF1DDF2B2.quest_desc: ["O &bCapacity Card&f permite que um barramento atualizado com ele carregue um filtro maior. Os barramentos de importação e exportação atualizados com cartões de capacidade podem passar do suporte a apenas um item filtrado cada até o filtro máximo de nove slots, enquanto os barramentos de armazenamento passarão de 18 slots para um máximo de 63."]
+	quest.371A382CF1DDF2B2.title: "Cartão de Capacidade"
+	quest.3B42CCC19D23EC6D.quest_desc: ["A segunda camada do componente de armazenamento, fornecendo &e4096&f bytes de armazenamento."]
+	quest.3B42CCC19D23EC6D.quest_subtitle: "x4"
+	quest.3B42CCC19D23EC6D.title: "Componente de armazenamento 4k"
+	quest.3CE3D9245F8EC005.quest_desc: ["A quarta camada MEGA de componente de armazenamento, fornecendo &e67108864&f (65536k) bytes de armazenamento."]
+	quest.3CE3D9245F8EC005.title: "Componente de armazenamento de 64M"
+	quest.3DDB0DDA7571B2C1.quest_desc: [
+		"O &bME Level Emitter&f, quando configurado com um item específico e uma quantidade para responder, emitirá um sinal redstone dependendo se o item armazenado na rede fica abaixo, acima ou igual à quantidade fornecida. "
+		""
+		"Isso pode ser usado, por exemplo, para ligar automaticamente certas máquinas com redstone para criar automaticamente um recurso quando ele fica abaixo de um determinado valor mínimo."
+	]
+	quest.3DDB0DDA7571B2C1.title: "Emissor de nível ME"
+	quest.3E3DF8E967D95DB0.quest_desc: [
+		"Ao usar um componente de armazenamento de 64k ou superior, o Matter Condenser torna-se capaz de condensar significativamente mais para produzir uma &bSingularidade&f. Uma única singularidade requer que 256.000 itens sejam anulados. Isso é exatamente &o4000 pilhas&r! "
+		""
+		"Veja o que acontece quando você joga essa singularidade no chão com um pedaço de &eender dust&f. Você terá que causar alguns danos ao ambiente enquanto estiver fazendo isso, mas felizmente AE2 oferece seu próprio &bTiny TNT&f para minimizar isso."
+	]
+	quest.3E3DF8E967D95DB0.quest_subtitle: "Não é exatamente antimatéria"
+	quest.3E3DF8E967D95DB0.title: "Matéria Hiper-Condensada"
+	quest.4597D3B3BDC2BED5.quest_desc: [
+		"O &bMolecular Assembler&f é o equivalente do AE2 a uma mesa de artesanato automática, necessária para cumprir todo e qualquer trabalho de &ecrafting&f padrão. "
+		""
+		"Os Montadores Moleculares são capazes de transferir energia e canais para outros dispositivos ME conectados a eles, mas não ocupam um canal. Até 6 MAs podem ser conectados a um único provedor de padrões (se empregado) para permitir que mais trabalhos manuais sejam feitos em paralelo. "
+		""
+		"MAs também têm seu próprio slot dedicado para um único padrão de fabricação, permitindo que funcionem de forma independente quando energizados. Quando operado desta forma, quaisquer itens correspondentes inseridos no MA serão automaticamente transformados no resultado do padrão."
+	]
+	quest.4597D3B3BDC2BED5.title: "Montador Molecular"
+	quest.460A8F17F3ED6CAF.quest_desc: [
+		"Chega um ponto em qualquer jogo de um modpack grande em que mesmo o nível mais alto de célula de armazenamento não é suficiente para a quantidade de itens e recursos que você pode estar acumulando. "
+		""
+		"É aqui que entra o complemento &dMEGA Cells&f, estendendo os níveis de armazenamento disponíveis para o território dos megabytes. A primeira dessas novas camadas é fornecida pelo &b1M MEGA Storage Component&f, fornecendo 1.024 &okilo&rbytes, ou &e1048576&f bytes, de armazenamento."
+	]
+	quest.460A8F17F3ED6CAF.quest_subtitle: "O primeiro MEGAbyte."
+	quest.460A8F17F3ED6CAF.title: "Componente de armazenamento de 1 milhão"
+	quest.4BF0BB763BFFACF0.quest_desc: [
+		"Provavelmente o recurso mais importante que você precisará em seguida é o &eFluix&f, usado na grande maioria dos dispositivos AE2 e servindo como base para a elaboração de todo o cabeamento em uma rede ME. "
+		""
+		"Normalmente, você desejará produzi-los em massa, e a maneira de fazer isso é fazer um &bFluix Crystal&f jogando &eNether Quartz&f, &e&oCharged&r&e Certus quartz&r e &eRedstone&f juntos em uma piscina de água. Isso lhe dará um &eFluix Crystal&r que você pode transformar em pó em um Inscriber."
+	]
+	quest.4BF0BB763BFFACF0.title: "Cristais de Fluxo"
+	quest.4E8A05C3BFA80540.quest_desc: [
+		"Indiscutivelmente o aspecto mais importante da Applied Energistics 2 é o seu sistema de armazenamento, fazendo uso de &eStorage Cells&f digitais. Essas células são acessíveis por meio de um &eME Chest&r para células únicas ou de um &eME Drive&r para células múltiplas. "
+		""
+		"O &bME Chest&f contém uma única célula por vez, que pode então ser lida e gravada em qualquer outro terminal na mesma rede. O próprio ME Chest também oferece sua própria tela de terminal na parte superior com acesso específico apenas à célula que contém. "
+		""
+		"O &bME Drive&f pode conter até 10 células de armazenamento variadas no espaço de um único bloco e um único canal ME. No entanto, ele não fornece tela de terminal própria, exigindo algum terminal externo em outro lugar da rede para acesso ao armazenamento."
+	]
+	quest.4E8A05C3BFA80540.quest_subtitle: "Itens como sistema de arquivos"
+	quest.4E8A05C3BFA80540.title: "O armazenamento"
+	quest.51236544BFEF487B.quest_desc: [
+		"É hora de encontrar &eMeteoritos&f que contenham &bSky Stone&f. Eles podem estar na superfície ou no subsolo e contêm um &bCubo Misterioso&f em seu centro. "
+		""
+		"Este cubo contém todos os diferentes &ePresses&f usados ​​no Inscriber para fazer os componentes especiais de artesanato do AE2. "
+		""
+		"A maneira mais fácil de localizar um meteorito é criando uma &eBússola de Meteorito&r colocando uma bússola dentro de um Carregador."
+	]
+	quest.51236544BFEF487B.quest_subtitle: "'COMIC #42: tosquiando 4 Bobby [Fischer]'"
+	quest.51236544BFEF487B.title: "Caça de meteoritos"
+	quest.51A57E142C686C8F.quest_desc: ["O quinto e último nível MEGA de componente de armazenamento, fornecendo &e268435456&f (262144k) bytes de armazenamento."]
+	quest.51A57E142C686C8F.title: "Componente de armazenamento 256M"
+	quest.51DE3157DE3E57B8.quest_desc: [
+		"Armazenamento é bom e tudo mais, mas de que serve um sistema de armazenamento se ele está entupido com matérias-primas que precisam ser trabalhadas e processadas em algo e você ainda precisa fazer isso manualmente? "
+		""
+		"O sistema &eauto-crafting&f do AE2 começa com o &bME Pattern Provider&f. O Provedor de Padrões contém certos itens chamados &bPatterns&f (abordados na próxima missão) que são programados para conter alguma receita que transforma itens de entrada em uma determinada saída. Até 9 padrões podem caber em um provedor. "
+		""
+		"Freqüentemente, você usará vários provedores de padrões espalhados por toda a sua base, e é por isso que é útil ter um &bTerminal de Acesso a Padrões&f para acessar remotamente o conteúdo de todo e qualquer provedor em sua rede ME mais ampla."
+	]
+	quest.51DE3157DE3E57B8.quest_subtitle: "Ordenar-se"
+	quest.51DE3157DE3E57B8.title: "Criação automática"
+	quest.5233A447BAA4593C.quest_desc: ["O &bME Smart Cable&f e o &bDense Smart Cable&f funcionam de forma idêntica aos cabos cobertos em termos de distribuição de canais, mas também exibirão visivelmente a quantidade de canais que estão usando como linhas coloridas ao longo de si."]
+	quest.5233A447BAA4593C.quest_subtitle: "'S.M.R.T.'"
+	quest.5233A447BAA4593C.title: "Cabeamento Avançado"
+	quest.523853C1C4E688BA.quest_desc: ["A quarta camada do componente de armazenamento, fornecendo &e65536&f bytes de armazenamento."]
+	quest.523853C1C4E688BA.quest_subtitle: "x4^3"
+	quest.523853C1C4E688BA.title: "Componente de armazenamento 64k"
+	quest.525F25F4ADE45B50.quest_desc: [
+		"O &bME Formation Plane&f atua de forma semelhante ao Storage Bus, mas trata o próprio mundo como seu meio de armazenamento. Em outras palavras, ele colocará qualquer bloco em seu filtro diretamente à sua frente. "
+		""
+		"Isto pode ser útil para situações onde um bloco pode ser processado simplesmente colocando-o e quebrando-o com uma determinada ferramenta."
+	]
+	quest.525F25F4ADE45B50.quest_subtitle: "SAIR"
+	quest.525F25F4ADE45B50.title: "Avião de formação ME"
+	quest.55186B8602689B66.quest_desc: [
+		"O &bMemory Card&f é uma ferramenta com duas funções diferentes. A mais simples das duas é salvar configurações de vários dispositivos (como filtros de lista de permissões) para serem copiadas para outro dispositivo do mesmo tipo. "
+		""
+		"A segunda função de um cartão de memória é conectar túneis &eP2P&f. Ao fazer isso, o túnel P2P vinculado receberá um ID exclusivo, que será armazenado no cartão de memória para posterior vinculação."
+	]
+	quest.55186B8602689B66.title: "Cartão de memória"
+	quest.5AA3E5DFECB4AC4D.quest_desc: [
+		"Naturalmente, o AE2 oferece sua própria maneira de acelerar drasticamente o crescimento do cristal. "
+		""
+		"Coloque-os ao redor dos seus cristais em desenvolvimento, dê-lhes algum poder e observe seus cristais crescerem!"
+	]
+	quest.5AA3E5DFECB4AC4D.title: "Acelerador de crescimento"
+	quest.5BB887411B8B38FA.quest_desc: [
+		"Quanto à expansão sem fio da própria Rede ME, o primeiro passo é reconhecidamente pouco ortodoxo. "
+		""
+		"O &bMatter Condenser&f é a versão do AE2 de uma lata de lixo, anulando quaisquer itens inseridos nela. Quando equipado com um &eStorage Component&f, no entanto, o condensador pode aproveitar parte da energia restante do item que está sendo anulado e armazená-la para fazer dois itens especiais de artesanato com energia concentrada suficiente. "
+		""
+		"O primeiro desses dois itens é o &bMatter Ball&f, exigindo pelo menos 1k componente de armazenamento e 256 itens de material anulado."
+	]
+	quest.5BB887411B8B38FA.title: "Matéria Condensada"
+	quest.5C22E3103544B120.quest_desc: [
+		"Para conectar a grande maioria da sua rede ME, você precisará de algum cabo. &eME Glass Cable&f é o primeiro e mais básico tipo de cabo, e você fará isso como o primeiro passo para criar os outros tipos de cabo. "
+		""
+		"Ambos os cabos de vidro e sua contraparte &ecovered&f podem transportar até 8 canais ao longo de uma única seção de cabeamento. Ao contrário dos cabos de vidro, os cabos cobertos podem posteriormente ser transformados em cabos cobertos &edense&f, capazes de transportar até 32 canais. No entanto, a maioria dos dispositivos 'multipartes', como barramentos e terminais, não podem ser conectados diretamente a cabos densos, exigindo cabos de largura normal para formar uma conexão. "
+		""
+		"Todos os cabos também podem ser confeccionados com tinta para colori-los. Cabos sem cor ('Fluix') podem ser conectados a qualquer outra cor de cabo, mas caso contrário, cabos de cores diferentes nunca se conectarão entre si."
+	]
+	quest.5C22E3103544B120.title: "Cabeamento Básico"
+	quest.5CD8D169181C7339.quest_desc: [
+		"Esses três últimos itens são mais ou menos brinquedos extras fornecidos pelo AE2 e não cabem necessariamente em nenhuma dessas árvores de missões. "
+		""
+		"O &bCharged Staff&f é apenas um simples bastão poderoso que causa 3 corações de dano e consome 300AE por acerto. Ele também usa mecânica de combate pré-1.9, o que significa que você pode clicar com spam como nos velhos tempos. "
+		""
+		"O &bManipulador de Entropia&f, quando usado&r em certos blocos no mundo, irá fundi-los no local, como areia em vidro e minérios metálicos em lingotes de metal. Caso contrário, simplesmente acenderá um fogo no quarteirão. "
+		""
+		"Finalmente, o &bMatter Cannon&f funciona de forma semelhante ao Color Applicator como uma célula dedicada para armazenar itens de 'munição', como Matter Balls e pepitas de ferro/ouro, que podem então ser disparadas para causar dano a mobs ou quebrar blocos. 'Munição'Matter Balls mais pesadas em um Matter Cannon podem ser substituídas por &bPaint Balls&f, que aplicará um efeito de respingos de tinta na face de qualquer bloco que esteja sendo disparado. &bLumen Paint Balls&f são uma variante das bolas de tinta usadas exclusivamente pelo Matter Cannon, cujos respingos de tinta também emitem um pouco de luz que já esteve presente no mundo."
+	]
+	quest.5CD8D169181C7339.quest_subtitle: "Muito quente para o ATF"
+	quest.5CD8D169181C7339.title: "As armas?"
+	quest.5E24012A3D9B72A1.quest_desc: [
+		"Os itens não são as únicas coisas que podem ser armazenadas nas células ME. As células de armazenamento de fluidos &bME podem armazenar líquidos como água, lava e qualquer variedade de óleos e combustíveis modificados, apenas para dar alguns exemplos. "
+		""
+		"Observe que todas as células de armazenamento, independentemente do que foram projetadas para armazenar, diferem apenas em termos de seu alojamento; tanto as células de item quanto as de fluido usam o mesmo tipo de componente de armazenamento para serem produzidas. "
+		""
+		"Para fluidos, 1 byte equivale a 8 buckets (8000mb)."
+	]
+	quest.5E24012A3D9B72A1.title: "Armazenamento de fluidos"
+	quest.5E6585F7627247E3.quest_desc: [
+		"Quando aplicado como uma atualização a qualquer dispositivo compatível, como Interface ou Barramento de Exportação, o &bCrafting Card&f permite que o dispositivo em questão envie automaticamente suas próprias solicitações de criação para um item necessário (filtrado). CPUs de criação podem ser configuradas para responder apenas a essas solicitações para evitar o uso de CPUs destinadas a criações solicitadas pelo jogador. "
+		""
+		"Quando o &eLevel Emitter&f é atualizado com o Cartão de Artesanato, ele pode ser configurado para emitir redstone a fim de facilitar diretamente a fabricação, emitindo um sinal enquanto um trabalho de fabricação para seu determinado item é detectado ou especificamente &oto&r fabrica o item. O último se aplicaria aos casos em que a única coisa necessária para fazer um determinado item é um sinal de redstone, sem sequer exigir um padrão de fabricação."
+	]
+	quest.5E6585F7627247E3.quest_subtitle: "Automação em forma de atualização!"
+	quest.5E6585F7627247E3.title: "Cartão de artesanato"
+	quest.5E7E35CCAF1C88EE.quest_desc: ["O &bME Import Bus&f suga periodicamente itens de qualquer armazenamento externo que o barramento esteja enfrentando. Opcionalmente, pode ser filtrado para receber apenas determinados itens desse inventário."]
+	quest.5E7E35CCAF1C88EE.quest_subtitle: "O eu"
+	quest.5E7E35CCAF1C88EE.title: "Ônibus de importação ME"
+	quest.5F56892CD904C40F.quest_desc: ["A quinta e última camada de componente de armazenamento padrão AE2, fornecendo &e262144&f bytes de armazenamento."]
+	quest.5F56892CD904C40F.quest_subtitle: "x4^4"
+	quest.5F56892CD904C40F.title: "Componente de armazenamento 256k"
+	quest.6144202A97C6CD1C.quest_desc: [
+		"A &bQuartz Cutting Knife&f, assim como a chave inglesa, vem nos sabores Nether e Certus Quartz e é uma ferramenta de artesanato útil para ter à mão. "
+		""
+		"Os cabos também podem ser separados sem a necessidade de serem coloridos, anexando uma &bâncora de cabo&f entre eles, feita com esta faca e fabricada até 50 vezes com a mesma faca antes de quebrar. "
+		""
+		"As âncoras de cabos também podem ser usadas para criar &bfachadas de cabos&f, permitindo disfarçar cabos dentro das paredes, cobrindo-os com a face de um bloco arbitrário. Embora as receitas de fachada estejam escondidas no JEI, você ainda pode criá-las pegando qualquer bloco normal e cercando-o com 4 âncoras de cabo na grade de artesanato. "
+		""
+		"Além de criar âncoras, a faca de corte também tem outro uso: clicar com o botão direito do mouse na faca abrirá uma pequena GUI que permite criar &bPressões de Nome de Inscritor&f. Quando recebem um nome, essas impressoras podem ser usadas dentro de um Inscriber para renomear qualquer item de entrada com o nome da impressora. Duas dessas prensas podem ser concatenadas no inscritor para renomear o item com o nome da prensa superior, seguida pela inferior."
+	]
+	quest.6144202A97C6CD1C.quest_subtitle: "Sob a faca"
+	quest.6144202A97C6CD1C.title: "Âncora de cabo"
+	quest.6431A384DDFBF439.quest_desc: [
+		"A &bNetwork Tool&f é uma ferramenta importante em todo o AE2, que é usada para exibir vários detalhes de uma rede na tela, como consumo geral de energia e armazenamento. "
+		""
+		"Como um bônus adicional, ele também fornece seu próprio pequeno inventário usado para armazenar cartões de &eupgrade&f, que pode ser acessado ao olhar para a tela de qualquer dispositivo atualizável para fácil substituição. No entanto, ele não pode girar blocos conectados à rede ME como uma chave inglesa normal, apenas desmontá-los ao se esgueirar."
+	]
+	quest.6431A384DDFBF439.title: "Ferramentas de rede"
+	quest.68B0B3DAF1145191.quest_desc: [
+		"Duas das primeiras coisas que você precisará para começar no AE2 são o &bCharger&f e o &bInscriber&f. "
+		""
+		"O &bCharger&f, quando alimentado com energia, pegará os &eCertus Quartz Crystals&r e os carregará. Esses &eCharged Certus Crystals&r podem então ser usados ​​na produção de &eFluix&f, outro recurso importante no mod. Também pode ser usado para carregar qualquer item que armazene energia. "
+		""
+		"O &bInscriber&f pode ser usado para transformar os vários cristais de quartzo em AE2 em sua forma de pó, mas o mais importante é que ele é usado para fabricar &ePrinted Circuits&f e &eProcessors&f especiais, como ficará mais claro na próxima missão."
+	]
+	quest.68B0B3DAF1145191.quest_subtitle: "Algumas máquinas básicas"
+	quest.68B0B3DAF1145191.title: "Primeiras coisas primeiro"
+	quest.69B7DE2283B4EE6C.quest_desc: [
+		"A &bCrafting Co-Processing Unit&f ajuda a acelerar os trabalhos de elaboração, permitindo que os fornecedores de padrões enviem itens para seus dispositivos conectados com mais rapidez ou trabalhem simultaneamente para produzir vários ingredientes necessários. "
+		""
+		"O coprocessador AE2 básico fornece um 'thread' de coprocessador para auxiliar nisso, enquanto a unidade de coprocessamento do &dMEGA Cells&f fornece 4 threads em um único bloco."
+	]
+	quest.69B7DE2283B4EE6C.quest_subtitle: "Baixe mais núcleos de CPU"
+	quest.69B7DE2283B4EE6C.title: "Coprocessador de elaboração"
+	quest.6D54B45CDA70FEAB.quest_desc: ["O &bEnergy Card&f pode ser aplicado à maioria dos dispositivos carregáveis, como células portáteis e terminais sem fio (abordados posteriormente) para também aumentar seu buffer de energia."]
+	quest.6D54B45CDA70FEAB.title: "Cartão de Energia"
+	quest.6E15447FC3D678E0.quest_desc: ["O &bFuzzy Card&f permite que um item filtrado seja correspondido independentemente de quaisquer metadados (NBT), como danos ou encantamentos, enquanto o &bInverter Card&f alterna o filtro em tais barramentos de uma lista branca para uma lista negra."]
+	quest.6E15447FC3D678E0.quest_subtitle: "As duas placas IO restantes"
+	quest.6E15447FC3D678E0.title: "Falando livremente"
+	quest.6F3D0A248B5A9CA2.quest_desc: [
+		"&bCélulas de armazenamento espacial&f são usadas para armazenar um volume definido cada e vêm em três capacidades diferentes, permitindo um máximo de espaço de 2x2x2, 16x16x16 e 128x128x128 blocos. "
+		""
+		"Após a codificação, uma célula recebe uma seção de espaço dentro do armazenamento espacial &edimension&f, junto com um ID exclusivo correspondente à região alocada para a célula. Uma célula codificada ainda pode ser usada na Porta Spatial IO para recuperar quaisquer blocos e entidades armazenados. "
+		""
+		"A partir de então, quaisquer blocos contidos na região do espaço da célula ou em um SCS com o mesmo tamanho daquele usado para a codificação inicial podem ser movidos de volta para o mundo superior ou para a dimensão espacial, respectivamente. Se houver blocos tanto na região espacial quanto no SCS, eles simplesmente trocarão de lugar de acordo."
+	]
+	quest.6F3D0A248B5A9CA2.title: "Célula de armazenamento espacial"
+	quest.74FC0DDDB91DB172.quest_desc: [
+		"Para tornar a vida ainda mais fácil, o AE2 fornece um conjunto completo de dispositivos para a manipulação de dados ME, ou seja, movimentar itens armazenados em todo o mundo. "
+		""
+		"A &bME Interface&f é um desses dispositivos. Como dispositivo de entrada, a Interface permite que qualquer item/fluido/etc seja canalizado externamente através dela, que é então automaticamente armazenado na Rede ME à qual a interface está conectada. "
+		""
+		"Como dispositivo de saída, a Interface pode ser configurada para manter em estoque uma determinada quantidade disponível de um item armazenado, desde a rede ME até seu próprio estoque interno. Isso permite que os itens sejam recebidos por alguma fonte externa, como outro player ou algum canal."
+	]
+	quest.74FC0DDDB91DB172.quest_subtitle: "OI, OI, OI!"
+	quest.74FC0DDDB91DB172.title: "O IO"
+	quest.77C9EE701F72586D.quest_desc: [
+		"As &bcélulas portáteis&f funcionam de forma idêntica às células normais, pois podem ser inseridas em um baú ou unidade e preenchidas de acordo. "
+		""
+		"No entanto, diferentemente das células normais, seu conteúdo também pode ser acessado de forma independente através do próprio item da célula, um pouco como uma mochila digital com sabor de ME."
+	]
+	quest.77C9EE701F72586D.title: "Armazenamento portátil"
+	quest.78311531069807DE.quest_desc: [
+		"Em Energística Aplicada 2, cada rede ME tem um certo número de &ecanais&f disponíveis, o que significa simplesmente quantos dispositivos em rede podem caber em toda a rede. "
+		""
+		"Como regra geral, qualquer dispositivo que lide mais ou menos com dados ME diretamente (itens armazenados na rede) e execute alguma forma de E/S ocupará um canal. Normalmente, os componentes que se preocupam apenas com o armazenamento interno de energia da rede, como &eEnergy Cells&f e &eInscribers&f, não ocupam canais. "
+		""
+		"Redes sem um &bME Controller&f são conhecidas como redes 'ad-hoc' e suportam apenas um máximo de 8 canais."
+	]
+	quest.78311531069807DE.title: "Prefácio sobre canais"
+	quest.7B7D1F0CB326B28F.quest_desc: [
+		"O &bME IO Port&f permite que o conteúdo do armazenamento de uma rede ME seja rapidamente reorganizado entre diferentes mídias de armazenamento, como células ME e contêineres externos conectados a barramentos de armazenamento. "
+		""
+		"Quando uma célula é inserida em um slot de entrada à esquerda, a porta IO pode ser alternada para esvaziar a célula em outros armazenamentos ME ou preencher a célula (idealmente, particionada) com certos itens espalhados por outros armazenamentos ."
+	]
+	quest.7B7D1F0CB326B28F.quest_subtitle: "Desfragmentação"
+	quest.7B7D1F0CB326B28F.title: "EU Eu Porto"
+	quest.7EFBAF3E281D2EBE.quest_desc: [
+		"O &bME Storage Bus&f, ao se deparar com algum container de armazenamento externo, permitirá que o container seja utilizado como se fizesse parte da rede ME, permitindo que itens sejam retirados do container ou inseridos nele puramente via ME. "
+		""
+		"Os barramentos de armazenamento podem ser filtrados e receber prioridades específicas, de modo que itens específicos tentarão ir primeiro para o armazenamento anexado, mas não moverão retroativamente nenhum item filtrado de qualquer outro lugar na rede para seu armazenamento anexado."
+	]
+	quest.7EFBAF3E281D2EBE.quest_subtitle: "O baú sobressalente"
+	quest.7EFBAF3E281D2EBE.title: "Barramento de armazenamento ME"
+}

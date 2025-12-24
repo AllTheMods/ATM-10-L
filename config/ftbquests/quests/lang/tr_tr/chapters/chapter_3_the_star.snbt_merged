@@ -1,0 +1,42 @@
+{
+	quest.05850541675B2493.quest_desc: ["Evet. \\n\\n&6&lATM Yıldızı&r'nı oluşturdun. Bu, mod paketini tamamladığın anlamına geliyor!\\n\\nPeki sırada ne var?"]
+	quest.05850541675B2493.quest_subtitle: "Bu kazandığın anlamına mı geliyor?"
+	quest.05850541675B2493.title: "&6&lATM Yıldızı"
+	quest.08CE14FFED813992.quest_subtitle: "13 Islak Koyu Pembe Blok"
+	quest.08E47A27EFFB7C6B.quest_subtitle: "5 Kuru Pembe Blok"
+	quest.0E03F5EAE4963ECB.quest_subtitle: "8 Kuru Yeşil Blok"
+	quest.0F1CA44520BDEFEA.quest_subtitle: "6,561 Elmas Bloğu"
+	quest.103834774B57D611.quest_desc: ["Minyatür End Portalı, birkaç &dEnd Kitaplığı&r'na ihtiyaç duyacaktır. Bunlar &5&lApotheosis&r'den elde edeceğin son Kitaplık kademesidir. Bunları yapmak için &dAşılama Yapılmış Ejderha Nefesi&r'ne ihtiyacın olacak. \\n\\nOndan sonra sadece Ender Gözlerine ihtiyacın olacak. &dEnd Kitaplığı&r'nı gerçekten elde etmek için onları yapmış olman gerekiyor. \\n\\nEğer bir şekilde &d&lEnd&r'e ulaştıysan ve Ender Gözleri olmadan Kitaplıklara ulaştıysan, o zaman beni gerçekten etkiledin!"]
+	quest.174D18D9D732EC10.quest_subtitle: "8 Islak Yeşil Blok"
+	quest.17542D7633FBF098.quest_subtitle: "&oSünger Bob'un Yıldız olmaması çok kötü."
+	quest.17542D7633FBF098.title: "&d&lPatrick &aYıldızı&r"
+	quest.1CE7B24E7E62C25B.quest_subtitle: "&oBilinmeyen ama yine de her şeyini bildiğimiz şey."
+	quest.1CE7B24E7E62C25B.title: "&d&lTitreşen &8Kara Delik"
+	quest.217DF3B66A07A8DE.quest_subtitle: "&oCennet Bahçesi tek bir Tohumun içinde."
+	quest.217DF3B66A07A8DE.title: "&3&lBoyutsal &2Tohum"
+	quest.2188C52C1F384DE4.quest_subtitle: "&oHiç tükenmeyen yakıt (pek sayılmaz)."
+	quest.2188C52C1F384DE4.title: "&c&lFilozof'un Yakıtı"
+	quest.23AE395433AED3C0.quest_desc: ["&6&lATM Star&r farklı Eşyaları bir arada tutmak ve yıldız şeklini oluşturmak için birkaç Bloğa ihtiyaç duyar! \\n\\nİlk Bloklar &5Unobtainium&r-&6AllTheModium&r &5Alaşımı&r &6Bloğu&r. Bunları yapmak için &d&lArs Nouveau&r'dan Büyüleme Aparatını kullanman gerekiyor! Tam olarak 28 tane yapmak için. "]
+	quest.23AE395433AED3C0.title: "&6&lYıldız'ın&r Gövdesi"
+	quest.2D64EF8D803AF9DA.quest_desc: ["Yapabileceğimiz en pahalı Portal. İlk olarak &dEjderha Yumurtaları&r için &dEjderha&r'yı sürekli öldürmek zorunda değilsin. Onları elde etmek için &l&bHNN&r veya &l&2MA&r kullanabilir veya daha fazlasını yapmak için bir Extractor kullanabilirsin! \\n\\nSonra, Büyü Masası'ndan &dAşılama Yapılmış Ejderha Nefesi&r'ne ihtiyacın olacak. \\n\\nOrada onu büyülemek ve Portal'ı yapmak için &9Ruh Dokunuşlu Sculk Kitaplıklarına&r ihtiyacın olacak. \\n\\nPortal'ın neden çalışmadığını merak ediyorsan, bunun nedeni zaten &2&lAna Dünya&r'da olmandır! Şaka yapıyorum, kullanamazsın!"]
+	quest.36CF8D1DD1EF6307.quest_subtitle: "2 Islak Açık Yeşil Blok"
+	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oBilgeliğin eksikliği bununla geçmişte kaldı."
+	quest.36DF0D83EBC2B6A9.title: "&3&lİhtimal Dışı Olasılık Cihazı"
+	quest.39B4F361EF611927.quest_subtitle: "&oÖlümün kendisi üzerindeki Güç."
+	quest.39B4F361EF611927.title: "&l&8Wither'ın Pusulası"
+	quest.4D7D4C718837BCA5.quest_desc: ["Minyatür Nether Portalı tarifinin ana parçası &3Usta Görüş'ün Cehennem Kitaplığı&r'dır. Genellikle hangi Büyüleri alacağını görmek için kullanılır ama biz Büyü için değil &6&lATM Yıldızı&r için buradayız. \\n\\nSadece birkaç Kitaplık'tan elde edebileceğin bir &4Aşılama Yapılmış Cehennem Kitaplığı&r'na büyü yapman gerekecek. Daha sonra onu daha da yükseltmek için, onunla üretim yapman gerekiyor!  \\n\\nBundan sonra Minyatür Nether Portalı'nı yapabilirsin. Hayır içinden geçemezsin, çünkü çok büyüksün!"]
+	quest.4E82E843737045D9.quest_subtitle: "&oEn güçlü yaratığın özü."
+	quest.4E82E843737045D9.title: "&d&lEjderha Ruhu"
+	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r, &6&lAllthemodium&r tarafından eklenen ve &l&bOther&r'daki Antik Piramit'te yaşayan bir Patron'dur. \\n\\nÖldüğünde Kalplerinden 1 tanesini düşürecek! Bir Blok yapmak için 9 tanesinin ölmesi gerekir... \\n\\nNeyse ki onları elde etmenin yolları var!"]
+	quest.501A0AEEC73C0790.title: "&6Piglich Kalp Bloğu"
+	quest.54B1A876E9F6707A.quest_subtitle: "&oBaşka hiçbir şeye benzemeyen güç ve yıkım!"
+	quest.54B1A876E9F6707A.title: "&5&lOblivion Parçası"
+	quest.554F47A0AF7506EC.quest_subtitle: "59,049 End Taşı"
+	quest.62B5A84753ADFC35.quest_subtitle: "8 Kuru Koyu Pembe Blok"
+	quest.6CAD67D21E1EA861.quest_subtitle: "&oEvrensel uzaktan erişim."
+	quest.6CAD67D21E1EA861.title: "&7&lNexium Vericisi"
+	quest.6FC55CF56BE22866.quest_subtitle: "531,441 Toprak"
+	quest.73E2A53A088AD29A.quest_subtitle: "11 Islak Pembe Blok"
+	quest.764609E41957DA69.quest_subtitle: "6,561 Zümrüt Bloğu"
+	quest.779CA0C49F93C4F9.quest_subtitle: "59,049 Obsidiyen"
+}

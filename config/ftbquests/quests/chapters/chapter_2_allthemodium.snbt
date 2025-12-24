@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: "diamond"
-	filename: "allthemodium"
+	filename: "chapter_2_allthemodium"
 	group: "2084F3F6FB861C5B"
 	icon: {
 		id: "allthemodium:allthemodium_ingot"

@@ -1,0 +1,64 @@
+{
+	quest.06094615950AC062.title: "Outras atualizações de transportador"
+	quest.0E8647B8EB4AAC41.title: "Slime Rosa \\\\&Carne Líquida"
+	quest.0EA9E52B67B533DF.quest_desc: ["Quando fundido, dá origem ao Plástico, que é o principal recurso da Indústria Industrial."]
+	quest.0EC2053B191C55C6.quest_desc: [
+		"Extrai látex dos logs."
+		""
+		"Verifique JEI para registros aceitáveis ​​e quantidades de látex. A melhor tora para usar é Acácia."
+	]
+	quest.0FAAE744E156D8EF.quest_desc: [
+		"O &bMycelial Reactor&r consiste em todos os Geradores Myceliais trabalhando ao mesmo tempo, próximos ao bloco do reator, e produz um total de &a25MFE/t&r."
+		""
+		"Tudo parece bom, mas você precisa automatizar algumas coisas para fazê-lo funcionar, ver o que cada Gerador Mycelial consome para funcionar e automatizá-lo, a maioria das coisas é simples, mas outras, nem tanto... &olhando para o Gerador Mycelial Desencantador&r."
+		""
+		"Mas depois de automatizar tudo, você não precisa parar em um, você pode fazer mais reatores."
+	]
+	quest.0FAAE744E156D8EF.title: "Reator Micélio? Huh?"
+	quest.1823CC81D613892B.quest_desc: [
+		"Mobs Passivos -> Mais Slime Rosa"
+		"Multidões hostis -> Mais carne"
+	]
+	quest.1BA3D15FFE7DBE59.quest_desc: [
+		"Bem-vindo ao &bIndustrial Foregoing&r, um dos principais recursos deste mod, é o &fLatex.&r É usado para criar estruturas de máquinas, necessárias para fazer... bem... máquinas e atualizações."
+		""
+		"&oJEI é seu amigo&r"
+		""
+		"Fazer Latex é muito simples, &aFluid Extractor&r extrai Latex de &6Logs&r (Acacia dá o máximo)."
+		""
+		"------------------------"
+		""
+		"Agora sobre como fazer Plástico: O plástico resulta da fundição da Borracha Seca - que é feita na Unidade de Processamento de Látex, que transforma o Látex em Borracha Seca."
+		""
+		"&bEntão, basicamente Látex -> Borracha Seca -> Plástico.&r"
+	]
+	quest.1BA3D15FFE7DBE59.title: "Látex e plástico? Huh?"
+	quest.2CCFEE98FE3B2E97.quest_desc: ["Automatize a colocação/quebra de blocos usando-os, especialmente úteis ao automatizar o látex."]
+	quest.2CCFEE98FE3B2E97.title: "Blocos"
+	quest.3027584AA6138E6D.title: "Inserção \\\\&Extração de Transportador"
+	quest.339DF320DDCAD98B.title: "Item \\\\&Transporte de Fluidos"
+	quest.3CB7884B7B32CF00.quest_desc: [
+		"Conseguir seu primeiro &bEther Gas&r será assustador."
+		"&bEther Gas &r é feito a partir da perfuração de &0Wither &r, usando uma broca de fluido com &5 lentes roxas &r."
+		""
+		"Mas não se preocupe, a Industrial Foregoing tem uma máquina só para te ajudar nessa tarefa: &4Stasis Chamber&r - esta máquina congela no lugar tudo o que está em cima, em uma área 3x3, então gerar uma murcha ali é seguro."
+		""
+		"&cEspero que você não fique sem energia, porque se isso acontecer... bem... espero que você esteja pronto para lutar contra o &0Wither&r."
+	]
+	quest.3E6706BC4C318A40.title: "Outras máquinas"
+	quest.418E57E34FFC19E1.title: "Brocas a laser (Void Miner)"
+	quest.427C3AFC0FF131CD.title: "Fluidos"
+	quest.485AFAE5BBEF2FC7.title: "Animais"
+	quest.4C366515E3CCB0B2.quest_desc: ["Carne em tubo, gostoso"]
+	quest.540B857F043C24D5.title: "Biopoder"
+	quest.55820773BDD5319D.quest_desc: ["Bem-vindo ao &aIndustrial Foregoing&f!"]
+	quest.55820773BDD5319D.title: "Antecedentes Industriais"
+	quest.6C001E18093FC037.title: "Plantas"
+	quest.7E39FB9F3E973009.quest_desc: [
+		"Sugestão:"
+		"Use algum tipo de vidro à prova de murchamento."
+	]
+	task.1F1A69738DE70DB6.title: "Reator Micélico, hein?"
+	task.335D80E83360A7DB.title: "Gás Éter? Huh?"
+	task.391AB5CA0E5C35FD.title: "Látex? Huh?"
+}

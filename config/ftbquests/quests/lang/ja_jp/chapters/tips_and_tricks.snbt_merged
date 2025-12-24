@@ -1,0 +1,56 @@
+{
+	quest.0152938EE5651409.quest_desc: ["このクエストは &6AllTheMods Staff&r または &2コミュニティの貢献者&r によって AllTheMods Modpacks 用に作成されました。\n\nすべての &6AllTheMods&r パックは &eAll Rights Reserved&r ライセンスの下にあるため、このクエストは明示的な許可なしに &6AllTheMods Team&r 以外がリリースする公開パックでは使用できません。\n\nこのクエストは意図的に非表示になっています。これが見えている場合は編集モードです"]
+	quest.0790D3BB481162A6.quest_desc: [
+		"ポータブル作業台が必要ですか？それともポータブル鍛冶台？"
+		""
+		"&9Crafting On A Stick&rは、あなたの手の平にいつでもアクセス可能な作業台を手に入れられます。序盤に大活躍です！"
+	]
+	quest.0790D3BB481162A6.quest_subtitle: "設置は少なく、クラフトはより多く"
+	quest.0790D3BB481162A6.title: "スティックでクラフト！"
+	quest.0C856BBB1679A7DD.quest_desc: ["このページでは、あなたの旅の役に立つアイテムや情報を掲示します！"]
+	quest.0C856BBB1679A7DD.quest_subtitle: "そして他の有用なアイテム！"
+	quest.0E9CE6241CDBC420.quest_desc: ["&9Ranged Pump&r は特別なので独自のModがあります！\\n\\n&9Pump&r は下にある &9水源&r を収集し、それを石に置き換えます。\\n動作にはエネルギーが必要ですが、その価値はあります。とても広い範囲をカバーできます！\\n\\n収集された &9水&r はパイプで排出する必要があります"]
+	quest.0E9CE6241CDBC420.title: "&l&9Ranged Pump"
+	quest.0F8F37D7E12078F5.quest_subtitle: "すべてのヒントを完了する！"
+	quest.219AA017149C36E2.quest_desc: ["Trapped Trader Carpet の近くで行商人がスポーンすると即座に倒されます！\\n\\nこれはパック内で最高のアイテムの1つかもしれません"]
+	quest.219AA017149C36E2.quest_subtitle: "もう迷惑な行商人はいない！"
+	quest.28E60192912BEBAD.quest_desc: [
+		"バニラの村人は扱いにくいことが多いですよね。取引をサイクルするのは簡単ではなく、職業も時々厄介です"
+		""
+		"&aEasy Villagers&rはこれらをすべて簡単にするMODです！まず、村人をスニークしながら右クリックで拾うことができます。その後、簡単に世界に配置したり、Easy Villager MODの特定のブロックに配置できます！"
+		""
+		"JEIで&d@EasyVillagers&rを検索して、MODが提供するブロックを確認してみてください！"
+	]
+	quest.28E60192912BEBAD.quest_subtitle: "村人を簡単に"
+	quest.28E60192912BEBAD.title: "&aチョロイ村人&r"
+	quest.378C95C18798D413.quest_desc: [
+		"ツールを素早く切り替える方法です"
+		""
+		"ベルトポーチを金床でアップグレードして容量を増やしましょう"
+	]
+	quest.378C95C18798D413.title: "ツールベルト"
+	quest.3B4BF42C55C8BBBF.quest_desc: ["何かを壊しているときにブロックが手の届かないところに落ちるのは嫌ですよね！\\n\\nもう心配いりません。&4マグネット&rがあります！&4マグネット&rを持って右クリックするだけでオンになります。すると、5ブロック範囲内のすべてのドロップアイテムとブロックがあなたの元に来ます。\\n\\n&4マグネット&rを Curios に装備して使い続けることもできます！\\n\\n&4マグネット&rの使用を中止したい場合（モブファームの近くでよくあります）は、もう一度右クリックして無効にするだけです。\\n\\nアップグレードして範囲を広げることもできます！"]
+	quest.3B4BF42C55C8BBBF.title: "&l&9シンプル &4マグネット"
+	quest.6E17595887A051C2.quest_desc: ["&l&2Mod入り Minecraft&r では新しい村人の職業が追加されます！\\n\\nForge Hammer: &5Industrialist&r \\n\\nCharger: &bFluix Researcher&r \\n\\nAdvanced Beehive: &6養蜂家&r \\n\\nCoffee Maker: &9Engineer&r \\n\\nArcane Core: &d怪しげな魔法使い&r \\n\\nForagers Table: &a採集家&r \\n\\nPowered Rolling Machine: &eCartman&r \\nManual Rolling Machine: &eTrackman&r \\n\\nEngineer's Workbench: &7銃職人&r \\nWhite Banner: &7仕立て屋&r \\nEngineer's Circuit Workbench: &7電気技師&r \\nEngineer's Crafting Table: &7機械工&r \\nTurntable: &7構造技師&r \\n\\nCharging Station: &4圧力技師&r \\n\\nSaw: &8大工&r"]
+	quest.6E17595887A051C2.title: "Mo' Professions"
+	quest.70B6C9409AE69284.quest_desc: [
+		"検索できるバイオームのリストを表示します"
+		""
+		"バイオームを選択して「検索」を押すと、左上に情報が表示され、コンパスがバイオームの方向を指します"
+	]
+	quest.70B6C9409AE69284.quest_subtitle: "バイオームを見つけるお手伝いします！"
+	quest.70B6C9409AE69284.title: "自然界コンパス"
+	quest.722978AC0C1B2649.quest_desc: ["無限水源が１ブロックで実現できるアイテムです。もっと水が必要ですか？もう一つ作りましょう！"]
+	quest.722978AC0C1B2649.quest_subtitle: "リアクター冷却剤として使用可能です"
+	quest.722978AC0C1B2649.title: "無限シンク水"
+	quest.7EC8814940C4C3D7.quest_desc: ["このアイテムを使って縮小しましょう。１マス以下の狭い穴にも潜れます、フツーに楽しいです"]
+	quest.7EC8814940C4C3D7.quest_subtitle: "自分をちっちゃくしちゃった！"
+	quest.7EC8814940C4C3D7.title: "個人用縮小デバイス"
+	task.0D5203048B6E068C.title: "Trapped Trader Carpets"
+	task.3DC008A578A93CCF.title: "ヒントとコツ!"
+	task.42DA8E971B27ACED.title: "Tipped Out"
+	task.4AEB792F6A939B3A.title: "AllRightsReserved"
+	task.58E3131A3EA2661E.title: "コンパス"
+	task.6038387EA35404CD.title: "棒の上での作業"
+	task.6A965CD027BF762F.title: "AllRightsReserved"
+}

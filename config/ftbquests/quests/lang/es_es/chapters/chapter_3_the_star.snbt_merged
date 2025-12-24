@@ -1,0 +1,63 @@
+{
+	quest.05850541675B2493.quest_desc: ["Si, lo has hecho. \\n\\nHas creado &6&lLa Estrella ATM&r, has vencido este modpack!\\n\\nPero... Que es lo siguiente?"]
+	quest.05850541675B2493.quest_subtitle: "Esto significa que ganaste?"
+	quest.05850541675B2493.title: "&6&lLa Estrella ATM"
+	quest.08CE14FFED813992.quest_subtitle: "13 Bloques Humedos color Magenta"
+	quest.08E47A27EFFB7C6B.quest_subtitle: "5 Bloques Secos color Rosa"
+	quest.0AE28C998A3BF136.quest_subtitle: "531,441 Netherrack"
+	quest.0E03F5EAE4963ECB.quest_subtitle: "8 Bloques Secos color Verde"
+	quest.0F1CA44520BDEFEA.quest_subtitle: "6,561 Bloques de diamante"
+	quest.0F1CA44520BDEFEA.title: "Bloque de diamante 4x"
+	quest.103834774B57D611.quest_desc: ["El Portal del End Miniatura necesitará unas cuantas &dEndshelves&r. Estas son el ultimo nivel de Libreria que obtendras del &5&lApotheosis&r. Necesitaras &dAliento de dragón Infundido&r(Infused Dragon's Breath) para craftearlo. \\n\\nDespues, necesitaras Ojos de ender los cuales tienes que haber hecho en orden para poder conseguir &dEndshelves&r. \\n\\Si de alguna manera fuiste al &d&lEnd&r y conseguiste las Librerias sin Ojos de ender, estoy sorprendido!"]
+	quest.174D18D9D732EC10.quest_subtitle: "8 Bloques Humedos color Verdes"
+	quest.17542D7633FBF098.quest_desc: [""]
+	quest.17542D7633FBF098.quest_subtitle: "&oLastima que Bob Esponja no es una estrella."
+	quest.17542D7633FBF098.title: "&d&lPatricio &aEstrella&r"
+	quest.1CE7B24E7E62C25B.quest_desc: [""]
+	quest.1CE7B24E7E62C25B.quest_subtitle: "&oLo desconocido, de alguna manera, es todo lo conocido."
+	quest.1CE7B24E7E62C25B.title: "&8Agujero Negro &d&lPulsante"
+	quest.217DF3B66A07A8DE.quest_desc: [""]
+	quest.217DF3B66A07A8DE.quest_subtitle: "&oEl Jardín del Eden en una sola Semilla."
+	quest.217DF3B66A07A8DE.title: "&2Semilla &3&lDimensional"
+	quest.2188C52C1F384DE4.quest_desc: [""]
+	quest.2188C52C1F384DE4.quest_subtitle: "&oCombustible eterno (No realmente)"
+	quest.2188C52C1F384DE4.title: "&c&lCombustible del Filósofo"
+	quest.23AE395433AED3C0.quest_desc: ["&6&lLa Estrella ATM&r necesita algunos Bloques para contener todos los Objetos, y para hacer la forma de estrella! \\n\\nLos primeros bloques son de &5Unobtainium&r - &6AllTheModium&r &5Alloy&r &6Blocks&r. Necesitarás el Aparato de Encantar(Enchanting Apparatus) de &d&lArs Nouveau&r para hacerlos! Exactamente 28. "]
+	quest.23AE395433AED3C0.title: "La carcasa de &6&lLa Estrella&r"
+	quest.2D64EF8D803AF9DA.quest_desc: ["La parte mas cara de este Portal se puede fabricar. Primero, necesitamos muchos &dHuevos de Dragón&r(Dragon Eggs) , No es necesario torturar al &dDragón&r ya que puedes usar &l&bHNN&r o &l&2MA&r para obtenerlos o hacer un Extractor para hacer más! \\n\\nLuego necesitarás &dAliento de dragón infundido&r(Infused Dragon's Breath) que puedes obtener Encantando. \\n\\nDespues, sera necesario &9Soul-Touched Sculkshelves&r para Encantarlas y hacer el Portal. \\n\\nSi te preguntas por qué no funciona el Portal, es porque ya estas en el &2&lOverworld&r! Era broma, no lo puedes usar!\\n\\n(Nota: \"&l&bHNN&r\" se refiere a Hostile Neural Networks y \"&l&2MA&r\" a Mystical Agriculture)"]
+	quest.2D64EF8D803AF9DA.title: "Portal de Salida Miniatura"
+	quest.36CF8D1DD1EF6307.quest_subtitle: "2 Bloques Humedos color Verde Lima"
+	quest.36DF0D83EBC2B6A9.quest_desc: [""]
+	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oLa falta de Sabiduria es algo del pasado."
+	quest.36DF0D83EBC2B6A9.title: "&3&lDispositivo de Posibilidades Improbables"
+	quest.39B4F361EF611927.quest_desc: [""]
+	quest.39B4F361EF611927.quest_subtitle: "&oPoder sobre la Muerte."
+	quest.39B4F361EF611927.title: "&l&8Compás del Wither"
+	quest.4D7D4C718837BCA5.quest_desc: ["La parte principal de la receta del Portal del Nether Miniatura es la &3Hellshelf of Masterful Sight&r. Usualmente es usada para ver que Encantamientos obtendrás, pero aqui la usamos para obtener &6&lLa Estrella&r, No para Encantar. \\n\\nSolo necesitarás encantar un &4Infused Hellshelf&r que podrás obtener con unas cuantas Librerias. Despues de esto, tendras que usarlas para crear un mejores Librerias! \\n\\nY finalmente podras hacer el Portal del Nether Miniatura, Pero eres muy grande para este portal!"]
+	quest.4D7D4C718837BCA5.title: "Portal del Nether Miniatura"
+	quest.4E82E843737045D9.quest_desc: [""]
+	quest.4E82E843737045D9.quest_subtitle: "&oLa Esencia de una de las craturas mas Poderosas."
+	quest.4E82E843737045D9.title: "&d&lAlma de Dragon"
+	quest.501A0AEEC73C0790.quest_desc: [
+		"El &6Piglich&r es un jefe agregado por &6&lAllthemodium&r el cual vive en la Piramide Antigua(Ancient Pyramid) en &l&bEl otro&r(The other). \\n\\nCuando consigas matarlo, soltara 1 de sus Corazones! Hacen falta 9 de sus Corazones para hacer un bloque... \\n\\nAfortunadamente, hay formas de automatizarlo..."
+		"&o&8Se considera crueldad animal?&r"
+	]
+	quest.501A0AEEC73C0790.title: "&6Bloque de corazón de Piglich"
+	quest.54B1A876E9F6707A.quest_desc: [""]
+	quest.54B1A876E9F6707A.quest_subtitle: "&oPoder y destruccion incomparable!"
+	quest.54B1A876E9F6707A.title: "&5&lFragmento del Olvido"
+	quest.554F47A0AF7506EC.quest_subtitle: "59,049 Piedra del end"
+	quest.554F47A0AF7506EC.title: "Piedra del end 5x"
+	quest.62B5A84753ADFC35.quest_subtitle: "8 Bloques Secos color Magenta"
+	quest.6CAD67D21E1EA861.quest_desc: [""]
+	quest.6CAD67D21E1EA861.quest_subtitle: "&oAcceso Universal Remoto"
+	quest.6CAD67D21E1EA861.title: "&7&lEmisor de Nexium"
+	quest.6FC55CF56BE22866.quest_subtitle: "531,441 de Tierra"
+	quest.6FC55CF56BE22866.title: "Tierra 6x"
+	quest.73E2A53A088AD29A.quest_subtitle: "11 Bloques Humedos color rosa"
+	quest.764609E41957DA69.quest_subtitle: "6,561 Bloques de esmeralda"
+	quest.764609E41957DA69.title: "Bloque de esmeralda 4x"
+	quest.779CA0C49F93C4F9.quest_subtitle: "59,049 Obsidiana"
+	quest.779CA0C49F93C4F9.title: "Obsidiana 5x"
+	task.2D86A629AB86FDD1.title: "Portal del End Miniatura"
+}

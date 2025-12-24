@@ -1,0 +1,99 @@
+{
+	quest.0AEC181F5E21A299.quest_desc: [
+		"If you've ever heard of someone talking about 'Melon Power', this is it. Mekanism's &9Gas-Burning Generator&r can produce a good amount power by pumping in &9Ethylene&r made from Melon Slices. "
+		""
+		"To produce &dEthylene&r, start by crushing organic materials in a &eCrusher&r to create &6Bio Fuel&r. Melon Slices are typically used for this! This is then pumped into a &dPressurized Reaction Chamber&r (PRC for short). "
+		""
+		"The PRC needs Water, Bio Fuel, and some Hydrogen to create Ethylene. You can get the Hydrogen from separating water in an &9Electrolytic Separator&r.  "
+		""
+		"Once you've started producing the Ethylene, pump it into the Gas-Burning Generator to start generating power!"
+	]
+	quest.0AEC181F5E21A299.quest_subtitle: "The Power of the Melon"
+	quest.0AEC181F5E21A299.title: "&eMekanism's&r &dGas-Burning Generator&r"
+	quest.11D09E918015355C.quest_desc: [
+		"&aMekanism's&r Heat Generator is a different take on basic power production. It has two modes of creating power: "
+		""
+		"&9Passive:&r Surrounding the generator with lava source or flowing blocks creates passive power over time through heat. Place one lava source block on top and let it flow over the sides. Make sure to have pipes connected for energy first! "
+		""
+		"&9Active:&r Placing combustible materials such as coal or wood into the generator will burn the fuel to create power. This is not very efficient."
+	]
+	quest.11D09E918015355C.quest_subtitle: "Mekanism's Starter Power Solution"
+	quest.11D09E918015355C.title: "Heat Generator"
+	quest.1BE26A00A420DAE3.quest_desc: ["In this mod, you'll need &aFlux Cores&r and &aFlux Blocks&r to craft the core parts of your network. Make a few of each!"]
+	quest.1BE26A00A420DAE3.title: "The 'Core' Crafting Materials"
+	quest.1F81EA5E45424308.quest_desc: [
+		"If you're looking for different ways to get power out of your machines, this is where you can find it! "
+		""
+		"There are several options, both &awired&r and &9wireless&r, for transferring power."
+	]
+	quest.1F81EA5E45424308.title: "Transferring Power"
+	quest.3BDB94F17765EE77.quest_desc: [
+		"If you're looking to generate a ton of power, you can start by scaling up some of the options from the &9Mid Game Power&r section. Make your &eExtreme Reactors&r bigger. Upgrade your &9Thermo Gens&r to Nitro. Go wild. "
+		""
+		"&9Mekanism&r also has an end game power option that is tough to beat. "
+		""
+		"The &dFusion Reactor&r can produce up to 200MRF/t, and if you want to learn how to build it, make sure to check out the &aMekanism:&r &dAdvanced&r Chapter!"
+	]
+	quest.3BDB94F17765EE77.quest_subtitle: "More Power Than You'll Need"
+	quest.3BDB94F17765EE77.title: "End Game Power Options"
+	quest.42D173B9FF8D16E4.quest_desc: [
+		"Looking for early game power options? These are good ways to get you started with generating power. "
+		""
+		"These don't produce a ton of power, but they are typically easy or cheap to get in the early game!"
+	]
+	quest.42D173B9FF8D16E4.quest_subtitle: "Starter Power"
+	quest.42D173B9FF8D16E4.title: "Early Game Power Options"
+	quest.477B411F84342EEA.quest_desc: [
+		"Mekanism is one of the best mods for energy storage, especially in the early game. "
+		""
+		"The Basic Energy Cube is easy to configure, easy to craft, and stores a lot of power. It can also be upgraded, and can charge items inside of the interface! "
+		""
+		"To learn more about upgrading the Energy Cube as well as the mod, head over to the &aMekanism&r questline!"
+	]
+	quest.477B411F84342EEA.quest_subtitle: "Mekanism"
+	quest.477B411F84342EEA.title: "Mekanism's Energy Cubes"
+	quest.48DC9E8E9D21A2FA.quest_desc: [
+		"Mekanism provides several ways to make power using renewable resources. "
+		""
+		"The &9Solar Generators&r harness the power of the sun to provide basic power needs. It does not work during the night, and must have access to the sky. Glass is okay. "
+		""
+		"The &9Wind Generator&r provides power via the wind. Unless you've figured out a way for your character to manually spin this, the speed it spins is based off of the Y lvl it is placed at. It also needs direct access to the sky without any blocks above it."
+	]
+	quest.48DC9E8E9D21A2FA.quest_subtitle: "Using the Sun"
+	quest.48DC9E8E9D21A2FA.title: "Mekanism: Renewable Energy"
+	quest.4AB0DD227471FDBF.quest_desc: [
+		"This chapter is dedicated to all things power related! "
+		""
+		"In this section, you'll find the basic ways to generate, store, and transfer power."
+	]
+	quest.4AB0DD227471FDBF.title: "All Things Power!"
+	quest.56B6ABF3D6EA0D84.quest_desc: [
+		"With our plug set up, we can now tap into the power from our network. The &9Flux Point&r does exactly that. It points the power from your network to whatever block it is attached to, including pipes or cables, or just directly on machines! "
+		""
+		"Once you've placed your point on the machine or block you want to power, right click on it and select your network in the Network Selection tab. Just like the plug, you can adjust how much power it pulls, priority level, etc."
+	]
+	quest.56B6ABF3D6EA0D84.title: "Accessing Network Power"
+	quest.5C47935A3B2877FF.quest_desc: [
+		"Mekanism offers a nice looking cable to transfer your power. "
+		""
+		"If the machine you are connecting to already pulls or pushes power, you will not need to configure the cable. Otherwise, you'll need a &9Configurator&r to configure the pipe. Shift+right-clicking will change the cable to pull or push mode. "
+	]
+	quest.5C47935A3B2877FF.quest_subtitle: "Mekanism's Energy Transfer Pipe"
+	quest.5C47935A3B2877FF.title: "&9Using Mekanism:&r &a Basic Universal Cable&r"
+	quest.5E41363F9AE243F3.quest_desc: [
+		"You can't power your base off of Coal forever! If you've got a decent amount of resources available, it's time to upgrade your power setup! "
+		""
+		"These options usually require a little setting up, but produce enough power to carry you far into your playthrough."
+	]
+	quest.5E41363F9AE243F3.title: "Mid Game Power Options"
+	quest.5F078A574A783B02.quest_desc: [
+		"The first item you'll need to start your Flux Network is a &9Flux Plug&r. "
+		""
+		"The Plug is used to 'draw' power from the block it is attached to. Aside from a small buffer, the Plug does not store power itself, so don't worry about it zapping up all of your power. "
+		""
+		"It is suggested to place the Plug on a power storage block like an energy cube. It can connect to cables, pipes, or the output of any power producing machine. "
+		""
+		"To learn how to set up your first network, check the next quest!"
+	]
+	quest.5F078A574A783B02.title: "Starting Your Network"
+}

@@ -1,0 +1,399 @@
+{
+	quest.00EFC7B327E79076.quest_desc: [
+		"Depois de consumir trilhões de energia no SPS, podemos finalmente criar &dPaletes de Antimatéria&r."
+		""
+		"Transforme o Gás de Antimatéria obtido do SPS em um Cristalizador Químico e você obterá 1 Pellet de Antimatéria para cada 1.000 MB que fizer."
+	]
+	quest.0152C49AB74B9D32.quest_desc: [
+		"Você provavelmente já ouviu pessoas falarem sobre como o &cFusion Reactor&r é a melhor fonte de energia do pacote. Eles estão certos."
+		""
+		"Uma vez ativado, o Reator pode produzir até 200MRF/t com a configuração correta. Ele também pode ser resfriado com água para produzir vapor, que pode entrar em uma &9Turbina Industrial&r para produzir ainda mais energia."
+		""
+		"Para construir o Fusion Reactor, precisamos seguir um padrão simples. Cada rosto ficará assim:"
+		"{image:atm:textures/questpics/mek/fusion_pattern.png width:175 height:175 align:1}"
+		""
+		"Para o topo, queremos substituir o bloco do meio pelo Fusion Reactor Controller."
+		""
+		"Para as portas, você pode substituir qualquer vidro do reator nas laterais. Para esta configuração, precisaremos de duas portas para entrada de &cDeuterium&r e &eTritium&r e, em seguida, uma porta para saída de energia."
+		""
+		"{image:atm:textures/questpics/mek/completed_fusion_reactor.png width:175 height:150 align:1}"
+	]
+	quest.0152C49AB74B9D32.quest_subtitle: "A melhor fonte de energia do pacote"
+	quest.0152C49AB74B9D32.title: "O &cReator de Fusão&r"
+	quest.05D20B506213A449.quest_desc: [
+		"O &9Turbine Rotor&r é colocado no meio da turbina. Para cada rotor de turbina, você precisará de 2 &aTurbine Blades&r. Para esta turbina, usaremos 3 rotores."
+		""
+		"Ao olhar para o rotor, clicar com o botão direito em &aTurbine Blades&r irá colocá-los diretamente no rotor. Quanto mais alto o rotor, mais longas serão as lâminas. Para esta construção, estamos usando 6 Blades no total. Se você planeja construir uma turbina maior, você precisará aumentar a largura da turbina dependendo de quantas lâminas você planeja usar."
+		""
+		"O &9Complexo Rotacional&r deve ser colocado no topo do Rotor da Turbina. Este é então cercado por &ePressure Dispersers&r."
+		""
+		"Os Dispersores devem preencher toda a camada onde fica o Complexo Rotacional."
+	]
+	quest.05D20B506213A449.title: "O &aRotor&r"
+	quest.068728DE3B9B13C3.quest_desc: [
+		"O &dSupercritical Phase Shifter&r (SPS, abreviadamente) é outra estrutura multibloco usada para infundir polônio com grandes quantidades de energia para criar gás &dAntimatter&r, que pode ser cristalizado em pellets."
+		""
+		"Para construir o SPS, você precisará fazer um total de 72 &9SPS Casings&r (60 para a construção, 12 para fazer as portas), 3 &9SPS Ports&r, 122 Reactor Glass e um outro item sobre o qual falaremos no próximo busca. Vamos pegar os materiais primeiro!"
+	]
+	quest.068728DE3B9B13C3.title: "&dDeslocador de fase supercrítico"
+	quest.0696B725E840B996.quest_desc: [
+		"Para podermos levar qualquer coisa para dentro ou para fora do Reator de Fissão, precisaremos de &aPortas do Reator de Fissão&r. Eles podem ser configurados para entrada ou saída usando o &9Configurator&r."
+		""
+		"Cada reator de fissão precisa de um mínimo de 4 portas:"
+		""
+		"1 entrada de refrigerante"
+		"1 saída de refrigerante"
+		"1 Entrada de combustível físsil"
+		"1 Produção de Resíduos"
+		""
+		"Para esta construção inicial, vamos colocar uma porta em cada lado como na imagem mostrada abaixo. Certifique-se de configurá-los para corresponder à lista de entradas e saídas!"
+		""
+		"{image:atm:textures/questpics/mek/port_example.png width:200 height:200 align:1}"
+	]
+	quest.0696B725E840B996.title: "Interagindo com o Reator de Fissão"
+	quest.07ECC87DFF2D3991.quest_desc: [
+		"Depois de terminar de construir sua primeira &9Matriz de Indução Energizada&r, você verá partículas vermelhas ao redor da estrutura para mostrar que ela está completa."
+		""
+		"Não tenha medo de atualizar com células e provedores de nível superior! Precisa de mais espaço para eles? O tamanho máximo que a Matriz de Indução pode ter é 18x18x18."
+	]
+	quest.07ECC87DFF2D3991.title: "&aCompletando a&r &9Matriz&r"
+	quest.0FF852DE33E41C90.quest_desc: [
+		"Se quisermos criar grandes quantidades de energia, precisaremos de uma maneira de armazená-la toda, e esses Cubos de Energia simplesmente não serão suficientes."
+		""
+		"Vamos criar um multibloco personalizável usado para armazenar grandes quantidades de energia, mas primeiro precisamos fazer um pouco de Pó de Lítio!"
+		""
+		"Você deve ter um pouco de salmoura sendo feita em uma missão anterior usando as &aThermal Evaporation Plants&r. Passe o &eBrine &r por outra &aThermal Evaporation Plant &r para obter lítio e, em seguida, por um &9Chemical Crystallizer &r para obter &aLithium Dust &r."
+	]
+	quest.0FF852DE33E41C90.title: "Armazenamento avançado de energia"
+	quest.12D271359D48210E.quest_desc: [
+		"Os reatores de fusão requerem um combustível muito especial: &dD-T Fuel &r para ser exato."
+		""
+		"Existem duas maneiras de abastecer o reator: bombeando combustível DT diretamente no reator a 1.000 mb/t ou bombeando cada um dos dois combustíveis separadamente a taxas controladas."
+		""
+		"Para começar, vamos bombeá-los separadamente. Provavelmente também precisamos saber como fazê-los."
+	]
+	quest.12D271359D48210E.title: "Abastecendo o &dFusion Reactor&r"
+	quest.1482F2D45E8F761D.quest_desc: [
+		"É hora de reunir os materiais necessários para construir o reator."
+		""
+		"Assim como a maioria dos multiblocos Mekanism, os reatores podem ter um tamanho personalizado dependendo de suas necessidades. Eles devem ser cubóides, com o tamanho externo mínimo sendo 3 de largura, 4 de altura e 3 blocos de profundidade. O tamanho máximo é 18x18x18. &aVamos construir um 5x5 para começar&r."
+		""
+		"As bordas do invólucro externo devem ser feitas de &aFission Reactor Casings&r, enquanto as faces podem ser invólucros ou &bReactor Glass&r, portas de reator ou adaptadores lógicos de reator. Veremos isso mais tarde."
+		""
+		"Por enquanto, vamos construir um Reator de Fissão 5x5x5 básico!"
+		""
+		"Precisa de mais ajuda para construí-lo? Segurar &dw&r enquanto passa o mouse sobre o invólucro do reator de fissão mostrará o Ponder que pode ajudá-lo a construí-lo."
+	]
+	quest.1482F2D45E8F761D.quest_subtitle: "Invólucros e Vidro"
+	quest.1482F2D45E8F761D.title: "Noções básicas de construção de reatores de fissão"
+	quest.14D772808D1BEAE2.quest_desc: [
+		"A Matriz de Indução permite personalizar quanta energia você pode armazenar e transferir adicionando células e provedores dentro da estrutura multibloco."
+		""
+		"As células de indução aumentam a quantidade total de energia que pode ser armazenada."
+		""
+		"Os Provedores de Indução aumentam a velocidade total de transferência dentro e fora da Matrix."
+		""
+		"Você pode personalizar quantos deseja de cada dentro do multibloco, mas precisará de pelo menos um de cada. Eles também têm níveis mais altos para aumentar sua capacidade geral de armazenamento e transferência."
+		""
+		"{image:atm:textures/questpics/mek/induction_inside.png width:300 height:200 align:1}"
+	]
+	quest.14D772808D1BEAE2.title: "&aPersonalizando nossos&r &9limites de energia&r"
+	quest.16A6C47E35F3B9D0.quest_desc: [
+		"Assim que tivermos uma &9Centrífuga Isotópica&r, podemos executar nosso &2Hexafluoreto de Urânio&r e criar &3Combustível Físsil&r!"
+		""
+		"Veja, isso não foi tão ruim, foi?"
+	]
+	quest.16A6C47E35F3B9D0.title: "&3Combustível Físsil&r"
+	quest.187A3F5B41D1C923.quest_desc: [
+		"Vamos pegar nosso &2Ácido Sulfúrico&r e combiná-lo com &bFluorita&r em uma &9Câmara de Dissolução Química&r para fazer &bÁcido Fluorídrico&r."
+		""
+		"Estamos quase lá!"
+	]
+	quest.187A3F5B41D1C923.title: "&bÁcido Fluorídrico"
+	quest.1DE8B0C9A7195720.quest_desc: [
+		"Depois de terminar de colocar todos os blocos necessários para construir o Reator, ele deverá emitir partículas vermelhas para mostrar que está completo."
+		""
+		"Clicar com o botão direito em qualquer lugar do Reactor abrirá o &aInterface&r. Ele conterá todas as informações necessárias para executar o Reactor corretamente, bem como dois botões para ligar e desligar o Reactor."
+		""
+		"À esquerda, você tem 2 tanques: um para &bCoolant&r e outro para &3Fissile Fuel&r. À direita, você tem um para &8Nuclear Waste&r e outro para &bHeated Coolant&r, que provavelmente será &bSteam&r."
+		""
+		"A barra &cTemperature&r mostrará o quão quente está o Reator. Após uma certa temperatura, o Reator começará a receber &4Damage&r, o que eventualmente fará com que o Reator exploda."
+		""
+		"Para ajustar a taxa de queima do combustível físsil e ver mais estatísticas, clique na guia (I) no lado esquerdo. Aqui, você pode ajustar o Rate Limit, que controla quanto combustível o Reactor queima por tick."
+		""
+		"{image:atm:textures/questpics/mek/reactor_interface_1.png width:200 height:150 align:1}"
+		"{image:atm:textures/questpics/mek/reactor_interface_2.png width:200 height:150 align:1}"
+	]
+	quest.1DE8B0C9A7195720.quest_subtitle: "Esses são definitivamente números"
+	quest.1DE8B0C9A7195720.title: "A Interface do Reator de Fissão"
+	quest.1FAAF8216CDC3AC6.quest_desc: [
+		"Bombear resíduos nucleares em um &9Solar Neutron Activator &r lhe dará &dPolonium &r."
+		""
+		"Passe o polônio por uma câmara de reação pressurizada com um pouco de pó de fluorita e você obterá &9 pelotas de polônio &r. Você precisará de uma boa quantidade deles para o futuro."
+		""
+		"Nota: Isso também criará um subproduto de &7Resíduos Nucleares Gastos&r, que precisa ser bombeado para um Barril de Resíduos para armazenamento."
+	]
+	quest.2331FCDD2F2B709A.quest_desc: [
+		"O &9Supercharged Coil&r é colocado em uma porta SPS no centro de duas faces, como na imagem abaixo. Quando receberem energia, eles irão sobrecarregar o polônio em antimatéria. Apenas 1 é necessário, mas você pode usar 2 se quiser."
+		""
+		"Para produzir 1 MB de Antimatéria, você precisa de 400MRF. Se você ainda não começou a fazer um &cFusion Reactor&r, agora é uma boa hora para fazê-lo!"
+		""
+		"{image:atm:textures/questpics/mek/sps_coils.png width:200 height:125 align:1}"
+	]
+	quest.2331FCDD2F2B709A.title: "As bobinas superalimentadas"
+	quest.233E438357CD89F6.quest_desc: [
+		"&9Válvulas de turbina&r são usadas para bombear &bSteam&r, bem como bombear a energia que a turbina cria."
+		""
+		"&8Turbine Vents&r são usados ​​para bombear o excesso de água ao usar &aSaturating Condensers&r. Caso contrário, ajudam a aumentar o fluxo geral de vapor dentro da turbina. O número total de respiradouros também limita a taxa total de fluxo de vapor. As aberturas de ventilação também podem ser usadas na face superior da Turbina, mas para esta construção, iremos usá-las apenas nas faces externas."
+		""
+		"&aSaturating Condensers&r são usados ​​para converter &bSteam&r de volta em água. Eles são colocados sobre ou acima da camada que contém as bobinas eletromagnéticas."
+	]
+	quest.233E438357CD89F6.title: "O &aPorts&r"
+	quest.24174700F7FB771C.quest_desc: [
+		"Recapitulando, montamos uma instalação avançada de processamento de minério usando diversos gases, maquinário e muito mais."
+		""
+		"Neste capítulo, usaremos mais deles para criar &aReactors&r multibloco poderosos, bem como maneiras avançadas de criar e armazenar energia. Isso também levará à fabricação de &dAntimatter Pellets&r, que são usados ​​para fazer o &6ATM Star&r, bem como algumas das ferramentas e armas mais fortes do pacote."
+	]
+	quest.24174700F7FB771C.quest_subtitle: "&cRequer conclusão da missão \"Mecanismo Avançado\" do capítulo Mecanismo&r"
+	quest.26D306418545A2D6.quest_desc: [
+		"O &dFusion Reactor&r pode produzir até 200MRF/t sozinho, mas primeiro precisamos entender alguns mecanismos."
+		""
+		"A maneira mais fácil de produzir energia é bombear deutério e trítio separadamente e, em seguida, controlar quanto combustível é queimado usando a &aInjection Rate&r na &cFuel Tab&r."
+		""
+		"Deve ser um número par com no máximo 98, pois combina o combustível DT dentro do próprio reator. O consumo de cada combustível é igual a metade da Taxa de Injeção por tick, ou seja, 49mb/t de cada para o máximo."
+		""
+		"No entanto, você pode injetar diretamente &dD-T Fuel &r, mas não será capaz de controlar a taxa de injeção. Isto criará enormes quantidades de energia por tick, mas a uma taxa de consumo de combustível muito maior, de 500 mb/t de cada combustível."
+		""
+		"{image:atm:textures/questpics/mek/fusion_fuelui1.png width:175 height:150 align:1}"
+	]
+	quest.26D306418545A2D6.title: "&dA fonte de energia do jogo final&r"
+	quest.2B3F2F470E06BC40.quest_desc: [
+		"Com todos os blocos reunidos, é hora de construir essa coisa. Abaixo está um guia de texto, ou você pode assistir ao Ponder!"
+		""
+		"O SPS será 7x7 quando construído, mas não é um cubo. Segue um padrão simples, que você pode seguir nas imagens abaixo como guia de construção. O padrão é assim:"
+		""
+		"{image:atm:textures/questpics/mek/basic_sps_shape.png width:250 height:225 align:1}"
+		""
+		"Cada lado, incluindo a parte inferior e superior, seguirá esse padrão. As Bobinas Superalimentadas devem ser colocadas uma em frente à outra no centro de seus respectivos lados, e as duas portas restantes serão usadas para bombear Polônio e bombear Gás Antimatéria."
+		""
+		"Aqui está a estrutura completa abaixo:"
+		""
+		"{image:atm:textures/questpics/mek/sps_complete.png width:300 height:250 align:1}"
+	]
+	quest.2B3F2F470E06BC40.title: "Construa o SPS!"
+	quest.2B76B2F18C2C47D2.quest_desc: [
+		"Ao queimar combustível, o Reator de Fissão cria uma enorme quantidade de calor. Para evitar que o Reator se converta em TNT, precisamos ter certeza de que ele está devidamente resfriado."
+		""
+		"A maneira mais fácil de fazer isso é fornecer ao Reactor &9Water&r de uma pia. The Sink é uma fonte infinita de água, o que é muito bom para uma situação como esta."
+		""
+		"Bombeie a água para uma das portas do reator configurada como &ainput&r para encher o reator com água. Ele será aquecido enquanto o Reator estiver funcionando e será convertido em &bSteam&r, que você pode usar para criar energia dentro de uma &9Turbina Industrial&r."
+		""
+		"&eSodium&r também pode ser usado como um refrigerante muito mais eficiente. Isso permite taxas de queima mais altas e temperaturas centrais mais baixas."
+	]
+	quest.2B76B2F18C2C47D2.quest_subtitle: "H2O de alta qualidade"
+	quest.2B76B2F18C2C47D2.title: "Resfriando Nosso Reator"
+	quest.2E9FC7DC2AC6FD8E.quest_desc: [
+		"&8Resíduos Nucleares&r podem ser enviados para uma centrífuga isotópica para criar &9Plutônio&r."
+		""
+		"Enviar o plutônio para uma câmara de reação pressurizada com um pouco de água e &7Fluorite Dust&r lhe dará &9Plutonium Pellets&r. Eles são usados ​​para fazer materiais de final de jogo!"
+		""
+		"Nota: Isso também criará um subproduto de &7Resíduos Nucleares Gastos&r, que precisa ser bombeado para um Barril de Resíduos para armazenamento."
+	]
+	quest.31EEE2875595F315.quest_desc: [
+		"Você já deveria ter feito &2Ácido Sulfúrico&r para sua instalação de processamento de minério de nível 4, mas aqui está um lembrete sobre como obtê-lo."
+		""
+		"Comece obtendo &eSulfur Dust &r esmagando o Enxofre da Térmica ou misturando &b Cloreto de Hidrogênio &r com &3Gunpowder &r em uma Câmara de Dissolução Química."
+		""
+		"Pegue o pó de enxofre e passe-o por um &9Chemical Oxidizer&r para obter &eSulfur Dióxido&r. Combine isso com &bOxigênio&r em um Infusor Químico para obter &eTróxido de Enxofre&r."
+		""
+		"A seguir, combinaremos &bWater Vapor&r com o Trióxido de Enxofre para produzir &2Ácido Sulfúrico&r."
+	]
+	quest.31EEE2875595F315.quest_subtitle: "Uma rápida recapitulação"
+	quest.31EEE2875595F315.title: "&2Ácido Sulfúrico"
+	quest.320CC038A64A3195.quest_desc: [
+		"Para ver um visual, confira o Ponder segurando &aW&r enquanto passa o mouse sobre a Matriz de Foco do Laser."
+		""
+		"O objetivo é direcionar cada laser para um amplificador de laser. Usar um é bem lento, então vamos fazer alguns."
+		""
+		"Na imagem abaixo você pode ver um exemplo de como isso é configurado. Colar os lasers diretamente em uma fonte de energia, como um cubo de energia, funciona, ou você pode colocá-los em tubos ou cabos. Você deseja fornecer um bloco de espaço vazio entre os lasers e o Amplificador de Laser."
+		""
+		"O Amplificador Laser possui um ponto vermelho em uma das faces. Isso é o que você deseja apontar para a Matriz de Foco Laser."
+		""
+		"Certifique-se de desligar o amplificador de laser (ou ativar o controle Redstone) e esperar que ele armazene pelo menos 400MRF e r, então estará pronto."
+		""
+		"{image:atm:textures/questpics/mek/laser_example.png width:200 height:150 align:1} "
+	]
+	quest.320CC038A64A3195.title: "Método inicial: &dLaser Focus Array&r"
+	quest.3591EAA8E397F992.quest_desc: [
+		"Vamos examinar a lista de verificação mais uma vez para garantir que temos tudo pronto antes de inicializá-lo:"
+		""
+		"1. Traje Hazmat ativado (segurança em primeiro lugar)"
+		"2. Bombeamento de água/refrigerante para uma porta de entrada."
+		"3. Bombeamento de combustível físsil para uma porta de entrada."
+		"4. Uma porta configurada para saída do líquido refrigerante aquecido, seja para uma lata de lixo ou para uma turbina industrial."
+		"5. Uma porta configurada para produzir Resíduos Nucleares levando a Barris de Resíduos Radioativos ou máquinas para processá-los, ou ambos!"
+		""
+		"Se você estiver pronto para começar, aperte o botão &eActivate&r! Você também pode ajustar a &3Burn Rate&r para produzir mais resíduos nucleares, mas comece devagar."
+	]
+	quest.3591EAA8E397F992.title: "Inicializando o reator"
+	quest.3593D955361B0C6D.quest_desc: [
+		"Para iniciar o Reator de Fusão, precisaremos de uma dose rápida de combustível D-T. Isso é feito combinando &cDeuterium&r e &eTritium&r juntos em um infusor químico."
+		""
+		"Comece fazendo um &4Hohlraum&r e coloque-o no infusor (onde está o símbolo de mais) para enchê-lo com combustível DT. Agora estamos prontos para iniciar o Reactor!"
+	]
+	quest.3593D955361B0C6D.title: "O injetor de combustível"
+	quest.3663E93E169EF8E3.quest_desc: ["Usando outro &9Chemical Infuser&r, queremos combinar nosso &bHydrofluoric Acid&r com &eUranium Oxide&r para fazer &2Uranium Hexafluoride&r."]
+	quest.3663E93E169EF8E3.title: "&2Hexafluoreto de Urânio"
+	quest.36B1995B495AA674.quest_desc: [
+		"Para iniciar nossa jornada no mundo dos Reatores Mekanismo, começaremos fazendo um &aReator de Fissão&r. Estas são estruturas multibloco que geram grandes quantidades de calor ao queimar &3Combustível Físsil&r. Este reator não produz energia por si só, mas o calor gerado pode ser usado para aquecer o líquido refrigerante e ser usado para gerar energia em uma turbina industrial."
+		""
+		"O Reator de Fissão pode ser muito perigoso, pois um colapso pode causar uma &cexplosão&r, bem como &2Radiação&r, espalhando-se por um raio de 5 pedaços, que dura várias semanas no jogo."
+		""
+		"Mas estaremos preparados para isso. Vamos fazer um traje anti-perigo, só para garantir... certo?"
+	]
+	quest.36B1995B495AA674.quest_subtitle: "Laranja = Proteção Radiológica"
+	quest.36B1995B495AA674.title: "Preparando-se para reatores"
+	quest.3AF4E5D4839CEF8B.quest_desc: ["Assim que tivermos em mãos o &eYellow Cake Uranium&r, podemos enviá-lo através de um &aChemical Oxidizer&r para criar o gás, &2Uranium Oxide&r."]
+	quest.3AF4E5D4839CEF8B.title: "&eÓxido de urânio"
+	quest.3B81800EE6E77EF2.quest_desc: [
+		"O reator de fissão precisa de &3Fissile Fuel&r para funcionar. Se você procurar Combustível Físsil agora mesmo no JEI, aposto que ficará sobrecarregado com tudo o que precisa para fazê-lo. Está tudo bem, você consegue. Vamos dar um passo de cada vez."
+		""
+		"Tudo se resume à criação de &eHexafluoreto de Urânio&r. Para fazer isso, vamos nos concentrar na produção desses dois gases: &bácido fluorídrico&r e &eóxido de urânio&r."
+	]
+	quest.3F5010269469EBE0.quest_desc: [
+		"O interior do reator é construído por pilares usando vários blocos de &aFission Fuel Assembly&r, com um único &aControl Rod Assembly&r colocado no topo de cada pilar. Eles podem ter de 1 a 15 blocos de altura, dependendo do tamanho do reator."
+		""
+		"Para esta construção, colocaremos 2 conjuntos de combustível de fissão no centro do nosso multibloco e, em seguida, colocaremos o conjunto da haste de controle bem em cima dele."
+		""
+		"{image:atm:textures/questpics/mek/rod_example.png width:250 height:200 align:1}"
+	]
+	quest.3F5010269469EBE0.title: "Dentro do Reator: Controle de Combustível"
+	quest.3FFF9018DA2A2763.quest_desc: [
+		"Assim que começarmos a queimar combustível físsil no reator, teremos &brefrigerante&r e &8resíduos nucleares aquecidos."
+		""
+		"É aqui que a radiação entra em ação. Contanto que ela permaneça segura em algum recipiente ou máquina, você não terá nenhum derramamento... certo?"
+		""
+		"A melhor maneira de armazenar qualquer substância radioativa é usando um &2Radioactive Waste Barrel&r. Eles armazenarão os resíduos com segurança, enquanto decompõem lentamente o gás sem causar derramamento de radiação. Você não quer que seus resíduos nucleares fiquem no seu reator, pois isso faz com que ele produza mais calor, então defina uma porta para &aoutput Waste&r e envie-os para um barril!"
+		""
+		"&9Nota importante: Quebrar qualquer máquina, barril, tubo ou qualquer coisa que contenha um gás radioativo dentro dele causará um vazamento de radiação. Isso inclui os produtos de Resíduos Nucleares, como o Polônio ou o Plutônio."
+	]
+	quest.3FFF9018DA2A2763.title: "Lidando com &8Resíduos Nucleares&r"
+	quest.4189BC3DFB551F4C.quest_desc: [
+		"Se você construiu a turbina corretamente, verá partículas vermelhas ao redor da estrutura. Clicar com o botão direito na turbina abrirá a interface."
+		""
+		"Isso lhe dará todas as informações que você precisa saber, incluindo a taxa total de fluxo de vapor, bem como o vapor total dentro da turbina."
+		""
+		"À direita você terá uma barra que mostra a Potência que está armazenada dentro da Turbina. Se ficar cheio, a turbina será desligada, a menos que você a configure para Vent Overflow."
+		""
+		"Vamos começar!"
+		""
+		"Depois de ter um reator de fissão totalmente funcional, bombeie o &bSteam&r diretamente para uma válvula de turbina em sua turbina. Como estamos usando condensadores de saturação nesta construção, você pode bombear água de uma ventilação de turbina de volta para o seu reator, se desejar."
+	]
+	quest.4189BC3DFB551F4C.title: "Criando energia com a turbina!"
+	quest.4ABF0727AA569DD9.quest_desc: [
+		"Para abastecer nosso reator de fusão, precisaremos criar dois gases diferentes, sendo este o &cDeutério&r."
+		""
+		"Para fazer isso, precisaremos fazer algumas Bombas Elétricas e dar-lhes uma Atualização de Filtro. Coloque-os sobre um bloco de fonte de água, dê-lhes um pouco de energia e eles bombearão &5Água Pesada&r."
+		""
+		"Bombeie a água pesada em um separador eletrolítico para obter &cDeutério&r."
+	]
+	quest.4ABF0727AA569DD9.title: "Abastecendo o Reator: &cDeutério&r"
+	quest.54D8B9CB3F98040F.quest_desc: [
+		"Hohlraum cheio de combustível DT? &oVerifique!&r"
+		""
+		"Deutério e Trítio prontos para serem bombeados para o Reator? &oVerifique!&r"
+		""
+		"Um Amplificador Laser com pelo menos 400MRF pronto para disparar na Matriz de Foco Laser? &oVerifique!&r"
+		""
+		"Quando estiver pronto, coloque o &5Hohlraum &r no &aFusion Reactor Controller &r, bombeie o combustível e ative seu amplificador de laser."
+		""
+		"Se feito corretamente, você verá o Reator ser ativado!"
+		""
+		""
+		"{image:atm:textures/questpics/mek/fusion_activated.png width:225 height:150 align:1}"
+	]
+	quest.54D8B9CB3F98040F.title: "&dAcho que estamos prontos&r"
+	quest.57534FA0E09C4975.quest_desc: ["Até agora, você já está produzindo &aLithium&r. Bombeie isso em um ativador solar de nêutrons para criar &eTritium &r."]
+	quest.57534FA0E09C4975.title: "Abastecendo o Reator de Fusão: &eTritium&r"
+	quest.5FDB48511EC1C580.quest_desc: [
+		"Com medo de explodir seu reator de fissão e causar um grande vazamento de radiação? Não se preocupe, todos nós estamos. &o*insira um flashback terrível aqui*&r"
+		""
+		"Então, como podemos evitar um desastre tão catastrófico? Criando um redstone &aCircuit Breaker&r usando &dFission Reactor Logic Adapters&r. Agora, não é 100% garantido que eles parem uma explosão, mas é absolutamente bom tê-los."
+		""
+		"Essencialmente, esses adaptadores nos permitem controlar o reator usando &cRedstone&r. Com apenas um, você pode usar uma alavanca para ligar e desligar o reator. No entanto, vamos usá-los para controle de danos."
+		""
+		"Você também pode configurá-los para emitir um sinal Redstone com base em uma determinada condição dentro do reator, como &cDamage Critical&r ou &8Insufficient Fuel&r. Isso é útil para configurar um disjuntor para desligar o Reator, caso isso aconteça."
+		""
+		"{image:atm:textures/questpics/mek/logic_adapter.png width:150 height:125 align:1}"
+	]
+	quest.5FDB48511EC1C580.quest_subtitle: "Porque todos nós já explodimos um reator antes"
+	quest.5FDB48511EC1C580.title: "Reator à prova de falhas"
+	quest.6313B18820445882.quest_desc: [
+		"A &9Industrial Turbine&r é uma enorme estrutura multibloco usada para converter &cHeated Coolant&r em energia. O tamanho mínimo é 5x5x5, sendo o máximo 17x17x18."
+		""
+		"Para construir a Turbina precisaremos de vários blocos, então vamos começar com o básico."
+		""
+		"Assim como a maioria dos multiblocos Mekanism, a estrutura deve ser feita de &eTurbine Casings&r. No entanto, em vez de Reactor Glass, você pode usar &bStructural Glass&r ou Casings para cada face."
+		""
+		"Vamos construir esta turbina e a missão requer os materiais exatos necessários."
+		""
+		"{image:atm:textures/questpics/mek/turbine_completed.png width:200 height:225 align:1}"
+	]
+	quest.6313B18820445882.quest_subtitle: "Construindo a Estrutura"
+	quest.6313B18820445882.title: "A &9Turbina Industrial&r"
+	quest.673FCBF8685D0EEE.quest_desc: [
+		"Quase todos os multiblocos do Mekanism são construídos da mesma maneira."
+		""
+		"Você precisará fazer uma estrutura de prisma retangular. As bordas devem ser feitas de &8Invólucros de Indução&r. As faces podem ser feitas de invólucros, vidro estrutural ou portas de indução. É melhor ter 2 portas: uma para entrada e outra para saída. Eles podem ser alterados usando o &eConfigurator&r."
+		""
+		"Para esta construção, faremos um 5x5x5. Esta missão requer a quantidade exata de materiais necessários para construir isso. Preciso de ajuda? &nConfira a reflexão!&r"
+		""
+		"{image:atm:textures/questpics/mek/induction_matrix.png width:200 height:200 align:1}"
+	]
+	quest.673FCBF8685D0EEE.quest_subtitle: "O Papai do Cubo de Energia"
+	quest.673FCBF8685D0EEE.title: "Construindo a &9Matriz de Indução&r"
+	quest.79757F66DF263FA0.quest_desc: [
+		"Para criar uma reação para o Reator ligar, precisaremos injetar nele uma tonelada de energia. &oE quero dizer uma tonelada de poder&r."
+		""
+		"Isso requer que você configure vários &9Lasers&r que precisam ser alimentados e, em seguida, dispare 400MFE diretamente na Matriz de Foco do Laser."
+		""
+		"A Matriz de Foco Laser é colocada no centro de uma face do Reator de Fusão. Construiremos os Lasers a seguir."
+	]
+	quest.79757F66DF263FA0.title: "Raios Laser Malditos"
+	quest.7B0764DDE94E73D0.quest_desc: [
+		"Usando alguma mecânica básica e 2 adaptadores lógicos de reator de fissão, podemos criar um disjuntor simples para desarmar e desligar o reator caso as coisas fiquem um pouco malucas."
+		""
+		"Para fazer isso, precisaremos de um único pedaço de Redstone, um Pistão, um bloco de areia ou cascalho e um Observador."
+		""
+		"Em uma das faces, queremos colocar um Adaptador Lógico, pular um bloco acima dele e colocar outro Adaptador. Defina o adaptador superior como &9\\\"Activation\\\"&r e o adaptador inferior como &c\\\"Damage Critical\\\"&r."
+		""
+		"Em seguida, na frente e abaixo do adaptador inferior, coloque qualquer bloco de construção e cole um pedaço de Redstone nele saindo do adaptador. Em seguida, colocaremos um pistão voltado para cima na frente daquele Redstone e, em seguida, colocaremos nosso pedaço de areia ou cascalho nesse pistão."
+		""
+		"Para a parte final do nosso disjuntor, coloque o Observador com a face apontando para a configuração do pistão. &9Isso é importante&r!"
+		""
+		"Sempre que o Reator sofrer dano crítico, ele ativará o Adaptador inferior, fazendo com que o redstone receba um sinal, que então ativa o Pistão e empurra o Cascalho/Areia para cima. Isso ativará o Observer, que então desligará o Reactor."
+		""
+		"{image:atm:textures/questpics/mek/example_circuit.png width:200 height:250 align:1}"
+	]
+	quest.7B0764DDE94E73D0.quest_subtitle: "Precisa de um visual? Assista à reflexão!"
+	quest.7B0764DDE94E73D0.title: "Exemplo de disjuntor"
+	quest.7C61906C6C87C97D.quest_desc: [
+		"A &9Bobina Eletromagnética&r é colocada diretamente no topo do &aComplexo Rotacional&r para converter a energia cinética em potência."
+		""
+		"Você pode usar vários, sendo 7 o máximo com uma turbina usando 28 lâminas. Estes devem tocar outra bobina ou o complexo rotacional."
+	]
+	quest.7E17AB5A4492929E.quest_desc: [
+		"Todo reator usa urânio em algum lugar como combustível, certo?"
+		""
+		"Para começar, vamos reunir alguns lingotes de urânio. Precisaremos processá-los em uma &9Câmara de Enriquecimento&r para transformá-los em &eYellow Cake Uranium&r."
+	]
+	quest.7E17AB5A4492929E.quest_subtitle: "Claro que usa urânio"
+	quest.7E17AB5A4492929E.title: "&aUrânio"
+	task.27709080B4B77B09.title: "Pronto para ir!"
+	task.2A6E713A062510B6.title: "Abastecendo o Reator"
+	task.2E3FF129C3668DD8.title: "Provedores de indução"
+	task.382818E289EC83A6.title: "&3Produção de Combustível Físsil&r"
+	task.4063C1B5F935A026.title: "Células de Indução"
+	task.452FBF76102210BD.title: "Qualquer #forge:gemas/fluorita"
+	task.5BC88AE46F95774D.title: "Cascalho ou areia"
+}

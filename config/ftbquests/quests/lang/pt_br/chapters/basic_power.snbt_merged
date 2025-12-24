@@ -1,0 +1,173 @@
+{
+	quest.0AEC181F5E21A299.quest_desc: [
+		"Se você já ouviu falar de alguém falando sobre ‘Melon Power’, é isso. O &9Gas-Burning Generator&r da Mekanism pode produzir uma boa quantidade de energia bombeando &9Ethylene&r feito de fatias de melão. "
+		""
+		"Para produzir &dEtileno&r, comece esmagando materiais orgânicos em um &eCrusher&r para criar &6Bio Fuel&r. Fatias de melão são normalmente usadas para isso! Isso é então bombeado para uma &dCâmara de Reação Pressurizada&r (abreviadamente PRC). "
+		""
+		"A RPC precisa de água, biocombustível e um pouco de hidrogênio para criar etileno. Você pode obter o hidrogênio separando a água em um &9Separador Eletrolítico&r. "
+		""
+		"Depois de começar a produzir o Etileno, bombeie-o para o Gerador de Gás para começar a gerar energia!"
+	]
+	quest.0AEC181F5E21A299.quest_subtitle: "O poder do melão"
+	quest.0AEC181F5E21A299.title: "&eMekanism&r &dGerador de queima de gás&r"
+	quest.11D09E918015355C.quest_desc: [
+		"O gerador de calor da &aMekanism&r é uma abordagem diferente da produção básica de energia. Ele tem dois modos de criação de energia: "
+		""
+		"&9Passivo:&r Cercar o gerador com fonte de lava ou blocos fluindo cria energia passiva ao longo do tempo através do calor. Coloque um bloco de fonte de lava por cima e deixe-o fluir pelas laterais. Certifique-se de ter os tubos conectados para obter energia primeiro! "
+		""
+		"&9Ativo:&r Colocar materiais combustíveis como carvão ou madeira no gerador queimará o combustível para gerar energia. Isso não é muito eficiente."
+	]
+	quest.11D09E918015355C.quest_subtitle: "Solução de energia inicial do Mekanism"
+	quest.11D09E918015355C.title: "Gerador de calor"
+	quest.1BE26A00A420DAE3.quest_desc: ["Neste mod, você precisará de &aFlux Cores&r e &aFlux Blocks&r para criar as partes principais de sua rede. Faça alguns de cada!"]
+	quest.1BE26A00A420DAE3.title: "Os materiais de artesanato 'principais'"
+	quest.1F81EA5E45424308.quest_desc: [
+		"Se você está procurando maneiras diferentes de extrair energia de suas máquinas, é aqui que você pode encontrá-la! "
+		""
+		"Existem diversas opções, tanto &awired&r quanto &9wireless&r, para transferência de energia."
+	]
+	quest.1F81EA5E45424308.title: "Transferência de poder"
+	quest.27A4FA38992448A0.quest_desc: [
+		"A Flux Networks também oferece uma maneira de carregar seus itens sem fio, mesmo em diferentes dimensões! "
+		""
+		"Depois de conectar um plugue ao seu sistema de energia, você vai querer fazer o &9Flux Controller&r e colocá-lo no chão. "
+		""
+		"Clique com o botão direito para abrir a interface e vá para a guia 'Carregamento sem fio'. A partir daqui, você pode selecionar cada seção do seu inventário que deseja manter cobrada. Para ativar, certifique-se de clicar no botão na parte inferior para ativar o carregamento sem fio e clique em aplicar!"
+		""
+		"{image:atm:textures/questpics/flux/wireless_ui.png width:125 height:150 align:1}"
+	]
+	quest.27A4FA38992448A0.title: "Carregamento sem fio"
+	quest.2EB7784D5296F410.quest_desc: [
+		"Clicar com o botão direito em um bloco funcional do Flux Network fornecerá esta IU. "
+		""
+		"Cada Plug ou Ponto pode ser nomeado, ter um nível de prioridade personalizado e um limite de transferência de energia personalizado. Isso permite controle completo sobre todas as partes do seu sistema. "
+		""
+		"&aBypass Limit&r ignora o limite definido. "
+		""
+		"Existem diversas outras abas para conferir, principalmente para estatísticas da sua rede!"
+		""
+		"{image:atm:textures/questpics/flux/flux_ui.png width:125 height:150 align:1}"
+	]
+	quest.2EB7784D5296F410.title: "A IU da Flux Networks"
+	quest.35ABB0DEE70DF7FD.quest_desc: [
+		"Acredite ou não, o mod &dPowah&r tem ótimas opções para obter... powah. "
+		""
+		"Não deixe de conferir o capítulo &cPowah&r para saber mais!"
+	]
+	quest.35ABB0DEE70DF7FD.title: "Precisa de mais &9Powah&r"
+	quest.35CC898E0E49FE58.quest_desc: [
+		"&9Flux Networks&r é um mod que pretende ser a solução para todas as suas necessidades de energia sem fio. "
+		""
+		"O mod em si não tem como gerar energia, mas pode armazenar e transmitir energia sem fio, mesmo entre dimensões. Ele pode até cobrar seus itens em seu inventário. "
+		""
+		"Você pode até carregar seu jetpack enquanto voa com este mod. QUÃO LEGAL É ISSO? "
+		""
+		"Para começar a usar o mod, você precisará de Flux Dust. Vá até o nível da rocha e jogue um pouco de redstone no topo de um bloco de rocha. Coloque um bloco de obsidiana logo acima da redstone flutuante e clique com o botão esquerdo na obsidiana."
+	]
+	quest.35CC898E0E49FE58.quest_subtitle: "A melhor solução de energia sem fio"
+	quest.35CC898E0E49FE58.title: "Redes de Fluxo"
+	quest.36DEA17CBB696CC7.quest_desc: [
+		"Clique com o botão direito no seu plug e você verá a UI do Flux Network. No canto superior direito, clique no botão + para criar sua primeira rede. Você precisará definir uma senha para criar a rede, mas também pode definir uma cor! "
+		""
+		"A partir daqui, você pode ir para a aba Seleção de Rede para ativar sua rede no plug. Se o plugue estiver conectado a uma fonte de alimentação, agora você pode aproveitar essa energia em qualquer lugar do seu sistema usando um Flux Point! "
+		""
+		"Dica profissional: você pode criar várias redes se quiser ter diferentes fontes de energia alimentando diferentes partes dos seus sistemas!"
+	]
+	quest.36DEA17CBB696CC7.quest_subtitle: "Você é um administrador de rede agora!"
+	quest.36DEA17CBB696CC7.title: "Minha primeira rede"
+	quest.3BDB94F17765EE77.quest_desc: [
+		"Se você deseja gerar muita energia, pode começar ampliando algumas das opções da seção &9Mid Game Power&r. Torne seus &eExtreme Reactors&r maiores. Atualize seu &9Thermo Gens&r para Nitro. Enlouquecer. "
+		""
+		"&9Mekanism&r também tem uma opção de poder de final de jogo que é difícil de vencer. "
+		""
+		"O &dFusion Reactor&r pode produzir até 200MRF/t, e se você quiser aprender como construí-lo, não deixe de conferir o capítulo &aMekanism:&r &dAdvanced&r!"
+	]
+	quest.3BDB94F17765EE77.quest_subtitle: "Mais potência do que você precisa"
+	quest.3BDB94F17765EE77.title: "Opções de energia para o final do jogo"
+	quest.42D173B9FF8D16E4.quest_desc: [
+		"Procurando opções de poder no início do jogo? Essas são boas maneiras de começar a gerar energia. "
+		""
+		"Eles não produzem muito poder, mas geralmente são fáceis ou baratos de obter no início do jogo!"
+	]
+	quest.42D173B9FF8D16E4.quest_subtitle: "Potência inicial"
+	quest.42D173B9FF8D16E4.title: "Opções de energia no início do jogo"
+	quest.477B411F84342EEA.quest_desc: [
+		"Mekanism é um dos melhores mods para armazenamento de energia, especialmente no início do jogo. "
+		""
+		"O Cubo de Energia Básico é fácil de configurar, criar e armazena muita energia. Ele também pode ser atualizado e carregar itens dentro da interface! "
+		""
+		"Para saber mais sobre como atualizar o Cubo de Energia e também o mod, acesse a linha de missões &aMekanism&r!"
+	]
+	quest.477B411F84342EEA.quest_subtitle: "Mecanismo"
+	quest.477B411F84342EEA.title: "Cubos de Energia do Mekanismo"
+	quest.48DC9E8E9D21A2FA.quest_desc: [
+		"O Mekanism oferece várias maneiras de produzir energia usando recursos renováveis. "
+		""
+		"Os &9Geradores Solares&r aproveitam a energia do sol para fornecer as necessidades básicas de energia. Não funciona durante a noite e deve ter acesso ao céu. Vidro está bem. "
+		""
+		"O &9Wind Generator&r fornece energia através do vento. A menos que você tenha descoberto uma maneira de seu personagem girar manualmente, a velocidade de rotação é baseada no nível Y em que está colocado. Ele também precisa de acesso direto ao céu, sem nenhum bloco acima dele."
+	]
+	quest.48DC9E8E9D21A2FA.quest_subtitle: "Usando o Sol"
+	quest.48DC9E8E9D21A2FA.title: "Mecanismo: Energia Renovável"
+	quest.4AB0DD227471FDBF.quest_desc: [
+		"Este capítulo é dedicado a todas as coisas relacionadas ao poder! "
+		""
+		"Nesta seção, você encontrará as formas básicas de gerar, armazenar e transferir energia."
+	]
+	quest.4AB0DD227471FDBF.title: "Todas as coisas são poderosas!"
+	quest.56B6ABF3D6EA0D84.quest_desc: [
+		"Com nosso plugue configurado, agora podemos aproveitar a energia de nossa rede. O &9Flux Point&r faz exatamente isso. Ele direciona a energia da sua rede para qualquer bloco ao qual ela esteja conectada, incluindo tubos ou cabos, ou apenas diretamente nas máquinas! "
+		""
+		"Depois de colocar seu ponto na máquina ou bloco que deseja ligar, clique com o botão direito sobre ele e selecione sua rede na guia Seleção de Rede. Assim como o plugue, você pode ajustar a quantidade de energia que ele consome, o nível de prioridade, etc."
+	]
+	quest.56B6ABF3D6EA0D84.title: "Acessando a energia da rede"
+	quest.5C47935A3B2877FF.quest_desc: [
+		"Mekanism oferece um cabo bonito para transferir sua energia. "
+		""
+		"Se a máquina que você está conectando já puxa ou empurra energia, você não precisará configurar o cabo. Caso contrário, você precisará de um &9Configurator&r para configurar o pipe. Shift + clique com o botão direito mudará o cabo para o modo puxar ou empurrar."
+	]
+	quest.5C47935A3B2877FF.quest_subtitle: "Tubo de transferência de energia do Mekanism"
+	quest.5C47935A3B2877FF.title: "&9Usando o mecanismo:&r &um cabo universal básico&r"
+	quest.5E41363F9AE243F3.quest_desc: [
+		"Você não pode alimentar sua base com carvão para sempre! Se você tiver uma quantidade razoável de recursos disponíveis, é hora de atualizar sua configuração de energia! "
+		""
+		"Essas opções geralmente exigem um pouco de configuração, mas produzem energia suficiente para levá-lo ao longo do jogo."
+	]
+	quest.5E41363F9AE243F3.title: "Opções de energia no meio do jogo"
+	quest.5F078A574A783B02.quest_desc: [
+		"O primeiro item que você precisa para iniciar sua rede Flux é um &9Flux Plug&r. "
+		""
+		"O Plug é usado para 'extrair' energia do bloco ao qual está conectado. Além de um pequeno buffer, o Plug não armazena energia em si, então não se preocupe se ele consumir toda a sua energia. "
+		""
+		"Sugere-se colocar o Plug em um bloco de armazenamento de energia como um cubo de energia. Ele pode ser conectado a cabos, tubos ou à saída de qualquer máquina produtora de energia. "
+		""
+		"Para saber como configurar sua primeira rede, confira a próxima missão!"
+	]
+	quest.5F078A574A783B02.title: "Iniciando sua rede"
+	quest.682034C680FDEDC2.quest_desc: [
+		"&9Mekanism's&r &aInduction Matrix&r é a melhor maneira de armazenar seu poder. "
+		""
+		"Se você está procurando o melhor armazenamento de energia do jogo, confira o capítulo &aMekanism:&r &dAdvanced&r."
+		""
+		"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:1}"
+	]
+	quest.682034C680FDEDC2.title: "Precisa de mais armazenamento?"
+	quest.76EA017B12E8F01B.quest_desc: ["Esta seção mostra diferentes maneiras de armazenar seu poder!"]
+	quest.76EA017B12E8F01B.title: "Armazenando energia"
+	quest.79AD74A863EA43CB.quest_desc: [
+		"A Flux Networks fornece uma maneira de armazenar a energia que você gera para sua rede! "
+		""
+		"Eles contêm grandes quantidades de energia e podem ser atualizados para armazenar ainda mais!"
+	]
+	quest.79AD74A863EA43CB.quest_subtitle: "Armazenando energia"
+	quest.79AD74A863EA43CB.title: "Armazenamento de Fluxo"
+	quest.7FE969CB4B419FC6.quest_desc: [
+		"Com um pouco de trabalho no Mekanism, esta máquina permite transferir qualquer coisa sem fio. "
+		""
+		"Você pode definir canais específicos para transferir itens individuais, energia ou até gases do Mekanismo. É muito legal."
+	]
+	quest.7FE969CB4B419FC6.quest_subtitle: "Também funciona para itens, gases, líquidos e calor."
+	quest.7FE969CB4B419FC6.title: "&9Transferência sem fio:&r &6Quantum Entangloporter&r"
+	task.2D0212699F99459F.title: "Minha primeira rede"
+	task.3D721B55E8D33FE8.title: "A IU da Flux Networks"
+}

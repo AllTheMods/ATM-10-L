@@ -1,0 +1,59 @@
+{
+	quest.05850541675B2493.quest_desc: ["その通りです。\\n\\n&6&lATM Star&r を創りました。これはモッドパックをクリアしたことを意味します！ \\n\\nさて、次は何をしましょうか？"]
+	quest.05850541675B2493.quest_subtitle: "これって勝利したってこと？"
+	quest.05850541675B2493.title: "&6&lATM Star&r"
+	quest.08CE14FFED813992.quest_subtitle: "13個の濡れたダークピンクブロック"
+	quest.08E47A27EFFB7C6B.quest_subtitle: "5つのドライピンクブロック"
+	quest.0AE28C998A3BF136.quest_subtitle: "531,441 ネザーラック"
+	quest.0E03F5EAE4963ECB.quest_subtitle: "8つの乾燥した緑のブロック"
+	quest.0F1CA44520BDEFEA.quest_subtitle: "6,561 ダイアモンドブロック"
+	quest.103834774B57D611.quest_desc: ["ミニ エンドポータルには多くの&dエンドの本棚&rが必要です。これらは&5&lApotheosis&rから得られる最後のティアの本棚です。作成には&dインフューズドドラゴンブレス&rが必要です。\\n\\nその後、エンダーアイが必要になりますが、実際に&dエンドの本棚&rを手に入れるためには、すでに作っておく必要があります。\\n\\nもしエンダーアイなしで&d&lジ・エンド&rに行って本棚を手に入れたのなら、それは素晴らしい！"]
+	quest.174D18D9D732EC10.quest_subtitle: "8つの濡れた緑のブロック"
+	quest.17542D7633FBF098.quest_desc: [""]
+	quest.17542D7633FBF098.quest_subtitle: "&oスターがスポンジボブじゃなくて残念"
+	quest.17542D7633FBF098.title: "&d&lパトリック &aスター&r"
+	quest.1CE7B24E7E62C25B.quest_desc: [""]
+	quest.1CE7B24E7E62C25B.quest_subtitle: "&o未知なるものは、私たちが知っているすべてです"
+	quest.1CE7B24E7E62C25B.title: "&d&l脈動する&8ブラックホール"
+	quest.217DF3B66A07A8DE.quest_desc: [""]
+	quest.217DF3B66A07A8DE.quest_subtitle: "&o1つの種で楽園を"
+	quest.217DF3B66A07A8DE.title: "&3&lディメンショナル &2シード"
+	quest.2188C52C1F384DE4.quest_desc: [""]
+	quest.2188C52C1F384DE4.quest_subtitle: "&o永遠に燃え続ける燃料（実際はそうでもない）"
+	quest.2188C52C1F384DE4.title: "&c&l賢者の燃料"
+	quest.23AE395433AED3C0.quest_desc: [
+		"&6&lATM Star&rには、異なるアイテムを一緒に保持し、星の形を作るためのいくつかのブロックが必要です！"
+		""
+		"最初のブロックは&5アンオブタニウム&r-&6オールザモディウム&r &5合金&r &6ブロック&rです。これらを作るには&d&lアルス・ヌーヴォー&rのEnchanting Apparatusを使用する必要があります！正確には28個必要です"
+	]
+	quest.23AE395433AED3C0.title: "&6&lThe Star&rのケーシング"
+	quest.2D64EF8D803AF9DA.quest_desc: ["作れる中で最も高価なポータルです。まず &dドラゴンの卵&r については、&dドラゴン&r から継続的に入手する必要はありません。&l&bHNN&r や &l&2MA&r を使用するか、Extrator を使って増やすことができます！\\n\\nそして、エンチャントから &dInfused Dragon's Breath&r が必要です。\\n\\nそこでは &9Soul-Touched Sculkshelves&r がエンチャントとポータル作成に必要です。\\n\\nポータルが機能しない理由を考えているなら、それはあなたがすでに &2&lオーバーワールド&r にいるからです！冗談です、使用できません！"]
+	quest.31B0267C47DB9D98.quest_desc: ["このクエストは &6AllTheMods Staff&r または &2コミュニティ貢献者&r によって AllTheMods Modpacks 用に作成されました。\\n\\nすべての &6AllTheMods&r パックは &eAll Rights Reserved&r ライセンスの下にあるため、&6AllTheMods Team&r からの明示的な許可なしに、このクエストを公開パックで使用することはできません。\\n\\nこのクエストは意図的に非表示になっています。これが表示されている場合は、編集モードになっています"]
+	quest.36CF8D1DD1EF6307.quest_subtitle: "2つの湿った薄緑色のブロック"
+	quest.36DF0D83EBC2B6A9.quest_desc: [""]
+	quest.36DF0D83EBC2B6A9.quest_subtitle: "これで知恵の欠如は過去のものとなります"
+	quest.36DF0D83EBC2B6A9.title: "&3&l不可確率装置"
+	quest.39B4F361EF611927.quest_desc: [""]
+	quest.39B4F361EF611927.quest_subtitle: "&o死そのものを支配する力"
+	quest.39B4F361EF611927.title: "&l&8ウィザーのコンパス"
+	quest.4D7D4C718837BCA5.quest_desc: ["Miniature Nether Portal のレシピの主要な部分は &3Hellshelf of Masterful Sight&r です。通常はエンチャントの内容を確認するために使用されますが、私たちはエンチャントではなく &6&lATM Star&r を目指しています。\\n\\n&4Infused Hellshelf&r までエンチャントする必要があり、これは数個の本棚から作成できます。その後、クラフトしてさらにアップグレードする必要があります！\\n\\nその後、Miniature Nether Portal を作成できますが、あなたは大きすぎて通り抜けることはできません！"]
+	quest.4E82E843737045D9.quest_desc: [""]
+	quest.4E82E843737045D9.quest_subtitle: "&o最も強力な存在のエッセンス"
+	quest.4E82E843737045D9.title: "&d&lドラゴンソウル"
+	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r は &6&lオールザモディウム&r によって追加されたボスで、&l&bジ・アザー&r の Ancient Pyramid に住んでいます。\n\n倒すと Heart を1つドロップします！ブロックを作るには9体倒す必要があります...\n\n幸いにも、農場化する方法があります！"]
+	quest.501A0AEEC73C0790.title: "&6Piglich Heart Block"
+	quest.54B1A876E9F6707A.quest_desc: [""]
+	quest.54B1A876E9F6707A.quest_subtitle: "&o他に類を見ないパワーと破壊力！"
+	quest.54B1A876E9F6707A.title: "&5&lOblivion Shard"
+	quest.554F47A0AF7506EC.quest_subtitle: "59,049 エンドストーン"
+	quest.62B5A84753ADFC35.quest_subtitle: "8 Dry Dark Pink Blocks"
+	quest.6CAD67D21E1EA861.quest_desc: [""]
+	quest.6CAD67D21E1EA861.quest_subtitle: "&oユニバーサルリモートアクセス"
+	quest.6CAD67D21E1EA861.title: "&7&lNexium Emitter"
+	quest.6FC55CF56BE22866.quest_subtitle: "531,441 土ブロック"
+	quest.73E2A53A088AD29A.quest_subtitle: "11個のピンク色の濡れたブロック"
+	quest.764609E41957DA69.quest_subtitle: "6,561個のエメラルドブロック"
+	quest.779CA0C49F93C4F9.quest_subtitle: "59,049 黒曜石"
+	task.644EBD9EBC93EB3C.title: "AllRightsReserved"
+	task.662F6B4EF078E3A2.title: "AllRightsReserved"
+}

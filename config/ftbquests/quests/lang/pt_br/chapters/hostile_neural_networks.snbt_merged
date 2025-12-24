@@ -1,0 +1,66 @@
+{
+	quest.104EBBC08B4733F5.quest_desc: [
+		"A &dSimulation Chamber &r é a máquina principal da HNN. "
+		""
+		"Quando receber energia, ele executará simulações baseadas no &bModelo de Dados&r que está colocado dentro dele. A potência necessária também depende do Modelo de Dados colocado dentro dele e pode ser vista na dica de ferramenta do Modelo. "
+		""
+		"A máquina também requer pelo menos uma &9Matriz de Predição&r para executar uma simulação. "
+		""
+		"O resultado da simulação será enviado para a Matriz. As simulações sempre produzirão algum tipo de &ePrevisão Generalizada&r, que pode ser usada em várias receitas de artesanato. Eles também variam dependendo da origem do mob no Modelo de Dados. "
+		""
+		"Se a simulação for bem-sucedida, você receberá uma &dMob Prediction&r baseada no modelo. Quanto maior o nível do modelo de dados usado, maior será a taxa de sucesso de uma simulação."
+	]
+	quest.104EBBC08B4733F5.title: "&aSimulando Mortes&r"
+	quest.10E8BC20D406D9FB.quest_desc: ["Faz vários materiais Nether."]
+	quest.10E8BC20D406D9FB.title: "Predição Generalizada do Nether"
+	quest.14B3542ECB59869C.quest_desc: [
+		"O &5Loot Fabricator&r é a máquina que oferece aquele doce saque do Mob Predictions. "
+		""
+		"Quando receber poder e uma previsão de mob bem-sucedida, você poderá escolher qual item deseja obter do modelo de dados daquele mob. A máquina lembrará sua escolha, para que possa ser automatizada. "
+		""
+		"Previsões de Mob notáveis: "
+		""
+		"- &dEnder Dragons&r para &dDragon Eggs&r "
+		"- &2Zombies&r para Iron "
+		"- &0Withers&r para &5Nether Stars&r"
+	]
+	quest.14B3542ECB59869C.title: "Criando &dLoot&r"
+	quest.2559201BCF5D497C.quest_desc: ["Faz vários materiais do Overworld."]
+	quest.2559201BCF5D497C.title: "Previsão generalizada do mundo superior"
+	quest.34CD54347E9821B5.quest_desc: [
+		"Depois de criar seu primeiro modelo de dados, você precisará aumentá-lo para que seja útil. "
+		""
+		"Os modelos de dados começam na primeira camada: &7Faulty&r. Você precisará pelo menos nivelá-lo para &aBasic&r se quiser fazer algumas simulações nele! "
+		""
+		"Uma vez colocado dentro do Deep Learner, o HUD informará quantas mortes são necessárias para subir de nível. Você também pode ver essas informações na dica de ferramenta do próprio modelo, embora seja necessário fazer contas."
+	]
+	quest.34CD54347E9821B5.title: "Aumentando o nível dos modelos de dados"
+	quest.37EBB8E0D6E5F821.quest_desc: [
+		"&6Hostile Neural Networks&r (ou HNN, para abreviar) é um mod baseado na simulação de mortes de multidões para saque! "
+		""
+		"Para fazer isso, você coletará 'dados' sobre mobs e, em seguida, executará simulações a partir dos dados para criar seus drops!"
+	]
+	quest.37EBB8E0D6E5F821.title: "Bem-vindo ao &9Redes Neurais Hostis&r!"
+	quest.3E3CBDCEAB0FF28F.quest_desc: [
+		"O &9Deep Learner&r é um dos componentes principais do HNN. "
+		""
+		"Com este item, você pode clicar com o botão direito para abrir um HUD e armazenar &6Data Models&r para coletar dados enquanto mata mobs. "
+		""
+		"Cada aluno pode armazenar 4 modelos de dados e, desde que você tenha o aluno em qualquer lugar do seu inventário, ele coletará dados para os modelos colocados dentro dele! "
+		""
+		"Observação: você pode ter vários Deep Learners em seu inventário, e ele contará as mortes de todos os modelos de dados dentro de todos os Learners."
+	]
+	quest.3E3CBDCEAB0FF28F.quest_subtitle: "O HUD de aprendizagem"
+	quest.3E3CBDCEAB0FF28F.title: "&aLearning Mobs&r"
+	quest.58C2ABED43B2EA61.quest_desc: [
+		"&9Model Frameworks&r são o ponto de partida para a criação de modelos de dados. "
+		""
+		"Para começar a coletar dados sobre um mob específico, você vai querer fazer um destes e clicar com o botão direito no mob sobre o qual deseja coletar dados. Quando feito corretamente, o Model Framework se transformará no modelo de dados do mob em que você clicou. "
+		""
+		"Para 'coletar dados' para aquele mob, coloque o modelo de dados recém-criado dentro de um &aDeep Learner&r e comece a matar aquele mob específico com o Deep Learner em seu inventário."
+	]
+	quest.58C2ABED43B2EA61.quest_subtitle: "Para 'Coleta de dados'"
+	quest.58C2ABED43B2EA61.title: "&9Modelando Mobs&r"
+	quest.5A23107C363A209E.quest_desc: ["Faz vários materiais Nether."]
+	quest.5A23107C363A209E.title: "Previsão Final Generalizada"
+}

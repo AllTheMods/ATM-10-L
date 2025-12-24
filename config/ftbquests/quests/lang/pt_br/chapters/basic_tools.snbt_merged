@@ -1,0 +1,45 @@
+{
+	quest.03E05018D64DDEE1.quest_desc: ["&eTier 5&r é basicamente apenas para AllTheModium Ore, não muito mais."]
+	quest.03E05018D64DDEE1.title: "&eColheita Nível 5&r"
+	quest.0583862ED0114442.quest_subtitle: "&f4&r &4Dano&r"
+	quest.077A214422FEFF02.quest_subtitle: "&f6.4&r &4Dano&r"
+	quest.09733948CBCB3FB9.quest_desc: ["&dTier 6&r é o nível mais alto, qualquer coisa que seja quebrável pode ser extraída com ele, incluindo Vibranium e Unobtainium."]
+	quest.09733948CBCB3FB9.title: "&dColheita Nível 6&r"
+	quest.17FE0C7748DD65CA.quest_desc: ["&5Tier 4&r é o nível de ferramenta Diamond, usado para obter Obsidian e Netherite. Também alguns minérios modificados como Urânio e Platina."]
+	quest.17FE0C7748DD65CA.title: "&5Colheita Nível 4&r"
+	quest.2664388EBA1E8F90.quest_subtitle: "&f8&r &4Dano&r"
+	quest.299F56B753286D0C.quest_subtitle: "&eNível 5&r"
+	quest.29A05589E96C0569.quest_subtitle: "&5Nível 4&r"
+	quest.2B9AF0D6ED8BA628.quest_subtitle: "&f6&r &4Dano&r"
+	quest.2E6D11A5F5626A6C.quest_subtitle: "&fNível 2&r"
+	quest.2EE4E88FC814AFA4.quest_subtitle: "&9Nível 1&r"
+	quest.36A3ECD4F6CA2732.quest_subtitle: "&f8&r &4Dano&r"
+	quest.3917DECAEF56A06A.quest_desc: ["&fTier 2&r é o nível da picareta de pedra. É quase apenas para minerar itens de Ferro."]
+	quest.3917DECAEF56A06A.title: "&fColheita Nível 2&r"
+	quest.3BF1900346772703.quest_subtitle: "&fNível 2&r"
+	quest.47AED7219704EB3E.quest_subtitle: "&f22&r &4Dano&r"
+	quest.4C8C56F960D92E9D.quest_subtitle: "&f47&r &4Dano&r"
+	quest.512396B331108BAF.quest_subtitle: "&eNível 5&r"
+	quest.5151CDD8FCDE7A07.quest_desc: [
+		"Bem-vindo às Ferramentas Básicas! "
+		""
+		"Você já comprou uma ferramenta que nunca viu ou ouviu falar e queria saber onde ela está entre outras ferramentas? Então esta missão é perfeita para você! "
+		""
+		"(As espadas são classificadas por dano base, espadas que podem ser atualizadas ou usadas para causar mais dano não estão incluídas) "
+		""
+		"(Por favor, não use isso como uma lista de desejos, encontrar todas as ferramentas e armas irá 99%% deixam você louco.)"
+	]
+	quest.5151CDD8FCDE7A07.title: "Ferramentas!"
+	quest.51DBE688ED630DB1.quest_subtitle: "&5Nível 4&r"
+	quest.54D3D6806C1F33F3.quest_subtitle: "&f5&r &4Dano&r"
+	quest.55A9EB63F4964FCF.quest_subtitle: "&f7&r &4Dano&r"
+	quest.57F47BA495B27F83.quest_desc: ["&9Tier 1&r Harvest Level é o nível de picareta mais baixo, necessitando de uma picareta. Qualquer picareta pode minerá-los. Os itens de Nível 1 seriam como Pedra, Fornalha e Minério de Carvão."]
+	quest.57F47BA495B27F83.title: "&9Colheita Nível 1&r"
+	quest.609D03E335CF32E2.quest_subtitle: "&dNível 6&r"
+	quest.609D03E335CF32E2.title: "Minérios ATM e picaretas de liga"
+	quest.6601450C63FEEE61.quest_desc: ["&bTier 3&r é o nível Picareta de Ferro, ele extrai a maioria dos minérios como Diamante, Esmeralda e Ouro."]
+	quest.6601450C63FEEE61.title: "&bColheita Nível 3&r"
+	quest.6EE68EEFE388CF8A.quest_subtitle: "&f4&r &4Dano&r"
+	quest.70ED849A2EB44DEE.quest_subtitle: "&bNível 3&r"
+	quest.744AC6BD82FC2DEE.quest_subtitle: "&f28&r &4Dano&r"
+}

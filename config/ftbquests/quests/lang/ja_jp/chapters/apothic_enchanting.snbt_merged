@@ -1,0 +1,61 @@
+{
+	quest.0518551637F76C50.quest_desc: ["少し高価ですが、&9Echoing Deep Shelf&r は &bSeashelf&r よりもはるかに優れています。(ちなみにエンチャントをさらに進めるには、かなりの数のウォーデンを倒す必要があります...もっと早く警告すべきでした)。また、最大 &aEterna&r を &a75&r まで増加させます"]
+	quest.0518551637F76C50.title: "&9Echoing Deepshelf"
+	quest.0A3C464EF7CDD5F6.quest_desc: ["&4Hellshelves&r は &cQuanta&r への入門です。&c3%% Quanta&r と &a3 Eterna&r を与えます。通常の本棚より良いですよね？次のステップには少なくとも10個必要になります"]
+	quest.0A3C464EF7CDD5F6.title: "&4Hellshelves"
+	quest.148A33CC36B2563A.quest_desc: ["&dDraconic Shelf&r は完璧なセットアップに必要な最後の本棚です。&aEterna&r のみを与えますが、最大の &aEterna&r 値である &a100&r を持っています"]
+	quest.148A33CC36B2563A.title: "&5Draconic Endshelf"
+	quest.1873205CF5247E3E.quest_desc: ["必要な最後の本棚セットは &dEndshelves&r です。これを作るには Infused Dragon's Breath が必要です。これは入手が難しいですが、少なくとも &a80 Eterna&r、&c15%-30% Quanta&r、そして少なくとも &560% Arcana&r が必要です。&c15%-25% Quanta&r の間である必要があり、これを得るには &910 Echoing Skulkshelves&r と &29 Melonshelves&r または &92 Echoing Skulkshelves&r と &b4 Heart-Forged Seashelves&r を試してみてください"]
+	quest.1873205CF5247E3E.title: "&5Endshelf"
+	quest.191A7F3C9FBA4C13.quest_desc: ["&bCrystalline Seashelf&rは&bInfused Seashelf&rのアップグレードです。次のInfusionのために14個使用してステータスを最大にします"]
+	quest.191A7F3C9FBA4C13.title: "&bCrystalline Seashelf"
+	quest.1FAFDB20F504688E.quest_desc: ["Apotheosis によってエンチャントにいくつかの変更が加えられます。要約すると、15個の本棚では不十分になりました。新しい本棚とエンチャントテーブルでできることが追加され、これらのクエストで理解を深めることができます"]
+	quest.1FAFDB20F504688E.title: "Apothic エンチャント"
+	quest.235E3C386E8D36A3.quest_desc: ["&9Deepshelf&r (休眠状態でない) はエンチャントの次のステップです。他のものと同様に Infusion が必要です。&9Deepshelf&r には &a60 Eterna&r、&c40% Quanta&r、&540% Arcana&r が必要です。&44 Blazing Hellshelves&r と &b2 Heart-Forged Seashelves&r で達成できます"]
+	quest.235E3C386E8D36A3.title: "&9Deepshelf"
+	quest.24391162F4FF0587.quest_desc: ["より高い &aEterna&r と &5Arcana&r を得るには Infused Seashelves が必要です。これを入手するには少なくとも &a45 Eterna&r、&c15% Quanta&r、そして &510% Arcana&r が必要です。最適な方法は 15個の本棚&r、&b5個の Seashelves&r、そして &45個の Hellshelves を使用することです"]
+	quest.24391162F4FF0587.title: "&bInfused Seashelf"
+	quest.24C757B8AA6841F6.quest_desc: ["Apothic Spawners は Trident の入手が面倒なことを知っているので、より簡単にしました...まあ、ちょっとだけですが。Inert Trident を作って注入することで通常の Trident を入手できるようになりました。Trident には &a40 Eterna&r、&c20%-50% Quanta&r、そして少なくとも &535% Arcana&r が必要です。これは &94つの Echoing Skulkshelf&r、&2Melonshelf&r、通常の本棚で達成できます"]
+	quest.24C757B8AA6841F6.title: "本物の Trident を作る"
+	quest.24FCFF18296ED907.quest_desc: ["意外にも注入は必要ありません！バニラ Minecraft で最も強力なボスを倒すだけでいいのです！&9Skulk shelf&r は &aEterna&r を &a80&r まで増加させ、次のアイテムを注入することができます"]
+	quest.24FCFF18296ED907.title: "&9Soul-Touched Sculkshelf"
+	quest.2EC2FA680076C07D.quest_desc: ["これらを入手するには Warden を何体か倒す必要がありますが、Apothic があれば簡単です！この本棚は主に &5Arcana&r 用ですが、すべての量に対して良い供給源となります。次の Infusion に必要となります"]
+	quest.2EC2FA680076C07D.title: "&9Echoing Sculkshelf"
+	quest.31E7F7464D79F881.quest_desc: ["本棚だけが注入できるわけではありません！"]
+	quest.31E7F7464D79F881.title: "その他の注入アイテム"
+	quest.42746659C66CF17F.quest_desc: ["アレクサンドリア図書館は、より良いエンチャント図書館です。より多くのものを保持できます。これを入手するには、エンチャント図書館を注入する必要があります。正確に &a100 Eterna&r、&c45%-50% Quanta&r の間、そして &5100% Arcana&r が必要です。これは &96個の Echoing Sculkshelf&r、&d2個の Draconic Endshelf&r、&23個の Melonshelf&r、そして &92個の Infused &bSeashelf で達成できます"]
+	quest.45161821C221EF0B.quest_desc: ["より高いレベルの最大エンチャントを得るには、Infused Hellshelves が必要です。これを得るには &a45 Eterna&r と &c30% Quanta&r が必要です。最適な方法は、通常の本棚15個と &4Hellshelves&r 5個を使用することです"]
+	quest.45161821C221EF0B.title: "&4Infused Hellshelves"
+	quest.51E554305FFEBA1D.quest_desc: ["&4Blazing Hellshelf&r は &4Infused Hellshelf&r のアップグレードです。最大 &aEterna&r を &a65&r まで増加させます。エンチャントのヒントがマイナスになるため通常のエンチャントには少し不向きですが、代わりにより良い Infusion に使用できます"]
+	quest.51E554305FFEBA1D.title: "&4Blazing Hellshelf"
+	quest.523DC411241B470A.quest_desc: [
+		"エンチャントプールに全てのエンチャントがあるのは、特にネガティブなエンチャントもある場合はあまり良くありません。もうそんな心配は不要です！この本棚はプールから全てのネガティブなエンチャントを除去し、どのエンチャントがどのくらいの確率で出るかを確認できます。&cクオンタ&rは少し減りますが、得られる効果は十分な価値があります"
+		"{@pagebreak}"
+		""
+		"{image:atm:textures/questpics/apothic/geode.png width:150 height:100 align:center}"
+	]
+	quest.523DC411241B470A.title: "&6ネガティブエンチャントの除去"
+	quest.5C73247A48E72FB3.quest_desc: ["エンチャントプールから特定のエンチャントを削除したい場合は、この本棚を使用できます。プールから削除したいエンチャントが付いたエンチャント本を持って本棚を右クリックしてください"]
+	quest.5C73247A48E72FB3.title: "&9プールからエンチャントを削除"
+	quest.5DE45BC0258D1B0B.quest_desc: ["&dPearlescent Endshelf&rは最高の万能本棚です。最大&aEterna&rを&a90&rまで上げることができますが、完璧なセットアップを目指すにはこの本棚ではありません"]
+	quest.5DE45BC0258D1B0B.title: "&5Pearlescent Endshelf"
+	quest.60850E717C747A78.quest_desc: ["エンチャントテーブルの言語を理解するために3ヶ月もガラクティックコードを勉強したことはありますか？ないですよね？私もです。でも&9エンチャントヒント&rは実際の翻訳者です。各&9エンチャントヒント&rは、実際に使用する前に1つのエンチャントを教えてくれます"]
+	quest.60850E717C747A78.title: "&3エンチャントヒント"
+	quest.6852BEFDD4DE4E4B.quest_desc: ["改良された &4Hellshelf&r のように、&9Soul Touched Deepshelf&r は多くの &cQuanta&r を与え、&aEterna&r の最大値を &a75&r まで上げることができます！つまり、より良いエンチャントが可能になります！"]
+	quest.6852BEFDD4DE4E4B.title: "&9Soul-Touched Deepshelf"
+	quest.6884E25641A1020C.quest_desc: ["これは Apotheosis で追加された最も重要なブロックの1つと言えるでしょう。エンチャントライブラリーです。本を入れておくと時間とともに収集され、いつでも取り出すことができます。警告1：限界があります。高い限界ですが限界です。2：入れた中で最高レベルのものしか取り出せません"]
+	quest.6A07D09831428CB9.quest_desc: ["&bSeashelves&rは&5アルカナ&rへの入門です。&53% アルカナ&rと&a3 エターナ&rを提供します。通常の本棚よりも良いですよね？次のステップのために少なくとも4つ必要になります"]
+	quest.6A07D09831428CB9.title: "&bSeashelves"
+	quest.6C2C135B9B7B9402.quest_desc: ["Infusion は皮肉にもより良いエンチャントに使用される特別なエンチャントの形式です。適切な量の &aEterna&r、&cQuanta&r、そして &5Arcana&r に達すると、エンチャントは Infusion を提供します。（必要なレベルを知るには EMI を確認するか、これらのクエストに従ってください）"]
+	quest.70D2C5FAC661E01A.quest_desc: ["&b心鍛造の海の本棚&rは&b注入された海の本棚&rのさらなるアップグレードです。少し高価ですが、注入や後の魔法付与に必要な&5アルカナ&rを提供します"]
+	quest.70D2C5FAC661E01A.title: "&b心鍛造の海の本棚"
+	quest.78FEDE6FA4845585.quest_desc: ["一部のインフュージョンには、非常に正確な量の&aEterna&r、&cQuanta&r、または&5Arcana&rが必要です。これらを得るには、これらの本棚が必要かもしれません。それぞれがそれぞれの量を減少させます"]
+	quest.78FEDE6FA4845585.title: "マイナスの量"
+	quest.79AF63E77AD70A93.quest_desc: ["本棚は始まりの地点ですが、決してゴールではありません。少なくとも通常の本棚は。通常の本棚だけでは &aEterna&r は最大30までしか上げられません。（エンチャントレベルについてはすぐに説明しますが、とにかく上げる必要があることだけ覚えておいてください）"]
+	quest.79AF63E77AD70A93.title: "バニラの最大値は始まりに過ぎない"
+	quest.7C758209D06ED0E3.quest_desc: ["&4Glowing Hellshelf&r は &4Infused Hellshelf&r のアップグレード版です。これも最大 &aEterna&r を増加させますが、エンチャントに必要なステータスではありません。通常のエンチャントには間違いなく良いものです！"]
+	quest.7C758209D06ED0E3.title: "&4Glowing Hellshelf"
+	quest.7C9D9D1C054874A7.quest_desc: ["最も完璧なエンチャントが欲しいと思ったことはありませんか？これが100%すべてを実現するために必要なセットアップです。&95つの Echoing Skulkshelf&r、&61つの Beeshelf&r、&b2つの Heart-Forged Seashelf&r、&d2つの Draconic Shelf&r で &a100 Eterna&r、&c100% Quanta&r、&5100% Arcana&r、&96つの Enchanting Clues&r を獲得できます。&6Deepshelf of Arcane Treasures&r で &6Treasure Enchantments&r を追加し、&5Geode-Encased Bookshelf of Stability&r で特定の力で可能なすべてのエンチャントを見ることができます"]
+	quest.7C9D9D1C054874A7.title: "&6最高のエンチャントセットアップ"
+	task.3D62C020980A2DEC.title: "本棚"
+}

@@ -1,0 +1,48 @@
+{
+	quest.0790D3BB481162A6.quest_desc: [
+		"Necesitas una mesa de crafteo portable? Que tal una mesa de herreria? "
+		""
+		"&9Crafting On A Stick&r Agrega versiones portátiles de algunas de tus mesas de trabajo favoritas! Esto es imprescindible al principio del juego."
+	]
+	quest.0790D3BB481162A6.quest_subtitle: "Coloca menos. Craftea Más!"
+	quest.0790D3BB481162A6.title: "Mesa Crafteo... en un Palo!"
+	quest.0C856BBB1679A7DD.quest_desc: ["En esta página, encontrarás algunos elementos e información útiles para ayudarte en tu viaje!"]
+	quest.0C856BBB1679A7DD.quest_subtitle: "Y otros items utiles!"
+	quest.0C856BBB1679A7DD.title: "Tips y Trucos!"
+	quest.0E9CE6241CDBC420.quest_desc: ["La &9Ranged Pump&r es tan especial que tiene su propio mod.\\n\\nLa &9Bomba&r recogerá &9Fuentes de Agua&r debajo de ella y las reemplazará con piedra. \\nSin embargo, necesita energía para funcionar, pero vale la pena, ¡tiene un alcance enorme!\\n\\nEl &9Agua&r recogida deberá ser extraída mediante tuberías."]
+	quest.0E9CE6241CDBC420.title: "&l&9Ranged Pump"
+	quest.0F8F37D7E12078F5.quest_subtitle: "Completa todos los tips!"
+	quest.0F8F37D7E12078F5.title: "Tipped Out"
+	quest.219AA017149C36E2.quest_desc: ["Los &l&6Trapped Trader Carpets&r atraparan y desaparecerán al Aldeano Comerciante y a sus llamas molestas de nuestro mundo!\\n\\nEn mi opinion, estos son los mejores bloques."]
+	quest.219AA017149C36E2.quest_subtitle: "No más Comerciantes Molestos!"
+	quest.28E60192912BEBAD.quest_desc: [
+		"En Vanilla, los aldeanos pueden ser realmente frustrantes de manejar. Cambiar sus intercambios no es nada fácil, y las profesiones a veces pueden ser complicadas de gestionar.\\n\\n&aEasy Villagers&r es un mod que hace todo esto mucho más sencillo. Para empezar, puedes recoger a un aldeano haciendo clic derecho mientras te agachas. Luego, puedes colocarlo fácilmente en el mundo o en bloques específicos del mod Easy Villagers."
+		""
+		"Puedes buscar &d@EasyVillagers&r en JEI para ver que otras cosas agrega este mod!"
+	]
+	quest.28E60192912BEBAD.quest_subtitle: "Aldeanos ya no ser molestos"
+	quest.28E60192912BEBAD.title: "&aAldeanos&r"
+	quest.378C95C18798D413.quest_desc: [
+		"Una forma rápida de cambiar de herramientas. "
+		""
+		"Actualice con bolsas de cinturón en un yunque para aumentar la capacidad."
+	]
+	quest.378C95C18798D413.title: "Cinturon de Herramientas"
+	quest.3B4BF42C55C8BBBF.quest_desc: ["¿No odias cuando estás rompiendo algo y los bloques caen justo fuera de tu alcance?\\n\\n¡Pues no te preocupes más porque tenemos &4Imanes&r! Simplemente haz clic derecho mientras sostienes el &4Imán&r para activarlo. Entonces, todos los ítems y bloques que caigan en un radio de 5 bloques vendrán hacia ti.\\n\\n¡También puedes equipar el &4Imán&r en tus Curios para seguir usándolo!\\n\\nSi no deseas seguir usando el &4Imán&r (me suele pasar cerca de granjas de mobs), simplemente haz clic derecho con él de nuevo para desactivarlo.\\n\\n¡Además, puede mejorarse para aumentar su alcance!"]
+	quest.3B4BF42C55C8BBBF.title: "&l&9Simple &4Magnets"
+	quest.6E17595887A051C2.quest_desc: ["&l&2Minecraft Modeado&r nos presenta las nuevas profesiones de aldeano! \\n\\nForge Hammer: &5Industrialist&r \\n\\nCargador: &bFluix Researcher&r \\n\\nAdvanced Beehive: &6Beekeeper&r \\n\\nCoffee Maker: &9Engineer&r \\n\\nNucleo Arcano: &dShady Wizard&r \\n\\nForagers Table: &aForager&r \\n\\nPowered Rolling Machine: &eCartman&r \\nManual Rolling Machine: &eTrackman&r \\n\\nEngineer's Workbench: &7Gunsmith&r \\nWhite Banner: &7Outfitter&r \\nEngineer's Circuit Workbench: &7Electrician&r \\nEngineer's Crafting Table: &7Machinist&r \\nTurntable: &7Structural Engineer&r \\n\\nCharging Station: &4Pressure Mechanic&r \\n\\nSaw: &8Carpenter&r"]
+	quest.6E17595887A051C2.title: "Mo' Professions"
+	quest.70B6C9409AE69284.quest_desc: [
+		"Te da una lista amplia de biomas para buscar. "
+		""
+		"Selecciona el bioma, y presiona 'Buscar.' Verás algo de información en la parte superior izquierda, La brújula apuntará en la dirección del bioma."
+	]
+	quest.70B6C9409AE69284.quest_subtitle: "Ayuda a encontrar Biomas"
+	quest.70B6C9409AE69284.title: "Compás de la Naturaleza"
+	quest.722978AC0C1B2649.quest_desc: ["Un item sencillo para obtener agua infinita. Necesitas más agua? Crea otro!"]
+	quest.722978AC0C1B2649.quest_subtitle: "Puede usarse para enfriar reactores"
+	quest.722978AC0C1B2649.title: "Agua Infinita"
+	quest.7EC8814940C4C3D7.quest_desc: ["Usa este item para encogerte. Útil para trabajar en la automatización y tambien para divertirnos un rato."]
+	quest.7EC8814940C4C3D7.quest_subtitle: "Cariño me encogí"
+	quest.7EC8814940C4C3D7.title: "Dispositivo de encogimiento personal"
+}

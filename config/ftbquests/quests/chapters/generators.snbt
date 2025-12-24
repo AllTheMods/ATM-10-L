@@ -841,7 +841,7 @@
 			tasks: [{
 				count: 8L
 				id: "1364DC251AC7325A"
-				item: { count: 8, id: "ironfurnaces:rainbow_plating" }
+				item: { count: 1, id: "ironfurnaces:rainbow_plating" }
 				type: "item"
 			}]
 			x: -5.0d
