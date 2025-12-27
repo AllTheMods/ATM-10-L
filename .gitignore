@@ -1,0 +1,9 @@
+# FTB Quests Lang Splitter
+# ignore original lang files like en_us.snbt
+config/ftbquests/quests/lang/*.snbt
+
+# ignore recovery files
+config/ftbquests/quests/lang/recovery/*.snbt
+
+# ignore already merged files
+config/ftbquests/quests/lang/**/*.snbt_merged

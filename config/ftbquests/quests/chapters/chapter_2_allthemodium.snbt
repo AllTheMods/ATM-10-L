@@ -89,6 +89,7 @@
 			y: 4.5d
 		}
 		{
+			dependency: "1A05C605A52A4218"
 			height: 0.3d
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
@@ -909,6 +910,8 @@
 		{
 			dependencies: ["5BA986D7928BF09F"]
 			id: "1A05C605A52A4218"
+			invisible: true
+			optional: true
 			rewards: [
 				{
 					count: 3
@@ -1065,6 +1068,8 @@
 				"0484051446480B54"
 			]
 			id: "19E356E67EF17E4A"
+			invisible: true
+			optional: true
 			rewards: [
 				{
 					id: "5D1EE5C5CD989C63"
@@ -1133,6 +1138,8 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "0484051446480B54"
+			invisible: true
+			optional: true
 			rewards: [
 				{
 					id: "3C05F5319C75452D"
@@ -1172,6 +1179,8 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "5B46B5BF4ADB2BE9"
+			invisible: true
+			optional: true
 			rewards: [
 				{
 					id: "270DA9FEAE00EC6F"
@@ -1204,6 +1213,8 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "2D8026E10FBA7A72"
+			invisible: true
+			optional: true
 			rewards: [
 				{
 					id: "5C6A2D108F925370"
@@ -1243,6 +1254,8 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "4E28B67554CBDAB7"
+			invisible: true
+			optional: true
 			rewards: [
 				{
 					id: "06768CC9AFED823E"
