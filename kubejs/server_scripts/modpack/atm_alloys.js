@@ -30,164 +30,77 @@ ServerEvents.recipes(allthemods => {
         allthemods.custom(recipe).id(`kubejs:energizing/${id}`);
     }
 
-    //Vibranium - ATM Alloy
+    //Vibranium - Allthemodium Alloy
     energizing(
         {item: 'allthemodium:vibranium_allthemodium_alloy_ingot'},
         [
-            {tag: 'c:ingots/allthemodium'}, {item: 'allthemodium:piglich_heart'},
-            {item: 'allthecompressed:nitro_crystal_block_1x'} ,
+            {tag: 'c:ingots/allthemodium'},
+            {item: 'allthemodium:piglich_heart'},
+            {item: 'powah:nitro_crystal_block'} ,
             {item: 'allthemodium:piglich_heart'},
             {tag: 'c:ingots/vibranium'}],
         1000000000,
         'vibranium_allthemodium_alloy_ingot'
-    );
+    )
     energizing(
         {item: 'allthemodium:vibranium_allthemodium_alloy_block'},
         [
             {tag: 'c:storage_blocks/allthemodium'},
             {item: 'allthemodium:piglich_heart_block'},
-            {item: 'allthecompressed:nitro_crystal_block_2x'} ,
+            {item: 'allthecompressed:nitro_crystal_block_1x'} ,
             {item: 'allthemodium:piglich_heart_block'},
             {tag: 'c:storage_blocks/vibranium'}],
         9000000000,
         'vibranium_allthemodium_alloy_block'
-    );
-/*
-    function enchanting_apparatus(output, pedestalItems, reagent, nbt, sourceCost, id){
-        let recipe = {
-            "type": "ars_nouveau:enchanting_apparatus",
-            "keepNbtOfReagent": nbt,
-            "pedestalItems": [],
-            "reagent": {},
-            "result": {
-                "count": output.count || 1,
-                "id": output.item
-            },
-            "sourceCost": sourceCost
-        };
+    )
 
-        if (reagent.tag) {
-            recipe.reagent.tag = reagent.tag;
-        } else {
-            recipe.reagent.item = reagent.item;
-        }
-
-        pedestalItems.forEach(input => {
-
-            let ingredients = {}
-
-            if (input.tag) {
-                ingredients.tag = input.tag;
-            } else {
-                ingredients.item = input.item;
-            }
-
-            recipe.pedestalItems.push(ingredients);
-        });
-
-        allthemods.custom(recipe).id(`kubejs:enchanting_apparatus/${id}`);
-    }
-
-    //Unobtainium - ATM Alloy
-    enchanting_apparatus(
-        {item: 'allthemodium:unobtainium_allthemodium_alloy_ingot'},
-        [
-            {item: 'allthemodium:piglich_heart'},
-            {item: 'ars_nouveau:air_essence'},
-            {tag: 'c:ingots/allthemodium'},
-            {item: 'ars_nouveau:earth_essence'},
-            {item: 'allthemodium:piglich_heart'},
-            {item: 'ars_nouveau:fire_essence'},
-            {tag: 'c:ingots/unobtainium'},
-            {item: 'ars_nouveau:water_essence'}],
-        {item: 'ars_nouveau:source_gem'},
-        false,
-        10000,
-        'unobtainium_allthemodium_alloy_ingot'
-    );
-    enchanting_apparatus(
-        {item: 'allthemodium:unobtainium_allthemodium_alloy_block'},
-        [
-            {item: 'allthemodium:piglich_heart_block'},
-            {item: 'kubejs:air_essence_block'},
-            {tag: 'c:storage_blocks/allthemodium'},
-            {item: 'kubejs:earth_essence_block'},
-            {item: 'allthemodium:piglich_heart_block'},
-            {item: 'kubejs:fire_essence_block'},
-            {tag: 'c:storage_blocks/unobtainium'},
-            {item: 'kubejs:water_essence_block'}],
-        {item: 'ars_nouveau:source_gem_block'},
-        false,
-        90000,
-        'unobtainium_allthemodium_alloy_block'
-    );
-*/
-    function dissolution_chamber(output, inputs, fluid, time, id){
-        let recipe = {
-            "type": "industrialforegoing:dissolution_chamber",
-            "input": [],
-            "inputFluid": {
-                "amount": fluid.amount || 100,
-                "fluid": fluid.fluid
-            },
-            "output": {
-                "count": output.count || 1,
-                "id": output.item
-            },
-            "processingTime": time
-        };
-
-        inputs.forEach(input => {
-
-            let ingredients = {}
-
-            if (input.tag) {
-                ingredients.tag = input.tag;
-            } else {
-                ingredients.item = input.item;
-            }
-
-            recipe.input.push(ingredients);
-        });
-
-        allthemods.custom(recipe).id(`kubejs:dissolution_chamber/${id}`);
-    }
-
-    //Unobtainium - Vibranium Alloy
-    dissolution_chamber(
+    //Vibranium - Unobtainium Alloy
+        energizing(
         {item: 'allthemodium:unobtainium_vibranium_alloy_ingot'},
         [
-            {item: 'industrialforegoing:pink_slime'},
-            {tag: 'c:ingots/vibranium'},
-            {item: 'industrialforegoing:pink_slime'},
-            {item: 'allthemodium:piglich_heart'},
-            {item: 'allthemodium:piglich_heart'},
-            {item: 'industrialforegoing:pink_slime'},
             {tag: 'c:ingots/unobtainium'},
-            {item: 'industrialforegoing:pink_slime'}],
-        {
-            fluid: 'allthemodium:soul_lava',
-            amount: 100},
-        200,
+            {item: 'allthemodium:piglich_heart'},
+            {item: 'powah:nitro_crystal_block'} ,
+            {item: 'allthemodium:piglich_heart'},
+            {tag: 'c:ingots/vibranium'}],
+        1000000000,
         'unobtainium_vibranium_alloy_ingot'
-    );
-    dissolution_chamber(
+    )
+    energizing(
         {item: 'allthemodium:unobtainium_vibranium_alloy_block'},
         [
-            {item: 'industrialforegoing:pink_slime_block'},
-            {tag: 'c:storage_blocks/vibranium'},
-            {item: 'industrialforegoing:pink_slime_block'},
-            {item: 'allthemodium:piglich_heart_block'},
-            {item: 'allthemodium:piglich_heart_block'},
-            {item: 'industrialforegoing:pink_slime_block'},
             {tag: 'c:storage_blocks/unobtainium'},
-            {item: 'industrialforegoing:pink_slime_block'}],
-        {
-            fluid: 'allthemodium:soul_lava',
-            amount: 900},
-        200,
+            {item: 'allthemodium:piglich_heart_block'},
+            {item: 'allthecompressed:nitro_crystal_block_1x'} ,
+            {item: 'allthemodium:piglich_heart_block'},
+            {tag: 'c:storage_blocks/vibranium'}],
+        9000000000,
         'unobtainium_vibranium_alloy_block'
-    );
+    )
+    
+    //Unobtainium - Allthemodium Alloy
+        energizing(
+        {item: 'allthemodium:unobtainium_allthemodium_alloy_ingot'},
+        [
+            {tag: 'c:ingots/unobtainium'},
+            {item: 'allthemodium:piglich_heart'},
+            {item: 'powah:nitro_crystal_block'} ,
+            {item: 'allthemodium:piglich_heart'},
+            {tag: 'c:ingots/allthemodium'}],
+        1000000000,
+        'unobtainium_allthemodium_alloy_ingot'
+    )
+    energizing(
+        {item: 'allthemodium:unobtainium_allthemodium_alloy_block'},
+        [
+            {tag: 'c:storage_blocks/unobtainium'},
+            {item: 'allthemodium:piglich_heart_block'},
+            {item: 'allthecompressed:nitro_crystal_block_1x'} ,
+            {item: 'allthemodium:piglich_heart_block'},
+            {tag: 'c:storage_blocks/allthemodium'}],
+        9000000000,
+        'unobtainium_allthemodium_alloy_block'
+    )
 
 })
 

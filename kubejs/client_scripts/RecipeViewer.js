@@ -1,9 +1,11 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMod 10.
+// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10 LITE.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 
 RecipeViewerEvents.removeEntriesCompletely('item', allthemods =>{
   allthemods.remove('allthetweaks:greg_star')
   allthemods.remove('allthetweaks:greg_star_block')
+  allthemods.remove('sophisticatedstorage:stack_upgrade_omega_tier')
+  allthemods.remove('sophisticatedbackpacks:stack_upgrade_omega_tier')
 
   for(let i=1; i < 10; i++){
       allthemods.remove(`allthecompressed:greg_star_block_${i}x`)}
