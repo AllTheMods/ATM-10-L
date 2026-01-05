@@ -6,6 +6,7 @@ Changes, Additions, and Fixes
 - Add Alloy tool recipes
 - Added/Fixed alloy ingot/block recipes
 - Advanced AE script from 10base, quantum Crafter removed
+- The mining dimension is now fixed, and should have ores. For those that have the mining dimension without ores, delete the folder 'mining' from '\saves\<savename>\dimensions\allthemodium\'
 
 Mods Added
 - AdvancedAE-1.6.9-1.21.1
