@@ -866,7 +866,7 @@
 		}
 		{
 			dependencies: ["4B2146C9527C54E7"]
-			hide_dependency_lines: true
+			hide_dependency_lines: false
 			id: "7B3613C01F0B1373"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -881,33 +881,14 @@
 				item: { count: 1, id: "powah:energizing_orb" }
 				type: "item"
 			}]
-			x: 24.0d
+			x: 18.200000000000003d
 			y: 0.0d
 		}
 		{
-			dependencies: ["4B2146C9527C54E7"]
-			hide_dependency_lines: true
-			id: "15DC6770B112EE69"
-			rewards: [{
-				id: "7CFB61ED4E0E752C"
-				item: {
-					count: 1
-					id: "industrialforegoing:mob_slaughter_factory"
-				}
-				type: "item"
-			}]
-			shape: "hexagon"
-			size: 1.3d
-			tasks: [{
-				id: "0E8AB6991100AE12"
-				item: { count: 1, id: "industrialforegoing:dissolution_chamber" }
-				type: "item"
-			}]
-			x: 20.5d
-			y: 3.4000000000000004d
-		}
-		{
-			dependencies: ["5BA986D7928BF09F"]
+			dependencies: [
+				"5BA986D7928BF09F"
+				"7B3613C01F0B1373"
+			]
 			id: "1A05C605A52A4218"
 			rewards: [
 				{
@@ -941,9 +922,10 @@
 		}
 		{
 			dependencies: [
-				"15DC6770B112EE69"
 				"5BA986D7928BF09F"
+				"7B3613C01F0B1373"
 			]
+			hide_dependency_lines: false
 			id: "2CF6EA138B53CE1B"
 			rewards: [
 				{

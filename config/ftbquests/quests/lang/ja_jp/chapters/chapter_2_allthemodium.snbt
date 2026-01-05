@@ -21,10 +21,6 @@
 	]
 	quest.144BB025516E0994.title: "&3ヴィブラニウムインゴット&r"
 	quest.151D836C7B0E6FAF.title: "&3ヴィブラニウムの盾"
-	quest.15DC6770B112EE69.quest_desc: [
-		"Dissolution Chamber は &l&7Industrial Foregoing&r が追加する機械です。これを使って &3ヴィブラニウム&r と &5アンオブタニウム&r を組み合わせます。\\n\\n&dピンクスライム&r が必要で、これは IF が追加する別の機械である Mob Slaughter Factory から入手できます。\\n\\nまた、&b&lThe Other&r のピグリン村で一般的に見られるソウルラヴァも必要です。\\n\\nその後、インゴットとピグリッチハートを正確な順序で配置し、電力を供給すれば完了です！\\n"
-		"{ \"text\": \"INDUSTRIAL FOREGOING QUESTLINE\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
-	]
 	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lThe Other&r は長年にわたって数十の変更を経てきましたが、常に冒険のためのディメンションでした！\\n\\n数十の新しいバイオーム、ブロック、そしてもちろん建造物があります！\\n\\n建造物は：ピグリン村、Ancient Pyramid、そしてダンジョンです。すべてに素晴らしいルートが含まれており、一部のアイテムはその建造物固有のものです！\\n\\nまた、&3ヴィブラニウム&r（および他の鉱石！）を採掘したり、建造物でより良いものを見つけることができます！\\n\\nただし、&b&lThe Other&r では採掘機や多くのブロックを設置することはできません。ここでのチート行為は禁止です"]
 	quest.15FEA03A2CDBA33B.title: "&l&bThe Other&r"
 	quest.19E356E67EF17E4A.quest_desc: ["歴史上最高のツールです！スイスアーミーナイフのような物ですが、もっと優れています！\\n\\n最高の採掘ティア、木を切るのがバターのように簡単で、道を作り、もちろん叩くべきものをたくさん叩きます！"]

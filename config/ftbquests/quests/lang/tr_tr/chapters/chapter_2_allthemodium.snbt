@@ -21,10 +21,6 @@
 	]
 	quest.144BB025516E0994.title: "&3Vibranium Külçesi&r"
 	quest.151D836C7B0E6FAF.title: "&3Vibranium Kalkan"
-	quest.15DC6770B112EE69.quest_desc: [
-		"Dissolution Chamber, &l&7Industrial Foregoing&r tarafından eklenen bir Makine. Aynı zamanda &3Vibranium&r ve &5Unobtainium&r'u da bununla birleştireceğiz. \\n\\nMob Slaughter Factory'den elde edeceğin &dPink Slime&r'a ihtiyacın olacak. Bu Makine de IF tarafından eklendi. \\n\\nAyrıca Piglin Köyünde yaygın olan ve ayriyeten &b&lOther&r'da bulunan Ruh Lav'ına da ihtiyacın olacak. \\n\\nBunlardan sonra Külçelerini ve Piglich Kalplerini sırasıyla koyman, ardından güçlendirmen gerekecek. Bu işlemlerden sonrada alaşımın üretilmiş olacak!\\n"
-		"{ \"text\": \"INDUSTRIAL FOREGOING GÖREV SERİSİ\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
-	]
 	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lOther&r yıllar içinde onlarca değişiklik gördü ama her zaman maceraların diyarı oldu! \\n\\nOnlarca yeni biyom, blok ve tabii ki yapılar var! \\n\\nYapılar şunlardır: Piglin Köyü, Antik Piramit ve Zindan. Hepsi de harika ganimetler içeriyor ve bazı şeyler yapılarına özgü! \\n\\nAyrıca &3Vibranium&r (ve diğer cevherler!) için madencilik yapabilir veya yapılarda daha iyisini bulabilirsin! \\n\\nYine de &b&lOther&r'da Maden Ocakları (Quarry) kuramazsın ya da çok sayıda blok yerleştiremezsin, burada hiçbir şekilde hile yapamazsın."]
 	quest.15FEA03A2CDBA33B.title: "&l&bOther&r"
 	quest.19E356E67EF17E4A.quest_desc: ["Tarihteki en iyi alet! İsviçre çakısı gibi ama daha iyisi! \\n\\nEn Yüksek Madencilik Kademesi, Ağaçları tereyağı gibi keser, yollar yapar ve elbette vurulacak çok şeye vurur!"]

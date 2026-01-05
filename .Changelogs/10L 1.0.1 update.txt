@@ -1,0 +1,42 @@
+NeoForge 21.1.215
+
+Changes, Additions, and Fixes
+- Added Missing jetpacks
+- Capped malum ascension enchant, to prevent unintended interactions
+- Add Alloy tool recipes
+- Added/Fixed alloy ingot/block recipes
+- Advanced AE script from 10base, quantum Crafter removed
+
+Mods Added
+- AdvancedAE-1.6.9-1.21.1
+- Applied-Mekanistics-1.6.3
+- functionalstorage-1.21.1-1.5.5
+- GeOre-1.21.1-6.2.1
+- HellishTrials-neoforge-1.0.4
+
+Mods Removed
+- YungsApi-1.21.1-NeoForge-5.1.6
+
+Mods Updated
+- aeinfinitybooster-neoforge-1.21.1-1.0.0.54
+- alltheleaks-1.1.6+1.21.1-neoforge
+- allthemodium-2.9.7_mc_1.21.1
+- baubley-heart-canisters-1.21.1-1.3.1
+- better-compatability-checker-neoforge-21.1.8
+- crafting_on_a_stick-1.21.0.4
+- CrashAssistant-neoforge-1.20.6-1.21.4-1.10.28
+- fusion-1.2.11e-neoforge-mc1.21.1
+- geckolib-neoforge-1.21.1-4.8.3
+- irons_spellbooks-1.21.1-3.15.0
+- jei-1.21.1-neoforge-19.27.0.339
+- JustEnoughMekanismMultiblocks-1.21.1-7.12
+- lootr-neoforge-1.21.1-1.11.36.110
+- occultism-1.21.1-neoforge-1.201.0
+- player-animation-lib-forge-2.0.4+1.21.1
+- solcarrot-1.21.1-1.16.6
+- sophisticatedbackpacks-1.21.1-3.25.22.1487
+- sophisticatedcore-1.21.1-1.3.100.1348
+- sophisticatedstorage-1.21.1-1.5.19.1415
+
+NeoForge Version is 21.1.215
+ALWAYS REMEMBER TO BACKUP BEFORE UPDATING

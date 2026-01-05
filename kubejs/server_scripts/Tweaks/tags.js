@@ -9,8 +9,8 @@ ServerEvents.tags('block', allthemods => {
 
 ServerEvents.tags('item', allthemods => {
   // Tiny Coal
-  allthemods.add('atm10:tiny_coals', ['utilitarian:tiny_coal'])
-  allthemods.add('atm10:tiny_charcoals', ['utilitarian:tiny_charcoal'])
+  allthemods.add('atm10:tiny_coals', ['utilitarian:tiny_coal', 'malum:coal_fragment'])
+  allthemods.add('atm10:tiny_charcoals', ['utilitarian:tiny_charcoal','malum:charcoal_fragment'])
   // Allthemodium Alloy Dusts
   allthemods.add('c:dusts/unobtainium_allthemodium_alloy', 'allthemodium:unobtainium_allthemodium_alloy_dust')
   allthemods.add('c:dusts/unobtainium_vibranium_alloy', 'allthemodium:unobtainium_vibranium_alloy_dust')

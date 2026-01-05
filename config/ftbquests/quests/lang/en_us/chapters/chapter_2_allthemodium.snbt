@@ -21,15 +21,12 @@
 	]
 	quest.144BB025516E0994.title: "&3Vibranium Ingot&r"
 	quest.151D836C7B0E6FAF.title: "&3Vibranium Shield"
-	quest.15DC6770B112EE69.quest_desc: [
-		"The Dissolution Chamber is a Machine added by &l&7Industrial Foregoing&r. It's also how we'll combine &3Vibranium&r and &5Unobtainium&r. \\n\\nYou'll need &dPink Slime&r which you get from the Mob Slaughter Factory which is another Machine added by IF. \\n\\nYou'll also need Soul Lava which is found in &b&lThe Other&r, common in the Piglin Village. \\n\\nAfter those you'll need to put your Ingots and Piglich Hearts in the exact order, power it, and it'll be done!\\n"
-		"{ \"text\": \"INDUSTRIAL FOREGOING QUESTLINE\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
-	]
 	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lThe Other&r has seen dozens of changes over the years but always it has been a realm for adventures! \\n\\nThere's dozens of new biomes, blocks, and of course structures! \\n\\nThe Structures are: Piglin Village, Ancient Pyramid, and Dungeon. All containing amazing loot with some things being unique to their structure! \\n\\nYou can also mine for &3Vibranium&r (and other ores!) or find it and better in the structures! \\n\\nYou can't set up Quarries or many blocks in &b&lThe Other&r though, no cheesing anything here."]
 	quest.15FEA03A2CDBA33B.title: "&l&bThe Other&r"
 	quest.19E356E67EF17E4A.quest_desc: ["Only the greatest Tool in history! Like a swiss army knife but better! \\n\\nHighest Mining Tier, chops down Trees like butter, makes pathways, and of course hits a lot to be hit by!"]
 	quest.19E356E67EF17E4A.title: "&6Allthemodium &5Alloy &3Paxel"
 	quest.1A05C605A52A4218.quest_desc: ["&5Unobtainium&r combined with &6Allthemodium&r!"]
+	quest.1A05C605A52A4218.quest_subtitle: ""
 	quest.1A05C605A52A4218.title: "&5Unobtainium&r - &6Allthemodium&r Alloy Ingot"
 	quest.1F6C8117F3CED939.title: "&6Allthemodium Bow"
 	quest.201EE3566D4D3123.quest_desc: [
@@ -51,6 +48,7 @@
 	quest.2C4299D33D419AA0.quest_desc: ["Place the Teleport Pad in the &2&lOverworld&r to go to the &7&lMining Dimension&r."]
 	quest.2C4299D33D419AA0.title: "&2&lOverworld"
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3Vibranium&r combined with &5Unobtainium&r!"]
+	quest.2CF6EA138B53CE1B.quest_subtitle: ""
 	quest.2CF6EA138B53CE1B.title: "&5Unobtainium&r - &3Vibranium&r Alloy Ingot"
 	quest.2D8026E10FBA7A72.quest_desc: ["A very fast pickaxe."]
 	quest.2D8026E10FBA7A72.title: "&6Allthemodium &5Alloy &3Pick"
@@ -83,6 +81,7 @@
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["Yes it can make pathways don't worry!"]
 	quest.5B46B5BF4ADB2BE9.title: "&6Allthemodium &5Alloy &3Shovel"
 	quest.5BA986D7928BF09F.quest_desc: ["The Piglich is a Boss added by &6&lAllthemodium&r. \\n\\nHas he 1000 Hearts and currently has no attacks but trust me when he does they will be devastating! \\n\\nWhen killed he'll drop his Heart which will be needed for Alloys and the ATM Star! \\n\\n(Look into ways of farming them like with HNN or EnderIO!)"]
+	quest.5BA986D7928BF09F.quest_subtitle: ""
 	quest.5BA986D7928BF09F.title: "Piglich Boss"
 	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r combined with &6Allthemodium&r!"]
 	quest.66039B738CF0718A.title: "&3Vibranium&r - &6Allthemodium&r Alloy Ingot"
@@ -102,9 +101,11 @@
 	]
 	quest.71E4FD61787DE299.title: "&6Allthemodium Smithing Template"
 	quest.7B3613C01F0B1373.quest_desc: [
-		"To combine &3Vibranium&r and &6Allthemodium&r we'll need to venture into &l&cPowah&r! \\n\\nPlace the Energizing Orb down then put Energizing Rods facing it. The Energizing Rods need to be placed on a Power Source and will send Energy into the Orb. The amount each holds and sends is determined by the Tier. \\n\\nPlace the Ingots, 2 Piglich Hearts, and a Compressed Block of Nitro Crystals X1 into the Orb (order doesn't matter). Then once 1 Billion FE is put into the Orb through the Rods it'll be ready!\\n"
+		"To combine &3Vibranium&r, &5Unobtainium&r, and &6Allthemodium&r we'll need to venture into &l&cPowah&r! \\n\\nPlace the Energizing Orb down then put Energizing Rods facing it. The Energizing Rods need to be placed on a Power Source and will send Energy into the Orb. The amount each holds and sends is determined by the Tier. \\n\\nPlace the Ingots, 2 Piglich Hearts, and a Compressed Block of Nitro Crystals X1 into the Orb (order doesn't matter). Then once 1 Billion FE is put into the Orb through the Rods it'll be ready!\\n"
 		"{ \"text\": \"POWAH QUESTLINE\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2A6EBEEBAB882679\" } }"
 	]
+	quest.7B3613C01F0B1373.quest_subtitle: ""
+	quest.7B3613C01F0B1373.title: ""
 	quest.7DE2154159D273C3.quest_desc: [
 		"Direct upgrade to &6Allthemodium&r."
 		"{image:atm:textures/questpics/allthemodium/all_armor_vib.png width:100 height:175 align:center}"

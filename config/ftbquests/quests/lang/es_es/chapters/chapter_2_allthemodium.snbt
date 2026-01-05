@@ -21,10 +21,6 @@
 	]
 	quest.144BB025516E0994.title: "&3Lingote de Vibranio&r"
 	quest.151D836C7B0E6FAF.title: "&3Escudo de Vibranio"
-	quest.15DC6770B112EE69.quest_desc: [
-		"La Dissolution Chamber es una maquina del mod &l&7Industrial Foregoing&r. Y con esta maquina combinaremos los lingotes de &3Vibranio&r y &5Unobtainio&r. \\n\\nYou'll need &dSlime Rosado&r el cual se consigue en el Mob Slaughter Factory la cual es otra maquina que IF agrega. \\n\\nTambien necesitaras de la Lava de Almas que se encuentra en &b&lLa Otra&r, dentro o en los alrededores de La Aldea Piglin. \\n\\nDespues de todo esto, coloca los Lingotes y los Corazones de Piglich en el orden exacto, dale un poco de energia a la maquina, y estara listo!\\n"
-		"{ \"text\": \"QUESTLINE DE INDUSTRIAL FOREGOING\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
-	]
 	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lLa Otra&r ha recibido muchos cambios a lo largo de los años, pero sigue siendo el mismo lugar para buscar aventuras!\\n\\nHay docenas de biomas nuevos, bloques, y por supuesto Estructuras! \\n\\nLas estructuras son: Aldea Piglin, Piramide Antigua, y la Mazmorra. Cada una de estas estructuras contienen muchisimo loot junto con sus pecualirades que las hacen unicas! \\n\\nTambien puedes ir a minar &3Vibranio&r para conseguirlo de forma sencilla (junto a otros minerales!) o tambien puedes buscar en las estructuras para encontrarlo más facil! \\n\\nNo puedes colocar mineros automaticos ni quarry's para minar o destruir la dimension para sacar todos esos minerales en &b&lLa Otra&r, nada de trampas aqui."]
 	quest.15FEA03A2CDBA33B.title: "&l&bLa Otra&r"
 	quest.19E356E67EF17E4A.quest_desc: ["Solo la mejor herramienta de toda la historia! Como una navaja suiza pero mejor! \\n\\nEl Nivel más alto para minar, corta los arboles como si de mantequilla se tratara, puede crear caminos, y por supuesto... pega unos golpes cual camion!"]
