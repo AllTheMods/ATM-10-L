@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "1048936D3037659A"
 			image: "mekanismtools:item/osmium/paxel"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5402ACC8E437FE04"
 			image: "mekanismtools:item/steel/paxel"
 			rotation: 0.0d
 			width: 1.0d

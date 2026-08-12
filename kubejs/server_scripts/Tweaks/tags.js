@@ -29,10 +29,6 @@ ServerEvents.tags('item', allthemods => {
   allthemods.add('megacells:compression_overrides', 'minecraft:honeycomb')
   //Powah
   allthemods.add('c:storage_blocks/blaze_rod', 'allthecompressed:blaze_rod_block')
-  //Potionsmaster
-  global.potions_server.forEach(potion => {
-    allthemods.add(`potionsmaster:calcinated/${potion.id}`, `potionsmaster:calcinated_${potion.id}_oresight_powder`)
-  })
 
 })
 

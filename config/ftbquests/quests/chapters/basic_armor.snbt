@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "08AF09FB41539B1D"
 			image: "atm:textures/questpics/basicarmor/armor_title.png"
 			rotation: 0.0d
 			width: 13.30952380952381d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2436287BDF2DFB97"
 			image: "atm:textures/questpics/basicarmor/armor_trims.png"
 			rotation: 0.0d
 			width: 9.982142857142858d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.5d
+			id: "72475B7EF961380E"
 			image: "atm:textures/questpics/basicarmor/armor_colors.png"
 			rotation: 0.0d
 			width: 9.5d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1DD760708009143D"
 			image: "atm:textures/questpics/basicarmor/armor_7.png"
 			rotation: 0.0d
 			width: 0.8059701492537313d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1A3AE340818817E0"
 			image: "atm:textures/questpics/basicarmor/armor_15.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5EBEC6CA33E8A41D"
 			image: "atm:textures/questpics/basicarmor/armor_20.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6BAB9ACD4890D6A5"
 			image: "atm:textures/questpics/basicarmor/armor_24.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75C954CD7523FBF7"
 			image: "atm:textures/questpics/basicarmor/armor_32.png"
 			rotation: 0.0d
 			width: 1.4029850746268657d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 1.0d
+			id: "76751E60E16C54CD"
 			image: "atm:textures/questpics/basicarmor/armor_40.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6D350669AF31D008"
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 1.0d
+			id: "074A52C7BF91F987"
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F830A7CA08126B1"
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 1.0d
+			id: "46F8C58531E4C5C5"
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 1.0d
+			id: "026C07D0DBECDD00"
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -123,6 +137,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7A3E0430695AFDD8"
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -131,6 +146,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4716AD78B491B409"
 			image: "atm:textures/questpics/basicarmor/armor_11.png"
 			rotation: 0.0d
 			width: 1.3880597014925373d
@@ -139,6 +155,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1C3B3BB1B11D0554"
 			image: "minecraft:textures/gui/sprites/hud/armor_full.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -147,6 +164,7 @@
 		}
 		{
 			height: 3.0d
+			id: "7034E76E0DF24FA1"
 			image: "atm:textures/questpics/basicarmor/armor_redstone.png"
 			rotation: 0.0d
 			width: 1.859621451104101d
@@ -155,6 +173,7 @@
 		}
 		{
 			height: 3.0d
+			id: "5B10BA627DD4E99E"
 			image: "atm:textures/questpics/basicarmor/armor_bolt.png"
 			rotation: 0.0d
 			width: 1.9309791332263242d
@@ -163,6 +182,7 @@
 		}
 		{
 			height: 3.0d
+			id: "39F8BA30C6165C34"
 			image: "atm:textures/questpics/basicarmor/armor_dune.png"
 			rotation: 0.0d
 			width: 1.7999999999999998d
@@ -171,6 +191,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4BDC78AA224F294C"
 			image: "atm:textures/questpics/basicarmor/armor_redstone.png"
 			rotation: 0.0d
 			width: 1.859621451104101d
@@ -179,6 +200,7 @@
 		}
 		{
 			height: 3.0d
+			id: "558F9392FAFE8D16"
 			image: "atm:textures/questpics/basicarmor/armor_copper.png"
 			rotation: 0.0d
 			width: 1.735159817351598d
@@ -187,6 +209,7 @@
 		}
 		{
 			height: 3.0d
+			id: "5E2AFF38032FB2B2"
 			image: "atm:textures/questpics/basicarmor/armor_emerald.png"
 			rotation: 0.0d
 			width: 1.8205928237129485d
@@ -195,6 +218,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2EDB5E432D5086A0"
 			image: "atm:textures/questpics/basicarmor/armor_blue.png"
 			rotation: 0.0d
 			width: 1.7999999999999998d
@@ -203,6 +227,7 @@
 		}
 		{
 			height: 3.0d
+			id: "25A39FB491B32DDB"
 			image: "atm:textures/questpics/basicarmor/armor_unobtainium.png"
 			rotation: 0.0d
 			width: 1.828125d
@@ -211,6 +236,7 @@
 		}
 		{
 			height: 3.0d
+			id: "548111B0CB989A79"
 			image: "atm:textures/questpics/basicarmor/armor_netherite.png"
 			rotation: 0.0d
 			width: 1.7279635258358663d
@@ -219,6 +245,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1C158DAA5B0B0C79"
 			image: "atm:textures/questpics/basicarmor/armor_quartz.png"
 			rotation: 0.0d
 			width: 1.8177570093457944d
@@ -227,6 +254,7 @@
 		}
 		{
 			height: 3.0d
+			id: "7B89E23455033797"
 			image: "atm:textures/questpics/basicarmor/armor_regalium.png"
 			rotation: 0.0d
 			width: 1.9340836012861735d
@@ -234,7 +262,7 @@
 			y: -0.5d
 		}
 	]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{

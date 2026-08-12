@@ -6,7 +6,7 @@
 
 [discord]
 	#Enable Discord Rich Prescence
-	discord = true
+	discord = false
 
 [packversionmin]
 	#Pack Minor Version : X

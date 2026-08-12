@@ -9,8 +9,9 @@
 	id: "5B00676D79306EA2"
 	images: [
 		{
-			corner: true
+			corner: 1b
 			height: 5.0d
+			id: "0AB9BDDAAFDE8DC2"
 			image: "atm:textures/logo.png"
 			rotation: 8.0d
 			width: 5.0d
@@ -18,9 +19,9 @@
 			y: -4.5d
 		}
 		{
-			click: "https://discord.gg/3paFjuRfz9"
+			click_action: "open_uri:https://discord.gg/3paFjuRfz9"
 			height: 1.0d
-			hover: ["Join the Discord!"]
+			id: "1F404E52F9EE0762"
 			image: "ftbchunks:textures/waypoint_default.png"
 			rotation: 180.0d
 			width: 1.0d

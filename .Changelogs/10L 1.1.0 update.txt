@@ -1,0 +1,143 @@
+NeoForge 21.1.247
+
+Maintenance update 1.1.0
+
+Changes, Additions, and Fixes
+- Relics has been updated and several relics were re-worked by the dev, and some removed. This is your only warning that some relics will be lost.
+
+Quests updated
+- HNN quest, new Data Center multiblock
+- Apotheosis quest updated to reflect changes in Apotheosis.
+- Relics quest updated to reflect changes in Relics.
+- minor misc fixes, like missing icons or items.
+
+Shaders 
+- Complementary Shaders - Unbound r.5.6.1 > r.5.8.1
+- Complementary Shaders - Reimagined r.5.6.1 > r.5.8.1
+
+Mods Updated
+- AdvancedAE-1.6.12-1.21.1
+- ae2jeiintegration-1.2.1
+- ae2wtlib-19.5.1
+- aeinfinitybooster-neoforge-1.21.1-1.0.0.58
+- alltheleaks-1.1.11+1.21.1-neoforge
+- allthemodium-3.0.1_mc_1.21.1
+- alltheores-3.2.0_neoforge_1.21.1
+- allthetweaks-1.21.1-2.9.4
+- allthewizardgear-1.21.1-1.2.0
+- almostunified-neoforge-1.21.1-1.4.2
+- Apotheosis-1.21.1-8.7.0
+- ApothicAttributes-1.21.1-2.10.1
+- ApothicEnchanting-1.21.1-1.6.0
+- ApothicSpawners-1.21.1-1.4.0
+- appleskin-neoforge-mc1.21-3.0.9
+- AppliedFlux-1.21-2.1.5-neoforge
+- Aquaculture-1.21.1-2.7.21
+- architectury-13.0.11-neoforge
+- artifacts-neoforge-13.2.1
+- balm-neoforge-1.21.1-21.0.64
+- baubley-heart-canisters-1.21.1-1.4.1
+- bookshelf-neoforge-1.21.1-21.1.81
+- bwncr-neoforge-1.21.1-3.20.4
+- CodeChickenLib-1.21.1-4.6.1.529
+- ConstructionSticks-1.21.1-1.4.2
+- cookingforblockheads-neoforge-1.21.1-21.1.24
+- crafting_on_a_stick-1.21.0.6
+- craftingtweaks-neoforge-1.21.1-21.1.10
+- CrashAssistant-neoforge-1.20.6-1.21.4-1.11.11
+- croptopia-neoforge-1.21.1-4.2.4
+- crystalix-3.0.0
+- Cucumber-1.21.1-8.0.16
+- cupboard-1.21.1-4.0
+- darkmodeeverywhere-neoforge-1.21.1-1.4.0
+- defaultoptions-neoforge-1.21.1-21.1.8
+- easy-villagers-neoforge-1.21.1-1.1.42
+- enchdesc-neoforge-1.21.1-21.1.10
+- epitaphs-2.0.3_neoforge_1.21.1
+- EuphoriaPatcher-1.9.3-r5.8.1-neoforge
+- ExplorersCompass-1.21.1-3.4.0-neoforge
+- ExtendedAE-1.21-2.2.35-neoforge
+- ExtendedCrafting-1.21.1-7.0.8
+- ExtremeSoundMuffler-3.56_NeoForge-1.21
+- FarmersDelight-1.21.1-1.3.2
+- farmingforblockheads-neoforge-1.21.1-21.1.13
+- farsight-1.21.1-5.1
+- FastSuite-1.21.1-6.0.7
+- ferritecore-7.0.3-neoforge
+- ftb-chunks-neoforge-2101.1.21
+- ftb-essentials-neoforge-2101.1.10
+- ftb-filter-system-neoforge-21.1.4
+- ftb-library-neoforge-2101.1.35
+- ftb-quests-neoforge-2101.1.30
+- ftb-ranks-neoforge-2101.1.4
+- ftb-teams-neoforge-2101.1.10
+- ftb-ultimine-neoforge-2101.1.15
+- ftb-xmod-compat-neoforge-21.1.10
+- ftbquestslangsplitter-1.0.6
+- functionalstorage-1.21.1-1.5.8
+- fusion-1.3.12-neoforge-mc1.21.1
+- geckolib-neoforge-1.21.1-4.9.2
+- GeOre-1.21.1-6.2.3
+- guideme-21.1.17
+- HellishTrials-neoforge-1.0.5
+- HostileNeuralNetworks-1.21.1-6.5.1
+- ImmediatelyFast-NeoForge-1.6.11+1.21.1
+- industrialforegoing-1.21-3.6.39
+- inventoryessentials-neoforge-1.21.1-21.1.17
+- iris-neoforge-1.8.14-beta.1+mc1.21.1
+- irons_jewelry-1.21.1-2.0.2
+- irons_lib-1.21.1-2.1.0
+- irons_spellbooks-1.21.1-3.16.2
+- Jade-1.21.1-NeoForge-15.10.6
+- jearchaeology-1.21.1-1.2.0
+- jei-1.21.1-neoforge-19.44.0.401
+- justenoughbreeding-neoforge-1.21.1-3.2.1
+- JustEnoughMekanismMultiblocks-1.21.1-7.16
+- JustEnoughProfessions-neoforge-1.21.1-4.0.5
+- keybindbundles-1.4.0
+- KeybindsPurger-1.4.0-neoforge-1.21.1
+- kotlinforforge-5.12.0-all
+- kubejs-neoforge-2101.7.2-build.368
+- kubejstweaks-1.0.6
+- lootr-neoforge-1.21.1-1.11.38.123
+- mcjtylib-1.21-9.0.21
+- megacells-4.11.0
+- Mekanism-1.21.1-10.7.19.85
+- MekanismGenerators-1.21.1-10.7.19.85
+- MekanismTools-1.21.1-10.7.19.85
+- modernfix-neoforge-5.27.20+mc1.21.1
+- modonomicon-1.21.1-neoforge-1.120.4
+- modular-routers-13.2.7+mc1.21.1
+- NaturesCompass-1.21.1-3.4.0-neoforge
+- occultism-1.21.1-neoforge-1.224.2
+- OctoLib-NEOFORGE-0.6.2+1.21
+- Patchouli-1.21.1-93-NEOFORGE
+- Placebo-1.21.1-9.9.2
+- potionsmaster-21.1.113-1.0.1
+- Powah-6.2.10
+- pylons-1.21.1-5.4.2
+- rechiseled-1.2.5-neoforge-mc1.21
+- relics-1.21.1-0.12.8
+- reliquified_artifacts-1.21.1-1.0.7
+- repeatable_trial_vaults-neoforge-1.21-1.0.3
+- repurposed_structures-7.5.21+1.21.1-neoforge
+- rftoolsbase-1.21-6.0.11
+- rftoolsbuilder-1.21-7.0.5
+- rftoolsutility-1.21-7.0.12
+- servercore-neoforge-1.5.19+1.21.1
+- SimpleBackups-1.21-4.0.30
+- smithingtemplateviewer-1.0.4
+- sodium-neoforge-0.8.13-beta.2+mc1.21.1
+- sophisticatedbackpacks-1.21.1-3.25.76.2067
+- sophisticatedcore-1.21.1-1.4.85.2251
+- sophisticatedstorage-1.21.1-1.5.85.2071
+- sophisticatedstorageinmotion-1.21.1-0.10.33.324
+- supermartijn642corelib-1.1.24-neoforge-mc1.21
+- titanium-1.21-4.0.45
+- ToolBelt-1.21.1-2.2.10
+- utilitarian-1.21.1-0.19.2
+- waystones-neoforge-1.21.1-21.1.40
+- wits-neoforge-1.3.1
+
+NeoForge Version is 21.1.247
+ALWAYS REMEMBER TO BACKUP BEFORE UPDATING

@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "0A3EC2DFEA28C24E"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 3.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 3.0d
+			id: "221EDBA2859502F3"
 			image: "ftbquests:tasks/input_only"
 			rotation: 0.0d
 			width: 3.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 3.0d
+			id: "3BC709AE4332A55A"
 			image: "ftbquests:block/barrier_open"
 			rotation: 0.0d
 			width: 3.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 3.0d
+			id: "21FC65B223689DEC"
 			image: "ftbquests:block/barrier_open"
 			rotation: 45.0d
 			width: 3.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3CDB95224AE7FE0D"
 			image: "mekanism:item/hazmat_mask"
 			rotation: 0.0d
 			width: 1.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 1.0d
+			id: "69D490A895C66700"
 			image: "mekanism:item/hazmat_gown"
 			rotation: 0.0d
 			width: 1.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 1.0d
+			id: "29FC9A4831B891DF"
 			image: "mekanism:item/hazmat_pants"
 			rotation: 0.0d
 			width: 1.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 1.0d
+			id: "29EEAB0753A44E64"
 			image: "mekanism:item/hazmat_boots"
 			rotation: 0.0d
 			width: 1.0d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5DDB2921C2212172"
 			image: "alltheores:item/fluorite"
 			rotation: 0.0d
 			width: 1.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 1.0d
+			id: "01B020850656F526"
 			image: "mekanism:item/yellow_cake_uranium"
 			rotation: 0.0d
 			width: 1.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 11.0d
+			id: "097C5A113D8586B4"
 			image: "atm:textures/questpics/mek/fusion_cutout.png"
 			rotation: 0.0d
 			width: 10.627118644067796d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 12.0d
+			id: "236E804D44B2A096"
 			image: "atm:textures/questpics/mek/turbine_cutout.png"
 			rotation: 0.0d
 			width: 10.536144578313253d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 10.0d
+			id: "240C268D054D36E9"
 			image: "atm:textures/questpics/mek/fission_cutout.png"
 			rotation: 0.0d
 			width: 9.661016949152541d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 10.0d
+			id: "4C2CC0C1C06BA5AF"
 			image: "atm:textures/questpics/mek/sps_cutout.png"
 			rotation: 0.0d
 			width: 12.687687687687689d
@@ -124,6 +138,7 @@
 		{
 			alpha: 150
 			height: 1.5d
+			id: "6CA7016284FE9757"
 			image: "ae2:block/controller_column_lights"
 			rotation: 90.0d
 			width: 1.5d
@@ -132,6 +147,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1BB526B7FB0CDB3A"
 			image: "mob_grinding_utils:block/fan_front"
 			rotation: -45.0d
 			width: 1.0d
@@ -140,6 +156,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1C86F95279CB3DD9"
 			image: "mob_grinding_utils:block/fan_front"
 			rotation: -45.0d
 			width: 1.0d
@@ -148,7 +165,7 @@
 		}
 		{
 			height: 0.3d
-			hover: ["{atm10.quest.ae2.img.star}"]
+			id: "6878EC93847476AB"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -157,6 +174,7 @@
 		}
 		{
 			height: 0.3d
+			id: "7FF4701BA8A4F6DB"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d

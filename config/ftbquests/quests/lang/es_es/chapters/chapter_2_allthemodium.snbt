@@ -20,14 +20,12 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3Lingote de Vibranio&r"
-	quest.151D836C7B0E6FAF.title: "&3Escudo de Vibranio"
 	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lLa Otra&r ha recibido muchos cambios a lo largo de los años, pero sigue siendo el mismo lugar para buscar aventuras!\\n\\nHay docenas de biomas nuevos, bloques, y por supuesto Estructuras! \\n\\nLas estructuras son: Aldea Piglin, Piramide Antigua, y la Mazmorra. Cada una de estas estructuras contienen muchisimo loot junto con sus pecualirades que las hacen unicas! \\n\\nTambien puedes ir a minar &3Vibranio&r para conseguirlo de forma sencilla (junto a otros minerales!) o tambien puedes buscar en las estructuras para encontrarlo más facil! \\n\\nNo puedes colocar mineros automaticos ni quarry's para minar o destruir la dimension para sacar todos esos minerales en &b&lLa Otra&r, nada de trampas aqui."]
 	quest.15FEA03A2CDBA33B.title: "&l&bLa Otra&r"
 	quest.19E356E67EF17E4A.quest_desc: ["Solo la mejor herramienta de toda la historia! Como una navaja suiza pero mejor! \\n\\nEl Nivel más alto para minar, corta los arboles como si de mantequilla se tratara, puede crear caminos, y por supuesto... pega unos golpes cual camion!"]
 	quest.19E356E67EF17E4A.title: "&3Paxel&r de &5Aleación &rde &6Allthemodium"
 	quest.1A05C605A52A4218.quest_desc: ["&5Unobtainio&r combinado con &6Allthemodium&r!"]
 	quest.1A05C605A52A4218.title: "Lingote de Aleación de &5Unobtainio&r - &6Allthemodium&r"
-	quest.1F6C8117F3CED939.title: "&6Arco de AllTheModium"
 	quest.201EE3566D4D3123.quest_desc: [
 		"Para minar el &6Allthemodium&r necesitas de un pico de nivel de &5Netherita&r o mayor! \\n\\nUna vez encontrado este mineral (primero, te recomiendo minarlo con un pico con fortuna, o extraerlo con toque de seda y duplicarlo con Occultism o Mekanism, cualquier ruta es aceptada) de aqui, tendras unas pocas opciones que hacer con este nuevo material. \\n\\nPersonalmente recomiendo crear la Plataforma de Teletransporte con &6Pepitas&r! Puedes usar esta plataforma para viajar a la &7&lDimensión Minera&r para encontrar más &6Allthemodium&r o &b&lLa Otra&r para buscar más aventuras. \\n\\nDepues de esto, te recomiendo buscar &3Vibranio&r y mejorar nuestras herramientas. El resto queda a ti!"
 		"{image:atm:textures/questpics/allthemodium/all_1.png width:100 height:100 align:center}"
@@ -60,7 +58,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5Molde de Herreria de Unobtainio"
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lVanilla&r no podria ser más divertido sin los Mazos! Y por supuesto que hay una mejora de &6Allthemodium&r para estos! \\n\\nPara mejorar nuestro mazo necesitaremos de un &6Bloque de AllTheModium&r para mejorarlo a un &6Mazo de AllTheModium&r. \\n\\nTiene más daño base, más daño por caida, y los mismos encantamientos!"]
 	quest.44D5EDB8711EC7A0.title: "&6Mazo de AllTheModium"
-	quest.47F734CDD5793F26.title: "&5Ballesta de Unobtainio"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"Este material no se encuentra en &5&lEl Más Allá&r. \\n\\nPuedes encontrar un poco de &5Mineral de Unobtainio&r en el bioma de Las Tierras Altas en el End (es rara su aparicion). Y usualmente, es en donde aparecen las Ciudades del End! \\n\\nNecestiras de un pico de &3Vibranio&r (o del mismo Nivel) para minarlo. \\n\\nYo quiero suponer que sabes lo que sigue despues de adquirir nuevos minerales no?"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"

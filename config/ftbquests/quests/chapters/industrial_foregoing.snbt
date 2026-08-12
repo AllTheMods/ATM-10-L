@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "1D6BAFE0B740F848"
 			image: "industrialforegoing:block/reactor_front_mycelial"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0A803195CC9CD1A8"
 			image: "industrialforegoing:block/generators/generator_front_crimed"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "08343B5943D7464F"
 			image: "industrialforegoing:block/generators/generator_front_culinary"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0BEE491F35A8E036"
 			image: "industrialforegoing:block/generators/generator_front_death"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "04BE379828F8A4E9"
 			image: "industrialforegoing:block/generators/generator_front_disenchantment"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5466B7D080F68CC6"
 			image: "industrialforegoing:block/generators/generator_front_ender"
 			rotation: 0.0d
 			width: 1.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "065BF531334AA50C"
 			image: "industrialforegoing:block/generators/generator_front_explosive"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "386F6D80F2A81C6A"
 			image: "industrialforegoing:block/generators/generator_front_frosty"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4885DE8FEBD15784"
 			image: "industrialforegoing:block/generators/generator_front_furnace"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2259B9456068E9D6"
 			image: "industrialforegoing:block/generators/generator_front_halitosis"
 			rotation: 0.0d
 			width: 1.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "088E503F93FDE6A2"
 			image: "industrialforegoing:block/generators/generator_front_magmatic"
 			rotation: 0.0d
 			width: 1.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "46715264F813D744"
 			image: "industrialforegoing:block/generators/generator_front_meatallurgic"
 			rotation: 0.0d
 			width: 1.0d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4BBB8AB4598DF8F6"
 			image: "industrialforegoing:block/generators/generator_front_netherstar"
 			rotation: 0.0d
 			width: 1.0d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "080DC1C6AC8D5228"
 			image: "industrialforegoing:block/generators/generator_front_pink"
 			rotation: 0.0d
 			width: 1.0d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5A155AE723AB3C25"
 			image: "industrialforegoing:block/generators/generator_front_potion"
 			rotation: 0.0d
 			width: 1.0d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3F07BA63F4CB6A6F"
 			image: "industrialforegoing:block/generators/generator_front_rocket"
 			rotation: 0.0d
 			width: 1.0d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 1.0d
+			id: "63D7492FE42D21ED"
 			image: "industrialforegoing:block/generators/generator_front_slimey"
 			rotation: 0.0d
 			width: 1.0d
@@ -145,9 +162,9 @@
 			y: 14.5d
 		}
 		{
-			click: "#0EC2053B191C55C6"
+			click_action: "open_quest:0EC2053B191C55C6"
 			height: 1.0d
-			hover: ["Fluid Extractor"]
+			id: "3B878B947F1842E7"
 			image: "industrialforegoing:block/tree_fluid_extractor_back"
 			rotation: 0.0d
 			width: 1.0d
@@ -155,9 +172,9 @@
 			y: 2.910034013605461d
 		}
 		{
-			click: "#294C729B9EBD7A3C"
+			click_action: "open_quest:294C729B9EBD7A3C"
 			height: 1.0d
-			hover: ["Block Placer"]
+			id: "32BC32F1529704D6"
 			image: "industrialforegoing:block/block_placer_back"
 			rotation: 0.0d
 			width: 1.0d
@@ -166,6 +183,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6200D1FBAF866ECE"
 			image: "minecraft:block/acacia_log"
 			rotation: 0.0d
 			width: 1.0d
@@ -173,9 +191,9 @@
 			y: 2.909523809523833d
 		}
 		{
-			click: "#0EC2053B191C55C6"
+			click_action: "open_quest:0EC2053B191C55C6"
 			height: 1.0d
-			hover: ["Fluid Extractor"]
+			id: "29601E3893D371AA"
 			image: "industrialforegoing:block/tree_fluid_extractor_back"
 			rotation: 0.0d
 			width: 1.0d
@@ -183,9 +201,9 @@
 			y: 3.828401360544234d
 		}
 		{
-			click: "#0EC2053B191C55C6"
+			click_action: "open_quest:0EC2053B191C55C6"
 			height: 1.0d
-			hover: ["Fluid Extractor"]
+			id: "5CFB47A449F0AF4B"
 			image: "industrialforegoing:block/tree_fluid_extractor_back"
 			rotation: 0.0d
 			width: 1.0d
@@ -193,9 +211,9 @@
 			y: 2.910034013605461d
 		}
 		{
-			click: "#6FF04DD735346BED"
+			click_action: "open_quest:6FF04DD735346BED"
 			height: 1.0d
-			hover: ["Latex Processing Unit"]
+			id: "67406908174787FD"
 			image: "industrialforegoing:block/latex_processing_unit_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -203,15 +221,8 @@
 			y: 2.9013605442176953d
 		}
 		{
-			height: 1.0d
-			image: "jei:textures/jei/atlas/gui/icons/arrow_next.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.130612244897911d
-			y: 2.8896258503401455d
-		}
-		{
 			height: 7.0d
+			id: "612F9D201445C439"
 			image: "atm:textures/questpics/industrialforegoing/mycelial_reactor.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -220,6 +231,7 @@
 		}
 		{
 			height: 7.0d
+			id: "24A6392CB88C3617"
 			image: "atm:textures/questpics/industrialforegoing/ether_gas_setup.png"
 			order: 10
 			rotation: 0.0d
@@ -229,6 +241,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5F72A4436278FA4B"
 			image: "minecraft:block/furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -236,15 +249,8 @@
 			y: 2.8896258503401455d
 		}
 		{
-			height: 1.0d
-			image: "jei:textures/jei/atlas/gui/icons/arrow_next.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 4.028571428571368d
-			y: 2.8896258503401455d
-		}
-		{
 			height: 0.3d
+			id: "1438F013FC791567"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -253,6 +259,7 @@
 		}
 		{
 			height: 2.5d
+			id: "130FBEE0C27378E6"
 			image: "atm:textures/questpics/industrialforegoing/industrial_foregoing_title.png"
 			rotation: 0.0d
 			width: 24.0d
@@ -261,6 +268,7 @@
 		}
 		{
 			height: 0.3d
+			id: "036A5F83D2E24831"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d

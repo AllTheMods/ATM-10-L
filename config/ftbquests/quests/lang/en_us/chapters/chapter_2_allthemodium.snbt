@@ -20,15 +20,12 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3Vibranium Ingot&r"
-	quest.151D836C7B0E6FAF.title: "&3Vibranium Shield"
 	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lThe Other&r has seen dozens of changes over the years but always it has been a realm for adventures! \\n\\nThere's dozens of new biomes, blocks, and of course structures! \\n\\nThe Structures are: Piglin Village, Ancient Pyramid, and Dungeon. All containing amazing loot with some things being unique to their structure! \\n\\nYou can also mine for &3Vibranium&r (and other ores!) or find it and better in the structures! \\n\\nYou can't set up Quarries or many blocks in &b&lThe Other&r though, no cheesing anything here."]
 	quest.15FEA03A2CDBA33B.title: "&l&bThe Other&r"
 	quest.19E356E67EF17E4A.quest_desc: ["Only the greatest Tool in history! Like a swiss army knife but better! \\n\\nHighest Mining Tier, chops down Trees like butter, makes pathways, and of course hits a lot to be hit by!"]
 	quest.19E356E67EF17E4A.title: "&6Allthemodium &5Alloy &3Paxel"
 	quest.1A05C605A52A4218.quest_desc: ["&5Unobtainium&r combined with &6Allthemodium&r!"]
-	quest.1A05C605A52A4218.quest_subtitle: ""
 	quest.1A05C605A52A4218.title: "&5Unobtainium&r - &6Allthemodium&r Alloy Ingot"
-	quest.1F6C8117F3CED939.title: "&6Allthemodium Bow"
 	quest.201EE3566D4D3123.quest_desc: [
 		"To mine &6Allthemodium&r you'll need a Pickaxe that is &5Netherite&r Tier or higher! \\n\\nOnce you finally get the Ore (first I recommend processing it either with Fortune, Occultism, or Mekanism to get more) then you can get a few choices of what to do with it. \\n\\nI recommend making 2 Teleport Pads with the &6Nuggets&r! You can use those to get to the &7&lMining Dimension&r to find more &6Allthemodium&r or &b&lThe Other&r to find other adventures. \\n\\nAfter that I recommend upgrading your Pickaxe so you can Mine &3Vibranium&r. The rest is all up to you!"
 		"{image:atm:textures/questpics/allthemodium/all_1.png width:100 height:100 align:center}"
@@ -48,7 +45,6 @@
 	quest.2C4299D33D419AA0.quest_desc: ["Place the Teleport Pad in the &2&lOverworld&r to go to the &7&lMining Dimension&r."]
 	quest.2C4299D33D419AA0.title: "&2&lOverworld"
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3Vibranium&r combined with &5Unobtainium&r!"]
-	quest.2CF6EA138B53CE1B.quest_subtitle: ""
 	quest.2CF6EA138B53CE1B.title: "&5Unobtainium&r - &3Vibranium&r Alloy Ingot"
 	quest.2D8026E10FBA7A72.quest_desc: ["A very fast pickaxe."]
 	quest.2D8026E10FBA7A72.title: "&6Allthemodium &5Alloy &3Pick"
@@ -61,7 +57,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5Unobtainium Smithing Template"
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lVanilla&r couldn't all the fun with Maces! So of course there is an &6Allthemodium&r upgrade to them! \\n\\nUpgrade a Mace with an &6Allthemodium Block&r to get the &6Allthemodium Mace&r. \\n\\nIt does more base damage, more falling damage, and same Enchantments!"]
 	quest.44D5EDB8711EC7A0.title: "&6Allthemodium Mace"
-	quest.47F734CDD5793F26.title: "&5Unobtainium Crossbow"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"No it isn't found in &5&lThe Beyond&r. \\n\\nYou can find &5Unobtainium Ore&r very rarely in End Highlands Biomes. Those are usually where End Cities spawn as well! \\n\\nYou'll need a &3Vibranium Pickaxe&r (or same Tier) to Mine the Ore. \\n\\nDo I need to still tell you to Ore process it?"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"
@@ -81,7 +76,6 @@
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["Yes it can make pathways don't worry!"]
 	quest.5B46B5BF4ADB2BE9.title: "&6Allthemodium &5Alloy &3Shovel"
 	quest.5BA986D7928BF09F.quest_desc: ["The Piglich is a Boss added by &6&lAllthemodium&r. \\n\\nHas he 1000 Hearts and currently has no attacks but trust me when he does they will be devastating! \\n\\nWhen killed he'll drop his Heart which will be needed for Alloys and the ATM Star! \\n\\n(Look into ways of farming them like with HNN or EnderIO!)"]
-	quest.5BA986D7928BF09F.quest_subtitle: ""
 	quest.5BA986D7928BF09F.title: "Piglich Boss"
 	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r combined with &6Allthemodium&r!"]
 	quest.66039B738CF0718A.title: "&3Vibranium&r - &6Allthemodium&r Alloy Ingot"
@@ -104,8 +98,6 @@
 		"To combine &3Vibranium&r, &5Unobtainium&r, and &6Allthemodium&r we'll need to venture into &l&cPowah&r! \\n\\nPlace the Energizing Orb down then put Energizing Rods facing it. The Energizing Rods need to be placed on a Power Source and will send Energy into the Orb. The amount each holds and sends is determined by the Tier. \\n\\nPlace the Ingots, 2 Piglich Hearts, and a Compressed Block of Nitro Crystals X1 into the Orb (order doesn't matter). Then once 1 Billion FE is put into the Orb through the Rods it'll be ready!\\n"
 		"{ \"text\": \"POWAH QUESTLINE\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2A6EBEEBAB882679\" } }"
 	]
-	quest.7B3613C01F0B1373.quest_subtitle: ""
-	quest.7B3613C01F0B1373.title: ""
 	quest.7DE2154159D273C3.quest_desc: [
 		"Direct upgrade to &6Allthemodium&r."
 		"{image:atm:textures/questpics/allthemodium/all_armor_vib.png width:100 height:175 align:center}"

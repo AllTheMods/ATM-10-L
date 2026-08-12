@@ -1,4 +1,5 @@
 {
+	image.6878EC93847476AB.title: "{atm10.quest.ae2.img.star}"
 	quest.00EFC7B327E79076.quest_desc: ["After zapping away trillions of power in the SPS, we can finally create &dAntimatter Pellets&r.\\n\\nRun the Antimatter Gas you get from the SPS into a Chemical Crystallizer and you'll get 1 Antimatter Pellet for every 1,000mb you make."]
 	quest.0152C49AB74B9D32.quest_desc: [
 		"You might have heard people talk about how the &cFusion Reactor&r is the best power source in the pack. Well, they might be right\\n\\nOnce activated, the Reactor can push out up to 80MRF/t with the right setup. It can also be cooled with water to produce steam, which can go into an &9Industrial Turbine&r to make even more power.\\n\\nTo build the Fusion Reactor, we need to follow a simple pattern. Each face will look like this:\\n"

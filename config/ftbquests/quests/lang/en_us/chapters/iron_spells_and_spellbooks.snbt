@@ -1,4 +1,17 @@
 {
+	image.001CA658BE6C0750.title: "Cryomancer"
+	image.05ED1C826ADBF278.title: "Pyromancer"
+	image.06107A71617ACF9F.title: "Necromancer"
+	image.1F8F59A90F8BC855.title: "Ancient Knight"
+	image.22C701AF51074D41.title: "Scroll Forge"
+	image.24DBA3737B6EA260.title: "The Dead King"
+	image.266D985A6732A8BF.title: "Mountain Tower"
+	image.2B722B3F46E211A8.title: "Alchemist Cauldron"
+	image.336F4754C0B0D626.title: "Pyromancer Tower"
+	image.3B9E6FF73E41737B.title: "Evoker Fort"
+	image.4875411E2E1EAA42.title: "Mangrove Hut"
+	image.4C6F0CDB93CF58E1.title: "Arcane Anvil"
+	image.6FA61734D3A05237.title: "Inscription Table"
 	quest.000C1ECD781F3F81.quest_desc: ["&2&lNature&r is made for using the Earth to our advantage by &2Poisoning&r and &2Weakening&r our enemies! Just like what Big Corporations do to the Earth itself! \\n&2&lNature's&r Focus Material is &2Poisonous Potato&r. \\n\\nThe &2Scrolls&r are &aLight Green&r with &2Dark Green&r text."]
 	quest.000C1ECD781F3F81.title: "&2&lNature"
 	quest.01119871B1D5C576.quest_desc: [

@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 4.5d
+			id: "4945699907EB9479"
 			image: "minecraft:textures/item/chest_minecart.png"
 			rotation: 0.0d
 			width: 4.5d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.75d
+			id: "6B82818976CE0641"
 			image: "atm:textures/questpics/storage/sophisticated1.png"
 			rotation: 0.0d
 			width: 5.9d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.5d
+			id: "3340FFDF404265E4"
 			image: "atm:textures/questpics/storage/sophisticated2.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 4.0d
+			id: "73EE1B00445AD74C"
 			image: "atm:textures/questpics/storage/sophisticated3.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "60D654DA88A4C20D"
 			image: "sophisticatedstorage:item/packing_tape"
 			rotation: 0.0d
 			width: 1.0d
